@@ -1,0 +1,1 @@
+# STS-AnimatorMod-Localization
