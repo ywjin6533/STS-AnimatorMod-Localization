@@ -380,7 +380,7 @@
 	},
 	"animator_Shimakaze":
 	{
-		"DESCRIPTION": "Draw !M! cards, deal !D! damage to the target enemy for each attack drawn.",
+		"DESCRIPTION": "Deal !D! damage. NL Gain !B! Block. NL Draw !M! cards. NL Shuffle 1 Dazed in your draw pile.",
 		"NAME": "Shimakaze"
 	},
 	"animator_Shinoa":
