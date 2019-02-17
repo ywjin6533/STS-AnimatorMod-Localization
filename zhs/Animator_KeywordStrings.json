@@ -25,7 +25,7 @@
 		"PROPERNAME": "渴血"
 	},
 	{
-		"DESCRIPTION": "无视目标的格挡。",
+		"DESCRIPTION": "忽略目标的格挡 ，荆棘和其他在受到伤害时触发的效果 。",
 		"NAMES": ["穿刺"],
 		"PROPERNAME": "穿刺"
 	},
