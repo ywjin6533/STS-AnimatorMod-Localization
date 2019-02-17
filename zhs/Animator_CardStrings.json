@@ -120,7 +120,7 @@
 	"animator_DolaStephanie":
 	{
 		"DESCRIPTION": "选择一张手牌 ， 从你的抽牌堆中取一张同系列的牌 。",
-		"NAME": "Stephanie",
+		"NAME": "史蒂芬妮·多拉",
 		"UPGRADE_DESCRIPTION": "固有 。 选择一张手牌 ， 从你的抽牌堆中取一张同系列的牌 。"
 	},
 	"animator_DwarfShaman":
@@ -144,7 +144,7 @@
 	{
 		"DESCRIPTION": "造成 !D! 点 伤害 。 如果这是连续的第三次 [#EFC851]攻击[] ， 消耗并获得获得 [#EFC851]炎刀·铳[] 。",
 		"EXTENDED_DESCRIPTION": ["炎刀·铳", "一个特殊的无消耗 #y能力 。"],
-		"NAME": "门左卫兽",
+		"NAME": "左右田右卫门左卫门",
 		"UPGRADE_DESCRIPTION": " 造成 !D! 点伤害。 NL 如果这是连续的第三次攻击 ， 消耗并获得获得[#EFC851]炎刀·铳+[] 。"
 	},
 	"animator_Entoma":
@@ -229,7 +229,7 @@
 	"animator_HigakiRinne":
 	{
 		"DESCRIPTION": "穿越者 。 NL 布朗运动爱好者... (触发随机效果)",
-		"NAME": "Higaki Rinne",
+		"NAME": "彼我木轮回",
 		"UPGRADE_DESCRIPTION": "穿越者 。 NL 真·布朗运动爱好者。。。(触发更多随机效果)"
 	},
 	"animator_HighElfArcher":
@@ -241,7 +241,7 @@
 	{
 		"DESCRIPTION": "在你的回合开始时获得 !M! 个金币 随机 消耗 一张抽牌堆中的牌 [#EFC851]*[] 。",
 		"EXTENDED_DESCRIPTION": ["* 注", "每场战斗最多获得100个金币。 堆叠这种状态会使金币获得上限增加。"],
-		"NAME": "Hitei"
+		"NAME": "否定姬"
 	},
 	"animator_Illya":
 	{
@@ -251,7 +251,7 @@
 	"animator_ItamiYouji":
 	{
 		"DESCRIPTION": "保留 。 对随机敌人造成 !D! 点伤害， 伤害取决于本回合打出的牌的数量。 (打出 !M! 张)",
-		"NAME": "Itami Youji"
+		"NAME": "伊丹耀司"
 	},
 	"animator_Jibril":
 	{
@@ -261,18 +261,18 @@
 	"animator_Kazuma":
 	{
 		"DESCRIPTION": "获得 !B! 点 格挡 ， 造成 !D! 点 伤害 。 NL 同调 : 抽一张牌 。",
-		"NAME": "Kazuma"
+		"NAME": "和真"
 	},
 	"animator_Konayuki":
 	{
 		"DESCRIPTION": "若至少拥有10 点 力量 ， 造成 !D! 点 伤害 , 否则获得 !M! 点 力量 。",
-		"NAME": "Konayuki"
+		"NAME": "冻空粉雪"
 	},
 	"animator_KrulTepes":
 	{
 		"DESCRIPTION": "造成 !D! 点 伤害 。 若这张牌消灭了一个精英或 boss ， 获得 [#EFC851]小血瓶[] [#EFC851]*[] 。",
 		"EXTENDED_DESCRIPTION": ["* 注", "若本场战斗中有多个精英存在 ， 只能获得一次遗物 。"],
-		"NAME": "Krul Tepes"
+		"NAME": "克鲁鲁·采佩西"
 	},
 	"animator_Kuribayashi":
 	{
@@ -294,7 +294,7 @@
 	"animator_LeleiLaLalena":
 	{
 		"DESCRIPTION": "给予一个敌人 !M! 层 易伤 ， NL 循环 !M! 张牌 。 同调 : 同时给予 !M! 层 虚弱 。",
-		"NAME": "Lelei La Lalena",
+		"NAME": "蕾莱·拉·列娜",
 		"UPGRADE_DESCRIPTION": "给予一个敌人 !M! 层 易伤， NL 循环 !M! 张牌 。 同调 : 同时给予 !M! 层 虚弱 。"
 	},
 	"animator_LizardPriest":
@@ -317,7 +317,7 @@
 	{
 		"DESCRIPTION": "造成 !D! 点 伤害 , 仅当敌人意图为攻击时可被打出 。 遗赠 : 获得 !M! 点 力量 。",
 		"EXTENDED_DESCRIPTION": ["敌人不打算攻击"],
-		"NAME": "Mitsurugi"
+		"NAME": "埃奇沃思"
 	},
 	"animator_Nanami":
 	{
@@ -328,18 +328,18 @@
 	"animator_NarberalGamma":
 	{
 		"DESCRIPTION": "生成 !M! 个闪电 充能球 。 下回合 , 获得 [B] 。 NL 穿越者 。",
-		"NAME": "Gamma Narberal",
+		"NAME": "娜贝拉尔·伽玛",
 		"UPGRADE_DESCRIPTION": "生成 !M! 个闪电 充能球 。 下回合 , 获得 [B] 。 NL 穿越者 。 同调 : 获得一个充能球栏位 。"
 	},
 	"animator_PandorasActor":
 	{
 		"DESCRIPTION": "获得 !B! 点 格挡 。 穿越者 。 NL 同调 : 额外获得 !M! 点 格挡 。",
-		"NAME": "Pandora's Actor"
+		"NAME": "潘多拉·亚克特"
 	},
 	"animator_PinaCoLada":
 	{
 		"DESCRIPTION": "每触发一次 同调 效果获得 !M! 点 格挡 。",
-		"NAME": "Piña Co Lada"
+		"NAME": "平娜·戈·兰达"
 	},
 	"animator_Priestess":
 	{
@@ -371,17 +371,17 @@
 	"animator_Shalltear":
 	{
 		"DESCRIPTION": "对所有敌人造成 !D! 点 伤害 。 NL 每有一个敌人失去 格挡 ， 治疗 !M! HP 。",
-		"NAME": "Shalltear"
+		"NAME": "夏提雅"
 	},
 	"animator_Shichika":
 	{
 		"DESCRIPTION": "获得 !B! 点 格挡和 !M! 层 荆棘 。 NL 同调 : 获得 !M! 层 [#EFC851]多层护甲[] 。",
-		"NAME": "Shichika"
+		"NAME": "鑢七花"
 	},
 	"animator_Shimakaze":
 	{
 		"DESCRIPTION": "抽 !M! 张牌 。 NL 造成 !D! 点 伤害 。 NL 获得 !B! 点 格挡 。 NL 将一张 晕眩 放入你的抽牌堆中 。",
-		"NAME": "Shimakaze"
+		"NAME": "岛风"
 	},
 	"animator_Shinoa":
 	{
@@ -460,18 +460,18 @@
 	},
 	"animator_AcuraShin":
 	{
-		"DESCRIPTION": "Deal !D! damage to ALL enemies, then Apply !M! Poison. Gain !SV! [#EFC851]Poison [#EFC851]Affinity.",
-		"EXTENDED_DESCRIPTION": ["Poison Affinity", "Every time you apply Poison, apply 1 more poison per stack."],
+		"DESCRIPTION": "对所有敌人造成 !D! 点伤害, 并给予 !M! 层毒. 获得 !SV! 层 [#EFC851]毒素亲和[] .",
+		"EXTENDED_DESCRIPTION": ["毒素亲和", "每当给予敌人毒效果时，额外给予一层毒."],
 		"NAME": "Shin"
 	},
 	"animator_Gillette":
 	{
-		"DESCRIPTION": "Deal !D! damage. Apply !M! Weak. Legacy: Stun the enemy with the most HP.",
+		"DESCRIPTION": "造成 !D! 点伤害. 给予 !M! 层虚弱. 遗赠 : 对血量最多的敌人造成眩晕效果.",
 		"NAME": "Gillette"
 	},
 	"animator_Viivi":
 	{
-		"DESCRIPTION": "Deal !D! damage !M! times. Synergy: Choose an attack in your hand and increase its damage by !SV! this combat.",
+		"DESCRIPTION": "造成 !D! 点伤害 !M! 次. 同调 : 从你的手牌中选择一张攻击牌，在本次战斗中提高其 !SV! 点伤害.",
 		"NAME": "Viivi"
 	}
 }
