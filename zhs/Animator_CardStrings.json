@@ -457,5 +457,21 @@
 		"DESCRIPTION": "从抽牌堆随机 消耗 一张 [#EFC851]攻击[] 牌 。将其伤害预存到 [#EFC851]支援[] 中。",
 		"EXTENDED_DESCRIPTION": ["支援", "回合结束时对生命值较低的敌人造成预存的伤害"],
 		"NAME": "Guren"
+	},
+	"animator_AcuraShin":
+	{
+		"DESCRIPTION": "Deal !D! damage to ALL enemies, then Apply !M! Poison. Gain !SV! [#EFC851]Poison [#EFC851]Affinity.",
+		"EXTENDED_DESCRIPTION": ["Poison Affinity", "Every time you apply Poison, apply 1 more poison per stack."],
+		"NAME": "Shin"
+	},
+	"animator_Gillette":
+	{
+		"DESCRIPTION": "Deal !D! damage. Apply !M! Weak. Legacy: Stun the enemy with the most HP.",
+		"NAME": "Gillette"
+	},
+	"animator_Viivi":
+	{
+		"DESCRIPTION": "Deal !D! damage !M! times. Synergy: Choose an attack in your hand and increase its damage by !SV! this combat.",
+		"NAME": "Viivi"
 	}
 }
