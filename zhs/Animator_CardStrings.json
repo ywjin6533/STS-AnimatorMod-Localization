@@ -471,7 +471,7 @@
 	},
 	"animator_Viivi":
 	{
-		"DESCRIPTION": "对随机敌人造成 !D! 点伤害 !M! 次 。 同调 : 对击中的敌人造成 1 层易伤。",
+		"DESCRIPTION": "对随机敌人造成 !D! 点伤害 !M! 次 。 同调 : 对击中的敌人造成 1 层 易伤 。",
 		"NAME": "Viivi"
 	}
 }
