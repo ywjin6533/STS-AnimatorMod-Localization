@@ -72,7 +72,7 @@
 	},
 	"animator_PoisonAffinityPower":
 	{
-		"DESCRIPTIONS": ["Whenever you apply #yPoison, apply an additional #b", " #yPoison."],
-		"NAME": "Poison Affinity"
+		"DESCRIPTIONS": ["每当你给予 #y毒 时, 额外给予一层 #b", " #y毒."],
+		"NAME": "毒素亲和"
 	}
 }

@@ -311,7 +311,7 @@
 	{
 		"DESCRIPTION": "造成 !D! 点 伤害 两次 。 从你的弃牌堆中随机 消耗 一张牌 。",
 		"NAME": "米迦尔",
-		"UPGRADE_DESCRIPTION": "造成 !D! 点伤害两次 。 从你的弃牌堆中选择并消耗一张牌 。"
+		"UPGRADE_DESCRIPTION": "造成 !D! 点伤害两次 。 从你的弃牌堆中选择并 消耗 一张牌 。"
 	},
 	"animator_Mitsurugi":
 	{
@@ -450,7 +450,7 @@
 	"animator_Mitsuba":
 	{
 		"DESCRIPTION": "造成 !D! 点 伤害 。 若目标生命值比你高 ， 获得 !B! 点 格挡 。",
-		"NAME": "Mitsuba"
+		"NAME": "三宫三叶"
 	},
 	"animator_Guren":
 	{
