@@ -471,7 +471,7 @@
 	},
 	"animator_Viivi":
 	{
-		"DESCRIPTION": "Deal !D! damage !M! times. Synergy: Choose an attack in your hand and increase its damage by !SV! this combat.",
+		"DESCRIPTION": "Deal !D! damage to a random Enemy !M! times. Apply 1 Vulnerable to each enemy hit.",
 		"NAME": "Viivi"
 	}
 }

@@ -46,7 +46,7 @@
 	},
 	"animator_MarkOfPoisonPower":
 	{
-		"DESCRIPTIONS": ["Whenever an #yAttack deals you damage receive #b", " #yPoison."],
+		"DESCRIPTIONS": ["Whenever you receive damage also receive #b", " #yPoison."],
 		"NAME": "Mark of Poison"
 	},
 	"animator_PinaCoLadaPower":
