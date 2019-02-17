@@ -461,7 +461,7 @@
 	"animator_AcuraShin":
 	{
 		"DESCRIPTION": "Deal !D! damage to ALL enemies, then Apply !M! Poison. Gain !SV! [#EFC851]Poison [#EFC851]Affinity.",
-		"EXTENDED_DESCRIPTION": ["Poison Affinity", "Every time you apply Poison, apply 1 more poison per stack."],
+		"EXTENDED_DESCRIPTION": ["Poison Affinity", "Every time you apply Poison, apply 1 additional Poison per stack."],
 		"NAME": "Shin"
 	},
 	"animator_Gillette":

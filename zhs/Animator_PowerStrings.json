@@ -69,5 +69,10 @@
 	{
 		"DESCRIPTIONS": ["回合结束时对血量较低的敌人造成 #b", " 点 伤害"],
 		"NAME": "支持"
+	},
+	"animator_PoisonAffinityPower":
+	{
+		"DESCRIPTIONS": ["Whenever you apply #yPoison, apply an additional #b", " #yPoison."],
+		"NAME": "Poison Affinity"
 	}
 }

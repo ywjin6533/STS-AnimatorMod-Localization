@@ -449,29 +449,29 @@
 	},
 	"animator_Mitsuba":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 若目标生命值比你高 ，获得 !B! 点 格挡 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 若目标生命值比你高 ， 获得 !B! 点 格挡 。",
 		"NAME": "Mitsuba"
 	},
 	"animator_Guren":
 	{
-		"DESCRIPTION": "从抽牌堆随机 消耗 一张 [#EFC851]攻击[] 牌 。将其伤害预存到 [#EFC851]支援[] 中。",
+		"DESCRIPTION": "从抽牌堆随机 消耗 一张 [#EFC851]攻击[] 牌 。 将其伤害预存到 [#EFC851]支援[] 中 。",
 		"EXTENDED_DESCRIPTION": ["支援", "回合结束时对生命值较低的敌人造成预存的伤害"],
 		"NAME": "Guren"
 	},
 	"animator_AcuraShin":
 	{
-		"DESCRIPTION": "对所有敌人造成 !D! 点伤害, 并给予 !M! 层毒. 获得 !SV! 层 [#EFC851]毒素亲和[] .",
-		"EXTENDED_DESCRIPTION": ["毒素亲和", "每当给予敌人毒效果时，额外给予一层毒."],
+		"DESCRIPTION": "对所有敌人造成 !D! 点 伤害 ， 并给予 !M! 层毒 。 获得 !SV! 层 [#EFC851]毒素亲和[] 。",
+		"EXTENDED_DESCRIPTION": ["毒素亲和", "每当给予敌人毒效果时 ， 额外给予一层毒 。"],
 		"NAME": "Shin"
 	},
 	"animator_Gillette":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害. 给予 !M! 层虚弱. 遗赠 : 对血量最多的敌人造成眩晕效果.",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 给予 !M! 层 虚弱 。 遗赠 : 对血量最多的敌人造成 眩晕 效果 。",
 		"NAME": "Gillette"
 	},
 	"animator_Viivi":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害 !M! 次. 同调 : 从你的手牌中选择一张攻击牌，在本次战斗中提高其 !SV! 点伤害.",
+		"DESCRIPTION": "造成 !D! 点 伤害 !M! 次 。 同调 : 从你的手牌中选择一张攻击牌 ， 在本次战斗中提高其 !SV! 点 伤害 。",
 		"NAME": "Viivi"
 	}
 }
