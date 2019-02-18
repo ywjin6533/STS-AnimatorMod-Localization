@@ -453,7 +453,7 @@
 	},
 	"animator_Wiz":
 	{
-		"DESCRIPTION": "消耗 一张牌， 从已 消耗 的牌中选择一张假如你的手牌。 使用 !M! 次后 抹除 。",
+		"DESCRIPTION": "消耗 一张牌， 从已 消耗 的牌中选择一张假如你的手牌 。 使用 !M! 次后 抹除 。",
 		"EXTENDED_DESCRIPTION": ["检索限制", "不能在被消耗牌中选另一张<维兹> 。"],
 		"NAME": "维兹"
 	},
@@ -473,5 +473,10 @@
 		"EXTENDED_DESCRIPTION": ["阿修罗丸", "特殊的0耗#y攻击牌 。"],
 		"NAME": "百夜优一郎",
 		"UPGRADE_DESCRIPTION": "造成!D!点伤害 。 NL 遗赠 : 将一张 [#EFC851]阿修罗丸+[] 放到你的弃牌堆 。"
+	},
+	"animator_Caster":
+	{
+		"DESCRIPTION": "使敌人失去 !SV! 点 力量 。 NL 遗赠 : 生成 1 个 黑暗 充能球 。 使用 !M! 次后 抹除 。",
+		"NAME": "Caster"
 	}
 }

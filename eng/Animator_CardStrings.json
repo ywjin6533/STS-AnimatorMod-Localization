@@ -473,5 +473,10 @@
 		"EXTENDED_DESCRIPTION": ["Asuramaru", "A special 0-Cost #yAttack."],
 		"NAME": "Yuuichirou",
 		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Legacy: Add [#EFC851]Asuramaru+ to your discard pile."
+	},
+	"animator_Caster":
+	{
+		"DESCRIPTION": "The enemy loses !SV! Strength. NL Synergy: [#EFC851]Channel 1 Dark. NL Purge after !M! uses.",
+		"NAME": "Caster"
 	}
 }
