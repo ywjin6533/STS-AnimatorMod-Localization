@@ -81,7 +81,7 @@
 	},
 	"animator_Cocytus":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 本回合获得 [#EFC851]吸收效果[] 。 同调 : 额外造成 !M! 点 伤害 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 本回合获得 [#EFC851]吸收效果[] 。 同调 : 本次战斗中，这张牌的伤害提高 !M! 点 。",
 		"EXTENDED_DESCRIPTION": ["吸收效果", "获得敌人失去的所有格挡 。"],
 		"NAME": "科赛特斯"
 	},
@@ -304,7 +304,7 @@
 	},
 	"animator_Megumin":
 	{
-		"DESCRIPTION": "多重进化 。 对所有敌人造成 !D! 点 伤害 。 消耗 。 NL 同调 : 伤害永久增加 !M! 点 。",
+		"DESCRIPTION": "多重进化 。 对所有敌人造成 !D! 点 伤害 。 消耗 。 NL 同调 : 在本局游戏中，永久升级这张牌 。",
 		"NAME": "惠惠"
 	},
 	"animator_Mikaela":
@@ -456,7 +456,7 @@
 	{
 		"DESCRIPTION": "从抽牌堆随机 消耗 一张 [#EFC851]攻击[] 牌 。 将其伤害预存到 [#EFC851]支援[] 中 。",
 		"EXTENDED_DESCRIPTION": ["支援", "回合结束时对生命值较低的敌人造成预存的伤害"],
-		"NAME": "Guren"
+		"NAME": "红莲"
 	},
 	"animator_AcuraShin":
 	{
