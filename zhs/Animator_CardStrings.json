@@ -9,7 +9,7 @@
 	{
 		"DESCRIPTION": "对所有敌人造成 !D! 点 伤害 ， 并给予 !M! 层 中毒 。 获得 !SV! 层 [#EFC851]毒素亲和[] 。",
 		"EXTENDED_DESCRIPTION": ["毒素亲和", "每当给予敌人毒效果时 ， 额外给予一层毒 。"],
-		"NAME": "Shin"
+		"NAME": "辛·亚裘拉"
 	},
 	"animator_AcuraTooru":
 	{
@@ -42,7 +42,7 @@
 	"animator_Ara":
 	{
 		"DESCRIPTION": "造成 !D! 点伤害 2 次 。 如果破坏敌人的 格挡 则 !M! 点 力量 。",
-		"NAME": "Ara"
+		"NAME": "爱拉"
 	},
 	"animator_Archer":
 	{
@@ -52,7 +52,7 @@
 	"animator_Asuramaru":
 	{
 		"DESCRIPTION": "造成 !D! 点伤害 。 获得 !M! 层 无实体 ， 力量 ， 敏捷 ， 人工制品 。 抹除 。",
-		"NAME": "Asuramaru"
+		"NAME": "阿朱罗丸"
 	},
 	"animator_Azekura":
 	{
@@ -78,7 +78,7 @@
 	"animator_ChlammyZell":
 	{
 		"DESCRIPTION": "造成 !M! 点 伤害 。 伤害等同于本回合你所抽到的牌的数量 。 NL (造成 !D! 点 伤害)",
-		"NAME": "Kurami"
+		"NAME": "克拉米·杰尔"
 	},
 	"animator_Chung":
 	{
@@ -449,7 +449,7 @@
 	"animator_Viivi":
 	{
 		"DESCRIPTION": "对随机敌人造成 !D! 点 伤害 !M! 次 。 对击中的敌人造成 1 层 易伤 。",
-		"NAME": "Viivi"
+		"NAME": "薇薇·荷罗派涅"
 	},
 	"animator_Wiz":
 	{
