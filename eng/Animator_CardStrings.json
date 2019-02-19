@@ -476,7 +476,7 @@
 	},
 	"animator_Caster":
 	{
-		"DESCRIPTION": "The enemy loses !SV! Strength. NL Synergy: [#EFC851]Channel 1 Dark. NL Purge after !M! uses.",
+		"DESCRIPTION": "[#EFC851]Evoke your first Orb. NL [#EFC851]Channel 1 Dark. NL Synergy: The enemy loses !M! Strength.",
 		"NAME": "Caster"
 	}
 }

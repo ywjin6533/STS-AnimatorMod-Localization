@@ -476,7 +476,7 @@
 	},
 	"animator_Caster":
 	{
-		"DESCRIPTION": "使敌人失去 !SV! 点 力量 。 NL 遗赠 : 生成 1 个 黑暗 充能球 。 使用 !M! 次后 抹除 。",
+		"DESCRIPTION": "激发 你最右侧的充能球 。 生成 1 个 黑暗 充能球 。 NL 遗赠 : 使敌人失去 !M! 点 力量 。 ",
 		"NAME": "Caster"
 	}
 }
