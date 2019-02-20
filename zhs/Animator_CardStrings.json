@@ -20,8 +20,7 @@
 	{
 		"DESCRIPTION": "每回合花费减少一点 。 在你的回合开始时添加一张 [#EFC851]形态[] 到你的手牌 。",
 		"EXTENDED_DESCRIPTION": ["形态", "恶魔形态 ， 回想形态或幽魂形态。"],
-		"NAME": "安兹·乌尔·恭",
-		"UPGRADE_DESCRIPTION": "每回合花费减少一点 。 在你的回合开始时添加一张 [#EFC851]形态+[] 到你的手牌 。"
+		"NAME": "安兹·乌尔·恭"
 	},
 	"animator_Aisha":
 	{
