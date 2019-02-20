@@ -475,7 +475,7 @@
 	},
 	"animator_Caster":
 	{
-		"DESCRIPTION": "激发 你最右侧的充能球 。 生成 1 个 黑暗 充能球 。 NL 遗赠 : 使敌人失去 !M! 点 力量 。 ",
+		"DESCRIPTION": "激发 你最右侧的充能球 。 生成 1 个 黑暗 充能球 。 NL 同调 : 使敌人失去 !M! 点 力量 。 ",
 		"NAME": "Caster"
 	}
 }
