@@ -104,9 +104,9 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "获得 [B] [B] NL ， 受到 !M! 点伤害, 每次使用这张牌都会使下次受到的伤害增加 3 点.",
+		"DESCRIPTION": "获得 [B] [B] ， 受到 !M! 点 伤害 ， 每次使用这张牌都会使下次受到的伤害增加 3 点.",
 		"NAME": "迪米乌哥斯",
-		"UPGRADE_DESCRIPTION": "获得 [B] [B] NL ， 受到 !M! 点伤害, 每次使用这张牌都会使下次受到的伤害增加 3 点."
+		"UPGRADE_DESCRIPTION": "获得 [B] [B] [B] ， 受到 !M! 点 伤害 ， 每次使用这张牌都会使下次受到的伤害增加 3 点."
 	},
 	"animator_DolaCouronne":
 	{
@@ -247,7 +247,8 @@
 	{
 		"DESCRIPTION": "穿越者 。 NL 布朗运动爱好者... (触发随机效果)",
 		"NAME": "彼我木轮回",
-		"UPGRADE_DESCRIPTION": "穿越者 。 NL 真·布朗运动爱好者。。。(触发更多随机效果)"
+		"UPGRADE_DESCRIPTION": "穿越者 。 NL 真·布朗运动爱好者。。。(触发更多随机效果)",
+		"EXTENDED_DESCRIPTION": ["发生了什么？"]
 	},
 	"animator_HighElfArcher":
 	{
@@ -381,7 +382,7 @@
 	},
 	"animator_RoryMercury":
 	{
-		"DESCRIPTION": "本回合下一 [#EFC851]攻击[] 害翻倍。",
+		"DESCRIPTION": "本回合下一 [#EFC851]攻击[] 害翻倍 。",
 		"NAME": "萝莉·麦丘利"
 	},
 	"animator_Saber":

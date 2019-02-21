@@ -106,7 +106,7 @@
 	{
 		"DESCRIPTION": "Gain [B] [B] NL Take !M! Damage, then increase this card's damage by 3 this combat.",
 		"NAME": "Demiurge",
-		"UPGRADE_DESCRIPTION": "Gain [B] [B] NL Take !M! Damage, then increase this card's damage by 3 this combat."
+		"UPGRADE_DESCRIPTION": "Gain [B] [B] [B] NL Take !M! Damage, then increase this card's damage by 3 this combat."
 	},
 	"animator_DolaCouronne":
 	{
@@ -247,7 +247,8 @@
 	{
 		"DESCRIPTION": "Shapeshifter. NL Behaves erratically...",
 		"NAME": "Higaki Rinne",
-		"UPGRADE_DESCRIPTION": "Shapeshifter. NL Behaves very erratically..."
+		"UPGRADE_DESCRIPTION": "Shapeshifter. NL Behaves very erratically...",
+		"EXTENDED_DESCRIPTION" : ["What Happened?"]
 	},
 	"animator_HighElfArcher":
 	{
