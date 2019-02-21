@@ -104,9 +104,9 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "获得 [B] [B] NL Take !M! Damage, then increase this card's damage by 3 this combat.",
+		"DESCRIPTION": "获得 [B] [B] NL ， 受到 !M! 点伤害, 每次使用这张牌都会使下次受到的伤害增加 3 点.",
 		"NAME": "迪米乌哥斯",
-		"UPGRADE_DESCRIPTION": "获得 [B] [B] [B] 下次抽到这张牌时失去 !M! 点 生命 。 同调 : 循环1张牌 。"
+		"UPGRADE_DESCRIPTION": "获得 [B] [B] NL ， 受到 !M! 点伤害, 每次使用这张牌都会使下次受到的伤害增加 3 点."
 	},
 	"animator_DolaCouronne":
 	{
