@@ -56,7 +56,7 @@
 	},
 	"animator_Azekura":
 	{
-		"DESCRIPTION": "Gain !B! Block Twice. NL Synergy: Gain !M! Dexterity.",
+		"DESCRIPTION": "Gain !B! Block Twice. NL Synergy: Gain !M! [#EFC851]Plated [#EFC851]Armor.",
 		"NAME": "Azekura"
 	},
 	"animator_Berserker":
@@ -72,7 +72,8 @@
 	},
 	"animator_ChaikaTrabant":
 	{
-		"DESCRIPTION": "Deal !D! damage. If this is the first card you play this turn, Stun the enemy. Ethereal.",
+		"DESCRIPTION": "Deal !D! damage. NL Apply 1 [#EFC851]<Debuff>[].",
+		"EXTENDED_DESCRIPTION": ["<Debuff>", "Changes on every use, alternating between #yWeak, #yStun and #yVulnerable."],
 		"NAME": "Chaika Trabant"
 	},
 	"animator_ChlammyZell":
@@ -449,7 +450,7 @@
 	},
 	"animator_Viivi":
 	{
-		"DESCRIPTION": "Deal !D! damage to a random Enemy !M! times. Apply 1 Vulnerable to each enemy hit.",
+		"DESCRIPTION": "Deal !D! damage to a random Enemy !M! times. Apply 1 Vulnerable to each different enemy hit.",
 		"NAME": "Viivi"
 	},
 	"animator_Wiz":

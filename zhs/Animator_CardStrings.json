@@ -30,7 +30,7 @@
 	},
 	"animator_Alexander":
 	{
-		"DESCRIPTION": "对随机敌人造成 !D! 点伤害 !M! 次 。 遗赠 : 获得 !SV! 点 [#EFC851]钢化[] 格挡。",
+		"DESCRIPTION": "对随机敌人造成 !D! 点伤害 !M! 次 。 遗赠 : 获得 !SV! 点 [#EFC851]钢化[] 格挡 。",
 		"NAME": "亚历山大大帝"
 	},
 	"animator_Aqua":
@@ -56,7 +56,7 @@
 	},
 	"animator_Azekura":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 2 次 。 NL 同调 : 获得 !M! 点 敏捷 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 2 次 。 NL 同调 : 获得 !M! 点 [#EFC851]钢化[] 格挡 。",
 		"NAME": "校仓必"
 	},
 	"animator_Berserker":
@@ -72,7 +72,8 @@
 	},
 	"animator_ChaikaTrabant":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 如果这张卡是本回合使用的第一张卡 ， 则 眩晕 目标 。 虚无 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 给予 !M! 层 [#EFC851]<减益>[] 。",
+		"EXTENDED_DESCRIPTION": ["<减益>", "替代在 虚弱 ， 眩晕 和 易伤 之间"],
 		"NAME": "嘉依卡·托勒庞特"
 	},
 	"animator_ChlammyZell":
