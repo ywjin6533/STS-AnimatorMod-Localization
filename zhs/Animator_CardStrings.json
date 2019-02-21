@@ -73,7 +73,7 @@
 	"animator_ChaikaTrabant":
 	{
 		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 给予 !M! 层 [#EFC851]<减益>[] 。",
-		"EXTENDED_DESCRIPTION": ["<减益>", "替代在 虚弱 ， 眩晕 和 易伤 之间"],
+		"EXTENDED_DESCRIPTION": ["<减益>", "替代在 #y虚弱 ， #y眩晕 和 #y易伤 之间"],
 		"NAME": "嘉依卡·托勒庞特"
 	},
 	"animator_ChlammyZell":
