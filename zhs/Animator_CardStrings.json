@@ -18,7 +18,8 @@
 	},
 	"animator_Ainz":
 	{
-		"DESCRIPTION": "每回合花费减少一点 。 在你的回合开始时添加一张耗能为 2 的 [#EFC851]形态[] 到你的手牌 。",
+		"DESCRIPTION": "每回合花费减少一 点 。 在你的回合开始时添加一张 [#EFC851]形态[] 到你的手牌 。",
+		"UPGRADE_DESCRIPTION" : "每回合花费减少一点 。 在你的回合开始时添加一张耗能为 2 的 [#EFC851]形态[] 到你的手牌 。",
 		"EXTENDED_DESCRIPTION": ["形态", "恶魔形态 ， 回想形态或幽魂形态。"],
 		"NAME": "安兹·乌尔·恭"
 	},
@@ -103,7 +104,7 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "获得 [B] [B] 下次抽到这张牌时失去 !M! 点 生命 。 同调 : 循环1张牌 。",
+		"DESCRIPTION": "获得 [B] [B] NL Take !M! Damage, then increase this card's damage by 3 this combat.",
 		"NAME": "迪米乌哥斯",
 		"UPGRADE_DESCRIPTION": "获得 [B] [B] [B] 下次抽到这张牌时失去 !M! 点 生命 。 同调 : 循环1张牌 。"
 	},
@@ -142,7 +143,7 @@
 	},
 	"animator_Elsword":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 同调 : 循环2张牌 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 循环 2 张牌 。",
 		"NAME": "艾索德"
 	},
 	"animator_Emonzaemon":
@@ -396,7 +397,7 @@
 	},
 	"animator_Shichika":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡和 !M! 层 荆棘 。 NL 同调 : 获得 !M! 层 [#EFC851]多层护甲[] 。",
+		"DESCRIPTION": "获得 !B! 点 格挡和 1 点 力量 。 NL 同调 : 获得 !M! 层 荆棘 。",
 		"NAME": "鑢七花"
 	},
 	"animator_Shimakaze":
