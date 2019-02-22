@@ -1,0 +1,78 @@
+
+{
+	"animator_AinzPower":
+	{
+		"DESCRIPTIONS": ["在你的回合開始時添加一張", "隨機形態卡到手牌."],
+		"NAME": "安茲·烏爾·恭"
+	},
+	"animator_ArcherPower":
+	{
+		"DESCRIPTIONS": ["在你的回合結束時對所有敵人造成", " 點傷害並造成負面效果."],
+		"NAME": "Archer"
+	},
+	"animator_DarknessPower":
+	{
+		"DESCRIPTIONS": ["每當你受傷時隨機升級", " 張牌, 手牌優先."],
+		"NAME": "拉拉蒂娜"
+	},
+	"animator_EntouJyuuPower":
+	{
+		"DESCRIPTIONS": ["每打出一張攻擊牌，增加那張牌", " 點傷害."],
+		"NAME": "炎刃·銃"
+	},
+	"animator_ShiroPower":
+	{
+		"DESCRIPTIONS": ["在你的回合開始時獲得", " 點能量."],
+		"NAME": "白"
+	},
+	"animator_EvePower":
+	{
+		"DESCRIPTIONS": ["當同調生效時對一個隨機敵人造成", " 點傷害."],
+		"NAME": "伊芙的覺醒"
+	},
+	"animator_FeridBathoryPower":
+	{
+		"DESCRIPTIONS": ["每回合兩次，當一張牌被消耗時增加", " 點力量並回復", " 點生命."],
+		"NAME": "費里德·巴特利"
+	},
+	"animator_HiteiPower":
+	{
+		"DESCRIPTIONS": ["在你的回合開始時獲得", "個金幣,從你的抽牌堆中隨機消耗", " 張牌."],
+		"NAME": "否定姫"
+	},
+	"animator_GuildGirlPower":
+	{
+		"DESCRIPTIONS": ["在你的回合開始時循環", " 張牌."],
+		"NAME": "簿記"
+	},
+	"animator_MarkOfPoisonPower":
+	{
+		"DESCRIPTIONS": ["每當攻擊 對你造成傷害時，獲得", " 層毒."],
+		"NAME": "毒標記"
+	},
+	"animator_PinaCoLadaPower":
+	{
+		"DESCRIPTIONS": ["每當同調生效時獲得", " 層格擋."],
+		"NAME": "平娜·戈·蘭達"
+	},
+	"animator_PlayerStatistics":
+	{
+		"DESCRIPTIONS": ["隱藏角色統計能力"],
+		"NAME": "角色統計"
+	},
+	"animator_RoryMercuryPower":
+	{
+		"DESCRIPTIONS": ["本回合下", "次傷害翻倍."],
+		"NAME": "蘿莉·麥丘利"
+	},
+	"animator_SupportDamagePower":
+	{
+		"DESCRIPTIONS": ["回合結束時對血量較低的敵人造成 #b", " 點 傷害"],
+		"NAME": "支持"
+	},
+	"animator_PoisonAffinityPower":
+	{
+		"DESCRIPTIONS": ["每當你給予 #y毒 時, 額外給予一層 #b", " #y毒."],
+		"NAME": "毒素親和"
+	}
+}
