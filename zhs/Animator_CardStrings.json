@@ -30,7 +30,7 @@
 	},
 	"animator_Alexander":
 	{
-		"DESCRIPTION": "对随机敌人造成 !D! 点伤害 !M! 次 。 遗赠 : 获得 !SV! 点 [#EFC851]钢化[] 格挡 。",
+		"DESCRIPTION": "对目标造成 !D! 点伤害 ，并对其余敌人造成 !SV! 点伤害 。 遗赠 : 获得 !M! 点 [#EFC851]多层格挡[] 。",
 		"NAME": "亚历山大大帝"
 	},
 	"animator_Aqua":
