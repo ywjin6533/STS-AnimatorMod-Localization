@@ -30,7 +30,7 @@
 	},
 	"animator_Alexander":
 	{
-		"DESCRIPTION": "Deal !D! damage to a random enemy !M! times. Legacy: Gain !SV! [#EFC851]Plated [#EFC851]Armor.",
+		"DESCRIPTION": "Deal !D! damage to an enemy and !SV! damage to every other enemy. Legacy: Gain !M! [#EFC851]Plated [#EFC851]Armor.",
 		"NAME": "Alexander"
 	},
 	"animator_Aqua":
