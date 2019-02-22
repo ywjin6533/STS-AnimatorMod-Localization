@@ -88,8 +88,8 @@
 	},
 	"animator_Cocytus":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 本回合获得 [#EFC851]吸收效果[] 。 同调 : 本次战斗中，这张牌的伤害提高 !M! 点 。",
-		"EXTENDED_DESCRIPTION": ["吸收效果", "获得敌人失去的所有格挡 。"],
+		"DESCRIPTION": "造成 !D! 点 伤害 。 [#EFC851]吸收效果[] 。 同调 : 本次战斗中，这张牌的伤害提高 !M! 点 。",
+		"EXTENDED_DESCRIPTION": ["吸收效果", "获得敌人在本次攻击中失去的所有格挡 。"],
 		"NAME": "科赛特斯"
 	},
 	"animator_Darkness":
