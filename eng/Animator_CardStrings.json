@@ -61,7 +61,7 @@
 	},
 	"animator_Berserker":
 	{
-		"DESCRIPTION": "Deal !D! damage, if you break the target's Block, apply Stun.",
+		"DESCRIPTION": "Deal !D! damage, if you break the target's Block, gain [B] [B] .",
 		"NAME": "Berserker"
 	},
 	"animator_Caster":

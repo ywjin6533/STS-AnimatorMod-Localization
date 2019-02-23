@@ -61,7 +61,7 @@
 	},
 	"animator_Berserker":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 , 若打破目标 格挡 则 造成一层 眩晕 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 , 若打破目标 格挡 则 造成 获得 [B] [B] 。",
 		"NAME": "Berserker"
 	},
 	"animator_Caster":
