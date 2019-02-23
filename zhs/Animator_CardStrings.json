@@ -488,8 +488,8 @@
 	},
 	"animator_Albedo":
 	{
-		"DESCRIPTION": "获得 !M! ％ [#EFC851]的抗性[] 。",
-		"EXTENDED_DESCRIPTION": ["的抗性", "对敌人攻击的伤害较小 ， 进一步堆叠更糟糕 。"],
+		"DESCRIPTION": "获得 !M! % 的 [#EFC851]抗性[] 。",
+		"EXTENDED_DESCRIPTION": ["抗性", "减少受到的伤害，效果由层数决定 。"],
 		"NAME": "Albedo"
 	}
 }
