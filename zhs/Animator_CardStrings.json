@@ -7,7 +7,7 @@
 	},
 	"animator_AcuraShin":
 	{
-		"DESCRIPTION": "对所有敌人造成 !D! 点 伤害 ， 并给予 !M! 层 中毒 。 获得 !SV! 层 [#EFC851]毒素亲和[] 。",
+		"DESCRIPTION": "对所有敌人造成 !D! 点 伤害 ， 并给予 !M! 层 中毒 。 获得 1 层 [#EFC851]毒素亲和[] 。",
 		"EXTENDED_DESCRIPTION": ["毒素亲和", "每当给予敌人毒效果时 ， 额外给予一层毒 。"],
 		"NAME": "辛·亚裘拉"
 	},
@@ -323,7 +323,7 @@
 	},
 	"animator_LizardPriest":
 	{
-		"DESCRIPTION": "使一个敌人的 格挡 值变为 !M! ， 获得 !B! 点 格挡 。 同调 : 循环 一张牌 。",
+		"DESCRIPTION": "使一个敌人的 格挡 值变为 !M! ， 获得 !B! 点 格挡 。 同调 : 抽 一张牌 。",
 		"NAME": "蜥蜴僧侣"
 	},
 	"animator_Megumin":
@@ -372,7 +372,7 @@
 	},
 	"animator_Priestess":
 	{
-		"DESCRIPTION": "预热 !M! : 获得 !SV! 层 [#EFC851]再生[] 。 NL 同调 : 获得 !SV! 点 临时生命 。",
+		"DESCRIPTION": "预热 !M! : 获得 !SV! 层 [#EFC851]再生[] 。 NL 同调 : 获得 !B! 点 临时生命 。",
 		"NAME": "女神官"
 	},
 	"animator_Rena":
