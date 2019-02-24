@@ -7,7 +7,7 @@
 	},
 	"animator_AcuraShin":
 	{
-		"DESCRIPTION": "Deal !D! damage to ALL enemies, then NL Apply !M! Poison. NL Gain !SV! [#EFC851]Poison [#EFC851]Affinity.",
+		"DESCRIPTION": "Deal !D! damage to ALL enemies, then NL Apply !M! Poison. NL Gain 1 [#EFC851]Poison [#EFC851]Affinity.",
 		"EXTENDED_DESCRIPTION": ["Poison Affinity", "Every time you apply Poison, apply 1 additional Poison per stack."],
 		"NAME": "Shin"
 	},
