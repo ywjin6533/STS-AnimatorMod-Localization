@@ -1,21 +1,21 @@
 {
 	"animator_AlphonseElric":
 	{
-		"DESCRIPTION": "获得 1 点集中。 NL 遗赠: 将一张 [#EFC851]Alphonse护甲[] 加入到你的弃牌堆 。",
-		"UPGRADE_DESCRIPTION": "获得 1 点集中。 NL 遗赠: 将一张 [#EFC851]Alphonse护甲+[] 加入到你的弃牌堆 。",
-		"NAME": "Alphonse"
+		"DESCRIPTION": "获得 1 点集中。 NL 遗赠: 将一张 [#EFC851]阿尔冯斯护甲[] 加入到你的弃牌堆 。",
+		"UPGRADE_DESCRIPTION": "获得 1 点集中。 NL 遗赠: 将一张 [#EFC851]阿尔冯斯护甲+[] 加入到你的弃牌堆 。",
+		"NAME": "阿尔冯斯"
 	},
 	"animator_AlphonseElricAlt":
 	{
 		"DESCRIPTION": "获得 !M! [#EFC851]多层护甲[] 。 同调: 获得一个 !SV! 闪电球。",
-		"NAME": "Armored Alphonse"
+		"NAME": "阿尔冯斯护甲"
 	},
 	"animator_EdwardElric":
 	{
 		"DESCRIPTION": "循环 !M! 张牌。 NL 使循环获得的牌获得一个 额外充能 ，效果由该牌种类决定。",
 		"UPGRADE_DESCRIPTION": "循环 !M! 张牌。 NL 使循环获得的牌获得一个 额外充能 。",
 		"EXTENDED_DESCRIPTION": ["额外充能", "攻击牌: 获得 1 个闪电充能球, 技能: 获得 1 个冰霜充能球, 能力: 获得 1 个黑暗充能球"],
-		"NAME": "Edward Elric"
+		"NAME": "爱德华·艾尔利克"
 	},
 	"animator_Gluttony":
 	{
@@ -44,11 +44,11 @@
 	{
 		"DESCRIPTION": "对所有敌人造成 !D! 点伤害 并赋予 !M! 层燃烧。",
 		"EXTENDED_DESCRIPTION": ["燃烧", "在你的回合开始时受到点伤害。"],
-		"NAME": "Roy Mustang"
+		"NAME": "罗伊·马斯坦"
 	},
 	"animator_MaesHughes":
 	{
 		"DESCRIPTION": "抽 2 张牌，在本回合中减少其 1 点耗能。 遗赠: 对所有敌人造成 !D! 点伤害。",
-		"NAME": "Maes Hughes"
+		"NAME": "马斯·休斯"
 	}
 }
