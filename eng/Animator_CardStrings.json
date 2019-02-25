@@ -547,5 +547,11 @@
 		"DESCRIPTION": "Deal !D! Damage to ALL enemies and apply 2 [#EFC851]Burning[]. NL Synergy: Apply !M! more [#EFC851]Burning[].",
 		"EXTENDED_DESCRIPTION": [ "Burning", "Take damage at the start of your turn. Also take 5% more Attack damage per stack." ],
 		"NAME": "Roy Mustang"
+	},
+	"animator_Urushihara":
+	{
+		"DESCRIPTION": "[#EFC851]Channel[] 1 Dark. NL Deal !D! damage to All enemies. NL [#EFC851]Lazy[].",
+		"EXTENDED_DESCRIPTION": ["Lazy", "When drawn, has a 50% chance of swapping itself with another card in your draw pile."],
+		"NAME": "Urushihara"
 	}
 }
