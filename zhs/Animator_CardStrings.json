@@ -83,7 +83,7 @@
 	},
 	"animator_ChlammyZell":
 	{
-		"DESCRIPTION": "Deal a random amount of damage to each enemy, ranging from !M! to !D!.",
+		"DESCRIPTION": "对每个敌人造成 !M! 到 !D! 点伤害 。",
 		"NAME": "克拉米·杰尔"
 	},
 	"animator_Chung":
@@ -274,7 +274,7 @@
 	},
 	"animator_ItamiYouji":
 	{
-		"DESCRIPTION": "Draw !M! Cards. Deal !D! damage for each card drawn, subtracting its cost.",
+		"DESCRIPTION": "抽 !M! 张牌. 每抽一张牌造成 !D! 点伤害, 并减少其消耗 .",
 		"NAME": "伊丹耀司"
 	},
 	"animator_Jibril":
