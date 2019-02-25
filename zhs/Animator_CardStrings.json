@@ -234,9 +234,9 @@
 	},
 	"animator_GuildGirl":
 	{
-		"DESCRIPTION": "回合开始时 ， 循环 !M! 张牌 。",
+		"DESCRIPTION": "回合开始时 ， 循环 1 张牌 。",
 		"NAME": "柜台小姐",
-		"UPGRADE_DESCRIPTION": "回合开始时 ， 循环 !M! 张牌 。"
+		"UPGRADE_DESCRIPTION": "固有 。 回合开始时 ， 循环 1 张牌 。"
 	},
 	"animator_Guren":
 	{
@@ -440,7 +440,7 @@
 	},
 	"animator_Togame":
 	{
-		"DESCRIPTION": "抽 !SV! 张牌 ， 选择并 消耗 1 张牌 。 使用 !M! 次后 抹除 。",
+		"DESCRIPTION": "抽 !SV! 张牌 。 NL 消耗 1张牌 。 NL 使用 !M! 次后 抹除 。",
 		"NAME": "咎儿"
 	},
 	"animator_TukaLunaMarceau":

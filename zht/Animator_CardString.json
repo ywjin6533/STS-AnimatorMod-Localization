@@ -127,7 +127,7 @@
 	{
 		"DESCRIPTION": "選擇一張手牌，從你的抽牌堆中取一張同系列的牌 。",
 		"NAME": "史蒂芬妮·多拉",
-		"UPGRADE_DESCRIPTION": "固有。選擇一張手牌，從抽牌堆中抽一張同系列的牌 。"
+		"UPGRADE_DESCRIPTION": "固有 。 選擇一張手牌，從抽牌堆中抽一張同系列的牌 。"
 	},
 	"animator_DwarfShaman":
 	{
@@ -229,7 +229,7 @@
 	{
 		"DESCRIPTION": "回合開始時 ， 循環 !M! 張牌 。",
 		"NAME": "櫃台小姐",
-		"UPGRADE_DESCRIPTION": "回合開始時 ， 循環 !M! 張牌 。"
+		"UPGRADE_DESCRIPTION": "固有 。 回合開始時 ， 循環 !M! 張牌 。"
 	},
 	"animator_Guren":
 	{
@@ -432,7 +432,7 @@
 	},
 	"animator_Togame":
 	{
-		"DESCRIPTION": "抽 !SV! 張牌 ， 選擇並 消耗 1 張牌 。 使用 !M! 次後 抹除 。",
+		"DESCRIPTION": "抽 !SV! 張牌 。 NL 消耗 1 張牌 。 NL 使用 !M! 次後 抹除 。",
 		"NAME": "咎兒"
 	},
 	"animator_TukaLunaMarceau":

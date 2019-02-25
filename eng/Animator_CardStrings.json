@@ -233,9 +233,9 @@
 	},
 	"animator_GuildGirl":
 	{
-		"DESCRIPTION": "At the start of each turn, Cycle !M! card.",
+		"DESCRIPTION": "At the start of each turn, Cycle 1 card.",
 		"NAME": "'Guild Girl'",
-		"UPGRADE_DESCRIPTION": "At the start of each turn, Cycle !M! cards."
+		"UPGRADE_DESCRIPTION": "Innate. At the start of each turn, Cycle 1 card."
 	},
 	"animator_Guren":
 	{
@@ -439,7 +439,7 @@
 	},
 	"animator_Togame":
 	{
-		"DESCRIPTION": "Draw !SV! cards, then you may choose and Exhaust 1 card. NL Purge after !M! uses.",
+		"DESCRIPTION": "Draw !SV! cards. NL Exhaust 1 card. NL Purge after !M! uses.",
 		"NAME": "Togame"
 	},
 	"animator_TukaLunaMarceau":
