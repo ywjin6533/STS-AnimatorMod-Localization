@@ -494,7 +494,7 @@
 	},
 	"animator_Sloth":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 本场战斗中使这张牌的伤害翻倍 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 本场战斗中使这张牌的伤害翻倍 。 同调 : 获得 !B! 点 格挡 。",
 		"NAME": "懒惰"
 	},
 	"animator_MaesHughes":
@@ -534,7 +534,7 @@
 	},
 	"animator_ElricAlphonseAlt":
 	{
-		"DESCRIPTION": "获得 !M! [#EFC851]多层护甲[] 。 获得一个 1 闪电球 。",
+		"DESCRIPTION": "获得 !M! [#EFC851]多层护甲[] 。 获得 !B! 点 格挡 。 获得一个 1 闪电球 。",
 		"NAME": "阿尔冯斯护甲"
 	},
 	"animator_Scar":
@@ -545,7 +545,7 @@
 	},
 	"animator_RoyMustang":
 	{
-		"DESCRIPTION": "对所有敌人造成 !D! 点 伤害 并赋予 !M! 层 [#EFC851]燃烧[] 。",
+		"DESCRIPTION": "对所有敌人造成 !D! 点 伤害 并赋予 2 层 [#EFC851]燃烧[] 。 遗赠 : Apply !M! more 燃烧 。",
 		"EXTENDED_DESCRIPTION": ["燃烧", "在回合开始时受到 点 伤害 。 每层使收到的伤害额外增加 5% 。"],
 		"NAME": "罗伊·马斯坦"
 	}

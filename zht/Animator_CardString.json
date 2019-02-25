@@ -1,8 +1,15 @@
+
 {
 	"animator_AcuraAkari":
 	{
 		"DESCRIPTION": "對一個敵人造成 !M! 毒之印記。同調 : 下回合多抽一張牌 。",
 		"NAME": "阿卡莉"
+	},
+	"animator_AcuraShin":
+	{
+		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 ， 並給予 !M! 層 中毒 。 獲得 !SV! 層 [#EFC851]毒素親和[] 。",
+		"EXTENDED_DESCRIPTION": ["毒素親和", "每當給予敵人毒效果時 ， 額外給予一層毒 。"],
+		"NAME": "辛·亞裘拉"
 	},
 	"animator_AcuraTooru":
 	{
@@ -38,7 +45,7 @@
 		"NAME": "艾拉"
 	},
 	"animator_Archer":
-	{ 
+	{
 		"DESCRIPTION": "在你的回合結束時 ，敵人每層的負面效果使其受到 !D! 點傷害，可被力量效果加成 。",
 		"NAME": "Archer"
 	},
@@ -78,7 +85,7 @@
 		"DESCRIPTION": "獲得 !B! 點格擋 。 NL 冷卻 !SV! : 對所有敵人造成 !D! 點 傷害 。",
 		"NAME": "澄"
 	},
-	"animator_Cocytus": 
+	"animator_Cocytus":
 	{
 		"DESCRIPTION": "造成 !D! 點 傷害 。 本回合獲得 [#EFC851]吸收裝甲[] 。 同調 : 額外造成 !M! 點 傷害 。",
 		"EXTENDED_DESCRIPTION": ["吸收裝甲", "獲得敵人損失的格擋 。"],
@@ -121,6 +128,12 @@
 		"DESCRIPTION": "選擇一張手牌，從你的抽牌堆中取一張同系列的牌 。",
 		"NAME": "史蒂芬妮·多拉",
 		"UPGRADE_DESCRIPTION": "固有。選擇一張手牌，從抽牌堆中抽一張同系列的牌 。"
+	},
+	"animator_DwarfShaman":
+	{
+		"DESCRIPTION": "造成 !D! 點傷害 。 若打破目標格擋， 抽 !M! 張未升級的牌並升級 。",
+		"NAME": "矮人薩滿",
+		"UPGRADE_DESCRIPTION": "造成 !D! 點傷害。若打破目標格擋， 抽 !M! 張牌並 升級 。"
 	},
 	"animator_Elesis":
 	{
@@ -181,6 +194,11 @@
 		"EXTENDED_DESCRIPTION": ["巴比倫的寶藏", "每當你獲得遺物時升級這張牌並獲得 ", " 個金幣 。 買的遺物不會觸發該效果 。"],
 		"NAME": "英雄王·吉爾伽美什"
 	},
+	"animator_Gillette":
+	{
+		"DESCRIPTION": "造成 !D! 點 傷害 。 給予 !M! 層 虛弱 。 遺產 : 對血量最多的敵人造成 眩暈 效果 。",
+		"NAME": "亞伯力克·基烈特"
+	},
 	"animator_GoblinChampion":
 	{
 		"DESCRIPTION": "在你的回合結束時 ， 往抽牌堆中加入1張隨機哥布林牌 。",
@@ -212,6 +230,12 @@
 		"DESCRIPTION": "回合開始時 ， 循環 !M! 張牌 。",
 		"NAME": "櫃台小姐",
 		"UPGRADE_DESCRIPTION": "回合開始時 ， 循環 !M! 張牌 。"
+	},
+	"animator_Guren":
+	{
+		"DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將其傷害預存到 [#EFC851]支援[] 中 。",
+		"EXTENDED_DESCRIPTION": ["支援", "回合結束時對生命值較低的敵人造成預存的傷害"],
+		"NAME": "紅蓮"
 	},
 	"animator_Guy":
 	{
@@ -304,6 +328,11 @@
 		"DESCRIPTION": "造成 !D! 點 傷害 兩次 。 從你的棄牌堆中隨機消耗 一張牌 。",
 		"NAME": "米迦爾",
 		"UPGRADE_DESCRIPTION": "造成 !D! 點傷害兩次 。 從你的棄牌堆中選擇並 消耗 一張牌 。"
+	},
+	"animator_Mitsuba":
+	{
+		"DESCRIPTION": "造成 !D! 點 傷害 。 若目標生命值比你高 ， 獲得 !B! 點 格擋 。",
+		"NAME": "三宮三葉"
 	},
 	"animator_Mitsurugi":
 	{
@@ -416,6 +445,11 @@
 		"DESCRIPTION": "手牌中每有一張 [#EFC851]技能牌[] ， 給予一個敵人 !M! 層 中毒 。 NL ( 給予 !SV! 層 中毒 )",
 		"NAME": "蒂尤蕾"
 	},
+	"animator_Viivi":
+	{
+		"DESCRIPTION": "對隨機敵人造成 !D! 點 傷害 !M! 次 。 對擊中的敵人造成 1 層 易傷 。",
+		"NAME": "薇薇·荷羅派涅"
+	},
 	"animator_Wiz":
 	{
 		"DESCRIPTION": "消耗 一張牌， 從已 消耗 的牌中選擇一張假如你的手牌。 使用 !M! 次後 抹除 。",
@@ -439,37 +473,72 @@
 		"NAME": "百夜優一郎",
 		"UPGRADE_DESCRIPTION": "造成!D!點傷害 。 NL 遺產 : 將一張 [#EFC851]阿修羅丸+[] 放到你的棄牌堆 。"
 	},
-	"animator_Mitsuba":
+	"animator_Biyorigo":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 若目標生命值比你高 ， 獲得 !B! 點 格擋 。",
-		"NAME": "三宮三葉"
+		"DESCRIPTION": "Every 4 Attacks played, gain !M! Strength and 1 Dexterity.",
+		"NAME": "Biyorigo"
 	},
-	"animator_Guren":
+	"animator_Albedo":
 	{
-		"DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將其傷害預存到 [#EFC851]支援[] 中 。",
-		"EXTENDED_DESCRIPTION": ["支援", "回合結束時對生命值較低的敵人造成預存的傷害"],
-		"NAME": "紅蓮"
+		"DESCRIPTION": "Gain !M! % [#EFC851]Damage [#EFC851]Resistance.",
+		"EXTENDED_DESCRIPTION": ["Damage Resistance", "Take less damage from enemy attacks, further stacks are less effective."],
+		"NAME": "Albedo"
 	},
-	"animator_AcuraShin":
+	"animator_Sloth":
 	{
-		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 ， 並給予 !M! 層 中毒 。 獲得 !SV! 層 [#EFC851]毒素親和[] 。",
-		"EXTENDED_DESCRIPTION": ["毒素親和", "每當給予敵人毒效果時 ， 額外給予一層毒 。"],
-		"NAME": "辛·亞裘拉"
+		"DESCRIPTION": "Deal !D! Damage. NL Double this card's base damage this combat. NL Synergy: Gain !B! Block.",
+		"NAME": "Sloth"
 	},
-	"animator_Gillette":
+	"animator_MaesHughes":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 給予 !M! 層 虛弱 。 遺產 : 對血量最多的敵人造成 眩暈 效果 。",
-		"NAME": "亞伯力克·基烈特"
+		"DESCRIPTION": "Draw 1 card and reduce its cost by !M! this turn. Legacy: Deal !D! Damage to ALL enemies.",
+		"NAME": "Maes Hughes"
 	},
-	"animator_Viivi":
+	"animator_ElricEdward":
 	{
-		"DESCRIPTION": "對隨機敵人造成 !D! 點 傷害 !M! 次 。 對擊中的敵人造成 1 層 易傷 。",
-		"NAME": "薇薇·荷羅派涅"
-	},	
-	"animator_DwarfShaman":
+		"DESCRIPTION": "Deal !D! damage. NL Cycle 1 card. NL Activate a [#EFC851]Bonus [#EFC851]Effect based on the card you cycled.",
+		"EXTENDED_DESCRIPTION": [ "Bonus Effect", "#yAttack: Channel 1 Lightning NL #ySkill: Channel 1 Frost NL #yPower: Channel 1 Dark" ],
+		"NAME": "Edward Elric"
+	},
+	"animator_Greed":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 若打破目標格擋， 抽 !M! 張未升級的牌並升級 。",
-		"NAME": "矮人薩滿",
-		"UPGRADE_DESCRIPTION": "造成 !D! 點傷害。若打破目標格擋， 抽 !M! 張牌並 升級 。"
+		"DESCRIPTION": "Gain !M! [#EFC851]Plated[] [#EFC851]Armor[]. NL Gain !M! Malleable. NL [#EFC851]Greed[].",
+		"EXTENDED_DESCRIPTION": ["Greed", "At the end of combat, gain Gold equal to your missing Health. Does not stack."],
+		"NAME": "Greed"
+	},
+	"animator_Envy":
+	{
+		"DESCRIPTION": "Shapeshifter. NL The first card you play each turn will Synergize.",
+		"UPGRADE_DESCRIPTION": "Innate. Shapeshifter. NL The first card you play each turn will Synergize.",
+		"NAME": "Envy"
+	},
+	"animator_Gluttony":
+	{
+		"DESCRIPTION": "Exhaust up to !M! Cards in your hand, activate a [#EFC851]Bonus [#EFC851]Effect based on each card type. Exhaust.",
+		"EXTENDED_DESCRIPTION": [ "Bonus Effect", "#yAttack: Gain 1 Strength NL #ySkill: Gain 6 Temporary HP NL #yPower: Heal 7 HP NL #yStatus: Gain 1 Energy NL #yCurse: Gain 6 Block" ],
+		"NAME": "Gluttony"
+	},
+	"animator_ElricAlphonse":
+	{
+		"DESCRIPTION": "Cooldown !SV! : NL Gain 1 Focus. NL Legacy: Add [#EFC851]Armored [#EFC851]Alphonse to your discard pile.",
+		"UPGRADE_DESCRIPTION": "Cooldown !SV! : Gain 1 Focus. NL Legacy: Add [#EFC851]Armored [#EFC851]Alphonse+ to your discard pile.",
+		"NAME": "Alphonse Elric"
+	},
+	"animator_ElricAlphonseAlt":
+	{
+		"DESCRIPTION": "Gain !M! [#EFC851]Plated [#EFC851]Armor. Channel 1 Lightning.",
+		"NAME": "Armored Alphonse"
+	},
+	"animator_Scar":
+	{
+		"DESCRIPTION": "Deal !D! Piercing damage. NL [#EFC851]Dragon's[] [#EFC851]Pulse[].",
+		"EXTENDED_DESCRIPTION": ["Dragon's Pulse", "If this kills a non-minion enemy, #yPurge this card and permanently #yUpgrade a random card in your deck"],
+		"NAME": "Scar"
+	},
+	"animator_RoyMustang":
+	{
+		"DESCRIPTION": "Deal !D! Damage to ALL enemies and apply 2 [#EFC851]Burning[]. NL Synergy: Apply !M! more [#EFC851]Burning[].",
+		"EXTENDED_DESCRIPTION": [ "Burning", "Take damage at the start of your turn. Also take 5% more Attack damage per stack." ],
+		"NAME": "Roy Mustang"
 	}
 }

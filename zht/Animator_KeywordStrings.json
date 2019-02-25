@@ -63,5 +63,10 @@
 		"DESCRIPTION": "可被多次升級。",
 		"NAMES": [ "多重升級"],
 		"PROPERNAME": "多重升級"
+	},
+	{
+		"DESCRIPTION": "Upon receiving attack damage, gain #yBlock. #yBlock gain increases as this power is triggered. Resets at the start of your turn.",
+		"NAMES": ["malleable"],
+		"PROPERNAME": "Malleable"
 	}
 ]

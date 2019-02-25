@@ -493,7 +493,7 @@
 	},
 	"animator_Sloth":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL Double this card's base damage this combat.",
+		"DESCRIPTION": "Deal !D! Damage. NL Double this card's base damage this combat. NL Synergy: Gain !B! Block.",
 		"NAME": "Sloth"
 	},
 	"animator_MaesHughes":
@@ -503,7 +503,7 @@
 	},
 	"animator_ElricEdward":
 	{
-		"DESCRIPTION": "Deal !D! damage. Cycle 1 card. NL Activate a [#EFC851]Bonus [#EFC851]Effect based on the card you cycled.",
+		"DESCRIPTION": "Deal !D! damage. NL Cycle 1 card. NL Activate a [#EFC851]Bonus [#EFC851]Effect based on the card you cycled.",
 		"EXTENDED_DESCRIPTION": [ "Bonus Effect", "#yAttack: Channel 1 Lightning NL #ySkill: Channel 1 Frost NL #yPower: Channel 1 Dark" ],
 		"NAME": "Edward Elric"
 	},
@@ -527,13 +527,13 @@
 	},
 	"animator_ElricAlphonse":
 	{
-		"DESCRIPTION": "Cooldown !SV! : Gain 1 Focus. NL Legacy: Add [#EFC851]Armored [#EFC851]Alphonse to your discard pile.",
-		"UPGRADE_DESCRIPTION": "Cooldown !SV! : Gain 1 Focus. NL Legacy: Add [#EFC851]Armored [#EFC851]Alphonse+ to your discard pile.",
+		"DESCRIPTION": "Cooldown !SV! : NL Gain 1 Focus. NL Legacy: Add [#EFC851]Armored [#EFC851]Alphonse to your discard pile.",
+		"UPGRADE_DESCRIPTION": "Cooldown !SV! : NL Gain 1 Focus. NL Legacy: Add [#EFC851]Armored [#EFC851]Alphonse+ to your discard pile.",
 		"NAME": "Alphonse Elric"
 	},
 	"animator_ElricAlphonseAlt":
 	{
-		"DESCRIPTION": "Gain !M! [#EFC851]Plated [#EFC851]Armor. Channel 1 Lightning.",
+		"DESCRIPTION": "Gain !M! [#EFC851]Plated [#EFC851]Armor. NL Gain !B! Block. NL Synergy: [#EFC851]Channel[] 1 Lightning.",
 		"NAME": "Armored Alphonse"
 	},
 	"animator_Scar":
@@ -544,7 +544,7 @@
 	},
 	"animator_RoyMustang":
 	{
-		"DESCRIPTION": "Deal !D! Damage to ALL enemies and apply !M! [#EFC851]Burning[].",
+		"DESCRIPTION": "Deal !D! Damage to ALL enemies and apply 2 [#EFC851]Burning[]. NL Synergy: Apply !M! more [#EFC851]Burning[].",
 		"EXTENDED_DESCRIPTION": [ "Burning", "Take damage at the start of your turn. Also take 5% more Attack damage per stack." ],
 		"NAME": "Roy Mustang"
 	}
