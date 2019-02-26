@@ -73,5 +73,25 @@
 	{
 		"DESCRIPTIONS": ["當你造成一層中毒時，再度造成一層", " 中毒。"],
 		"NAME": "毒素親合"
+	},
+	"animator_BiyorigoPower":
+	{
+		"DESCRIPTIONS": ["Every 4 #yAttacks played, gain #b", " Strength and #b", " Dexterity."],
+		"NAME": "Bito Kanzashi"
+	},
+	"animator_AlbedoPower":
+	{
+		"DESCRIPTIONS": ["ALL enemies deal #b", "% less damage."],
+		"NAME": "Albedo"
+	},
+	"animator_EnvyPower":
+	{
+		"DESCRIPTIONS": ["The first #b", " card/s you play every turn have their Synergy active."],
+		"NAME": "Envy"
+	},
+	"animator_BurningPower":
+	{
+		"DESCRIPTIONS": ["Take #b", " damage at the end of turn. Receive #b", "% more #yAttack damage."],
+		"NAME": "Burning"
 	}
 }
