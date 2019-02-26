@@ -77,7 +77,7 @@
 	},
 	"animator_ChlammyZell":
 	{
-		"DESCRIPTION": "造成 !M! 點傷害 。 本回合你所抽的每張牌造成 !D! 點 傷害。",
+		"DESCRIPTION": "對每個敵人造成 !M! 至 !D! 點的隨機傷害。",
 		"NAME": "克拉米·傑爾"
 	},
 	"animator_Chung":
@@ -266,7 +266,7 @@
 	},
 	"animator_ItamiYouji":
 	{
-		"DESCRIPTION": "保留 。 對隨機敵人造成 !D! 點傷害， 傷害取決於本回合打出的牌的數量。 (打出 !M! 張)",
+		"DESCRIPTION": "抽 !M! 張牌。 每抽一張牌造成 !D! 點傷害，並減少其消耗。",
 		"NAME": "伊丹耀司"
 	},
 	"animator_Jibril":
@@ -481,7 +481,7 @@
 	"animator_Albedo":
 	{
 		"DESCRIPTION": "獲得 !M! % 點[#EFC851]傷害抵抗[]。",
-		"EXTENDED_DESCRIPTION": ["傷害抵抗", "受到敵人更少的傷害T，效果被層樹影響。"],
+		"EXTENDED_DESCRIPTION": ["傷害抵抗", "受到敵人更少的傷害T，效果被層數影響。"],
 		"NAME": "雅兒貝德"
 	},
 	"animator_Sloth":
