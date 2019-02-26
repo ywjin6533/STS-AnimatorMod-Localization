@@ -506,7 +506,8 @@
 	},
 	"animator_Togame":
 	{
-		"DESCRIPTION": "抽 !SV! 張牌 。 NL 消耗 1 張牌 。 NL 使用 !M! 次後 抹除 。",
+		"DESCRIPTION": "Draw !M! cards. NL Activate a [#EFC851]Bonus [#EFC851]Effect based on the number of cards in your hand.",
+		"EXTENDED_DESCRIPTION": ["Bonus Effect", "#y7 : Exhaust 1 card NL #y6 : Gain 6 Block. NL #y5 : Gain 1 Artifact NL #y4 : Gain 2 Energy and Exhaust this card"],
 		"NAME": "咎兒"
 	},
 	"animator_TukaLunaMarceau":
