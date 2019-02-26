@@ -475,69 +475,76 @@
 	},
 	"animator_Biyorigo":
 	{
-		"DESCRIPTION": "Every 4 Attacks played, gain !M! Strength and 1 Dexterity.",
-		"NAME": "Biyorigo"
+		"DESCRIPTION": "每次打出4張牌後，獲得 !M! 點力量和1 點敏捷。",
+		"NAME": "日和號"
 	},
 	"animator_Albedo":
 	{
-		"DESCRIPTION": "Gain !M! % [#EFC851]Damage [#EFC851]Resistance.",
-		"EXTENDED_DESCRIPTION": ["Damage Resistance", "Take less damage from enemy attacks, further stacks are less effective."],
-		"NAME": "Albedo"
+		"DESCRIPTION": "獲得 !M! % 點[#EFC851]傷害抵抗[]。",
+		"EXTENDED_DESCRIPTION": ["傷害抵抗", "受到敵人更少的傷害T，效果被層樹影響。"],
+		"NAME": "雅兒貝德"
 	},
 	"animator_Sloth":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL Double this card's base damage this combat. NL Synergy: Gain !B! Block.",
-		"NAME": "Sloth"
+		"DESCRIPTION": "造成 !D! 點傷害。 NL 這場戰鬥這張牌的基礎傷害提升兩倍。 NL 同調: 獲得 !B! 點格擋。",
+		"NAME": "斯洛斯"
 	},
 	"animator_MaesHughes":
 	{
-		"DESCRIPTION": "Draw 1 card and reduce its cost by !M! this turn. Legacy: Deal !D! Damage to ALL enemies.",
-		"NAME": "Maes Hughes"
+		"DESCRIPTION": "抽 1 張牌然後這回合減少!M!點耗能。 遺產: 對所有敵人造成 !D! 點傷害。",
+		"NAME": "馬斯休斯"
 	},
 	"animator_ElricEdward":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Cycle 1 card. NL Activate a [#EFC851]Bonus [#EFC851]Effect based on the card you cycled.",
-		"EXTENDED_DESCRIPTION": [ "Bonus Effect", "#yAttack: Channel 1 Lightning NL #ySkill: Channel 1 Frost NL #yPower: Channel 1 Dark" ],
-		"NAME": "Edward Elric"
+		"DESCRIPTION": "造成 !D! 點傷害。 NL 循環1張牌 。 NL 根據你循環的卡片種類獲得一個[#EFC851]額外充能球[]。",
+		"EXTENDED_DESCRIPTION": [ "額外充能球", "#y攻擊牌: 獲得1個閃電充能球 NL #y技能牌: 獲得1個冰霜充能球 NL #y能力牌: 獲得1個黑暗充能球" ],
+		"NAME": "愛德華·艾力克"
 	},
 	"animator_Greed":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 若打破目標格擋， 抽 !M! 張未升級的牌並升級 。",
-		"NAME": "矮人薩滿",
-		"UPGRADE_DESCRIPTION": "造成 !D! 點傷害。若打破目標格擋， 抽 !M! 張牌並 升級 。"
+		"DESCRIPTION": "獲得 !M! 層[#EFC851]多層護甲[]。 NL 獲得 !M! 層鍛鑄。 NL [#EFC851]貪婪[]。",
+		"NAME": "古利德",
+		"UPGRADE_DESCRIPTION": ["貪婪", "戰鬥結束後，獲得相當於你失去生命百分比的金幣。不可疊加。"]
 	},
 	"animator_Envy":
 	{
-		"DESCRIPTION": "Shapeshifter. NL The first card you play each turn will Synergize.",
-		"UPGRADE_DESCRIPTION": "Innate. Shapeshifter. NL The first card you play each turn will Synergize.",
-		"NAME": "Envy"
+		"DESCRIPTION": "變形者。 NL 每回合打出的第一張牌出觸發自己的同調效果。",
+		"UPGRADE_DESCRIPTION": "固有。 變形者。 NL每回合打出的第一張牌出觸發自己的同調效果。",
+		"NAME": "恩維"
 	},
 	"animator_Gluttony":
 	{
-		"DESCRIPTION": "Exhaust up to !M! Cards in your hand, activate a [#EFC851]Bonus [#EFC851]Effect based on each card type. Exhaust.",
-		"EXTENDED_DESCRIPTION": [ "Bonus Effect", "#yAttack: Gain 1 Strength, NL #ySkill: Gain 3 Temporary HP, NL #yPower: Heal 6 HP" ],
-		"NAME": "Gluttony"
+		"DESCRIPTION": "消耗手上最多!M! 張牌，根據你消耗的卡片種類發動一個 [#EFC851]額外效果[]。消耗。",
+		"EXTENDED_DESCRIPTION": [ "額外效果", "#y攻擊牌: 獲得 1 點力量， NL #y技能:獲得3點臨時生命， NL #y能力牌: 回復6點生命" ],
+		"NAME": "庫拉多尼"
 	},
-	"animator_AlphonseElric":
+	"animator_ElricAlphonse":
 	{
-		"DESCRIPTION": "Cooldown !SV! : Gain 1 Focus. NL Legacy: Turn this card into [#EFC851]Armored [#EFC851]Alphonse and move it to discard pile..",
-		"UPGRADE_DESCRIPTION": "Cooldown !SV! : Gain 1 Focus. NL Legacy: Turn this card into [#EFC851]Armored [#EFC851]Alphonse+ and move it to discard pile.",
-		"NAME": "Alphonse Elric"
+		"DESCRIPTION": "冷卻 !SV! : 獲得1點集中。 NL 遺產: 這張牌轉變為[#EFC851]裝甲阿爾馮斯[] 並加入棄牌堆。",
+		"UPGRADE_DESCRIPTION": "冷卻 !SV! :獲得1點集中。 NL 遺產: 這張牌轉變為[#EFC851]裝甲阿爾馮斯+[] 並加入棄牌堆。",
+		"NAME": "阿爾馮斯·艾力克"
 	},
-	"animator_AlphonseElricAlt":
+	"animator_ElricAlphonseAlt":
 	{
-		"DESCRIPTION": "Gain !M! [#EFC851]Plated [#EFC851]Armor. Synergy: Channel !SV! Lightning.",
-		"NAME": "Armored Alphonse"
+		"DESCRIPTION": "獲得 !M! 層[#EFC851]多層護甲[]。 同調: 獲得 !SV! 個閃電球。",
+		"NAME": "裝甲阿爾馮斯+"
 	},
 	"animator_Scar":
 	{
-		"DESCRIPTION": "Deal !D! Piercing damage. If this kills a non-minion enemy, Purge and permanently Upgrade a random card.",
-		"NAME": "Scar"
+		"DESCRIPTION": "造成 !D!點穿刺傷害。 NL [#EFC851]龍之吐息[].",
+		"EXTENDED_DESCRIPTION": ["龍之吐息", "如果這張牌殺死非爪牙的敵人， 抹除這張牌並在牌庫永久升級1張隨機牌。"],
+		"NAME": "斯卡"
 	},
 	"animator_RoyMustang":
 	{
-		"DESCRIPTION": "Deal !D! Damage to ALL enemies and apply !M! [#EFC851]Burning[].",
-		"EXTENDED_DESCRIPTION": [ "Burning", "Take damage at the start of your turn. Also take 5% more Attack damage per stack." ],
-		"NAME": "Roy Mustang"
+		"DESCRIPTION": "對所有敵人造成 !D! 點傷害並且給予2層[#EFC851]燃燒[]. NL 同調: 再給予 !M! 層 [#EFC851]燃燒[].",
+		"EXTENDED_DESCRIPTION": [ "燃燒", "在你回合開始受到傷害，另外每層提供  5%更多攻擊傷害。" ],
+		"NAME": "羅伊·馬斯坦古"
+	},
+	"animator_Urushihara":
+	{
+		"DESCRIPTION": "[#EFC851]產生[]1個黑暗充能球， NL 對所有敵人造成 !D! 傷害。NL [#EFC851]怠惰[].",
+		"EXTENDED_DESCRIPTION": ["怠惰", "抽到這張牌時，有50%機率跟牌堆裡的牌交換。"],
+		"NAME": "漆原半藏"
 	}
 }
