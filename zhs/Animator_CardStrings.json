@@ -551,7 +551,7 @@
 	},
 	"animator_Urushihara":
 	{
-		"DESCRIPTION": "生成 1 个 黑暗 充能球 。 NL 对所有敌人造成 !D! 点 伤害 。 NL [#EFC851]懒惰[] 。",
+		"DESCRIPTION": "[#EFC851]生成[] 1 个 黑暗 充能球 。 NL 对所有敌人造成 !D! 点 伤害 。 NL [#EFC851]懒惰[] 。",
 		"EXTENDED_DESCRIPTION": ["懒惰", "绘图时 ， 有50％的机会与绘图堆栈中的另一张卡交换 。"],
 		"NAME": "Urushihara"
 	}
