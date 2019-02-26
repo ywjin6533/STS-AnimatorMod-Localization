@@ -550,7 +550,7 @@
 	},
 	"animator_Urushihara":
 	{
-		"DESCRIPTION": "[#EFC851]Channel[] 1 Dark. NL Deal !D! damage to All enemies. NL [#EFC851]Lazy[].",
+		"DESCRIPTION": "[#EFC851]Channel[] 1 Dark. NL Deal !D! damage to ALL enemies. NL [#EFC851]Lazy[].",
 		"EXTENDED_DESCRIPTION": ["Lazy", "When drawn, has a 50% chance of swapping itself with another card in your draw pile."],
 		"NAME": "Urushihara"
 	}
