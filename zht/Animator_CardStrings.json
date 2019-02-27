@@ -176,7 +176,8 @@
 	},
 	"animator_Elsword":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 循環 2 張牌 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 循環 !M! 張牌 。",
+		"UPGRADE_DESCRIPTION": "造成 !D! 點 傷害 。 循環 !M! 張牌 。",
 		"NAME": "艾索德"
 	},
 	"animator_Emonzaemon":
@@ -422,6 +423,7 @@
 	"animator_Priestess":
 	{
 		"DESCRIPTION": "冷卻 !SV! : 獲得 !M! 層 [#EFC851]再生[] 。 NL 同調 : 獲得 !B! 點 臨時生命 。",
+		"EXTENDED_DESCRIPTION": ["* 注", "受块修饰符影响 。"],
 		"NAME": "女神官"
 	},
 	"animator_Rena":
