@@ -309,7 +309,7 @@
 	},
 	"animator_Hitei":
 	{
-		"DESCRIPTION": "At the start of your turn gain !M! Gold NL and Exhaust a NL random card in your draw pile ([#EFC851]*[#FFFFFF]).",
+		"DESCRIPTION": "At the start of your turn gain !M! Gold then choose and Exhaust 1 of 3 random cards in your deck ([#EFC851]*[#FFFFFF]).",
 		"EXTENDED_DESCRIPTION": ["* Note", "You cannot gain more than 100 Gold per combat. Stacking this power increases the gold cap a little."],
 		"NAME": "Hitei"
 	},
