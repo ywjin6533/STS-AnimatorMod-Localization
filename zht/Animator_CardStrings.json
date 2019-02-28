@@ -147,10 +147,10 @@
 	},
 	"animator_DwarfShaman":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 若打破目標格擋 ， 抽 !M! 張未升級的牌並 升級 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 压倒 : 抽 !M! 張未升級的牌並 升級 。",
 		"EXTENDED_DESCRIPTION": ["* 注意", "會優先升級可以升級的牌，如果沒有可升級的牌就跟一般抽牌一樣 。"],
 		"NAME": "矮人薩滿",
-		"UPGRADE_DESCRIPTION": "造成 !D! 點 傷害 。 若打破目標格擋 ， 抽 !M! 張牌並 升級 。"
+		"UPGRADE_DESCRIPTION": "造成 !D! 點 傷害 。 压倒 : 抽 !M! 張牌並 升級 。"
 	},
 	"animator_Elesis":
 	{

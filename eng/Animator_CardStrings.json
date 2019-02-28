@@ -147,10 +147,10 @@
 	},
 	"animator_DwarfShaman":
 	{
-		"DESCRIPTION": "Deal !D! damage. If you break the target's Block, draw !M! card and Upgrade it ([#EFC851]*[#FFFFFF]).",
+		"DESCRIPTION": "Deal !D! damage. Overrun: Draw !M! card and Upgrade it ([#EFC851]*[#FFFFFF]).",
 		"EXTENDED_DESCRIPTION": ["* Note", "It will prioritize upgradable cards, if there are none it will work as normal card draw."],
 		"NAME": "'Dwarf Shaman'",
-		"UPGRADE_DESCRIPTION": "Deal !D! damage. If you break the target's Block, draw !M! cards and Upgrade them ([#EFC851]*[#FFFFFF])."
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. Overrun: Draw !M! cards and Upgrade them ([#EFC851]*[#FFFFFF])."
 	},
 	"animator_Elesis":
 	{

@@ -70,7 +70,7 @@
 		"PROPERNAME": "Malleable"
 	},
 	{
-		"DESCRIPTION": "Activates when an enemy loses its block.",
+		"DESCRIPTION": "Activates for each enemy that loses its block during this attack.",
 		"NAMES": ["overrun"],
 		"PROPERNAME": "Overrun"
 	}
