@@ -286,8 +286,8 @@
 	},
 	"animator_Guren":
 	{
-		"DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將其基础傷害預存到 [#EFC851]支援[] 中 。",
-		"UPGRADE_DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將其傷害預存到 [#EFC851]支援[] 中 。",
+		"DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將其傷害預存到 [#EFC851]支援[] 中 。",
+		"UPGRADE_DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將其傷害預存到 護甲 和 [#EFC851]支援[] 中 。",
 		"EXTENDED_DESCRIPTION": ["支援", "回合結束時對生命值較低的敵人造成預存的傷害"],
 		"NAME": "紅蓮"
 	},
@@ -526,7 +526,7 @@
 	"animator_Urushihara":
 	{
 		"DESCRIPTION": "[#EFC851]產生[] 1 個黑暗充能球 ， NL 對所有敵人造成 !D! 傷害 。 NL [#EFC851]怠惰[] 。 ",
-		"EXTENDED_DESCRIPTION": ["怠惰", "抽到這張牌時，有50%機率跟牌堆裡的牌交換。"],
+		"EXTENDED_DESCRIPTION": ["怠惰", "抽到這張牌時， 有50%機率跟的棄牌堆裡的牌交換。"],
 		"NAME": "漆原半藏"
 	},
 	"animator_Viivi":
