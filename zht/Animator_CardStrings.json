@@ -47,7 +47,7 @@
 	},
 	"animator_Ara":
 	{
-		"DESCRIPTION": "造成!D! 點傷害2次 。 压倒 : 獲得 !M! 點 力量 。",
+		"DESCRIPTION": "造成!D! 點傷害2次 。 压倒 : 獲得 !M! 層 易傷 。",
 		"NAME": "艾拉"
 	},
 	"animator_Archer":
@@ -401,9 +401,11 @@
 	},
 	"animator_Nanami":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 同調 : 將一張 [#EFC851]連續拳[] 放入你的手牌 。",
+		"DESCRIPTION": "Activate an [#EFC851]Effect based on the enemy intent.",
 		"NAME": "鑢七實",
-		"UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 NL 同調 : 添加一張 [#EFC851]連續拳+[] 到你的手牌 。"
+		"UPGRADE_DESCRIPTION": "Activate an improved [#EFC851]Effect based on the enemy intent.",
+		"EXTENDED_DESCRIPTION": ["Deal !D! Damage.", "Gain !B! Block.", "Gain # Strength.", "Apply # Weak.", "Apply # Vulnerable.", "Stun the enemy.", 
+								 "Channel 1 Lightning.", "Channel 1 Dark.", "Channel 1 Frost.", "Apply !M! Poison.", "Gain [B]", "Gain !M! Temporary HP.", "Draw !M! cards."]
 	},
 	"animator_NarberalGamma":
 	{

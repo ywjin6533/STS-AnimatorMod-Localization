@@ -47,7 +47,7 @@
 	},
 	"animator_Ara":
 	{
-		"DESCRIPTION": "Deal !D! damage twice. NL Overrun: Gain !M! Strength.",
+		"DESCRIPTION": "Deal !D! damage twice. NL Overrun: Apply !M! Vulnerable.",
 		"NAME": "Ara"
 	},
 	"animator_Archer":
@@ -403,9 +403,11 @@
 	},
 	"animator_Nanami":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Synergy: Add [#EFC851]Pummel to your hand.",
+		"DESCRIPTION": "Activate an [#EFC851]Effect based on the enemy intent.",
 		"NAME": "Nanami",
-		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Synergy: Add [#EFC851]Pummel+ to your hand."
+		"UPGRADE_DESCRIPTION": "Activate an improved [#EFC851]Effect based on the enemy intent.",
+		"EXTENDED_DESCRIPTION": ["Deal !D! Damage.", "Gain !B! Block.", "Gain # Strength.", "Apply # Weak.", "Apply # Vulnerable.", "Stun the enemy.", 
+								 "Channel 1 Lightning.", "Channel 1 Dark.", "Channel 1 Frost.", "Apply !M! Poison.", "Gain [B]", "Gain !M! Temporary HP.", "Draw !M! cards."]
 	},
 	"animator_NarberalGamma":
 	{
