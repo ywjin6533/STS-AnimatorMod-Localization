@@ -120,9 +120,8 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "Gain [B] [B] NL Take !M! Damage, then increase this card's damage by 3 this combat.",
-		"NAME": "Demiurge",
-		"UPGRADE_DESCRIPTION": "Gain [B] [B] [B] NL Take !M! Damage, then increase this card's damage by 3 this combat."
+		"DESCRIPTION": "Gain [B] [B] NL Take !M! damage. NL Increase this card's damage by !SV! this combat.",
+		"NAME": "Demiurge"
 	},
 	"animator_DolaCouronne":
 	{
@@ -287,7 +286,7 @@
 	"animator_Guren":
 	{
 		"DESCRIPTION": "Exhaust a random [#EFC851]Attack in your draw pile. Turn its current damage into [#EFC851]Support [#EFC851]Damage.",
-		"UPGRADE_DESCRIPTION": "Exhaust a random [#EFC851]Attack in your draw pile. Turn its current damage into Block and [#EFC851]Support [#EFC851]Damage.",
+		"UPGRADE_DESCRIPTION": "Retain. Exhaust a random [#EFC851]Attack in your draw pile. Turn its current damage into [#EFC851]Support [#EFC851]Damage.",
 		"EXTENDED_DESCRIPTION": ["Support Damage", "Deal damage to the enemy with lowest HP at the end of each turn."],
 		"NAME": "Guren"
 	},

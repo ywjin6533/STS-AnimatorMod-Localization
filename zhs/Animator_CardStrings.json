@@ -121,8 +121,7 @@
 	"animator_Demiurge":
 	{
 		"DESCRIPTION": "获得 [B] [B] ， 受到 !M! 点 伤害 ， 每次使用这张牌都会使下次受到的伤害增加 3 点.",
-		"NAME": "迪米乌哥斯",
-		"UPGRADE_DESCRIPTION": "获得 [B] [B] [B] ， 受到 !M! 点 伤害 ， 每次使用这张牌都会使下次受到的伤害增加 3 点."
+		"NAME": "迪米乌哥斯"
 	},
 	"animator_DolaCouronne":
 	{
@@ -287,7 +286,7 @@
 	"animator_Guren":
 	{
 		"DESCRIPTION": "从抽牌堆随机 消耗 一张 [#EFC851]攻击[] 牌 。 将其伤害预存到 [#EFC851]支援[] 中 。",
-		"UPGRADE_DESCRIPTION": "从抽牌堆随机 消耗 一张 [#EFC851]攻击[] 牌 。 将其伤害转换为等量 格挡 并预存到 [#EFC851]支援[] 中 。",
+		"UPGRADE_DESCRIPTION": "保留 。 从抽牌堆随机 消耗 一张 [#EFC851]攻击[] 牌 。 将其伤害预存到 [#EFC851]支援[] 中 。",
 		"EXTENDED_DESCRIPTION": ["支援", "回合结束时对生命值较低的敌人造成预存的伤害"],
 		"NAME": "红莲"
 	},
@@ -515,7 +514,7 @@
 	"animator_Togame":
 	{
 		"DESCRIPTION": "抽 !M! 张牌 。 获得一种 [#EFC851]额外效果[] , 效果种类由手中剩余的牌数量决定",
-		"EXTENDED_DESCRIPTION": ["额外效果", "#y7+ : 消耗 1张牌 。 NL #y6 : 获得 6 点 格挡 。 NL #y5 : 获得 1 层 人工制品 。 NL #y4- : 消耗 并 获得 2 点 能量 。"],
+		"EXTENDED_DESCRIPTION": ["额外效果", "#y7+ : 消耗 1张牌 。 NL #y6 : 获得 6 点 格挡 。 NL #y5 : 获得 1 层 人工制品 。 NL #y4- : 消耗 并 获得 2 点 能量 。", " "],
 		"NAME": "咎儿"
 	},
 	"animator_TukaLunaMarceau":

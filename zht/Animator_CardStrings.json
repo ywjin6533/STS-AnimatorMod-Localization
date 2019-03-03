@@ -121,8 +121,7 @@
 	"animator_Demiurge":
 	{
 		"DESCRIPTION": "獲得 [B] [B] 。 NL 受到 !M! 點 傷害 ， 然後這場戰鬥增加這張牌 3 點 的傷害 。",
-		"NAME": "迪米烏哥斯",
-		"UPGRADE_DESCRIPTION": "獲得 [B] [B] [B] 。 NL 受到 !M! 點 傷害 ， 然後這場戰鬥增加這張牌 3 點 的傷害 。"
+		"NAME": "迪米烏哥斯"
 	},
 	"animator_DolaCouronne":
 	{
@@ -287,7 +286,7 @@
 	"animator_Guren":
 	{
 		"DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將其傷害預存到 [#EFC851]支援[] 中 。",
-		"UPGRADE_DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將其傷害預存到 護甲 和 [#EFC851]支援[] 中 。",
+		"UPGRADE_DESCRIPTION": "保留 。 從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將其傷害預存到 [#EFC851]支援[] 中 。",
 		"EXTENDED_DESCRIPTION": ["支援", "回合結束時對生命值較低的敵人造成預存的傷害"],
 		"NAME": "紅蓮"
 	},
