@@ -2,7 +2,7 @@
 {
 	"animator_AcuraAkari":
 	{
-		"DESCRIPTION": "Apply !M! Marks of Poison to an enemy. NL Synergy: Draw 1 more card next turn.",
+		"DESCRIPTION": "Apply !M! Marks of Poison to an enemy.",
 		"NAME": "Akari"
 	},
 	"animator_AcuraShin":
@@ -159,9 +159,9 @@
 	},
 	"animator_ElricAlphonse":
 	{
-		"DESCRIPTION": "Gain !B! [#EFC851]Block[]. Cooldown !SV! : NL Gain 1 Focus. NL Legacy: Obtain [#EFC851]Armored [#EFC851]Alphonse.",
+		"DESCRIPTION": "Gain !B! [#EFC851]Block[]. NL Boost !SV! : NL Gain 1 Focus. NL Legacy: Obtain [#EFC851]Armored [#EFC851]Alphonse.",
 		"NAME": "Alphonse Elric",
-		"UPGRADE_DESCRIPTION": "Gain !B! [#EFC851]Block[]. Cooldown !SV! : NL Gain 1 Focus. NL Legacy: Obtain [#EFC851]Armored [#EFC851]Alphonse+."
+		"UPGRADE_DESCRIPTION": "Gain !B! [#EFC851]Block[]. NL Boost !SV! : NL Gain 1 Focus. NL Legacy: Obtain [#EFC851]Armored [#EFC851]Alphonse+."
 	},
 	"animator_ElricAlphonseAlt":
 	{
@@ -487,7 +487,7 @@
 	},
 	"animator_Shiro":
 	{
-		"DESCRIPTION": "Gain [B] at the start of each turn.",
+		"DESCRIPTION": "Cost 1 less for each Synergy you activated this turn. Gain [B] at the start of each turn.",
 		"NAME": "Shiro"
 	},
 	"animator_Sloth":

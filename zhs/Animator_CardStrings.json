@@ -2,7 +2,7 @@
 {
 	"animator_AcuraAkari":
 	{
-		"DESCRIPTION": "对一个敌人造成 !M! 印记 中毒 。 同调 : 下回合多抽一张牌 。",
+		"DESCRIPTION": "对一个敌人造成 !M! 印记 中毒 。",
 		"NAME": "阿卡莉"
 	},
 	"animator_AcuraShin":
@@ -159,9 +159,9 @@
 	},
 	"animator_ElricAlphonse":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。 预热 !SV! : 获得 1 点 集中 。 NL 遗赠 : 获得 [#EFC851]阿尔冯斯护甲[] 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 促进 !SV! : 获得 1 点 集中 。 NL 遗赠 : 获得 [#EFC851]阿尔冯斯护甲[] 。",
 		"NAME": "阿尔冯斯",
-		"UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 预热 !SV! : 获得 1 点 集中 。 NL 遗赠 : 获得 [#EFC851]阿尔冯斯护甲+[] 。"
+		"UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 促进 !SV! : 获得 1 点 集中 。 NL 遗赠 : 获得 [#EFC851]阿尔冯斯护甲+[] 。"
 	},
 	"animator_ElricAlphonseAlt":
 	{
@@ -487,7 +487,7 @@
 	},
 	"animator_Shiro":
 	{
-		"DESCRIPTION": "每回合开始时获得 [B] 。",
+		"DESCRIPTION": "每次你在本回合中激活一个协 同调 用, 这张牌的耗能就减少1 [B] 。 每回合开始时获得 [B] 。",
 		"NAME": "白"
 	},
 	"animator_Sloth":
