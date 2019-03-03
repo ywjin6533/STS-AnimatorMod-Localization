@@ -37,7 +37,7 @@
 	},
 	"animator_HiteiPower":
 	{
-		"DESCRIPTIONS": ["在你的回合开始时获得", "个金币,从你的抽牌堆中随机消耗", " 张牌."],
+		"DESCRIPTIONS": ["在你的回合开始时获得", "个金币, 从你的牌库中选择并 消耗", " 张牌."],
 		"NAME": "否定姫"
 	},
 	"animator_GuildGirlPower":
@@ -84,6 +84,11 @@
 	{
 		"DESCRIPTIONS": ["受到的所有伤害降低 #b", "%."],
 		"NAME": "雅尔贝德"
+	},
+	"animator_HigakiRinnePower":
+	{
+		"DESCRIPTIONS": ["???"],
+		"NAME": "???"
 	},
 	"animator_EnvyPower":
 	{

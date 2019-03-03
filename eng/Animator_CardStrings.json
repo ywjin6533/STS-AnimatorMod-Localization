@@ -2,7 +2,7 @@
 {
 	"animator_AcuraAkari":
 	{
-		"DESCRIPTION": "Apply !M! Marks of Poison to an enemy. NL Synergy: Draw 1 more card next turn.",
+		"DESCRIPTION": "Apply !M! Marks of Poison to an enemy.",
 		"NAME": "Akari"
 	},
 	"animator_AcuraShin":
@@ -13,7 +13,7 @@
 	},
 	"animator_AcuraTooru":
 	{
-		"DESCRIPTION": "Deal !D! damage !M! Times. NL Synergy: Deal damage 1 more time.",
+		"DESCRIPTION": "Deal !D! damage !M! times. NL Synergy: Deal damage 1 more time.",
 		"NAME": "Tooru"
 	},
 	"animator_Ainz":
@@ -30,7 +30,7 @@
 	},
 	"animator_Albedo":
 	{
-		"DESCRIPTION": "Gain !M! % [#EFC851]Damage [#EFC851]Resistance.",
+		"DESCRIPTION": "Gain !M! % NL [#EFC851]Damage [#EFC851]Resistance. NL Synergy: Gain [B]",
 		"EXTENDED_DESCRIPTION": ["Damage Resistance", "Take less damage from enemy attacks, further stacks are less effective."],
 		"NAME": "Albedo"
 	},
@@ -47,7 +47,7 @@
 	},
 	"animator_Ara":
 	{
-		"DESCRIPTION": "Deal !D! damage twice. If you break the target's Block gain !M! Strength.",
+		"DESCRIPTION": "Deal !D! damage twice. NL Overrun: Apply !M! Vulnerable.",
 		"NAME": "Ara"
 	},
 	"animator_Archer":
@@ -67,7 +67,7 @@
 	},
 	"animator_Berserker":
 	{
-		"DESCRIPTION": "Deal !D! damage, if you break the target's Block, gain [B] [B] .",
+		"DESCRIPTION": "Deal !D! damage. NL Overrun: Gain [B] [B] .",
 		"NAME": "Berserker"
 	},
 	"animator_Biyorigo":
@@ -77,7 +77,7 @@
 	},
 	"animator_Caster":
 	{
-		"DESCRIPTION": "[#EFC851]Evoke your first Orb. NL [#EFC851]Channel 1 Dark. NL Synergy: The enemy loses !M! Strength.",
+		"DESCRIPTION": "[#EFC851]Evoke your first Orb. NL [#EFC851]Channel 1 Dark. NL Boost !SV! : The enemy loses !M! Strength.",
 		"NAME": "Caster"
 	},
 	"animator_ChaikaBohdan":
@@ -120,9 +120,8 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "Gain [B] [B] NL Take !M! Damage, then increase this card's damage by 3 this combat.",
-		"NAME": "Demiurge",
-		"UPGRADE_DESCRIPTION": "Gain [B] [B] [B] NL Take !M! Damage, then increase this card's damage by 3 this combat."
+		"DESCRIPTION": "Gain [B] [B] NL Take !M! damage. NL Increase this card's damage by !SV! this combat.",
+		"NAME": "Demiurge"
 	},
 	"animator_DolaCouronne":
 	{
@@ -147,10 +146,10 @@
 	},
 	"animator_DwarfShaman":
 	{
-		"DESCRIPTION": "Deal !D! damage. If you break the target's Block, draw !M! card and Upgrade it ([#EFC851]*[#FFFFFF]).",
+		"DESCRIPTION": "Deal !D! damage. Overrun: Draw !M! card and Upgrade it ([#EFC851]*[#FFFFFF]).",
 		"EXTENDED_DESCRIPTION": ["* Note", "It will prioritize upgradable cards, if there are none it will work as normal card draw."],
 		"NAME": "'Dwarf Shaman'",
-		"UPGRADE_DESCRIPTION": "Deal !D! damage. If you break the target's Block, draw !M! cards and Upgrade them ([#EFC851]*[#FFFFFF])."
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. Overrun: Draw !M! cards and Upgrade them ([#EFC851]*[#FFFFFF])."
 	},
 	"animator_Elesis":
 	{
@@ -159,9 +158,9 @@
 	},
 	"animator_ElricAlphonse":
 	{
-		"DESCRIPTION": "Cooldown !SV! : NL Gain 1 Focus. NL Legacy: Add [#EFC851]Armored [#EFC851]Alphonse to your discard pile.",
+		"DESCRIPTION": "Gain !B! [#EFC851]Block[]. NL Boost !SV! : NL Gain 1 Focus. NL Legacy: Obtain [#EFC851]Armored [#EFC851]Alphonse.",
 		"NAME": "Alphonse Elric",
-		"UPGRADE_DESCRIPTION": "Cooldown !SV! : NL Gain 1 Focus. NL Legacy: Add [#EFC851]Armored [#EFC851]Alphonse+ to your discard pile."
+		"UPGRADE_DESCRIPTION": "Gain !B! [#EFC851]Block[]. NL Boost !SV! : NL Gain 1 Focus. NL Legacy: Obtain [#EFC851]Armored [#EFC851]Alphonse+."
 	},
 	"animator_ElricAlphonseAlt":
 	{
@@ -216,7 +215,7 @@
 	},
 	"animator_Excalibur":
 	{
-		"DESCRIPTION": "Deal !D! damage to ALL enemies, Exhaust ALL [#EFC851]Attacks in your hand and gain their damage.",
+		"DESCRIPTION": "Deal !D! damage to ALL enemies. Exhaust ALL [#EFC851]Attacks in your hand and gain their damage.",
 		"NAME": "Excalibur"
 	},
 	"animator_FeridBathory":
@@ -237,7 +236,7 @@
 	},
 	"animator_Gillette":
 	{
-		"DESCRIPTION": "Deal !D! damage. Apply !M! Weak. Legacy: Stun the enemy with the most HP.",
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. NL Legacy: Stun the enemy with the most HP.",
 		"NAME": "Gillette"
 	},
 	"animator_Gluttony":
@@ -263,8 +262,8 @@
 	},
 	"animator_GoblinSlayer":
 	{
-		"DESCRIPTION": "[#EFC851]Goblin [#EFC851]Slayer. NL Deal !D! damage. NL Gain !B! Block. NL Retain.",
-		"EXTENDED_DESCRIPTION": ["Goblin Slayer", "Exhaust every Status and Curse in your hand and discard pile. Deal 2 extra damage for every card in your exhaust pile. #yWARNING: Goblins will start invading your deck."],
+		"DESCRIPTION": "[#EFC851]Goblin [#EFC851]Slayer. NL NL Deal !D! damage. NL Gain !B! Block. NL Retain.",
+		"EXTENDED_DESCRIPTION": ["Goblin Slayer", "Exhaust every Status and Curse in your hand and discard pile. Deal 3 extra damage for every card in your exhaust pile. NL #yWARNING: Goblins will start invading your deck."],
 		"NAME": "Goblin Slayer"
 	},
 	"animator_GoblinSoldier":
@@ -286,13 +285,14 @@
 	},
 	"animator_Guren":
 	{
-		"DESCRIPTION": "Exhaust a random [#EFC851]Attack in your draw pile and turn its current damage into [#EFC851]Support [#EFC851]Damage.",
+		"DESCRIPTION": "Exhaust a random [#EFC851]Attack in your draw pile. Turn its current damage into [#EFC851]Support [#EFC851]Damage.",
+		"UPGRADE_DESCRIPTION": "Retain. Exhaust a random [#EFC851]Attack in your draw pile. Turn its current damage into [#EFC851]Support [#EFC851]Damage.",
 		"EXTENDED_DESCRIPTION": ["Support Damage", "Deal damage to the enemy with lowest HP at the end of each turn."],
 		"NAME": "Guren"
 	},
 	"animator_Guy":
 	{
-		"DESCRIPTION": "Give an enemy !B! Block, then gain its total Block. NL Synergy: Gain !M! Focus.",
+		"DESCRIPTION": "Give an enemy !B! Block, then gain its total Block. NL Synergy: [#EFC851]Channel[] 1 Frost.",
 		"NAME": "Guy"
 	},
 	"animator_HigakiRinne":
@@ -304,12 +304,13 @@
 	},
 	"animator_HighElfArcher":
 	{
-		"DESCRIPTION": "Deal !D! Piercing damage twice. If you haven't played other copies of this card this turn, draw 1 card.",
+		"DESCRIPTION": "Deal !D! Piercing damage twice. If you haven't played other copies of this card this turn, draw !M! card.",
+		"UPGRADE_DESCRIPTION": "Deal !D! Piercing damage twice. If you haven't played other copies of this card this turn, draw !M! cards.",
 		"NAME": "'High Elf Archer'"
 	},
 	"animator_Hitei":
 	{
-		"DESCRIPTION": "At the start of your turn gain !M! Gold NL and Exhaust a NL random card in your draw pile ([#EFC851]*[#FFFFFF]).",
+		"DESCRIPTION": "At the start of your turn gain !M! Gold then choose and Exhaust 1 of 3 random cards in your deck ([#EFC851]*[#FFFFFF]).",
 		"EXTENDED_DESCRIPTION": ["* Note", "You cannot gain more than 100 Gold per combat. Stacking this power increases the gold cap a little."],
 		"NAME": "Hitei"
 	},
@@ -401,9 +402,11 @@
 	},
 	"animator_Nanami":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Synergy: Add [#EFC851]Pummel to your hand.",
+		"DESCRIPTION": "Execute an [#EFC851]Effect based on the enemy intent.",
 		"NAME": "Nanami",
-		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Synergy: Add [#EFC851]Pummel+ to your hand."
+		"UPGRADE_DESCRIPTION": "Execute an improved [#EFC851]Effect based on the enemy intent.",
+		"EXTENDED_DESCRIPTION": ["Deal !D! Damage.", "Gain !B! Block.", "Gain # Strength.", "Apply # Weak.", "Apply # Vulnerable.", "Stun the enemy.", 
+								 "Channel 1 Lightning.", "Channel 1 Dark.", "Channel 1 Frost.", "Apply !M! Poison.", "Gain [B]", "Gain !M! Temporary HP.", "Draw !M! cards."]
 	},
 	"animator_NarberalGamma":
 	{
@@ -423,7 +426,7 @@
 	},
 	"animator_Priestess":
 	{
-		"DESCRIPTION": "Cooldown !SV! : Gain !M! Regeneration. NL Synergy: Gain !B! temporary HP ([#EFC851]*[#FFFFFF]).",
+		"DESCRIPTION": "Boost !SV! : Gain !M! Regeneration. NL Synergy: Gain !B! temporary HP ([#EFC851]*[#FFFFFF]).",
 		"EXTENDED_DESCRIPTION": ["* Note", "Affected by Block modifiers."],
 		"NAME": "'Priestess'"
 	},
@@ -446,14 +449,14 @@
 	"animator_RoyMustang":
 	{
 		"DESCRIPTION": "Deal !D! Damage to ALL enemies and apply 2 [#EFC851]Burning[]. NL Synergy: Apply !M! more [#EFC851]Burning[].",
-		"EXTENDED_DESCRIPTION": ["Burning", "Take damage at the start of your turn. Also take 5% more Attack damage per stack."],
+		"EXTENDED_DESCRIPTION": ["Burning", "Take damage at the start of your turn. Also take 4% more Attack damage per stack."],
 		"NAME": "Roy Mustang"
 	},
 	"animator_Saber":
 	{
-		"DESCRIPTION": "Loyal. Deal !D! damage, if this Synergizes !M! times, Purge and obtain [#EFC851]Excalibur.",
+		"DESCRIPTION": "Loyal. Deal !D! damage. If this Synergizes !M! times, Purge and obtain [#EFC851]Excalibur.",
 		"NAME": "Saber",
-		"UPGRADE_DESCRIPTION": "Loyal. Deal !D! damage, if this Synergizes !M! times, Purge and obtain [#EFC851]Excalibur+."
+		"UPGRADE_DESCRIPTION": "Loyal. Deal !D! damage. If this Synergizes !M! times, Purge and obtain [#EFC851]Excalibur+."
 	},
 	"animator_Scar":
 	{
@@ -463,7 +466,7 @@
 	},
 	"animator_Shalltear":
 	{
-		"DESCRIPTION": "Deal !D! damage to ALL enemies. NL Heal !M! HP for each enemy that lost its Block.",
+		"DESCRIPTION": "Deal !D! damage to ALL enemies. NL Overrun: Heal !M! HP.",
 		"NAME": "Shalltear"
 	},
 	"animator_Shichika":
@@ -483,7 +486,7 @@
 	},
 	"animator_Shiro":
 	{
-		"DESCRIPTION": "Gain [B] at the start of each turn.",
+		"DESCRIPTION": "Cost 1 less for each Synergy you activated this turn. Gain [B] at the start of each turn.",
 		"NAME": "Shiro"
 	},
 	"animator_Sloth":
@@ -504,13 +507,14 @@
 	},
 	"animator_SwordMaiden":
 	{
-		"DESCRIPTION": "Retain. NL Gain !M! Artifact. NL Gain !M! Intangible. NL Exhaust.",
+		"DESCRIPTION": "Gain !M! Artifact. NL Gain !M! Intangible. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Retain. NL Gain !M! Artifact. NL Gain !M! Intangible. NL Exhaust.",
 		"NAME": "'Sword Maiden'"
 	},
 	"animator_Togame":
 	{
-		"DESCRIPTION": "Draw !M! cards. NL Activate a [#EFC851]Bonus [#EFC851]Effect based on the number of cards in your hand.",
-		"EXTENDED_DESCRIPTION": ["Bonus Effect", "#y7 : Exhaust 1 card NL #y6 : Gain 6 Block. NL #y5 : Gain 1 Artifact NL #y4 : Gain 2 Energy and Exhaust this card"],
+		"DESCRIPTION": "Draw up to !M! cards. NL Activate a [#EFC851]Bonus [#EFC851]Effect based on the number of cards in your hand.",
+		"EXTENDED_DESCRIPTION": ["Bonus Effect", "#y7+ : Exhaust 1 card NL #y6 : Gain 6 Block. NL #y5 : Gain 1 Artifact NL #y4 : Gain 2 Energy and Exhaust this card", "Cheerio!"],
 		"NAME": "Togame"
 	},
 	"animator_TukaLunaMarceau":
@@ -526,7 +530,7 @@
 	"animator_Urushihara":
 	{
 		"DESCRIPTION": "[#EFC851]Channel[] 1 Dark. NL Deal !D! damage to ALL enemies. NL [#EFC851]Lazy[].",
-		"EXTENDED_DESCRIPTION": ["Lazy", "When drawn, has a 50% chance of swapping itself with another card in your draw pile."],
+		"EXTENDED_DESCRIPTION": ["Lazy", "When drawn, has a 50% chance of swapping itself with another card in your discard pile."],
 		"NAME": "Urushihara"
 	},
 	"animator_Viivi":
@@ -556,5 +560,10 @@
 		"EXTENDED_DESCRIPTION": ["Asuramaru", "A special 0-Cost #yAttack."],
 		"NAME": "Yuuichirou",
 		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Legacy: Add [#EFC851]Asuramaru+ to your discard pile."
+	},
+	"animator_Spearman":
+	{
+		"DESCRIPTION": "Deal !D! damage. NL Boost !SV! : Gain !M! Dexterity.",
+		"NAME": "'Spearman'"
 	}
 }
