@@ -326,7 +326,7 @@
 	},
 	"animator_Jibril":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL If the enemy has Vulnerable gain !M! Strength.",
+		"DESCRIPTION": "Deal !D! damage. NL If the enemy has a [#EFC851]Debuff deal 50% more damage.",
 		"NAME": "Jibril"
 	},
 	"animator_Kazuma":

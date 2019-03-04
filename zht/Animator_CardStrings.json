@@ -324,7 +324,7 @@
 	},
 	"animator_Jibril":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 若敵人有 易傷 效果獲得 !M! 點 力量 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 如果敵人具有debuff效果 ， 則傷害提高50％ 。",
 		"NAME": "吉普莉爾"
 	},
 	"animator_Kazuma":

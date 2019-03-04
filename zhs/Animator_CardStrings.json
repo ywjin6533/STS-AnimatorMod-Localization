@@ -326,7 +326,7 @@
 	},
 	"animator_Jibril":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 若敌人有 易伤 效果获得 !M! 点 力量 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 如果敌人有减益效果 ， 伤害提高50％ 。",
 		"NAME": "吉普莉尔"
 	},
 	"animator_Kazuma":
