@@ -96,6 +96,12 @@
 		"DESCRIPTION": "對每個敵人造成 !M! 至 !D! 點 的隨機傷害。",
 		"NAME": "克拉米·傑爾"
 	},
+	"animator_Chris":
+	{
+		"DESCRIPTION": "造成 !D! 点 伤害。 NL [#EFC851]偷[] 了那麼多金幣 [#EFC851]*[] 。",
+		"EXTENDED_DESCRIPTION" : ["* 注", "你不能從老闆那裡偷取超過 50 金幣 ， 從精英中偷取 25 金幣 ， 或從其他非奴才敵人那裡偷取 10 金幣 。"],
+		"NAME": "Chris"
+	},
 	"animator_Chung":
 	{
 		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 冷卻 !SV! : 對所有敵人造成 !D! 點 傷害 。",
@@ -515,8 +521,7 @@
 	"animator_SwordMaiden":
 	{
 		"DESCRIPTION": "獲得 !M! 層 人工制品 。 NL 獲得 !M! 無實體 。 NL 消耗 。",
-		"NAME": "劍之聖女",
-		"UPGRADE_DESCRIPTION": "保留 。 NL 獲得 !M! 層 人工制品 。 NL 獲得 !M! 無實體 。 NL 消耗 。"
+		"NAME": "劍之聖女"
 	},
 	"animator_Togame":
 	{

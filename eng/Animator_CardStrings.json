@@ -96,6 +96,12 @@
 		"DESCRIPTION": "Deal from !M! to !D! random damage to each enemy.",
 		"NAME": "Kurami"
 	},
+	"animator_Chris":
+	{
+		"DESCRIPTION": "Deal !D! damage. NL [#EFC851]Steal Gold equal to this card's damage ([#EFC851]*[#FFFFFF]).",
+		"EXTENDED_DESCRIPTION" : ["* Note", "You cannot steal more than 50 Gold from a boss, 25 Gold from an elite, or 10 gold from other non-minion enemies."],
+		"NAME": "Chris"
+	},
 	"animator_Chung":
 	{
 		"DESCRIPTION": "Gain !B! Block. Cooldown !SV! : NL Deal !D! damage to ALL enemies.",
@@ -517,8 +523,7 @@
 	"animator_SwordMaiden":
 	{
 		"DESCRIPTION": "Gain !M! Artifact. NL Gain !M! Intangible. NL Exhaust.",
-		"NAME": "'Sword Maiden'",
-		"UPGRADE_DESCRIPTION": "Retain. NL Gain !M! Artifact. NL Gain !M! Intangible. NL Exhaust."
+		"NAME": "'Sword Maiden'"
 	},
 	"animator_Togame":
 	{
