@@ -62,7 +62,7 @@
 	},
 	"animator_Azekura":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 2 次 。 NL 同调 : 获得 !M! 点 [#EFC851]钢化[] 格挡 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 2 次 。 NL 同调 : 获得 !M! 点 [#EFC851]多层护甲[]  。",
 		"NAME": "校仓必"
 	},
 	"animator_Berserker":
@@ -586,11 +586,11 @@
 	{
 		"DESCRIPTION": "在你的抽牌堆中消耗1张牌 。 生成 一个随机充能球 。 虚无 。",
 		"UPGRADE_DESCRIPTION": "在你的抽牌堆中消耗1张牌 。 生成 一个随机充能球 。",
-		"NAME": "艾德"
+		"NAME": "艾迪"
 	},
 	"animator_Raven":
 	{
 		"DESCRIPTION": "造成 !D! 点 伤害 。 获得 !B! 点 格挡 。 将抽牌堆中伤害最低的 [#EFC851]攻击[] 牌 加入手牌 。",
-		"NAME": "Raven"
+		"NAME": "雷文"
 	}
 }
