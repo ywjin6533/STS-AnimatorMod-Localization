@@ -2,7 +2,7 @@
 {
 	"animator_AcuraAkari":
 	{
-		"DESCRIPTION": "对一个敌人造成 !M! 印记 中毒 。",
+		"DESCRIPTION": "对一个敌人造成 !M! 点 印记 中毒 。",
 		"NAME": "阿卡莉"
 	},
 	"animator_AcuraShin":
@@ -579,14 +579,14 @@
 	"animator_Ain":
 	{
 		"DESCRIPTION": "[#EFC851]施法者[] 。 对所有敌人造成 !D! 点 伤害 !M! 次 。 同调 : 获得 1 点 集中 。",
-		"EXTENDED_DESCRIPTION": ["施法者", "此卡的伤害也会与集中一起扩展。"],
-		"NAME": "Ain"
+		"EXTENDED_DESCRIPTION": ["施法者", "此牌的伤害受 集中  的影响。"],
+		"NAME": "艾因"
 	},
 	"animator_Add":
 	{
-		"DESCRIPTION": "在你的抽奖画堆中消耗1张牌 。 生成 一个随机充能球 。 虚无 。",
-		"UPGRADE_DESCRIPTION": "在你的抽奖画堆中消耗1张牌 。 生成 一个随机充能球 。",
-		"NAME": "Add"
+		"DESCRIPTION": "在你的抽牌堆中消耗1张牌 。 生成 一个随机充能球 。 虚无 。",
+		"UPGRADE_DESCRIPTION": "在你的抽牌堆中消耗1张牌 。 生成 一个随机充能球 。",
+		"NAME": "艾德"
 	},
 	"animator_Raven":
 	{
