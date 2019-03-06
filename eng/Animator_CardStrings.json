@@ -583,7 +583,7 @@
 	},
 	"animator_Ain":
 	{
-		"DESCRIPTION": "[#EFC851]Spellcaster. NL Deal !D! damage to ALL enemies !M! times. NL Boost !SV! : Gain 1 Focus.",
+		"DESCRIPTION": "[#EFC851]Spellcaster. NL Deal !D! damage to ALL enemies !M! times. NL Synergy : Gain 1 Focus.",
 		"EXTENDED_DESCRIPTION": ["Spellcaster", "This card's damage also scales with Focus."],
 		"NAME": "Ain"
 	},
@@ -605,7 +605,7 @@
 	},
 	"animator_IzunaHatsuse":
 	{
-		"DESCRIPTION": "[#EFC851]Blood [#EFC851]Destruction. NL Draw 1 Card. NL Synergy: Gain !B! Block.",
+		"DESCRIPTION": "Apply 1 Weak. NL Gain !B! Block. NL [#EFC851]Blood [#EFC851]Destruction.",
 		"EXTENDED_DESCRIPTION": ["Blood Destruction", "While you are below 25% max HP, this card will turn into a special 0-cost #yAttack.", "Deal !D! damage twice. NL Heal !M! HP."],
 		"NAME": "Izuna Hatsuse"
 	}

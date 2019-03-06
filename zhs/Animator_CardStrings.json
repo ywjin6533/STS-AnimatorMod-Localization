@@ -583,7 +583,7 @@
 	},
 	"animator_Ain":
 	{
-		"DESCRIPTION": "[#EFC851]施法者[] 。 对所有敌人造成 !D! 点 伤害 !M! 次 。 鼓舞 !SV! : 获得 1 点 集中 。",
+		"DESCRIPTION": "[#EFC851]施法者[] 。 对所有敌人造成 !D! 点 伤害 !M! 次 。 同调 : 获得 1 点 集中 。",
 		"EXTENDED_DESCRIPTION": ["施法者", "此牌的伤害受 集中  的影响。"],
 		"NAME": "艾因"
 	},
@@ -605,7 +605,7 @@
 	},
 	"animator_IzunaHatsuse":
 	{
-		"DESCRIPTION": "[#EFC851]血坏[] 。 NL 抽 1 张牌 。 NL 同调 : 获得 !B! 点 格挡 。",
+		"DESCRIPTION": "给予 !M! 层 虚弱 。 NL 获得 !B! 点 格挡 。 NL [#EFC851]血坏[] 。",
 		"EXTENDED_DESCRIPTION": ["血坏", "自身HP低于25％时，这张卡将变为一个特殊的0耗 #y攻击 。", "造成 !D! 点 伤害 两次 。 NL 恢复 !M! 点 生命 。"],
 		"NAME": "初濑伊纲"
 	}
