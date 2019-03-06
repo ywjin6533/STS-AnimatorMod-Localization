@@ -115,9 +115,10 @@
 	},
 	"animator_Darkness":
 	{
-		"DESCRIPTION": "Whenever you take damage Upgrade !M! random card, prioritizing those in your hand.",
+		"DESCRIPTION": "Gain !M! [#EFC851]Plated [#EFC851]Armor. Whenever you take damage Upgrade !M! random card ([#EFC851]*[#FFFFFF]).",
+		"EXTENDED_DESCRIPTION": ["* Note", "It will prioritize cards in your hand."],
 		"NAME": "Darkness",
-		"UPGRADE_DESCRIPTION": "Whenever you take damage Upgrade !M! random cards, prioritizing those in your hand."
+		"UPGRADE_DESCRIPTION": "Gain !M! [#EFC851]Plated [#EFC851]Armor. Whenever you take damage Upgrade !M! random cards ([#EFC851]*[#FFFFFF])."
 	},
 	"animator_Defend":
 	{
@@ -391,9 +392,9 @@
 	},
 	"animator_Mikaela":
 	{
-		"DESCRIPTION": "Deal !D! damage Twice. Exhaust a random card in your discard pile.",
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Poison. NL Exhaust a random card in your discard pile.",
 		"NAME": "Mikaela",
-		"UPGRADE_DESCRIPTION": "Deal !D! damage Twice. Choose and Exhaust a card in your discard pile."
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Apply !M! Poison. NL Choose and Exhaust a card in your discard pile."
 	},
 	"animator_Mitsuba":
 	{
@@ -415,9 +416,9 @@
 	},
 	"animator_NarberalGamma":
 	{
-		"DESCRIPTION": "Channel !M! Lightning. Next turn, gain [B]. Shapeshifter.",
+		"DESCRIPTION": "Channel !M! Lightning. Shapeshifter.",
 		"NAME": "Gamma Narberal",
-		"UPGRADE_DESCRIPTION": "Channel !M! Lightning. Next turn, gain [B]. Shapeshifter. NL Synergy: Gain 1 Orb slot."
+		"UPGRADE_DESCRIPTION": "Channel !M! Lightning. Shapeshifter. NL Synergy: Gain 1 Orb slot."
 	},
 	"animator_PandorasActor":
 	{

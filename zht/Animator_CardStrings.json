@@ -115,9 +115,10 @@
 	},
 	"animator_Darkness":
 	{
-		"DESCRIPTION": "每次受傷時隨機 升級 !M! 張卡 ， 以手牌優先 。",
+		"DESCRIPTION": "獲得 !M! 層 [#EFC851]多層護甲[] 。 每次受傷時隨機 升級 !M! 張卡 ， 以手牌優先 。",
+		"EXTENDED_DESCRIPTION": ["",""],
 		"NAME": "達克尼斯",
-		"UPGRADE_DESCRIPTION": "每次受傷時隨機 升級 !M! 張卡 ， 以手牌優先 。"
+		"UPGRADE_DESCRIPTION": "獲得 !M! 層 [#EFC851]多層護甲[] 。 每次受傷時隨機 升級 !M! 張卡 ， 以手牌優先 。"
 	},
 	"animator_Defend":
 	{
@@ -389,9 +390,9 @@
 	},
 	"animator_Mikaela":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 兩次 。 從你的棄牌堆中隨機 消耗 一張牌 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 給予 !M! 層 中毒 。 從你的棄牌堆中隨機 消耗 一張牌 。",
 		"NAME": "米迦爾",
-		"UPGRADE_DESCRIPTION": "造成 !D! 點傷害兩次 。 從你的棄牌堆中選擇並 消耗 一張牌 。"
+		"UPGRADE_DESCRIPTION": "造成 !D! 點 傷害 。 給予 !M! 層 中毒 。 從你的棄牌堆中選擇並 消耗 一張牌 。"
 	},
 	"animator_Mitsuba":
 	{
@@ -413,9 +414,9 @@
 	},
 	"animator_NarberalGamma":
 	{
-		"DESCRIPTION": "生成 !M! 個閃電充能球 。 下回合 , 獲得 [B] 。 NL 變形者 。",
+		"DESCRIPTION": "生成 !M! 個閃電充能球 。 NL 變形者 。",
 		"NAME": "娜貝拉爾·伽瑪",
-		"UPGRADE_DESCRIPTION": "生成 !M! 個閃電充能球 。 下回合 , 獲得 [B] 。 NL 變形者 。 同調 : 獲得一個充能球欄位 。"
+		"UPGRADE_DESCRIPTION": "生成 !M! 個閃電充能球 。 NL 變形者 。 同調 : 獲得一個充能球欄位 。"
 	},
 	"animator_PandorasActor":
 	{
@@ -536,7 +537,7 @@
 	},
 	"animator_Tyuule":
 	{
-		"DESCRIPTION": "手牌中每有一張 [#EFC851]技能牌[] ， 給予一個敵人 !M! 層 中毒 。 NL (給予 !SV! 層 中毒 )",
+		"DESCRIPTION": "手牌中每有一張 [#EFC851]技能牌[] ， 給予一個敵人 !M! 層 中毒 。 NL ( 給予 !SV! 層 中毒 )",
 		"NAME": "蒂尤蕾"
 	},
 	"animator_Urushihara":

@@ -62,7 +62,7 @@
 	},
 	"animator_Azekura":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 2 次 。 NL 同调 : 获得 !M! 点 [#EFC851]多层护甲[]  。",
+		"DESCRIPTION": "获得 !B! 点 格挡 2 次 。 NL 同调 : 获得 !M! 点 [#EFC851]多层护甲[] 。",
 		"NAME": "校仓必"
 	},
 	"animator_Berserker":
@@ -115,9 +115,10 @@
 	},
 	"animator_Darkness":
 	{
-		"DESCRIPTION": "每次受伤时随机 升级 !M! 张卡 ， 手牌优先 。",
+		"DESCRIPTION": "获得 !M! 点 [#EFC851]多层护甲[] 。 每次受伤时随机 升级 !M! 张卡 ， 手牌优先 。",
+		"EXTENDED_DESCRIPTION": ["",""],
 		"NAME": "达克尼斯",
-		"UPGRADE_DESCRIPTION": "每次受伤时随机 升级 !M! 张卡 , 手牌优先 。"
+		"UPGRADE_DESCRIPTION": "获得 !M! 点 [#EFC851]多层护甲[] 。 每次受伤时随机 升级 !M! 张卡 , 手牌优先 。"
 	},
 	"animator_Defend":
 	{
@@ -391,9 +392,9 @@
 	},
 	"animator_Mikaela":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 两次 。 从你的弃牌堆中随机 消耗 一张牌 。",
+		"DESCRIPTION": "造成 !D! 点 伤害。 给予 !M! 层 中毒 。 从你的弃牌堆中随机 消耗 一张牌 。",
 		"NAME": "米迦尔",
-		"UPGRADE_DESCRIPTION": "造成 !D! 点伤害两次 。 从你的弃牌堆中选择并 消耗 一张牌 。"
+		"UPGRADE_DESCRIPTION": "造成 !D! 点 伤害。 给予 !M! 层 中毒 。 从你的弃牌堆中选择并 消耗 一张牌 。"
 	},
 	"animator_Mitsuba":
 	{
@@ -415,9 +416,9 @@
 	},
 	"animator_NarberalGamma":
 	{
-		"DESCRIPTION": "生成 !M! 个闪电 充能球 。 下回合 , 获得 [B] 。 NL 穿越者 。",
+		"DESCRIPTION": "生成 !M! 个闪电 充能球 。 NL 穿越者 。",
 		"NAME": "娜贝拉尔·伽玛",
-		"UPGRADE_DESCRIPTION": "生成 !M! 个闪电 充能球 。 下回合 , 获得 [B] 。 NL 穿越者 。 同调 : 获得一个充能球栏位 。"
+		"UPGRADE_DESCRIPTION": "生成 !M! 个闪电 充能球 。 NL 穿越者 。 同调 : 获得一个充能球栏位 。"
 	},
 	"animator_PandorasActor":
 	{
