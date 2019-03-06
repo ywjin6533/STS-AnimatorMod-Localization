@@ -98,9 +98,9 @@
 	},
 	"animator_Chris":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害。 NL [#EFC851]偷[] 了那么多金币 [#EFC851]*[] 。",
-		"EXTENDED_DESCRIPTION" : ["* 注", "你不能从老板那里偷取超过 50 金币 ， 从精英中偷取 25 金币 ， 或从其他非奴才敌人那里偷取 10 金币 。"],
-		"NAME": "Chris"
+		"DESCRIPTION": "造成 !D! 点 伤害。[#EFC851]获得等同于伤害值的金币[] [#EFC851]*[] 。",
+		"EXTENDED_DESCRIPTION" : ["* 注", "若目标是boss，最多偷 50 金币 ； 若是精英中，最多偷取 25 金币 ； 若是非爪牙，则最多偷取 10 金币 。"],
+		"NAME": "克里斯"
 	},
 	"animator_Chung":
 	{
@@ -600,13 +600,13 @@
 	},
 	"animator_Tet":
 	{
-		"DESCRIPTION": "在你的抽牌堆堆中选择 !M! 张牌 。 在弃牌堆中用 !M! 张牌交换它们 。",
-		"NAME": "Tet"
+		"DESCRIPTION": "在你的抽牌堆中选择 !M! 张牌 。 在弃牌堆中用 !M! 张牌与它们交换 。",
+		"NAME": "特图"
 	},
 	"animator_IzunaHatsuse":
 	{
-		"DESCRIPTION": "[#EFC851]blood [#EFC851]destruction[] 。 NL 抽 1 张牌 。 NL 同调 : 获得 !B! 点 格挡 。",
-		"EXTENDED_DESCRIPTION": ["blood destruction", "当你的HP低于25％时，这张卡将成为一个特殊的0成本 #y攻击 。", "造成 !D! 点 伤害 两次 。 NL 恢复 !M! 点 生命 。"],
-		"NAME": "Izuna Hatsuse"
+		"DESCRIPTION": "[#EFC851]血坏[] 。 NL 抽 1 张牌 。 NL 同调 : 获得 !B! 点 格挡 。",
+		"EXTENDED_DESCRIPTION": ["血坏", "自身HP低于25％时，这张卡将变为一个特殊的0耗 #y攻击 。", "造成 !D! 点 伤害 两次 。 NL 恢复 !M! 点 生命 。"],
+		"NAME": "初濑伊纲"
 	}
 }
