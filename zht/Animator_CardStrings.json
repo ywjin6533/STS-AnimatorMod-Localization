@@ -100,7 +100,7 @@
 	{
 		"DESCRIPTION": "造成 !D! 點傷害 。 NL [#EFC851]獲得等同於傷害值的金幣 [#EFC851]*[] 。",
 		"EXTENDED_DESCRIPTION" : ["* 注", "首領最多偷取 50 金幣 ， 從精英最多偷取 25 金幣 ， 從其他非爪牙敵人最多偷取 10 金幣 。"],
-		"NAME": "Chris"
+		"NAME": "克里斯"
 	},
 	"animator_Chung":
 	{
