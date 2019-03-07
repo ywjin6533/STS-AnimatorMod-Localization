@@ -110,7 +110,7 @@
 	"animator_Chris":
 	{
 		"DESCRIPTION": "Deal !D! damage. NL [#EFC851]Steal Gold equal to this card's damage ([#EFC851]*[#FFFFFF]).",
-		"EXTENDED_DESCRIPTION": ["* Note", "You cannot steal more than 50 Gold from a boss, 25 Gold from an elite, or 10 gold from other non-minion enemies."],
+		"EXTENDED_DESCRIPTION": ["* Note", "You can steal up to 50 Gold from a boss, 25 Gold from an elite, or 10 gold from other non-minion enemies."],
 		"NAME": "Chris"
 	},
 	"animator_Chung":
@@ -197,6 +197,11 @@
 		"NAME": "Elsword",
 		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Cycle !M! cards."
 	},
+	"animator_EmiyaShirou":
+	{
+		"DESCRIPTION": "Give a random enemy !M! Block and Vulnerable. Whenever you Overrun this turn, gain [B] and draw a random [#EFC851]Attack.",
+		"NAME": "Emiya Shirou"
+	},
 	"animator_Emonzaemon":
 	{
 		"DESCRIPTION": "Deal !D! damage. If this is your 3rd [#EFC851]Attack in a row, Purge this and obtain [#EFC851]Entou [#EFC851]Jyuu.",
@@ -254,7 +259,7 @@
 	},
 	"animator_Gillette":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. NL Legacy: Apply !M! Weak to ALL enemies.",
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. NL Legacy: Remove all of your debuffs.",
 		"NAME": "Gillette"
 	},
 	"animator_Gluttony":
@@ -322,9 +327,9 @@
 	},
 	"animator_HighElfArcher":
 	{
-		"DESCRIPTION": "Deal !D! Piercing damage twice. If you haven't played other copies of this card this turn, draw !M! card.",
+		"DESCRIPTION": "Deal !D! Piercing damage. If you haven't played other copies of this card this turn, draw !M! card.",
 		"NAME": "'High Elf Archer'",
-		"UPGRADE_DESCRIPTION": "Deal !D! Piercing damage twice. If you haven't played other copies of this card this turn, draw !M! cards."
+		"UPGRADE_DESCRIPTION": "Deal !D! Piercing damage. If you haven't played other copies of this card this turn, draw !M! cards."
 	},
 	"animator_Hitei":
 	{
