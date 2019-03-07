@@ -30,9 +30,9 @@
 	},
 	"animator_Ainz":
 	{
-		"DESCRIPTION": "Costs 1 less each turn. At the start of your turn, choose 1 of 3 [#EFC851]Special [#EFC851]Effects.",
+		"DESCRIPTION": "Costs 1 less each turn. At the start of your turn, activate 1 of 4 random [#EFC851]Effects.",
 		"NAME": "Ainz Ooal Gown",
-		"UPGRADE_DESCRIPTION": "Costs 1 less each turn. At the start of your turn, choose 1 of 3 improved [#EFC851]Special [#EFC851]Effects."
+		"UPGRADE_DESCRIPTION": "Costs 1 less each turn. At the start of your turn, activate 1 of 4 random Upgraded [#EFC851]Effects."
 	},
 	"animator_Aisha":
 	{
@@ -254,7 +254,7 @@
 	},
 	"animator_Gillette":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. NL Legacy: ALL enemies lose 1 Strength.",
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. NL Legacy: Apply !M! Weak to ALL enemies.",
 		"NAME": "Gillette"
 	},
 	"animator_Gluttony":
@@ -306,7 +306,7 @@
 		"DESCRIPTION": "Exhaust a random [#EFC851]Attack in your draw pile. Turn its current damage into [#EFC851]Support [#EFC851]Damage.",
 		"EXTENDED_DESCRIPTION": ["Support Damage", "Deal damage to the enemy with lowest HP at the end of each turn."],
 		"NAME": "Guren",
-		"UPGRADE_DESCRIPTION": "Retain. Exhaust a random [#EFC851]Attack in your draw pile. Turn its current damage into [#EFC851]Support [#EFC851]Damage."
+		"UPGRADE_DESCRIPTION": "Exhaust a random [#EFC851]Attack in your draw pile. Turn its current damage into Block and [#EFC851]Support [#EFC851]Damage."
 	},
 	"animator_Guy":
 	{
@@ -328,7 +328,7 @@
 	},
 	"animator_Hitei":
 	{
-		"DESCRIPTION": "At the start of your turn gain !M! Gold then choose and Exhaust 1 of 3 random cards in your deck ([#EFC851]*[#FFFFFF]).",
+		"DESCRIPTION": "At the start of your turn gain !M! Gold then choose and Exhaust 1 of 2 random cards in your deck ([#EFC851]*[#FFFFFF]).",
 		"EXTENDED_DESCRIPTION": ["* Note", "You cannot gain more than 100 Gold per combat. Stacking this power increases the gold cap a little."],
 		"NAME": "Hitei"
 	},
@@ -381,10 +381,10 @@
 	},
 	"animator_Layla":
 	{
-		"DESCRIPTION": "[#EFC851]Reload: Deal !D! damage.",
+		"DESCRIPTION": "[#EFC851]Reload: Deal !D! damage. NL Synergy: Draw 1 card.",
 		"EXTENDED_DESCRIPTION": ["Reload", "Discard any number of cards, activate this effect that many times."],
 		"NAME": "Layla",
-		"UPGRADE_DESCRIPTION": "[#EFC851]Reload: Deal !D! Piercing damage."
+		"UPGRADE_DESCRIPTION": "[#EFC851]Reload: Deal !D! Piercing damage. NL Synergy: Draw 1 card."
 	},
 	"animator_LeleiLaLalena":
 	{
@@ -429,7 +429,7 @@
 		"DESCRIPTION": "Execute an [#EFC851]Effect to counter the enemy intent.",
 		"EXTENDED_DESCRIPTION": ["Deal !D! Damage.", "Gain !B! Block.", "Gain # Strength.", "Apply # Weak.", "Apply # Vulnerable.", "Stun the enemy.", "Channel 1 Lightning.", "Channel 1 Dark.", "Channel 1 Frost.", "Apply !M! Poison.", "Gain [B]", "Gain !M! Temporary HP.", "Draw !M! cards."],
 		"NAME": "Nanami",
-		"UPGRADE_DESCRIPTION": "Execute an improved [#EFC851]Effect to counter the enemy intent."
+		"UPGRADE_DESCRIPTION": "Execute an Upgraded [#EFC851]Effect to counter the enemy intent."
 	},
 	"animator_NarberalGamma":
 	{
@@ -509,7 +509,8 @@
 	},
 	"animator_Shigure":
 	{
-		"DESCRIPTION": "Deal !D! damage. Costs 0 if you exhausted a card this turn. Legacy: Gain 1 Dexterity.",
+		"DESCRIPTION": "Deal !D! damage. NL Synergy and Legacy: Gain !M! [#EFC851]Support [#EFC851]Damage.",
+		"EXTENDED_DESCRIPTION": ["Support Damage", "Deal damage to the enemy with lowest HP at the end of each turn."],
 		"NAME": "Shigure"
 	},
 	"animator_Shimakaze":
@@ -555,7 +556,7 @@
 	},
 	"animator_Tet":
 	{
-		"DESCRIPTION": "Choose !M! cards in your draw pile. Swap them with !M! cards in your discard pile.",
+		"DESCRIPTION": "Choose up to !M! cards in your draw pile. Swap them with cards in your discard pile.",
 		"NAME": "Tet"
 	},
 	"animator_Togame":
@@ -571,7 +572,7 @@
 	},
 	"animator_Tyuule":
 	{
-		"DESCRIPTION": "Apply !M! Poison to an enemy for each other [#EFC851]Skill in your hand. NL (Apply !SV! Poison)",
+		"DESCRIPTION": "Apply !M! Poison to ALL enemies for each other [#EFC851]Skill in your hand. NL (Apply !SV! Poison)",
 		"NAME": "Tyuule"
 	},
 	"animator_Urushihara":
