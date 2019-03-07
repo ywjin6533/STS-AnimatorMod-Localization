@@ -1,7 +1,7 @@
 {
 	"animator_AinzPower":
 	{
-		"DESCRIPTIONS": ["你的回合開始時加入 #b張", " 隨機 #y威#y力 #y型#y態 到手中."],
+		"DESCRIPTIONS": ["at the start of your turn activate 1 of 4 random effects #b", " time/s."],
 		"NAME": "安兹·烏爾·恭"
 	},
 	"animator_ArcherPower":

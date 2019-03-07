@@ -30,9 +30,9 @@
 	},
 	"animator_Ainz":
 	{
-		"DESCRIPTION": "每回合減少 1 點耗能。在你的回合開始時，從三個[#EFC851]特殊效果[]中選擇一個。",
+		"DESCRIPTION": "每回合減少 1 點耗能。在你的回合開始時， 從四個 [#EFC851]特殊效果[] 中選擇一個。",
 		"NAME": "安茲·烏爾·恭",
-		"UPGRADE_DESCRIPTION": "每回合減少 1 點耗能。在你的回合開始時，從三個強化的[#EFC851]特殊效果[]中選擇一個。"
+		"UPGRADE_DESCRIPTION": "每回合減少 1 點耗能。在你的回合開始時， 從四個強化的 [#EFC851]特殊效果[] 中選擇一個。"
 	},
 	"animator_Aisha":
 	{
@@ -254,7 +254,7 @@
 	},
 	"animator_Gillette":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 給予 !M! 層 虛弱 。 遺產 : 對血量最多的敵人造成 眩暈 效果 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 給予 !M! 層 虛弱 。 遺產 : 給予所有敵人 !M! 層 虛弱 。",
 		"NAME": "亞伯力克·基烈特"
 	},
 	"animator_Gluttony":
@@ -379,10 +379,10 @@
 	},
 	"animator_Layla":
 	{
-		"DESCRIPTION": "[#EFC851]重新裝填[] : 造成 !D! 點 傷害 。",
+		"DESCRIPTION": "[#EFC851]重新裝填[] : 造成 !D! 點 傷害 。 NL 同調 : 抽一張牌 。",
 		"EXTENDED_DESCRIPTION": ["重新裝填", "丟棄任意數量的牌 ，觸發同等次數 。"],
 		"NAME": "蕾拉",
-		"UPGRADE_DESCRIPTION": "[#EFC851]重新裝填[] : 造成 !D! 穿刺 點 傷害 。"
+		"UPGRADE_DESCRIPTION": "[#EFC851]重新裝填[] : 造成 !D! 穿刺 點 傷害 。 NL 同調 : 抽一張牌 。"
 	},
 	"animator_LeleiLaLalena":
 	{
@@ -507,7 +507,8 @@
 	},
 	"animator_Shigure":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害。如果這回合有消耗卡牌號能變為0。遺產 : 獲得 1 點敏捷。",
+		"DESCRIPTION": "造成 !D! 點傷害。 遺產 和 同調 : 獲得 1 點 [#EFC851]支援[] 。",
+		"EXTENDED_DESCRIPTION": ["支援", "回合結束時對生命值較低的敵人造成轉換的傷害"],
 		"NAME": "時雨"
 	},
 	"animator_Shimakaze":
@@ -569,7 +570,7 @@
 	},
 	"animator_Tyuule":
 	{
-		"DESCRIPTION": "手牌中每有一張 [#EFC851]技能牌[] ， 給予一個敵人 !M! 層 中毒 。 NL ( 給予 !SV! 層 中毒 )",
+		"DESCRIPTION": "手牌中每有一張 [#EFC851]技能牌[] ， 給予所有敵人 !M! 層 中毒 。 NL ( 給予 !SV! 層 中毒 )",
 		"NAME": "蒂尤蕾"
 	},
 	"animator_Urushihara":
