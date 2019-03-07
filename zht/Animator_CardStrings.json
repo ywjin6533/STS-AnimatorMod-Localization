@@ -30,9 +30,9 @@
 	},
 	"animator_Ainz":
 	{
-		"DESCRIPTION": "Costs 1 less each turn. At the start of your turn, choose 1 of 3 [#EFC851]Special [#EFC851]Effects.",
+		"DESCRIPTION": "每回合減少 1 點耗能。在你的回合開始時，從三個[#EFC851]特殊效果[]中選擇一個。",
 		"NAME": "安茲·烏爾·恭",
-		"UPGRADE_DESCRIPTION": "Costs 1 less each turn. At the start of your turn, choose 1 of 3 improved [#EFC851]Special [#EFC851]Effects."
+		"UPGRADE_DESCRIPTION": "每回合減少 1 點耗能。在你的回合開始時，從三個強化的[#EFC851]特殊效果[]中選擇一個。"
 	},
 	"animator_Aisha":
 	{
@@ -507,8 +507,8 @@
 	},
 	"animator_Shigure":
 	{
-		"DESCRIPTION": "Deal !D! damage. Costs 0 if you exhausted a card this turn. Legacy: Gain 1 Dexterity.",
-		"NAME": "Shigure"
+		"DESCRIPTION": "造成 !D! 點傷害。如果這回合有消耗卡牌號能變為0。遺產 : 獲得 1 點敏捷。",
+		"NAME": "時雨"
 	},
 	"animator_Shimakaze":
 	{
