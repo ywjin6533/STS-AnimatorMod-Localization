@@ -199,8 +199,8 @@
 	},
 	"animator_EmiyaShirou":
 	{
-		"DESCRIPTION": "Give a random enemy !M! Block and Vulnerable. Whenever you Overrun this turn, gain [B] and draw a random [#EFC851]Attack.",
-		"NAME": "Emiya Shirou"
+		"DESCRIPTION": "給予一個隨機敵人 !M! 點格擋 和 虛弱。本回合，打破格擋時獲得 [B] 和抽一張 隨機[#EFC851]攻擊牌[]。",
+		"NAME": "衛宮四郎"
 	},
 	"animator_Emonzaemon":
 	{
@@ -311,7 +311,7 @@
 		"DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將傷害轉換到 [#EFC851]支援[] 中 。",
 		"EXTENDED_DESCRIPTION": ["支援", "回合結束時對生命值較低的敵人造成轉換的傷害"],
 		"NAME": "紅蓮",
-		"UPGRADE_DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 将其伤害转换为等量 格擋 并预存到 [#EFC851]支援[] 中 。"
+		"UPGRADE_DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將傷害轉為 格擋 並預存到[#EFC851]支援[] 中 。"
 	},
 	"animator_Guy":
 	{
