@@ -199,9 +199,9 @@
 	},
 	"animator_EmiyaShirou":
 	{
-		"DESCRIPTION": "给予随机目标 !M! 点 格挡 与 虚弱 。 [#EFC851]無限刀片工作[] 。",
-		"EXTENDED_DESCRIPTION": ["無限刀片工作", "本回合， 每當打破任意目標的 格擋 時, 獲得 1點能量並抽一張 #y攻擊 牌 。 該效果不疊加 。"],
-		"NAME": "衛宮士郎"
+		"DESCRIPTION": "給予一個隨機敵人 !M! 點格擋 和 易傷 。 [#EFC851]無限刀片工作[] 。",
+		"EXTENDED_DESCRIPTION": ["無限刀片工作", "本回合， 本回合，打破格擋時獲得 1 點 #y能量 和抽一張 隨機 #y攻擊牌 。 該效果不疊加 。"],
+		"NAME": "衛宮四郎"
 	},
 	"animator_Emonzaemon":
 	{
@@ -312,7 +312,7 @@
 		"DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將傷害轉換到 [#EFC851]支援[] 中 。",
 		"EXTENDED_DESCRIPTION": ["支援", "回合結束時對生命值較低的敵人造成轉換的傷害"],
 		"NAME": "紅蓮",
-		"UPGRADE_DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 将其伤害转换为等量 格擋 并预存到 [#EFC851]支援[] 中 。"
+		"UPGRADE_DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將傷害轉為 格擋 並預存到[#EFC851]支援[] 中 。"
 	},
 	"animator_Guy":
 	{
