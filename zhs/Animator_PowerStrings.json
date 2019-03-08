@@ -90,6 +90,11 @@
 		"DESCRIPTIONS": ["???"],
 		"NAME": "???"
 	},
+	"animator_EmiyaShirouPower":
+	{
+		"DESCRIPTIONS": ["每当打破任意目标的 格挡 时, 获得 1点能量并抽一张 #y攻击 牌 。 该效果不叠加 。"],
+		"NAME": "无限刀片工作"
+	},
 	"animator_EnvyPower":
 	{
 		"DESCRIPTIONS": ["每回合打出的第一张 #b", " 牌 触发自身的 同调 效果."],

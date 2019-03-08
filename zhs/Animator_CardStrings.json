@@ -78,7 +78,7 @@
 	},
 	"animator_Berserker":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 压倒 : 获得 [B] [B] 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 压倒 : 获得 [B] NL 如果这张牌杀死了敌人，则获得 [B]",
 		"NAME": "Berserker"
 	},
 	"animator_Biyorigo":
@@ -199,7 +199,8 @@
 	},
 	"animator_EmiyaShirou":
 	{
-		"DESCRIPTION": "给予随机目标 !M! 点 格挡 与 虚弱 . 本回合，每当打破任意目标的 格挡 时, 获得 [B] 并抽一张 [#EFC851]攻击牌[]  .",
+		"DESCRIPTION": "给予随机目标 !M! 点 格挡 与 虚弱 。 [#EFC851]无限刀片工作[] 。",
+		"EXTENDED_DESCRIPTION": ["无限刀片工作", "本回合， 每当打破任意目标的 格挡 时, 获得 1点能量并抽一张 #y攻击 牌 。 该效果不叠加 。"],
 		"NAME": "卫宫士郎"
 	},
 	"animator_Emonzaemon":
@@ -315,7 +316,7 @@
 	},
 	"animator_Guy":
 	{
-		"DESCRIPTION": "给予一个敌人 !B! 点 格挡 ， 然后获得等同于目标的 格挡 值 。 同调 : 获得 1 个冰霜充能球 。",
+		"DESCRIPTION": "给予一个敌人 !B! 点 格挡 ， 然后获得等同于目标的 格挡 值 。 预热 !SV! : 获得 1 个冰霜充能球 。",
 		"NAME": "奇伊"
 	},
 	"animator_HigakiRinne":
@@ -414,9 +415,8 @@
 	},
 	"animator_Mikaela":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害。 给予 !M! 层 中毒 。 从你的弃牌堆中随机 消耗 一张牌 。",
-		"NAME": "米迦尔",
-		"UPGRADE_DESCRIPTION": "造成 !D! 点 伤害。 给予 !M! 层 中毒 。 从你的弃牌堆中选择并 消耗 一张牌 。"
+		"DESCRIPTION": "造成 !D! 点 伤害。 给予 !M! 层 中毒 。 鼓舞 !SV! : 从你的弃牌堆中选择并 消耗 一张牌 。",
+		"NAME": "米迦尔"
 	},
 	"animator_Mitsuba":
 	{
