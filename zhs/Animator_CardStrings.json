@@ -199,8 +199,8 @@
 	},
 	"animator_EmiyaShirou":
 	{
-		"DESCRIPTION": "Give a random enemy !M! Block and Vulnerable. Whenever you Overrun this turn, gain [B] and draw a random [#EFC851]Attack.",
-		"NAME": "Emiya Shirou"
+		"DESCRIPTION": "给予随机目标 !M! 点 格挡 与 虚弱 . 本回合，每当打破任意目标的 格挡 时, 获得 [B] 并抽一张 [#EFC851]攻击牌[]  .",
+		"NAME": "卫宫士郎"
 	},
 	"animator_Emonzaemon":
 	{
@@ -311,7 +311,7 @@
 		"DESCRIPTION": "从抽牌堆随机 消耗 一张 [#EFC851]攻击[] 牌 。 将其伤害预存到 [#EFC851]支援[] 中 。",
 		"EXTENDED_DESCRIPTION": ["支援", "回合结束时对生命值较低的敌人造成预存的伤害"],
 		"NAME": "红莲",
-		"UPGRADE_DESCRIPTION": "从抽牌堆随机 消耗 一张 [#EFC851]攻击[] 牌 。 将其伤害预存到 格挡 和 [#EFC851]支援[] 中 。"
+		"UPGRADE_DESCRIPTION": "从抽牌堆随机 消耗 一张 [#EFC851]攻击[] 牌 。 将其伤害转换为等量 格挡 ，并预存到 [#EFC851]支援[] 中 。"
 	},
 	"animator_Guy":
 	{
@@ -514,7 +514,7 @@
 	},
 	"animator_Shigure":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 同调 和 遗赠 : 獲得 !M! 點 [#EFC851]支援[] 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 同调 或 遗赠 : 预存 !M! 点伤害到 [#EFC851]支援[] 。",
 		"EXTENDED_DESCRIPTION": ["支援", "回合结束时对生命值较低的敌人造成预存的伤害"],
 		"NAME": "时雨"
 	},
