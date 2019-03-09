@@ -61,7 +61,7 @@
 	},
 	"animator_RoryMercuryPower":
 	{
-		"DESCRIPTIONS": ["這回合你下一次攻擊", " 造成兩倍傷害。"],
+		"DESCRIPTIONS": ["你的攻擊本輪會造成 #b", " % 更多傷害。"],
 		"NAME": "蘿莉·麥丘利-"
 	},
 	"animator_SupportDamagePower":
