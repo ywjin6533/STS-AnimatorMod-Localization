@@ -4,6 +4,21 @@
 		"DESCRIPTION": "Shapeshifter. Deal !D! Damage. Legacy: Transform a card in your draw pile into a copy of this card.",
 		"NAME": "Vanir"
 	},
+	"animator_CowGirl":
+	{
+		"DESCRIPTION": "Gain !! Temporary HP. NL Gain [B] NL Exhaust",
+		"NAME": "Cow Girl"
+	},
+	"animator_Zanki":
+	{
+		"DESCRIPTION": "Deal !D! Damage. NL Give the enemy !M! Block. NL Increase the damage of ALL attacks in your hand by !SV! this combat.",
+		"NAME": "Cow Girl"
+	},
+	"animator_Evileye":
+	{
+		"DESCRIPTION": "",
+		"NAME": "Evileye"
+	},
 	"animator_Pride":
 	{
 		"DESCRIPTION": "Deal !D! Damage. NL Channel !M! Dark. NL Pride.",
