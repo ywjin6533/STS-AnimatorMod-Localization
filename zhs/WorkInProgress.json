@@ -1,18 +1,18 @@
 {
 	"animator_Vanir":
 	{
-		"DESCRIPTION": "Shapeshifter. Deal !D! Damage. Legacy: Transform a card in your draw pile into a copy of this card.",
+		"DESCRIPTION": "穿越者. 造成 !D! 点伤害. 遗赠: 将手牌中的一张牌变为这张牌的复制.",
 		"NAME": "Vanir"
 	},
 	"animator_CowGirl":
 	{
-		"DESCRIPTION": "Gain !! Temporary HP. NL Gain [B] NL Exhaust",
-		"NAME": "Cow Girl"
+		"DESCRIPTION": "获得 !! 点临时 生命 . NL 获得 [B] ，NL 消耗",
+		"NAME": "奶牛妹"
 	},
 	"animator_Zanki":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL Give the enemy !M! Block. NL Increase the damage of ALL attacks in your hand by !SV! this combat.",
-		"NAME": "Cow Girl"
+		"DESCRIPTION": "造成 !D! 点伤害. NL 给予目标 !M! 点格挡. NL 本次战斗中，提高手牌中所有攻击牌的伤害 !SV! 点.",
+		"NAME": "Zanki"
 	},
 	"animator_Evileye":
 	{
@@ -21,19 +21,19 @@
 	},
 	"animator_Pride":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL Channel !M! Dark. NL Pride.",
-		"EXTENDED_DESCRIPTION": ["Pride", "Until your next turn, when you would take unblocked damage, your highest damage Dark Orb loses that much damage instead."],
+		"DESCRIPTION": "造成 !D! 点伤害. NL 获得 !M! 个 黑暗充能球. NL 傲慢.",
+		"EXTENDED_DESCRIPTION": ["傲慢", "直到你的下个回合, 当你受到格挡外的伤害时, 你的伤害最高的黑暗充能球抵消这个伤害并损失同等的伤害充能."],
 		"NAME": "Pride"
 	},
 	"animator_CrowleyEusford":
 	{
-		"DESCRIPTION": "Take !D! Damage. NL If this card is discarded increase its damage by !M! this combat.",
+		"DESCRIPTION": "造成 !D! 点伤害. NL 若这张牌被丢弃，在本次战斗中提高其 !M! 点伤害.",
 		"NAME": "Crowley Eusford"
 	},
 	"animator_ShinyaHiiragi":
 	{
-		"DESCRIPTION": "Deal 9 damage. Apply a random [#EFC851]Debuff.",
-		"UPGRADE_DESCRIPTION": "Deal 11 damage. Apply a random Upgraded [#EFC851]Debuff.",
+		"DESCRIPTION": "造成 9 点伤害. 给予目标一个随机的 [#EFC851]负面效果.",
+		"UPGRADE_DESCRIPTION": "造成 11 点伤害. 给予目标一个随机的强力 [#EFC851]负面效果.",
 		"NAME": "Hiiragi Shinya"
 	},
 }
