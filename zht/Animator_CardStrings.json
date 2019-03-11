@@ -68,7 +68,7 @@
 	},
 	"animator_Arpeggio":
 	{
-		"DESCRIPTION": "增強 !SV! : 獲得一個充能球欄位 。 如果增強為 0 ， 重置它 和 生成 1 個 電漿 充能球 。",
+		"DESCRIPTION": "增強 !SV! : 獲得一個充能球欄位 。 如果增強為 0 ， 重置 和 生成 1 個 電漿 充能球 。",
 		"NAME": "Arpeggio"
 	},
 	"animator_Asuramaru":
@@ -93,8 +93,8 @@
 	},
 	"animator_Bozes":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 每當一張牌在本回合中同調， 獲得 !M! 點 格擋 。",
-		"NAME": "Bozes"
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 每當一張牌在本回合中觸發同調， 獲得 !M! 點 格擋 。",
+		"NAME": "波賽斯"
 	},
 	"animator_Caster":
 	{
@@ -209,8 +209,8 @@
 	},
 	"animator_EmiyaShirou":
 	{
-		"DESCRIPTION": "給予一個隨機敵人 !M! 點格擋 和 易傷 。 [#EFC851]無限刀片工作[] 。",
-		"EXTENDED_DESCRIPTION": ["無限刀片工作", "本回合， 本回合，打破格擋時獲得 1 點 #y能量 和抽一張 隨機 #y攻擊牌 。 該效果不疊加 。"],
+		"DESCRIPTION": "給予一個隨機敵人 !M! 點格擋 和 易傷 。 [#EFC851]無限劍制[] 。",
+		"EXTENDED_DESCRIPTION": ["無限劍制", "本回合， 本回合，打破格擋時獲得 1 點 #y能量 和抽一張 隨機 #y攻擊牌 。 該效果不疊加 。"],
 		"NAME": "衛宮四郎"
 	},
 	"animator_Emonzaemon":
@@ -458,8 +458,8 @@
 	},
 	"animator_PinaCoLada":
 	{
-		"DESCRIPTION": "你每輪打的第一無耗能張牌打了兩次 。",
-		"UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 你每輪打的第一無耗能張牌打了兩次 。",
+		"DESCRIPTION": "你每輪打出的第一張無耗能張牌打出兩次 。",
+		"UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 你每輪打出的第一張無耗能張牌打出兩次 。",
 		"NAME": "平娜·戈·蘭達"
 	},
 	"animator_Priestess":
@@ -582,7 +582,7 @@
 	},
 	"animator_TukaLunaMarceau":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 通過 !M! 增加你手中一隨機牌的阻擋",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 這回合隨機提高手牌中的牌 !M! 點格擋。",
 		"NAME": "杜嘉"
 	},
 	"animator_Tyuule":
@@ -606,7 +606,7 @@
 	{
 		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 同調 : 給予 !M! 層 [#EFC851]燃燒[] NL 遺產 : 獲得1瓶隨機藥水 。",
 		"EXTENDED_DESCRIPTION": ["燃燒", "在你回合開始受到傷害，另外每層提供  4% 更多攻擊傷害。"],
-		"NAME": "巫婆"
+		"NAME": "魔女"
 	},
 	"animator_Wiz":
 	{

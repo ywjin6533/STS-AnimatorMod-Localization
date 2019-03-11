@@ -1,13 +1,13 @@
 {
 	"animator_Vanir":
 	{
-		"DESCRIPTION": "Shapeshifter. Deal !D! Damage. Legacy: Transform a card in your draw pile into a copy of this card.",
-		"NAME": "Vanir"
+		"DESCRIPTION": "型態轉換者. 造成 !D! 點傷害。遺產: 把抽牌堆裡的一張牌轉變成這張的複製牌。",
+		"NAME": "巴尼爾"
 	},
 	"animator_CowGirl":
 	{
-		"DESCRIPTION": "Gain !! Temporary HP. NL Gain [B] NL Exhaust",
-		"NAME": "Cow Girl"
+		"DESCRIPTION": "獲得 !! 臨時生命。 NL 獲得 [B] NL 消耗。",
+		"NAME": "牧牛妹"
 	},
 	"animator_Zanki":
 	{
@@ -21,9 +21,9 @@
 	},
 	"animator_Pride":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL Channel !M! Dark. NL Pride.",
-		"EXTENDED_DESCRIPTION": ["Pride", "Until your next turn, when you would take unblocked damage, your highest damage Dark Orb loses that much damage instead."],
-		"NAME": "Pride"
+		"DESCRIPTION": "造成 !D! 點傷害。 NL 生成 !M! 顆黑暗充能球。 NL 驕傲。",
+		"EXTENDED_DESCRIPTION": ["驕傲", "Until your next turn, when you would take unblocked damage, your highest damage Dark Orb loses that much damage instead."],
+		"NAME": "普萊德"
 	},
 	"animator_CrowleyEusford":
 	{
