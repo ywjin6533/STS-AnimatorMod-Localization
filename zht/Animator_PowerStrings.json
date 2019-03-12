@@ -109,6 +109,11 @@
 		"DESCRIPTIONS": ["每當一張牌在本回合中觸發同調， 獲得 #b", " 點 格擋 。"],
 		"NAME": "波賽斯·戈·芭蕾絲蒂"
 	},
+	"animator_PridePower":
+	{
+		"DESCRIPTIONS": ["直到你的下個回合 ， 當你受到格擋外的傷害時 ， 你的傷害的黑暗充能球抵消這個傷害並損失同等的傷害充能 。"],
+		"NAME": "Pride"
+	},
 	"animator_StolenGoldPower":
 	{
 		"DESCRIPTIONS": ["你偷了 #b", " 個金幣。 你可以再盜取 #b", " 個金幣。"],

@@ -105,6 +105,11 @@
 		"DESCRIPTIONS": ["每当一张牌在本回合中同调， 获得 #b", " 点 格挡 。"],
 		"NAME": "波赛斯·戈·芭蕾丝蒂"
 	},
+	"animator_PridePower":
+	{
+		"DESCRIPTIONS": ["直到你的下个回合 ， 当你受到格挡外的伤害时 ， 你的伤害的黑暗充能球抵消这个伤害并损失同等的伤害充能 。"],
+		"NAME": "Pride"
+	},
 	"animator_BurningPower":
 	{
 		"DESCRIPTIONS": ["在回合结束时受到 #b", " 点伤害。 额外受到 #b", "%  #y攻击 伤害。"],
