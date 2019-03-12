@@ -254,7 +254,7 @@
 	},
 	"animator_FeridBathory":
 	{
-		"DESCRIPTION": "每回合可触发一旦 ， 消耗 一张牌时 获得 1 点 力量 ， 治愈 2 点 生命 。",
+		"DESCRIPTION": "每回合可触发一次 ， 消耗 一张牌时 获得 1 点 力量 ， 治愈 2 点 生命 。",
 		"UPGRADE_DESCRIPTION": "每回合可触发两次 ， 消耗 一张牌时 获得 1 点 力量 ， 治愈 2 点 生命 。",
 		"NAME": "费里德·巴特利"
 	},
@@ -467,7 +467,7 @@
 	"animator_Priestess":
 	{
 		"DESCRIPTION": "鼓舞 !SV! : 获得 !M! 层 [#EFC851]再生[] 。 NL 同调 : 获得 !B! 点 临时生命 [#EFC851]*[] 。",
-		"EXTENDED_DESCRIPTION": ["* 注", "受块修饰符影响 。"],
+		"EXTENDED_DESCRIPTION": ["* 注", "受格挡修饰词影响 。"],
 		"NAME": "女神官"
 	},
 	"animator_Raven":
