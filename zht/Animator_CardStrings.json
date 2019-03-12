@@ -577,7 +577,7 @@
 	"animator_Togame":
 	{
 		"DESCRIPTION": "抽 !M! 張牌 。 NL 根據手上的牌數量觸發 [#EFC851]額外效果[] 。",
-		"EXTENDED_DESCRIPTION": ["額外效果", "#y7+ : 消耗 1 張牌  NL #y6 : 獲得 6 點 格擋 NL #y5 : 獲得 1 層 殘影 NL #y4 : 獲得 2 點 能量並且 NL 消耗 這張牌", "再見！！"],
+		"EXTENDED_DESCRIPTION": ["額外效果", "#y7+ : 消耗 1 張牌  NL #y6 : 獲得 6 點 格擋 NL #y5 : 獲得 1 層 殘影 NL #y4 : 獲得 2 點 能量並且 消耗 這張牌", "再見！！"],
 		"NAME": "咎兒"
 	},
 	"animator_TukaLunaMarceau":
@@ -642,7 +642,7 @@
 		"DESCRIPTION": "獲得 !M! 臨時生命。 NL 獲得 [B] NL 消耗 。",
 		"NAME": "牧牛妹"
 	},
-	"animator_Zanki":
+	"animator_ZankiKiguchi":
 	{
 		"DESCRIPTION": "造成 !D! 點傷害. NL 壓倒 和 撤回 : 本次戰鬥中，提高手牌中所有攻擊牌的傷害 !SV! 點 。",
 		"NAME": "Zanki"
@@ -655,7 +655,7 @@
 	},
 	"animator_Pride":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害。 NL 生成 !M! 顆黑暗充能球 。 NL 普萊德 。",
+		"DESCRIPTION": "型態轉換者 。 [#EFC851]普萊德[] 。 賦予 !SV! 層 纏繞 。 NL 生成 !M! 顆黑暗充能球 。 NL 普萊德 。",
 		"EXTENDED_DESCRIPTION": ["普萊德", "直到你的下個回合 ， 當你受到格擋外的傷害時 ， 你的傷害的黑暗充能球抵消這個傷害並損失同等的傷害充能 。"],
 		"NAME": "普萊德"
 	},
@@ -666,8 +666,8 @@
 	},
 	"animator_HiiragiShinya":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 如果這是你本輪第一次進攻 ， 給予目標一個隨機的 [#EFC851]負面效果 。",
-		"UPGRADE_DESCRIPTION": "造成 !D! 點傷害 。 如果這是你本輪第一次進攻 ， 給予目標一個隨機的強力 [#EFC851]負面效果 。",
+		"DESCRIPTION": "造成 !D! 點傷害 。 如果這是你本輪第一次進攻 ， 給予目標一個隨機的 [#EFC851]負面效果[] 。",
+		"UPGRADE_DESCRIPTION": "造成 !D! 點傷害 。 如果這是你本輪第一次進攻 ， 給予目標一個隨機的強力 [#EFC851]負面效果[] 。",
 		"NAME": "Shinya Hiiragi"
 	}
 }

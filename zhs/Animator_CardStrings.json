@@ -633,8 +633,8 @@
 	},
 	"animator_HiiragiShinya":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害 。 如果这是你本轮第一次进攻 ， 给予目标一个随机的 [#EFC851]负面效果 。",
-		"UPGRADE_DESCRIPTION": "造成 !D! 点伤害 。 如果这是你本轮第一次进攻 ， 给予目标一个随机的强力 [#EFC851]负面效果 。",
+		"DESCRIPTION": "造成 !D! 点伤害 。 如果这是你本轮第一次进攻 ， 给予目标一个随机的 [#EFC851]负面效果[] 。",
+		"UPGRADE_DESCRIPTION": "造成 !D! 点伤害 。 如果这是你本轮第一次进攻 ， 给予目标一个随机的强力 [#EFC851]负面效果[] 。",
 		"NAME": "Shinya Hiiragi"
 	},
 	"animator_Vanir":
@@ -643,7 +643,7 @@
 		"EXTENDED_DESCRIPTION": ["巴尼尔", "如果这张卡被消耗了 ， 将手牌中的一张牌变为这张牌的复制 。"],
 		"NAME": "巴尼尔"
 	},
-	"animator_Zanki":
+	"animator_ZankiKiguchi":
 	{
 		"DESCRIPTION": "造成 !D! 点伤害. NL 压倒 和 撤回 : 本次战斗中，提高手牌中所有攻击牌的伤害 !SV! 点 。",
 		"NAME": "Zanki"
@@ -656,7 +656,7 @@
 	},
 	"animator_Pride":
 	{
-		"DESCRIPTION": "穿越者 。 傲慢 。 赋予 !M! 层 缠绕 。 NL 获得 !M! 个 黑暗充能球 。 NL 傲慢 。",
+		"DESCRIPTION": "穿越者 。 [#EFC851]傲慢[] 。 赋予 !SV! 层 缠绕 。 NL 获得 !M! 个 黑暗充能球 。",
 		"EXTENDED_DESCRIPTION": ["傲慢", "直到你的下个回合 ， 当你受到格挡外的伤害时 ， 你的伤害最高的黑暗充能球抵消这个伤害并损失同等的伤害充能 。"],
 		"NAME": "傲慢"
 	},
@@ -664,11 +664,6 @@
 	{
 		"DESCRIPTION": "对敌人和另一个随机敌人造成 !D! 点伤害 。 NL 撤回 : 在本次战斗中提高其 !M! 点 伤害 。",
 		"NAME": "Crowley Eusford"
-	},
-	"animator_CowGirl":
-	{
-		"DESCRIPTION": "获得 !M! 点 临时 生命 。 NL 获得 [B] NL 消耗 。",
-		"NAME": "奶牛妹"
 	},
 	"animator_Yuuichirou":
 	{
