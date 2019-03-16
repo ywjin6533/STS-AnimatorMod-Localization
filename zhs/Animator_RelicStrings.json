@@ -42,7 +42,7 @@
 		"FLAVOR": "爆裂魔法天下第一！ .......当然，需要时间准备.",
 		"DESCRIPTIONS":
 		[
-			"在同一场战斗中触发 7 #ySynergies 次同调时, 对所有敌人造成 14 点伤害."
+			"在同一场战斗中触发 7次 #y同调 时, 对所有敌人造成 14 点伤害."
 		]
 	},
 	"Animator_AlchemistGlove":
@@ -51,7 +51,7 @@
 		"FLAVOR": "使你可以通过一根手指控制火焰.",
 		"DESCRIPTIONS":
 		[
-			"每 3 回合, 给予所有敌人 2 #yBurning 层燃烧."
+			"每 3 回合, 给予所有敌人 2层 #y燃烧."
 		]
 	},
 	"Animator_HallowedScabbard":
