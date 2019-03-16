@@ -2,7 +2,7 @@
 {
 	"animator_AcuraAkari":
 	{
-		"DESCRIPTION": "Apply !M! Marks of Poison to an enemy.",
+		"DESCRIPTION": "Apply !M! Marks of Poison to an enemy. NL Recall: Deal !SV! damage to a random enemy.",
 		"NAME": "Akari"
 	},
 	"animator_AcuraShin":
@@ -36,7 +36,7 @@
 	},
 	"animator_Aisha":
 	{
-		"DESCRIPTION": "Put a random [#EFC851]Skill from your draw pile into your hand. Synergy: It costs !M! less this combat.",
+		"DESCRIPTION": "Discard 1 card. NL Fetch a [#EFC851]Skill from your draw pile, it costs !M! less this turn.",
 		"NAME": "Aisha"
 	},
 	"animator_Albedo":
@@ -244,7 +244,7 @@
 	},
 	"animator_Eve":
 	{
-		"DESCRIPTION": "When you activate a Synergy deal 1 damage to a random enemy and increase this damage by 1.",
+		"DESCRIPTION": "When you activate a Synergy deal !M! damage to a random enemy and increase this damage by 1.",
 		"NAME": "Eve"
 	},
 	"animator_Excalibur":
@@ -462,11 +462,11 @@
 	{
 		"DESCRIPTION": "The first [#EFC851]0-Cost card you play each turn is played twice.",
 		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL The first [#EFC851]0-Cost card you play each turn is played twice.",
-		"NAME": "Piña Co Lada"
+		"NAME": "Pina Co Lada"
 	},
 	"animator_Priestess":
 	{
-		"DESCRIPTION": "Boost !SV! : Gain !M! Regeneration. NL Synergy: Gain !B! temporary HP ([#EFC851]*[#FFFFFF]).",
+		"DESCRIPTION": "Boost !SV! : Gain !M! [#EFC851]Regeneration[]. NL Synergy: Gain !B! temporary HP ([#EFC851]*[#FFFFFF]).",
 		"EXTENDED_DESCRIPTION": ["* Note", "Affected by Block modifiers."],
 		"NAME": "'Priestess'"
 	},

@@ -2,7 +2,7 @@
 {
 	"animator_AcuraAkari":
 	{
-		"DESCRIPTION": "對一個敵人造成 !M! 毒 之 印記 。",
+		"DESCRIPTION": "對一個敵人造成 !M! 毒 之 印記 。 撤回 : 隨機對敵人造成 !D! 點傷害 。",
 		"NAME": "阿卡莉"
 	},
 	"animator_AcuraShin":
@@ -36,7 +36,7 @@
 	},
 	"animator_Aisha":
 	{
-		"DESCRIPTION": "從抽牌堆中加入一張 [#EFC851]技能[] 牌到手牌 。 同調 : 本次戰鬥中減少 !M! 點耗能 。",
+		"DESCRIPTION": "丟棄 1 張牌 。 從你的抽牌堆中取一 [#EFC851]技能[] 的牌， 本次戰鬥中減少 !M! 點耗能 。",
 		"NAME": "愛莎"
 	},
 	"animator_Albedo":
@@ -244,7 +244,7 @@
 	},
 	"animator_Eve":
 	{
-		"DESCRIPTION": "每當觸發一次 同調 ， 對隨機敵人造成 1 點傷害並增加這張牌 1 點傷害 。",
+		"DESCRIPTION": "每當觸發一次 同調 ， 對隨機敵人造成 !M! 點傷害並增加這張牌 1 點傷害 。",
 		"NAME": "伊芙"
 	},
 	"animator_Excalibur":

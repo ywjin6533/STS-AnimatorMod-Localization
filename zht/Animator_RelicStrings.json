@@ -26,5 +26,113 @@
 		[
 			"你可以 放逐 掉某些系列的牌使它們不再出現， 擊敗王之後使用次數會增加。", "去除系列"
 		]
+	},
+	"Animator_CerealBox":
+	{
+		"NAME": "Cereal Box",
+		"FLAVOR": "Whole Grain Guaranteed! Approved by Konayuki.",
+		"DESCRIPTIONS":
+		[
+			"Right Click to Heal #b1 HP. NL Starts at #b20 uses, gain #b5 uses when entering a shop room. NL You can store up to #b30 uses."
+		]
+	},
+	"Animator_WizardHat":
+	{
+		"NAME": "Wizard Hat",
+		"FLAVOR": "Explosion magic is the strongest magic. But that also means it takes time to prepare.",
+		"DESCRIPTIONS":
+		[
+			"Every time you activate 7 #ySynergies in a combat, deal 14 damage to ALL enemies."
+		]
+	},
+	"Animator_AlchemistGlove":
+	{
+		"NAME": "Alchemist Glove",
+		"FLAVOR": "Allows you to control fire with the snap of a finger.",
+		"DESCRIPTIONS":
+		[
+			"Every 3 turns, apply 2 #yBurning to ALL enemies."
+		]
+	},
+	"Animator_HallowedScabbard":
+	{
+		"NAME": "Hallowed Scabbard",
+		"FLAVOR": "The holder of the scabbard is granted potent healing, allowing for critical and fatal wound to be rapidly repaired.",
+		"DESCRIPTIONS":
+		[
+			"Once per combat, if you lose 15 HP or more in a turn, gain 5 #yRegeneration and 1 #yStrength."
+		]
+	},	
+	"Animator_RacePiece":
+	{
+		"NAME": "Race Piece",
+		"FLAVOR": "Did you see that coming Mr. Mind Reader? Checkmate.",
+		"DESCRIPTIONS":
+		[
+			"Choose 1 card, transform 3 cards in your deck into 3 random cards of the same series."
+		]
+	},
+	"Animator_PlumedHelmet":
+	{
+		"NAME": "Plumed Helmet",
+		"FLAVOR": "Goblins.",
+		"DESCRIPTIONS":
+		[
+			"Whenever you draw a curse or status, deal 3 damage to a random enemy."
+		]
+	},
+	"Animator_HeavyHalberd":
+	{
+		"NAME": "Heavy Halberd",
+		"FLAVOR": "Ruling over death means ruling over life. Death is the climax of life. To have the best death, you must honor life.",
+		"DESCRIPTIONS":
+		[
+			"Your #yAttacks deal 15% more damage."
+		]
+	},
+	"Animator_OldCoffin":
+	{
+		"NAME": "Old Coffin",
+		"FLAVOR": "Shocking Truth!",
+		"DESCRIPTIONS":
+		[
+			"Starting from your 4th turn, apply a random #yDebuff to a random enemy at the start of your turn."
+		]
+	},
+	"Animator_CursedBlade":
+	{
+		"NAME": "Cursed Blade",
+		"FLAVOR": "It draws strength from the blood of its user, truly fitting for a vampire.",
+		"DESCRIPTIONS":
+		[
+			"Whenever an attack deals unblocked damage, apply 1 Poison. Lose 1 Max HP at the end of each fight."
+		]
+	},
+	"Animator_BattleDrones":
+	{
+		"NAME": "Battle Drones",
+		"FLAVOR": "Engineering perfection.",
+		"DESCRIPTIONS":
+		[
+			"Every time you activate a synergy, deal 1 damage to a random enemy and gain 1 block."
+		]
+	},
+	"Animator_EngravedStaff":
+	{
+		"NAME": "Engraved Staff",
+		"FLAVOR": "One of the most treasured possessions of the Guild.",
+		"DESCRIPTIONS":
+		[
+			"At the end of your turn, retain your highest cost card, it costs 1 less until played."
+		]
+	},
+	"Animator_Buoy":
+	{
+		"NAME": "Buoy",
+		"FLAVOR": "When it comes to speed I'm the best there is, swift like the island breeze!",
+		"DESCRIPTIONS":
+		[
+			"Every 4 turns, gain 6 Block and give all enemies 2 Block."
+		]
 	}
 }
