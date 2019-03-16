@@ -29,110 +29,110 @@
 	},
 	"Animator_CerealBox":
 	{
-		"NAME": "Cereal Box",
-		"FLAVOR": "Whole Grain Guaranteed! Approved by Konayuki.",
+		"NAME": "穀物箱",
+		"FLAVOR": "保證後備補給! 由 凍空粉雪 提供.",
 		"DESCRIPTIONS":
 		[
-			"Right Click to Heal #b1 HP. NL Starts at #b20 uses, gain #b5 uses when entering a shop room. NL You can store up to #b30 uses."
+			"右鍵使用，治療 #b1 點血量. NL 初始獲得 #b20 次使用次數, 每次進入商店時獲得 #b5 次使用次數 . NL 最多存儲 #b30 次使用次數."
 		]
 	},
 	"Animator_WizardHat":
 	{
-		"NAME": "Wizard Hat",
-		"FLAVOR": "Explosion magic is the strongest magic. But that also means it takes time to prepare.",
+		"NAME": "巫師帽",
+		"FLAVOR": "爆裂魔法天下第一！ .......當然，需要時間準備.",
 		"DESCRIPTIONS":
 		[
-			"Every time you activate 7 #ySynergies in a combat, deal 14 damage to ALL enemies."
+			"在同一場戰鬥中觸發 7次 #y同調 時, 對所有敵人造成 #b14 點傷害."
 		]
 	},
 	"Animator_AlchemistGlove":
 	{
-		"NAME": "Alchemist Glove",
-		"FLAVOR": "Allows you to control fire with the snap of a finger.",
+		"NAME": "alchemist glove",
+		"FLAVOR": "使你可以通過一根手指控制火焰.",
 		"DESCRIPTIONS":
 		[
-			"Every 3 turns, apply 2 #yBurning to ALL enemies."
+			"每 #b3 回合, 给予所有敌人 #b2 层 #y燃烧."
 		]
 	},
 	"Animator_HallowedScabbard":
 	{
-		"NAME": "Hallowed Scabbard",
-		"FLAVOR": "The holder of the scabbard is granted potent healing, allowing for critical and fatal wound to be rapidly repaired.",
+		"NAME": "阿瓦隆",
+		"FLAVOR": "劍鞘的持有者被授予強力恢復能力,能夠迅速恢復致命傷.",
 		"DESCRIPTIONS":
 		[
-			"Once per combat, if you lose 15 HP or more in a turn, gain 5 #yRegeneration and 1 #yStrength."
+			"每場戰鬥可觸發一次, 當你再一次受傷中損失超過15點血量時, 獲得 #b5 層 #y再生 和 #b2 點 #y力量."
 		]
 	},	
 	"Animator_RacePiece":
 	{
-		"NAME": "Race Piece",
-		"FLAVOR": "Did you see that coming Mr. Mind Reader? Checkmate.",
+		"NAME": "race piece",
+		"FLAVOR": "你看到 Mr. Mind Reader 從那邊來了沒? 將死！",
 		"DESCRIPTIONS":
 		[
-			"Choose 1 card, transform 3 cards in your deck into 3 random cards of the same series."
+			"選擇一張牌, 將你的牌庫中的三張牌轉換為與選中牌同系列的三張隨機牌."
 		]
 	},
-	"Animator_PlumedHelmet":
+	"Animator_WornHelmet":
 	{
-		"NAME": "Plumed Helmet",
-		"FLAVOR": "Goblins.",
+		"NAME": "破碎的頭盔",
+		"FLAVOR": "哥布林.",
 		"DESCRIPTIONS":
 		[
-			"Whenever you draw a curse or status, deal 3 damage to a random enemy."
+			"每當你抽到詛咒牌或狀態牌時, 對一個隨機敵人造成 3 點傷害."
 		]
 	},
 	"Animator_HeavyHalberd":
 	{
-		"NAME": "Heavy Halberd",
-		"FLAVOR": "Ruling over death means ruling over life. Death is the climax of life. To have the best death, you must honor life.",
+		"NAME": "重戟",
+		"FLAVOR": "統治死亡即統治生命， 死即生之巔峰, 崇敬生命吧.",
 		"DESCRIPTIONS":
 		[
-			"Your #yAttacks deal 15% more damage."
+			"你的 #y攻擊牌 造成 #b15% 點額外傷害."
 		]
 	},
 	"Animator_OldCoffin":
 	{
-		"NAME": "Old Coffin",
-		"FLAVOR": "Shocking Truth!",
+		"NAME": "舊棺材",
+		"FLAVOR": "震驚的真相！",
 		"DESCRIPTIONS":
 		[
-			"Starting from your 4th turn, apply a random #yDebuff to a random enemy at the start of your turn."
+			"四回合後開始啟用，當你的回合開始時, 給予一個隨機敵人一層隨機的 #y負面效果."
 		]
 	},
 	"Animator_CursedBlade":
 	{
-		"NAME": "Cursed Blade",
-		"FLAVOR": "It draws strength from the blood of its user, truly fitting for a vampire.",
+		"NAME": "詛咒之刃",
+		"FLAVOR": "它從持有者的血液中汲取力量, 對一個吸血鬼來說再適合不過了.",
 		"DESCRIPTIONS":
 		[
-			"Whenever an attack deals unblocked damage, apply 1 Poison. Lose 1 Max HP at the end of each fight."
+			"每當一次攻擊 並造成傷害時, 恢復 #b2 點 生命 . 失去 #b50％ 的最大健康."
 		]
 	},
 	"Animator_BattleDrones":
 	{
-		"NAME": "Battle Drones",
-		"FLAVOR": "Engineering perfection.",
+		"NAME": "戰鬥無人機",
+		"FLAVOR": "完美的工程學造物.",
 		"DESCRIPTIONS":
 		[
-			"Every time you activate a synergy, deal 1 damage to a random enemy and gain 1 block."
+			"每當你觸發一次同調時, 對一個隨機敵人造成 #b1 點傷害並獲得 #b1 點格擋."
 		]
 	},
 	"Animator_EngravedStaff":
 	{
-		"NAME": "Engraved Staff",
-		"FLAVOR": "One of the most treasured possessions of the Guild.",
+		"NAME": "雕塑",
+		"FLAVOR": "公會最寶貴的財產之一.",
 		"DESCRIPTIONS":
 		[
-			"At the end of your turn, retain your highest cost card, it costs 1 less until played."
+			"在你的回合結束時，保留手牌中消耗最高的牌,直到被打出之前消耗減 #1 ."
 		]
 	},
 	"Animator_Buoy":
 	{
-		"NAME": "Buoy",
-		"FLAVOR": "When it comes to speed I'm the best there is, swift like the island breeze!",
+		"NAME": "浮标",
+		"FLAVOR": "我的速度天下第一, 迅疾如風!",
 		"DESCRIPTIONS":
 		[
-			"Every 4 turns, gain 6 Block and give all enemies 2 Block."
+			"每 #b4 回合, 獲得 #b6 點 格擋 並給予所有敵人 #b2 點 格擋 ."
 		]
 	}
 }

@@ -24,7 +24,7 @@
 		"FLAVOR": "Humans are helpless against curses, and can only redirect their influence.",
 		"DESCRIPTIONS":
 		[
-			"You may banish card #yseries from appearing in all future rewards and shops. Gain more uses after defeating a boss.", "Removed Series:"
+			"You may banish card #ySeries from appearing in all future rewards and shops. Gain more uses after defeating a boss.", "Removed Series:"
 		]
 	},
 	"Animator_CerealBox":
@@ -33,7 +33,7 @@
 		"FLAVOR": "Whole Grain Guaranteed! Approved by Konayuki.",
 		"DESCRIPTIONS":
 		[
-			"Right Click to Heal #b1 HP. NL Starts at #b20 uses, gain #b5 uses when entering a shop room. NL You can store up to #b30 uses."
+			"#pRight #pClick to #yHeal #b1 HP. NL Starts at #b20 uses, gain #b5 uses when entering a shop room. NL You can store up to #b30 uses."
 		]
 	},
 	"Animator_WizardHat":
@@ -42,7 +42,7 @@
 		"FLAVOR": "Explosion magic is the strongest magic. But that also means it takes time to prepare.",
 		"DESCRIPTIONS":
 		[
-			"Every time you activate 7 #ySynergies in a combat, deal 14 damage to ALL enemies."
+			"Every time you activate #b7 #ySynergies in a combat, deal #b14 damage to ALL enemies."
 		]
 	},
 	"Animator_AlchemistGlove":
@@ -51,7 +51,7 @@
 		"FLAVOR": "Allows you to control fire with the snap of a finger.",
 		"DESCRIPTIONS":
 		[
-			"Every 3 turns, apply 2 #yBurning to ALL enemies."
+			"Every #b3 turns, apply #b2 #yBurning to ALL enemies."
 		]
 	},
 	"Animator_HallowedScabbard":
@@ -60,25 +60,25 @@
 		"FLAVOR": "The holder of the scabbard is granted potent healing, allowing for critical and fatal wound to be rapidly repaired.",
 		"DESCRIPTIONS":
 		[
-			"Once per combat, if you lose 15 HP or more in a turn, gain 5 #yRegeneration and 1 #yStrength."
+			"If you lose a total of #b15 HP or more in a combat, gain #b5 #yRegeneration and #b2 #yStrength. Activates once per combat."
 		]
-	},	
+	},
 	"Animator_RacePiece":
 	{
 		"NAME": "Race Piece",
 		"FLAVOR": "Did you see that coming Mr. Mind Reader? Checkmate.",
 		"DESCRIPTIONS":
 		[
-			"Choose 1 card, transform 3 cards in your deck into 3 random cards of the same series."
+			"Choose #b1 card, transform #b3 cards in your deck into #b3 random cards of the same #ySeries."
 		]
 	},
-	"Animator_PlumedHelmet":
+	"Animator_WornHelmet":
 	{
-		"NAME": "Plumed Helmet",
+		"NAME": "Worn Helmet",
 		"FLAVOR": "Goblins.",
 		"DESCRIPTIONS":
 		[
-			"Whenever you draw a curse or status, deal 3 damage to a random enemy."
+			"Whenever you draw a #yCurse or #yStatus, deal #b3 damage to a random enemy."
 		]
 	},
 	"Animator_HeavyHalberd":
@@ -87,7 +87,7 @@
 		"FLAVOR": "Ruling over death means ruling over life. Death is the climax of life. To have the best death, you must honor life.",
 		"DESCRIPTIONS":
 		[
-			"Your #yAttacks deal 15% more damage."
+			"Your #yAttacks deal #b15% more damage."
 		]
 	},
 	"Animator_OldCoffin":
@@ -96,7 +96,7 @@
 		"FLAVOR": "Shocking Truth!",
 		"DESCRIPTIONS":
 		[
-			"Starting from your 4th turn, apply a random #yDebuff to a random enemy at the start of your turn."
+			"Starting from your #b4th turn, apply a random #yDebuff to a random enemy at the start of each turn."
 		]
 	},
 	"Animator_CursedBlade":
@@ -105,7 +105,7 @@
 		"FLAVOR": "It draws strength from the blood of its user, truly fitting for a vampire.",
 		"DESCRIPTIONS":
 		[
-			"Whenever an attack deals unblocked damage, apply 1 Poison. Lose 1 Max HP at the end of each fight."
+			"Whenever you deal unblocked damage, #yHeal #b2 HP. NL Permanently #rLose #rHalf of your Max HP. Effects that increase your max HP are reduced by half."
 		]
 	},
 	"Animator_BattleDrones":
@@ -114,7 +114,7 @@
 		"FLAVOR": "Engineering perfection.",
 		"DESCRIPTIONS":
 		[
-			"Every time you activate a synergy, deal 1 damage to a random enemy and gain 1 block."
+			"Whenever a card #ySynergizes, deal #b1 damage to a random enemy and gain #b1 #yBlock."
 		]
 	},
 	"Animator_EngravedStaff":
@@ -123,7 +123,7 @@
 		"FLAVOR": "One of the most treasured possessions of the Guild.",
 		"DESCRIPTIONS":
 		[
-			"At the end of your turn, retain your highest cost card, it costs 1 less until played."
+			"At the end of your turn, #yRetain your highest cost card, it costs #b1 less next turn."
 		]
 	},
 	"Animator_Buoy":
@@ -132,7 +132,7 @@
 		"FLAVOR": "When it comes to speed I'm the best there is, swift like the island breeze!",
 		"DESCRIPTIONS":
 		[
-			"Every 4 turns, gain 6 Block and give all enemies 2 Block."
+			"Every #b4 turns, gain #b6 #yBlock and give all enemies #b2 #yBlock."
 		]
 	}
 }
