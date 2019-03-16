@@ -29,110 +29,110 @@
 	},
 	"Animator_CerealBox":
 	{
-		"NAME": "Cereal Box",
-		"FLAVOR": "Whole Grain Guaranteed! Approved by Konayuki.",
+		"NAME": "谷物箱",
+		"FLAVOR": "保证后备补给! 由 冻空粉雪 提供.",
 		"DESCRIPTIONS":
 		[
-			"Right Click to Heal #b1 HP. NL Starts at #b20 uses, gain #b5 uses when entering a shop room. NL You can store up to #b30 uses."
+			"右键使用，治疗 #b1 点血量. NL 初始获得 #b20 次使用次数, 每次进入商店时获得 #b5 次使用次数 . NL 最多存储 #b30 次使用次数."
 		]
 	},
 	"Animator_WizardHat":
 	{
-		"NAME": "Wizard Hat",
-		"FLAVOR": "Explosion magic is the strongest magic. But that also means it takes time to prepare.",
+		"NAME": "巫师帽",
+		"FLAVOR": "爆裂魔法天下第一！ .......当然，需要时间准备.",
 		"DESCRIPTIONS":
 		[
-			"Every time you activate 7 #ySynergies in a combat, deal 14 damage to ALL enemies."
+			"在同一场战斗中触发 7 #ySynergies 次同调时, 对所有敌人造成 14 点伤害."
 		]
 	},
 	"Animator_AlchemistGlove":
 	{
 		"NAME": "Alchemist Glove",
-		"FLAVOR": "Allows you to control fire with the snap of a finger.",
+		"FLAVOR": "使你可以通过一根手指控制火焰.",
 		"DESCRIPTIONS":
 		[
-			"Every 3 turns, apply 2 #yBurning to ALL enemies."
+			"每 3 回合, 给予所有敌人 2 #yBurning 层燃烧."
 		]
 	},
 	"Animator_HallowedScabbard":
 	{
-		"NAME": "Hallowed Scabbard",
-		"FLAVOR": "The holder of the scabbard is granted potent healing, allowing for critical and fatal wound to be rapidly repaired.",
+		"NAME": "阿瓦隆",
+		"FLAVOR": "剑鞘的持有者被授予强力恢复能力,能够迅速恢复致命伤.",
 		"DESCRIPTIONS":
 		[
-			"Once per combat, if you lose 15 HP or more in a turn, gain 5 #yRegeneration and 1 #yStrength."
+			"每场战斗可触发一次, 当你再一次受伤中损失超过15点血量时, 获得5 层 #y再生 和 1 点 #y力量."
 		]
 	},	
 	"Animator_RacePiece":
 	{
 		"NAME": "Race Piece",
-		"FLAVOR": "Did you see that coming Mr. Mind Reader? Checkmate.",
+		"FLAVOR": "你看到 Mr. Mind Reader 从那边来了没? 将死！.",
 		"DESCRIPTIONS":
 		[
-			"Choose 1 card, transform 3 cards in your deck into 3 random cards of the same series."
+			"选择一张牌, 将你的牌库中的三张牌转换为与选中牌同系列的三张随机牌."
 		]
 	},
 	"Animator_PlumedHelmet":
 	{
-		"NAME": "Plumed Helmet",
-		"FLAVOR": "Goblins.",
+		"NAME": "羽盔",
+		"FLAVOR": "哥布林.",
 		"DESCRIPTIONS":
 		[
-			"Whenever you draw a curse or status, deal 3 damage to a random enemy."
+			"每当你抽到诅咒牌或状态牌时, 对一个随机敌人造成 3 点伤害."
 		]
 	},
 	"Animator_HeavyHalberd":
 	{
-		"NAME": "Heavy Halberd",
-		"FLAVOR": "Ruling over death means ruling over life. Death is the climax of life. To have the best death, you must honor life.",
+		"NAME": "重戟",
+		"FLAVOR": "统治死亡即统治生命，死即生之巅峰,崇敬生命吧.",
 		"DESCRIPTIONS":
 		[
-			"Your #yAttacks deal 15% more damage."
+			"你的 #y攻击牌 造成 15% 点额外伤害."
 		]
 	},
 	"Animator_OldCoffin":
 	{
-		"NAME": "Old Coffin",
-		"FLAVOR": "Shocking Truth!",
+		"NAME": "旧棺材",
+		"FLAVOR": "震惊的真相！",
 		"DESCRIPTIONS":
 		[
-			"Starting from your 4th turn, apply a random #yDebuff to a random enemy at the start of your turn."
+			"四回合后开始启用，当你的回合开始时, 给予一个随机敌人一层随机的 #y负面效果 ."
 		]
 	},
 	"Animator_CursedBlade":
 	{
-		"NAME": "Cursed Blade",
-		"FLAVOR": "It draws strength from the blood of its user, truly fitting for a vampire.",
+		"NAME": "诅咒之刃",
+		"FLAVOR": "它从持有者的血液中汲取力量, 对一个吸血鬼来说再适合不过了.",
 		"DESCRIPTIONS":
 		[
-			"Whenever an attack deals unblocked damage, apply 1 Poison. Lose 1 Max HP at the end of each fight."
+			"每当一次攻击打破目标 格挡 并造成伤害时, 给予目标 1 层毒效果. 每场战斗结束后损失 1 点最大生命值."
 		]
 	},
 	"Animator_BattleDrones":
 	{
-		"NAME": "Battle Drones",
-		"FLAVOR": "Engineering perfection.",
+		"NAME": "战斗无人机",
+		"FLAVOR": "完美的工程学造物.",
 		"DESCRIPTIONS":
 		[
-			"Every time you activate a synergy, deal 1 damage to a random enemy and gain 1 block."
+			"每当你触发一次同调时, 对一个随机敌人造成 1 点伤害并获得 1 点格挡."
 		]
 	},
 	"Animator_EngravedStaff":
 	{
-		"NAME": "Engraved Staff",
-		"FLAVOR": "One of the most treasured possessions of the Guild.",
+		"NAME": "雕塑",
+		"FLAVOR": "公会最宝贵的财产之一.",
 		"DESCRIPTIONS":
 		[
-			"At the end of your turn, retain your highest cost card, it costs 1 less until played."
+			"在你的回合结束时，保留手牌中消耗最高的牌,直到被打出之前消耗减 1 ."
 		]
 	},
 	"Animator_Buoy":
 	{
 		"NAME": "Buoy",
-		"FLAVOR": "When it comes to speed I'm the best there is, swift like the island breeze!",
+		"FLAVOR": "我的速度天下第一, 迅疾如风!",
 		"DESCRIPTIONS":
 		[
-			"Every 4 turns, gain 6 Block and give all enemies 2 Block."
+			"每 4 回合, 获得 6 点 格挡 并给予所有敌人 2 点 格挡 ."
 		]
 	}
 }
