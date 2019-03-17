@@ -2,7 +2,7 @@
 {
 	"animator_AcuraAkari":
 	{
-		"DESCRIPTION": "丟棄 1 張牌 。 對一個敵人造成 !M! 毒 之 印記 。",
+		"DESCRIPTION": "丟棄 1 張牌 。 對一個敵人造成 !M! 毒 之 印記 。 NL 獲得 !B! 點 格擋 。",
 		"NAME": "阿卡莉"
 	},
 	"animator_AcuraShin":
@@ -381,7 +381,7 @@
 	},
 	"animator_IzunaHatsuse":
 	{
-		"DESCRIPTION": "給予 !M! 層 虛弱 。 NL 獲得 !B! 點 格擋 。 NL [#EFC851]血液破壞[] 。",
+		"DESCRIPTION": "給予 1 層 虛弱 。 NL 獲得 !B! 點 格擋 。 NL [#EFC851]血液破壞[] 。",
 		"EXTENDED_DESCRIPTION": ["血液破壞", "當你的HP低於25％時， 這張卡將成為一個特殊的0耗能 #攻擊牌 。", "造成 !D! 點 傷害 兩次 。 NL 回復 !M! 點 生命 。"],
 		"NAME": "初賴伊剛"
 	},

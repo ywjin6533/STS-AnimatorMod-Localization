@@ -2,8 +2,7 @@
 {
 	"animator_AcuraAkari":
 	{
-		"DESCRIPTION": "Discard 1 card. NL Apply !M! Mark of Poison to an enemy.",
-		"UPGRADE_DESCRIPTION": "Discard 1 card. Apply !M! Marks of Poison to an enemy.",
+		"DESCRIPTION": "Discard 1 card. NL Apply !M! Marks of Poison to an enemy. NL Gain !B! Block.",
 		"NAME": "Akari"
 	},
 	"animator_AcuraShin":
