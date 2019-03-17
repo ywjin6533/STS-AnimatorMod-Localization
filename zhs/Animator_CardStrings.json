@@ -2,7 +2,7 @@
 {
 	"animator_AcuraAkari":
 	{
-		"DESCRIPTION": "丢弃 1 张牌 。 对一个敌人造成 !M! 点 印记 中毒 。",
+		"DESCRIPTION": "丢弃 1 张牌 。 对一个敌人造成 !M! 点 印记 中毒 。 NL 获得 !B! 点 格挡 。",
 		"NAME": "阿卡莉"
 	},
 	"animator_AcuraShin":
@@ -383,7 +383,7 @@
 	},
 	"animator_IzunaHatsuse":
 	{
-		"DESCRIPTION": "给予 !M! 层 虚弱 。 NL 获得 !B! 点 格挡 。 NL [#EFC851]血坏[] 。",
+		"DESCRIPTION": "给予 1 层 虚弱 。 NL 获得 !B! 点 格挡 。 NL [#EFC851]血坏[] 。",
 		"EXTENDED_DESCRIPTION": ["血坏", "自身HP低于25％时，这张卡将变为一个特殊的0耗 #y攻击 。", "造成 !D! 点 伤害 两次 。 NL 恢复 !M! 点 生命 。"],
 		"NAME": "初濑伊纲"
 	},
