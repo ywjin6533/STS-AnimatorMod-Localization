@@ -41,7 +41,8 @@
 	},
 	"animator_Albedo":
 	{
-		"DESCRIPTION": "获得 !M! % 的 [#EFC851]抗性[] 。 同调 : 获得 !SV! 点 临时生命 。",
+		"DESCRIPTION": "获得 !M! % 的 [#EFC851]抗性[] 。",
+		"UPGRADE_DESCRIPTION": "获得 !M! % 的 [#EFC851]抗性[] 。 获得 !SV! 点 临时生命 。",
 		"EXTENDED_DESCRIPTION": ["抗性", "减少受到的伤害，效果由层数决定 。"],
 		"NAME": "雅儿贝德"
 	},
@@ -544,7 +545,7 @@
 	},
 	"animator_Shalltear":
 	{
-		"DESCRIPTION": "对所有敌人造成 !D! 点 伤害 。 NL 压倒 : 治疗 !M! HP 。",
+		"DESCRIPTION": "对所有敌人造成 !D! 点 伤害 。 NL 同调 : 给予 !M! 层 中毒 。",
 		"NAME": "夏提雅"
 	},
 	"animator_Shichika":

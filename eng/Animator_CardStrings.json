@@ -41,7 +41,8 @@
 	},
 	"animator_Albedo":
 	{
-		"DESCRIPTION": "Gain !M! % NL [#EFC851]Damage [#EFC851]Resistance. NL Synergy: Gain !SV! Temporary HP.",
+		"DESCRIPTION": "Gain !M! % NL [#EFC851]Damage [#EFC851]Resistance.",
+		"UPGRADE_DESCRIPTION": "Gain !M! % NL [#EFC851]Damage [#EFC851]Resistance. NL Gain !SV! Temporary HP.",
 		"EXTENDED_DESCRIPTION": ["Damage Resistance", "Take less damage from enemy attacks, further stacks are less effective."],
 		"NAME": "Albedo"
 	},
@@ -544,7 +545,7 @@
 	},
 	"animator_Shalltear":
 	{
-		"DESCRIPTION": "Deal !D! damage to ALL enemies. NL Overrun: Heal !M! HP.",
+		"DESCRIPTION": "Deal !D! damage to ALL enemies. NL Synergy: Apply !M! Poison.",
 		"NAME": "Shalltear"
 	},
 	"animator_Shichika":

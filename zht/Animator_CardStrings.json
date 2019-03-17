@@ -41,7 +41,8 @@
 	},
 	"animator_Albedo":
 	{
-		"DESCRIPTION": "獲得 !M! % 點 [#EFC851]傷害抵抗[] 。 同調 : 獲得 !SV! 點 臨時生命 。",
+		"DESCRIPTION": "獲得 !M! % 點 [#EFC851]傷害抵抗[] 。",
+		"UPGRADE_DESCRIPTION": "獲得 !M! % 點 [#EFC851]傷害抵抗[] 。 獲得 !SV! 點 臨時生命 。",
 		"EXTENDED_DESCRIPTION": ["傷害抵抗", "受到敵人更少的傷害，效果被層數影響。"],
 		"NAME": "雅兒貝德"
 	},
@@ -542,7 +543,7 @@
 	},
 	"animator_Shalltear":
 	{
-		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 。 NL 壓倒 : 治療 !M! HP 。",
+		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 。 NL 同調 : 給予 !M! 層 中毒 。",
 		"NAME": "夏提雅"
 	},
 	"animator_Shichika":
