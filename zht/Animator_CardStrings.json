@@ -7,7 +7,7 @@
 	},
 	"animator_AcuraShin":
 	{
-		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 ， 並給予 !M! 層 中毒 。 獲得 !SV! 層 [#EFC851]毒素親和[] 。",
+		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 ， 並給予 !M! 層 中毒 。 獲得 1 層 [#EFC851]毒素親和[] 。",
 		"EXTENDED_DESCRIPTION": ["毒素親和", "每當給予敵人毒效果時 ， 額外給予一層毒 。"],
 		"NAME": "辛·亞裘拉"
 	},
@@ -340,7 +340,7 @@
 		"DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將傷害轉換到 [#EFC851]支援[] 中 。",
 		"EXTENDED_DESCRIPTION": ["支援", "回合結束時對生命值較低的敵人造成轉換的傷害"],
 		"NAME": "紅蓮",
-		"UPGRADE_DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將傷害轉為 格擋 並預存到[#EFC851]支援[] 中 。"
+		"UPGRADE_DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將傷害轉為 格擋 並預存到 [#EFC851]支援[] 中 。"
 	},
 	"animator_Guy":
 	{
@@ -355,7 +355,7 @@
 	},
 	"animator_HighElfArcher":
 	{
-		"DESCRIPTION": "造成 !D! 點 穿刺 傷害 。 本回合第一次使用這張牌時 ， 抽一張牌 。",
+		"DESCRIPTION": "造成 !D! 點 穿刺 傷害 。 本回合第一次使用這張牌時 ， 抽 !M! 張牌 。",
 		"NAME": "精靈弓手"
 	},
 	"animator_HiiragiShinya":
