@@ -84,7 +84,7 @@
 	},
 	"animator_Berserker":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 壓倒 : 獲得 [B] NL 以這張牌擊殺敵人時， 獲得 [B]",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 壓倒 : 獲得 [E] NL 以這張牌擊殺敵人時， 獲得 [E]",
 		"NAME": "Berserker"
 	},
 	"animator_Biyorigo":
@@ -137,7 +137,7 @@
 	},
 	"animator_CowGirl":
 	{
-		"DESCRIPTION": "獲得 !M! 臨時生命。 NL 獲得 [B] NL 消耗 。",
+		"DESCRIPTION": "獲得 !M! 臨時生命。 NL 獲得 [E] NL 消耗 。",
 		"NAME": "牧牛妹"
 	},
 	"animator_CrowleyEusford":
@@ -159,7 +159,7 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "獲得 [B] [B] 。 NL 受到 !M! 點 傷害 ， 然後這場戰鬥增加這張牌 3 點 的傷害 。",
+		"DESCRIPTION": "獲得 [E] [E] 。 NL 受到 !M! 點 傷害 ， 然後這場戰鬥增加這張牌 3 點 的傷害 。",
 		"NAME": "迪米烏哥斯"
 	},
 	"animator_DolaCouronne":
@@ -174,7 +174,7 @@
 	},
 	"animator_DolaSchwi":
 	{
-		"DESCRIPTION": "造成 !M! 層 易傷 並造成 !D! 點 傷害 。 NL 同調 :獲得 [B] 。",
+		"DESCRIPTION": "造成 !M! 層 易傷 並造成 !D! 點 傷害 。 NL 同調 :獲得 [E] 。",
 		"NAME": "休比"
 	},
 	"animator_DolaStephanie":
@@ -344,7 +344,7 @@
 	},
 	"animator_Guy":
 	{
-		"DESCRIPTION": "給予一個敵人 !M! 點 格擋 和 !SV! 層 虛弱 。 循環 1 張牌 。 撤回 : 獲得 [B]",
+		"DESCRIPTION": "給予一個敵人 !M! 點 格擋 和 !SV! 層 虛弱 。 循環 1 張牌 。 撤回 : 獲得 [E]",
 		"NAME": "奇伊"
 	},
 	"animator_HigakiRinne":
@@ -414,7 +414,7 @@
 	},
 	"animator_Lancer":
 	{
-		"DESCRIPTION": "造成 !D! 點 穿刺 傷害 。 嗜血 。 若此牌消滅了一個敵人 ， 獲得 [B] 。",
+		"DESCRIPTION": "造成 !D! 點 穿刺 傷害 。 嗜血 。 若此牌消滅了一個敵人 ， 獲得 [E] 。",
 		"NAME": "Lancer"
 	},
 	"animator_Layla":
@@ -464,7 +464,7 @@
 	"animator_Nanami":
 	{
 		"DESCRIPTION": "根據敵人的意圖觸發一個 [#EFC851]效果[] 。 ",
-		"EXTENDED_DESCRIPTION": ["造成 !D! 點 傷害。", "獲得 !B! 點 格擋 。", "獲得 # 點 力量 。", "造成 # 點 虛弱 。", "造成 # 點 易傷 。 ", "暈眩 敵人 。", "生成 1 個閃電充能球 。", "生成 1 個黑暗充能球 。", "生成 1 個冰霜充能球 。", "造成 !M! 點 中毒 。", "獲得 [B]", "獲得 !M! 暫時生命 。", "抽 !M! 張牌 。"],
+		"EXTENDED_DESCRIPTION": ["造成 !D! 點 傷害。", "獲得 !B! 點 格擋 。", "獲得 # 點 力量 。", "造成 # 點 虛弱 。", "造成 # 點 易傷 。 ", "暈眩 敵人 。", "生成 1 個閃電充能球 。", "生成 1 個黑暗充能球 。", "生成 1 個冰霜充能球 。", "造成 !M! 點 中毒 。", "獲得 [E]", "獲得 !M! 暫時生命 。", "抽 !M! 張牌 。"],
 		"NAME": "鑢七實",
 		"UPGRADE_DESCRIPTION": "根據敵人的意圖觸發一個 [#EFC851]效果+[] 。"
 	},
@@ -569,7 +569,7 @@
 	},
 	"animator_Shiro":
 	{
-		"DESCRIPTION": "這回合發動的 同調 減少此牌 1 點 耗能 。 每回合開始時獲得 [B] 。",
+		"DESCRIPTION": "這回合發動的 同調 減少此牌 1 點 耗能 。 每回合開始時獲得 [E] 。",
 		"NAME": "白"
 	},
 	"animator_Sloth":

@@ -84,7 +84,7 @@
 	},
 	"animator_Berserker":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Overrun: Gain [B] NL If this kills an enemy gain [B]",
+		"DESCRIPTION": "Deal !D! damage. NL Overrun: Gain [E] NL If this kills an enemy gain [E]",
 		"NAME": "Berserker"
 	},
 	"animator_Biyorigo":
@@ -137,7 +137,7 @@
 	},
 	"animator_CowGirl":
 	{
-		"DESCRIPTION": "Gain [B] NL Gain !M! Temporary HP. NL Exhaust",
+		"DESCRIPTION": "Gain [E] NL Gain !M! Temporary HP. NL Exhaust",
 		"NAME": "'Cow Girl'"
 	},
 	"animator_CrowleyEusford":
@@ -159,7 +159,7 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "Gain [B] [B] NL Take !M! damage. NL Increase this card's damage by !SV! this combat.",
+		"DESCRIPTION": "Gain [E] [E] NL Take !M! damage. NL Increase this card's damage by !SV! this combat.",
 		"NAME": "Demiurge"
 	},
 	"animator_DolaCouronne":
@@ -174,7 +174,7 @@
 	},
 	"animator_DolaSchwi":
 	{
-		"DESCRIPTION": "Apply !M! Vulnerable, then deal !D! damage. NL Synergy: Gain [B].",
+		"DESCRIPTION": "Apply !M! Vulnerable, then deal !D! damage. NL Synergy: Gain [E].",
 		"NAME": "Schwi"
 	},
 	"animator_DolaStephanie":
@@ -344,7 +344,7 @@
 	},
 	"animator_Guy":
 	{
-		"DESCRIPTION": "Give an enemy !M! Block and !SV! Weak. NL Cycle 1 card. NL Recall: Gain [B]",
+		"DESCRIPTION": "Give an enemy !M! Block and !SV! Weak. NL Cycle 1 card. NL Recall: Gain [E]",
 		"NAME": "Guy"
 	},
 	"animator_HigakiRinne":
@@ -416,7 +416,7 @@
 	},
 	"animator_Lancer":
 	{
-		"DESCRIPTION": "Deal !D! Piercing damage. Heartseeker. If this kills an enemy gain [B].",
+		"DESCRIPTION": "Deal !D! Piercing damage. Heartseeker. If this kills an enemy gain [E].",
 		"NAME": "Lancer"
 	},
 	"animator_Layla":
@@ -466,7 +466,7 @@
 	"animator_Nanami":
 	{
 		"DESCRIPTION": "Execute an [#EFC851]Effect to counter the enemy intent.",
-		"EXTENDED_DESCRIPTION": ["Deal !D! Damage.", "Gain !B! Block.", "Gain # Strength.", "Apply # Weak.", "Apply # Vulnerable.", "Stun the enemy.", "Channel 1 Lightning.", "Channel 1 Dark.", "Channel 1 Frost.", "Apply !M! Poison.", "Gain [B]", "Gain !M! Temporary HP.", "Draw !M! cards."],
+		"EXTENDED_DESCRIPTION": ["Deal !D! Damage.", "Gain !B! Block.", "Gain # Strength.", "Apply # Weak.", "Apply # Vulnerable.", "Stun the enemy.", "Channel 1 Lightning.", "Channel 1 Dark.", "Channel 1 Frost.", "Apply !M! Poison.", "Gain [E]", "Gain !M! Temporary HP.", "Draw !M! cards."],
 		"NAME": "Nanami",
 		"UPGRADE_DESCRIPTION": "Execute an Upgraded [#EFC851]Effect to counter the enemy intent."
 	},
@@ -571,7 +571,7 @@
 	},
 	"animator_Shiro":
 	{
-		"DESCRIPTION": "Cost 1 less for each Synergy you activated this turn. Gain [B] at the start of each turn.",
+		"DESCRIPTION": "Cost 1 less for each Synergy you activated this turn. Gain [E] at the start of each turn.",
 		"NAME": "Shiro"
 	},
 	"animator_Sloth":
