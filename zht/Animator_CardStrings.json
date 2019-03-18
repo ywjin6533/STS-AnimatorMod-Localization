@@ -143,7 +143,7 @@
 	"animator_CrowleyEusford":
 	{
 		"DESCRIPTION": "對敵人和另一個隨機敵人造成 !D! 點傷害 。 NL 撤回 : 在本次戰鬥中提高其 !M! 點 傷害 。",
-		"NAME": "Crowley Eusford"
+		"NAME": "克羅里·尤斯福德"
 	},
 	"animator_Darkness":
 	{
@@ -360,9 +360,9 @@
 	},
 	"animator_HiiragiShinya":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 如果這是你本輪第一次進攻 ， 給予目標一個隨機的 [#EFC851]負面效果[] 。",
-		"NAME": "Shinya Hiiragi",
-		"UPGRADE_DESCRIPTION": "造成 !D! 點傷害 。 如果這是你本輪第一次進攻 ， 給予目標一個隨機的強力 [#EFC851]負面效果[] 。"
+		"DESCRIPTION": "造成 !D! 點傷害 。 如果這是你本回合第一次攻擊 ， 給予目標一個隨機的 [#EFC851]負面效果[] 。",
+		"NAME": "柊深夜",
+		"UPGRADE_DESCRIPTION": "造成 !D! 點傷害 。 如果這是你本回合第一次攻擊 ， 給予目標一個隨機的強力 [#EFC851]負面效果[] 。"
 	},
 	"animator_Hitei":
 	{
@@ -488,7 +488,7 @@
 	"animator_Pride":
 	{
 		"DESCRIPTION": "變形者 。 [#EFC851]普萊德[] 。 NL  [#EFC851]生成[] !M! 顆黑暗充能球 。 NL 同調 : 賦予 !SV! 層 纏繞 。 ",
-		"EXTENDED_DESCRIPTION": ["普萊德", "直到你的下個回合 ， 當你受到格擋外的傷害時 ， 你的傷害的黑暗充能球抵消這個傷害並損失同等的傷害充能 。"],
+		"EXTENDED_DESCRIPTION": ["普萊德", "直到你的下個回合 ， 當你受到未格擋的傷害時 ， 你最右邊的黑暗充能球失去該數值的傷害 。"],
 		"NAME": "普萊德"
 	},
 	"animator_Priestess":
