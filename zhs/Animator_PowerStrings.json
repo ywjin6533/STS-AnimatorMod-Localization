@@ -122,10 +122,7 @@
 	},
 	"animator_EarthenThornsPower":
 	{
-    "NAME": "土刺",
-    "DESCRIPTIONS": [
-      "每受到一次 #y攻击 ，造成 #b",
-      " 点反伤。"
-    ]
-  }
+	    "DESCRIPTIONS": ["每受到一次 #y攻击 ，造成 #b", " 点反伤。"],
+		"NAME": "土刺"
+	}
 }

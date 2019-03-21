@@ -185,7 +185,7 @@
 	},
 	"animator_DwarfShaman":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 獲得1個 土素球 充能球 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 獲得1個 土素 充能球 。",
 		"NAME": "矮人薩滿"
 	},
 	"animator_Elesis":
@@ -207,7 +207,7 @@
 	"animator_ElricEdward":
 	{
 		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 循環 1 張牌 。 NL 根據你循環的卡片種類獲得一個 [#EFC851]額外充能球[] 。",
-		"EXTENDED_DESCRIPTION": ["額外充能球", "#y攻擊牌: 獲得1個閃電充能球 NL #y技能牌: 獲得1個冰霜充能球 NL #y能力牌: 獲得1個 土素球 充能球"],
+		"EXTENDED_DESCRIPTION": ["額外充能球", "#y攻擊牌: 獲得1個閃電充能球 NL #y技能牌: 獲得1個冰霜充能球 NL #y能力牌: 獲得1個 土素 充能球"],
 		"NAME": "愛德華·艾力克"
 	},
 	"animator_Elsword":

@@ -207,7 +207,7 @@
 	"animator_ElricEdward":
 	{
 		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 循环 !M! 张牌 。 NL 使循环获得的牌获得一个 [#EFC851]额外充能[] ， 效果由该牌种类决定 。",
-		"EXTENDED_DESCRIPTION": ["额外充能", "#y攻击牌 : 获得 1 个闪电充能球 NL #y技能 : 获得 1 个冰霜充能球 NL #y能力 : 获得 1 个 土素球 充能球"],
+		"EXTENDED_DESCRIPTION": ["额外充能", "#y攻击牌 : 获得 1 个闪电充能球 NL #y技能 : 获得 1 个冰霜充能球 NL #y能力 : 获得 1 个 土素 充能球"],
 		"NAME": "爱德华·艾尔利克"
 	},
 	"animator_Elsword":
