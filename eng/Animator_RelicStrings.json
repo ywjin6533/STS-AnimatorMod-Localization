@@ -133,7 +133,7 @@
 		"FLAVOR": "When it comes to speed I'm the best there is, swift like the island breeze!",
 		"DESCRIPTIONS":
 		[
-			"Every #b4 turns, gain #b6 #yBlock and give all enemies #b2 #yBlock."
+			"Every #b", " turns, gain #b", " #yBlock and give all enemies #b", " #yBlock."
 		]
 	}
 }

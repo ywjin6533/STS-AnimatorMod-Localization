@@ -185,10 +185,8 @@
 	},
 	"animator_DwarfShaman":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 壓倒 : 抽 !M! 張未升級的牌並 升級 。",
-		"EXTENDED_DESCRIPTION": ["* 注意", "會優先升級可以升級的牌，如果沒有可升級的牌就跟一般抽牌一樣 。"],
-		"NAME": "矮人薩滿",
-		"UPGRADE_DESCRIPTION": "造成 !D! 點 傷害 。 壓倒 : 抽 !M! 張牌並 升級 。"
+		"DESCRIPTION": "造成 !D! 點 傷害 。 獲得1個 土素球 充能球 。",
+		"NAME": "矮人薩滿"
 	},
 	"animator_Elesis":
 	{
@@ -209,7 +207,7 @@
 	"animator_ElricEdward":
 	{
 		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 循環 1 張牌 。 NL 根據你循環的卡片種類獲得一個 [#EFC851]額外充能球[] 。",
-		"EXTENDED_DESCRIPTION": ["額外充能球", "#y攻擊牌: 獲得1個閃電充能球 NL #y技能牌: 獲得1個冰霜充能球 NL #y能力牌: 獲得1個黑暗充能球"],
+		"EXTENDED_DESCRIPTION": ["額外充能球", "#y攻擊牌: 獲得1個閃電充能球 NL #y技能牌: 獲得1個冰霜充能球 NL #y能力牌: 獲得1個 土素球 充能球"],
 		"NAME": "愛德華·艾力克"
 	},
 	"animator_Elsword":
@@ -544,7 +542,7 @@
 	},
 	"animator_Shalltear":
 	{
-		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 。 NL 同調 : 給予 !M! 層 中毒 。",
+		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 。 NL 同調 和 壓倒 : 給予 !M! 層 中毒 。",
 		"NAME": "夏提雅"
 	},
 	"animator_Shichika":

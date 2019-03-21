@@ -4,10 +4,10 @@
     "NAME": "Earth",
     "DESCRIPTION": 
 	[
-      "#yPassive: At the end of turn, increase this Orb's damage by #b",
-	  ". NL #yEvoke: Deal #b",
-	  " damage split amongst ALL enemies. NL After #b",
-	  " turns have passed, #yEvoke this Orb."
+      "#yPassive: At the end of turn, gain #b",
+	  " temporary #yThorns. NL #yEvoke: Deal #b",
+	  " damage randomly split amongst ALL enemies. NL After #b",
+	  " turns have passed, automatically #yEvoke this Orb."
     ]
   }
  }
