@@ -41,7 +41,7 @@
 	"animator_Albedo":
 	{
 		"DESCRIPTION": "獲得 !M! % 點 [#EFC851]傷害抵抗[] 。",
-		"UPGRADE_DESCRIPTION": "獲得 !M! % 點 [#EFC851]傷害抵抗[] 。 獲得 !SV! 點 臨時生命 。",
+		"UPGRADE_DESCRIPTION": "獲得 !M! % 點 [#EFC851]傷害抵抗[] 。 下回合  獲得 [E] 。",
 		"EXTENDED_DESCRIPTION": ["傷害抵抗", "受到敵人更少的傷害，效果被層數影響。"],
 		"NAME": "雅兒貝德"
 	},

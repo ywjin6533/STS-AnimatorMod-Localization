@@ -41,7 +41,7 @@
 	"animator_Albedo":
 	{
 		"DESCRIPTION": "获得 !M! % 的 [#EFC851]抗性[] 。",
-		"UPGRADE_DESCRIPTION": "获得 !M! % 的 [#EFC851]抗性[] 。 获得 !SV! 点 临时生命 。",
+		"UPGRADE_DESCRIPTION": "获得 !M! % 的 [#EFC851]抗性[] 。 下回合 获得 [E]",
 		"EXTENDED_DESCRIPTION": ["抗性", "减少受到的伤害，效果由层数决定 。"],
 		"NAME": "雅儿贝德"
 	},
