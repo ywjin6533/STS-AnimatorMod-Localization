@@ -186,6 +186,7 @@
 	"animator_DwarfShaman":
 	{
 		"DESCRIPTION": "Deal !D! damage. NL Channel 1 Earth.",
+		"UPGRADE_DESCRIPTION": "Deal !D! Damage. NL Gain !B! Block. NL Channel 1 Earth.",
 		"NAME": "'Dwarf Shaman'"
 	},
 	"animator_Elesis":

@@ -186,6 +186,7 @@
 	"animator_DwarfShaman":
 	{
 		"DESCRIPTION": "造成 !D! 点伤害 。 获得 1 个 土素 充能球 。",
+		"UPGRADE_DESCRIPTION": "造成 !D! 点伤害 。 获得 !B! 点 格挡 。 获得 1 个 土素 充能球 。",
 		"NAME": "矮人萨满"
 	},
 	"animator_Elesis":

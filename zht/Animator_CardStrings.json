@@ -186,6 +186,7 @@
 	"animator_DwarfShaman":
 	{
 		"DESCRIPTION": "造成 !D! 點 傷害 。 獲得1個 土素 充能球 。",
+		"UPGRADE_DESCRIPTION": "造成 !D! 點 傷害 。 NL 獲得 !B! 點 護甲 。 NL 獲得1個 土素 充能球 。",
 		"NAME": "矮人薩滿"
 	},
 	"animator_Elesis":

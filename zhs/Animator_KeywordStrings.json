@@ -1,8 +1,8 @@
 [
 	{
 		"DESCRIPTION": "連續使用同一系列的牌時生效",
-		"NAMES": ["同調"],
-		"PROPERNAME": "同調"
+		"NAMES": ["同调"],
+		"PROPERNAME": "同调"
 	},
 	{
 		"DESCRIPTION": "這張卡被消耗時觸發。",
@@ -90,7 +90,7 @@
 		"PROPERNAME": "增強"
 	},
 	{
-      "DESCRIPTION": "被动：回合结束时，获得 临时荆棘 。#y激活: 造成伤害，在敌人之间分裂。每过三回合，#y激活该充能球",
+      "DESCRIPTION": "被动：回合结束时，获得 临时荆棘 。 #y激活 : 造成伤害，在敌人之间分裂。每过三回合， #y激活 该充能球",
 	  "NAMES": ["土素"],
 	  "PROPERNAME": "土素"
     }

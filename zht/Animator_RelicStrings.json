@@ -8,6 +8,15 @@
 			"當同調發生時抽一張張牌，每回合一次"
 		]
 	},
+	"Animator_VividPicture":
+	{
+		"NAME": "生動著的畫作",
+		"FLAVOR": "他一直看著",
+		"DESCRIPTIONS":
+		[
+			"當同調發生時抽一張張牌，每回合一次 和 獲得 [E]"
+		]
+	},
 	"Animator_TheMissingPiece":
 	{
 		"NAME": "缺少的部分",

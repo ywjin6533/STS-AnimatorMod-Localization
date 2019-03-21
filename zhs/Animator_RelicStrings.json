@@ -8,6 +8,15 @@
 			"每回合一次每当协同生效时抽1张牌."
 		]
 	},
+	"Animator_VividPicture":
+	{
+		"NAME": "生動著的畫作",
+		"FLAVOR": "他...他在看着.",
+		"DESCRIPTIONS":
+		[
+			"每回合一次每当协同生效时抽1张牌 获得 [E]"
+		]
+	},
 	"Animator_TheMissingPiece":
 	{
 		"NAME": "缺失部分",
