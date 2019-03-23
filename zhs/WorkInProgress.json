@@ -1,15 +1,15 @@
 "animator_Zero":
 {
-	"DESCRIPTION": "Play a random [#EFC851]Skill from your draw pile. Exhaust.",
-	"UPGRADE_DESCRIPTION": "Play a random [#EFC851]Skill from your draw pile.",
-	"NAME": "Zero"
+	"DESCRIPTION": "从你的抽牌堆中打出一张随机的[#EFC851]技能牌 [] . 消耗.",
+	"UPGRADE_DESCRIPTION": "从你的抽牌堆中打出一张随机的[#EFC851]技能牌 [] . ",
+	"NAME": "零"
 },
 "animator_HououinKyouma":
 {
-	"DESCRIPTION": "Choose !M! card you played this combat and add a copy of it to your hand ([#EFC851]*[#FFFFFF]). Purge.",
-	"UPGRADE_DESCRIPTION": "Choose !M! cards you played this combat and add a copy of them to your hand ([#EFC851]*[#FFFFFF]). Purge.",
-	"EXTENDED_DESCRIPTION": ["* Note", "You cannot select another copy of this card. Because that would cause a paradox."],
-	"NAME": "Hououin Kyouma"
+	"DESCRIPTION": "选择 !M! 张本场战斗中使用过的牌，并将它们的复制加入到手牌中 ([#EFC851]*[#FFFFFF]). 净化.",
+	"UPGRADE_DESCRIPTION": "选择 !M! 张本场战斗中使用过的牌，并将它们的复制加入到手牌中 ([#EFC851]*[#FFFFFF]). 净化.",
+	"EXTENDED_DESCRIPTION": ["* 注", "你不能复制这张牌，因为这是石头门的选择."],
+	"NAME": "凤凰院凶真"
 },
 "animator_Saitama":
 {
