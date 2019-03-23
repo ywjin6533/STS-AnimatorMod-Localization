@@ -541,7 +541,7 @@
 	"animator_Sebas":
 	{
 		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 同调 : 在下一回合获得 !M! 点 格挡 。",
-		"NAME": "Sebas"
+		"NAME": "塞巴斯"
 	},
 	"animator_Shalltear":
 	{
@@ -672,6 +672,6 @@
 	"animator_ZankiKiguchi":
 	{
 		"DESCRIPTION": "造成 !D! 点伤害. NL 压倒 和 撤回 : 本次战斗中，提高手牌中所有攻击牌的伤害 !SV! 点 。",
-		"NAME": "Zanki"
+		"NAME": "汽口惭愧"
 	}
 }
