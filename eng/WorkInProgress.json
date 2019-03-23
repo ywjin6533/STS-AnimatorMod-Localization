@@ -10,4 +10,15 @@
 	"UPGRADE_DESCRIPTION": "Choose !M! cards you played this combat and add a copy of them to your hand ([#EFC851]*[#FFFFFF]). Purge.",
 	"EXTENDED_DESCRIPTION": ["* Note", "You cannot select another copy of this card. Because that would cause a paradox."],
 	"NAME": "Hououin Kyouma"
+},
+"animator_Saitama":
+{
+	"DESCRIPTION": "Deal !D! Piercing Damage. NL Strength affects this card !M! times.",
+	"NAME": "Saitama"
+},
+"animator_Kyubey":
+{
+	"DESCRIPTION": "Gain [E] [E]. NL Draw !M! Cards. NL Add 2 random [#EFC851]Curses to your discard pile.",
+	"UPGRADE_DESCRIPTION": "Gain [E] [E] [E]. NL Draw !M! Cards. NL Add 2 random [#EFC851]Curses to your discard pile.",
+	"NAME": "Kyubey"
 }
