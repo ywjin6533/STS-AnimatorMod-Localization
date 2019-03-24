@@ -693,14 +693,14 @@
 	},
 	"animator_MisaKurobane":
 	{
-		"DESCRIPTION": "赋予 !M! 层 [#EFC851]燃烧[] 。 NL 画 1 张牌 。 NL 使用 !M! 次后 抹除 。",
+		"DESCRIPTION": "赋予 !M! 层 [#EFC851]燃烧[] 。 NL 抽 1 张牌 。 NL 使用 !M! 次后 抹除 。",
 		"EXTENDED_DESCRIPTION": ["燃烧", "在回合开始时受到 伤害 。 每层使收到的伤害额外增加 4% 。"],
 		"NAME": "Misa Kurobane"
 	},
 	"animator_Kuroyukihime":
 	{
-		"DESCRIPTION": "丢弃 2 张牌 。 将 [#EFC851]黑莲花[] 添加到您的绘图堆中 。 消耗 。",
-		"UPGRADE_DESCRIPTION": "丢弃 2 张牌 。 将 [#EFC851]黑莲花+[] 添加到您的绘图堆中 。 消耗 。",
+		"DESCRIPTION": "丢弃 2 张牌 。 将 [#EFC851]黑莲花[] 加入到你的抽牌堆中 。 消耗 。",
+		"UPGRADE_DESCRIPTION": "丢弃 2 张牌 。 将 [#EFC851]黑莲花+ [] 加入到你的抽牌堆中 。 消耗 。",
 		"EXTENDED_DESCRIPTION": ["黑莲花", "特殊的1耗#y攻击牌 。"],
 		"NAME": "黑雪公主"
 	},
@@ -711,8 +711,8 @@
 	},
 	"animator_Kyubey":
 	{
-		"DESCRIPTION": "获得 [E] [E] NL 画 !M! 张牌 。 NL 在你的弃牌堆中添加 2 个随机诅咒 。",
-		"UPGRADE_DESCRIPTION": "获得 [E] [E] [E] NL 画 !M! 张牌 。 NL 在你的弃牌堆中添加 2 个随机诅咒 。",
+		"DESCRIPTION": "获得 [E] [E] NL 抽 !M! 张牌 。 NL 在你的弃牌堆中添加 2 个随机诅咒 。",
+		"UPGRADE_DESCRIPTION": "获得 [E] [E] [E] NL 抽 !M! 张牌 。 NL 在你的弃牌堆中添加 2 个随机诅咒 。",
 		"NAME": "Kyubey"
 	}
 }
