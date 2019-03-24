@@ -606,8 +606,7 @@
 	},
 	"animator_Togame":
 	{
-		"DESCRIPTION": "Draw up to !M! cards. NL Activate a [#EFC851]Bonus [#EFC851]Effect based on the number of cards in your hand.",
-		"EXTENDED_DESCRIPTION": ["Bonus Effect", "#y7+ : Exhaust 1 card NL #y6 : Gain 6 Block. NL #y5 : Gain 1 Blur NL #y4 : Gain 2 Energy and Exhaust", "Cheerio!"],
+		"DESCRIPTION": "Draw !M! cards. NL You may Exhaust a card, otherwise gain [E] and Exhaust.",
 		"NAME": "Togame"
 	},
 	"animator_TukaLunaMarceau":

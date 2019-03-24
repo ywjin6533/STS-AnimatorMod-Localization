@@ -606,8 +606,7 @@
 	},
 	"animator_Togame":
 	{
-		"DESCRIPTION": "抽 !M! 张牌 。 获得一种 [#EFC851]额外效果[] , 效果种类由手中剩余的牌数量决定",
-		"EXTENDED_DESCRIPTION": ["额外效果", "#y7+ : 消耗 1张牌 。 NL #y6 : 获得 6 点 格挡 。 NL #y5 : 获得 1 层 残影 。 NL #y4- : 消耗 并 获得 2 点 能量 。", " "],
+		"DESCRIPTION": "抽 !M! 张牌 。 您可以 消耗 1 张牌 ， 否则获得 [E] 并 消耗 。 ",
 		"NAME": "咎儿"
 	},
 	"animator_TukaLunaMarceau":

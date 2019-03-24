@@ -605,8 +605,7 @@
 	},
 	"animator_Togame":
 	{
-		"DESCRIPTION": "抽 !M! 張牌 。 NL 根據手上的牌數量觸發 [#EFC851]額外效果[] 。",
-		"EXTENDED_DESCRIPTION": ["額外效果", "#y7+ : 消耗 1 張牌  NL #y6 : 獲得 6 點 格擋 NL #y5 : 獲得 1 層 殘影 NL #y4 : 獲得 2 點 能量並且 消耗 這張牌", "再見！！"],
+		"DESCRIPTION": "抽 !M! 張牌 。 NL 您可以 消耗 1 張牌 ， 否則獲得 [E] 並 消耗 。",
 		"NAME": "咎兒"
 	},
 	"animator_TukaLunaMarceau":
