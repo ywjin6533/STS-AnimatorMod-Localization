@@ -505,8 +505,7 @@
 	},
 	"animator_Rena":
 	{
-		"DESCRIPTION": "Apply !M! Vulnerable. NL Gain !B! Block. NL Synergy: Gain 1 [#EFC851]Blur.",
-		"EXTENDED_DESCRIPTION": ["Blur", "Your #yBlock is not removed at the start of your next turn."],
+		"DESCRIPTION": "Apply !M! Vulnerable. NL Gain !B! Block. NL Synergy: Gain 1 Blur.",
 		"NAME": "Rena"
 	},
 	"animator_RinTohsaka":
@@ -523,7 +522,7 @@
 	"animator_RoyMustang":
 	{
 		"DESCRIPTION": "Deal !D! Damage to ALL enemies and apply 2 [#EFC851]Burning[]. NL Synergy: Apply !M! more [#EFC851]Burning[].",
-		"EXTENDED_DESCRIPTION": ["Burning", "Take damage at the start of your turn. Also take 4% more Attack damage per stack."],
+		"EXTENDED_DESCRIPTION": ["Burning", "Take damage at the start of your turn. Also take #b4% more #yAttack damage per stack."],
 		"NAME": "Roy Mustang"
 	},
 	"animator_Saber":
@@ -642,7 +641,7 @@
 	"animator_Witch":
 	{
 		"DESCRIPTION": "Gain !B! Block. NL Synergy: Apply !M! [#EFC851]Burning. NL Legacy: Obtain a random Potion.",
-		"EXTENDED_DESCRIPTION": ["Burning", "Take damage at the start of your turn. Also take 4% more Attack damage per stack."],
+		"EXTENDED_DESCRIPTION": ["Burning", "Take damage at the start of your turn. Also take #b4% more #yAttack damage per stack."],
 		"NAME": "'Witch'"
 	},
 	"animator_Wiz":
@@ -680,6 +679,24 @@
 		"UPGRADE_DESCRIPTION": "Play a random [#EFC851]Skill from your draw pile.",
 		"NAME": "Zero"
 	},
+	"animator_BlackLotus":
+	{
+		"DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain !B! Block. NL Gain !M! Blur.",
+		"NAME": "Black Lotus"
+	},
+	"animator_MisaKurobane":
+	{
+		"DESCRIPTION": "Apply !SV! [#EFC851]Burning. NL Draw 1 Card. NL Purge after !M! uses.",
+		"EXTENDED_DESCRIPTION": ["Burning", "Take damage at the start of your turn. Also take #b4% more #yAttack damage per stack."],
+		"NAME": "Misa Kurobane"
+	},
+	"animator_Kuroyukihime":
+	{
+		"DESCRIPTION": "Discard 2 cards. Add [#EFC851]Black [#EFC851]Lotus to your draw pile. Exhaust.",
+		"UPGRADE_DESCRIPTION": "Discard 2 cards. Add [#EFC851]Black [#EFC851]Lotus+ to your draw pile. Exhaust.",
+		"EXTENDED_DESCRIPTION": ["Black Lotus", "A special 1-cost #yAttack."],
+		"NAME": "Kuroyukihime"
+	},
 	"animator_HououinKyouma":
 	{
 		"DESCRIPTION": "Choose !M! card you played this combat and add a copy of it to your hand ([#EFC851]*[#FFFFFF]). Purge.",
@@ -689,7 +706,7 @@
 	},
 	"animator_Saitama":
 	{
-		"DESCRIPTION": "Deal !D! Piercing Damage. NL Strength affects this card !M! times.",
+		"DESCRIPTION": "Innate. Retain. NL Deal !D! Damage. NL Can only be played if you have no [#EFC851]Attacks in your draw pile.",
 		"NAME": "Saitama"
 	},
 	"animator_Kyubey":
