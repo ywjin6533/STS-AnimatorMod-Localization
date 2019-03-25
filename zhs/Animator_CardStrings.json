@@ -606,7 +606,7 @@
 	},
 	"animator_Togame":
 	{
-		"DESCRIPTION": "抽 !M! 张牌 。 您可以 消耗 1 张牌 ， 否则获得 [E] 并 消耗 。 ",
+		"DESCRIPTION": "抽 !M! 张牌 。 选择并消耗一张牌 ， 否则获得 [E] 并 消耗 这张牌 。 ",
 		"NAME": "咎儿"
 	},
 	"animator_TukaLunaMarceau":
