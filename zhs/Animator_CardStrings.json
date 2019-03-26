@@ -669,7 +669,7 @@
 	},
 	"animator_ZankiKiguchi":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害. NL 压倒 和 撤回 : 本次战斗中， 提高手牌中所有攻击牌的伤害 !SV! 点 。",
+		"DESCRIPTION": "造成 !D! 点伤害. NL 压倒 和 撤回 : 本次战斗中， 提高手牌中所有攻击牌的伤害 !M! 点 。",
 		"NAME": "汽口惭愧"
 	},
 	"animator_Zero":
