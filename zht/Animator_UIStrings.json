@@ -114,7 +114,9 @@
 			"用至少有一半的牌為該系列的卡組並擊敗高塔心臟。",
 			"用至少有8張來自該系列且不同的牌的卡組並擊敗高塔心臟。",
 			"用至少有7張來自該系列且不同的牌的卡組並擊敗高塔心臟。 （忽略無色卡）",
-			"用至少有11張來自該系列且不同的牌的卡組完成並擊敗高塔心臟，並且沒有放逐過任何牌。 （忽略無色卡）"
+			"用至少有11張來自該系列且不同的牌的卡組完成並擊敗高塔心臟，並且沒有放逐過任何牌。 （忽略無色卡）",
+			"Complete act 4 with at least 20 cards in your deck, and without any duplicate.",
+			"Complete act 4 with at least 30 cards in your deck, and without any duplicate."
 		]
 	},
 

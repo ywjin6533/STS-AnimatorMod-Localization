@@ -389,7 +389,7 @@
 	},
 	"animator_Jibril":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 如果敌人有减益效果 ， 伤害提高50％ 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 造成 !M! ％ 的额外伤害 ， 乘以敌人的减益效果数 。",
 		"NAME": "吉普莉尔"
 	},
 	"animator_Kazuma":
@@ -473,7 +473,7 @@
 	{
 		"DESCRIPTION": "生成 !M! 个闪电 充能球 。 NL 穿越者 。",
 		"NAME": "娜贝拉尔·伽玛",
-		"UPGRADE_DESCRIPTION": "生成 !M! 个闪电 充能球 。 NL 穿越者 。 同调 : 本回合 闪电球 攻击全部敌人 。"
+		"UPGRADE_DESCRIPTION": "生成 !M! 个闪电 充能球 。 NL 穿越者 。 本回合 闪电球 攻击全部敌人 。"
 	},
 	"animator_PandorasActor":
 	{
@@ -601,7 +601,7 @@
 	},
 	"animator_Tet":
 	{
-		"DESCRIPTION": "在你的抽牌堆中选择 !M! 张牌 。 在弃牌堆中用 !M! 张牌与它们交换 。",
+		"DESCRIPTION": "在你的抽牌堆中选择 !M! 张牌 。 在弃牌堆中用 !M! 张牌与它们交换 。 同调 : 获得 [E] 。",
 		"NAME": "特图"
 	},
 	"animator_Togame":

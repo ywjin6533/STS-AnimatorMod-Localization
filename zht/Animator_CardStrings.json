@@ -387,7 +387,7 @@
 	},
 	"animator_Jibril":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 若敵人有 易傷 效果獲得 !M! 點 力量 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! ％ 的額外傷害 ， 乘以敵人的減益效果數 。",
 		"NAME": "吉普莉爾"
 	},
 	"animator_Kazuma":
@@ -471,7 +471,7 @@
 	{
 		"DESCRIPTION": "生成 !M! 個閃電充能球 。 NL 變形者 。",
 		"NAME": "娜貝拉爾·伽瑪",
-		"UPGRADE_DESCRIPTION": "生成 !M! 個 閃電 充能球 。 NL 變形者 。 同調 : 閃電 本回合擊中所有敵人。"
+		"UPGRADE_DESCRIPTION": "生成 !M! 個 閃電 充能球 。 NL 變形者 。 閃電 本回合擊中所有敵人。"
 	},
 	"animator_PandorasActor":
 	{
@@ -600,7 +600,7 @@
 	},
 	"animator_Tet":
 	{
-		"DESCRIPTION": "在你的抽牌堆中選擇 !M! 張牌 。 在棄牌堆中用 !M! 張牌與它們交換。",
+		"DESCRIPTION": "在你的抽牌堆中選擇 !M! 張牌 。 在棄牌堆中用 !M! 張牌與它們交換 。 同調 :獲得 [E] 。",
 		"NAME": "特圖"
 	},
 	"animator_Togame":
