@@ -109,7 +109,7 @@
 	},
 	"animator_ChaikaTrabant":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 获得 1 层 眩晕 [#EFC851]*[] 。 消耗 。 在的消耗 的牌堆中转3圈后返回到您的弃牌堆 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 给予目标 1 层 眩晕 [#EFC851]*[] 。 消耗 。 在 已消耗 牌堆 !M! 回合后回到你的抽牌堆 。",
 		"EXTENDED_DESCRIPTION": ["* 注", "该效果不叠加 。"],
 		"NAME": "嘉依卡·托勒庞特"
 	},
