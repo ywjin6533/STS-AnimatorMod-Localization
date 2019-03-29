@@ -114,7 +114,7 @@
 	},
 	"animator_ChaikaTrabant":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 暈眩敵人 [#EFC851]*[] 。 消耗 。 在 消耗 牌堆 !M! 回合後回到你的抽牌堆 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 暈眩敵人 [#EFC851]*[] 。 抹除 。 在 已 !M! 回合後回到你的抽牌堆 。",
 		"EXTENDED_DESCRIPTION": ["* 注", "不可疊加 。"],
 		"NAME": "嘉依卡·托勒龐特"
 	},
@@ -161,6 +161,71 @@
 	{
 		"DESCRIPTION": "獲得 !B! 點 格擋 。",
 		"NAME": "防御"
+	},
+	"animator_Defend_AccelWorld":
+	{
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 撤回 : 獲得 !B! 點 格擋 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_Elsword":
+	{
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 下一轮 ， 獲得 !B! 點 格擋 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_Fate":
+	{
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 獲得 !M! 點 格擋 為每個敵人 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_FullmetalAlchemist":
+	{
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 冷卻 !SV! : [#EFC851]產生[] 1 個 冰霜 充能球 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_GATE":
+	{
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 保留 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_GoblinSlayer":
+	{
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 消耗 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_HitsugiNoChaika":
+	{
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 循環 1 張牌 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_Kancolle":
+	{
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 如果這是從您的套牌中刪除 ， 獲得 !M! 金幣 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_Katanagatari":
+	{
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 獲得3臨時[＃EFC851]荊棘 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_NoGameNoLife":
+	{
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 保留 你最左邊的可玩牌 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_Konosuba":
+	{
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 增強 !SV! : 回復 !M! 點 生命 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_Overlord":
+	{
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 這場戰鬥使這張卡的格擋提高 !M! 點 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_OwariNoSeraph":
+	{
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 遺產 : 獲得 !M! 點 敏捷 。",
+		"NAME": "Defend"
 	},
 	"animator_Demiurge":
 	{
@@ -626,8 +691,72 @@
 	"animator_Strike":
 	{
 		"DESCRIPTION": "造成 !D! 點傷害 。",
-		"NAME": "打擊",
-		"UPGRADE_DESCRIPTION": "造成 !D! 點傷害 。"
+		"NAME": "打擊"
+	},
+	"animator_Strike_AccelWorld":
+	{
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 撤回: 造成 !M! 點 傷害 對一個隨機的敵人",
+		"NAME": "Strike"
+	},
+	"animator_Strike_Elsword":
+	{
+		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_Fate":
+	{
+		"DESCRIPTION": "造成 !D! 點 穿刺 傷害 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_FullmetalAlchemist":
+	{
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 冷卻 !SV! : NL [#EFC851]產生[] 1 個 閃電 充能球 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_GATE":
+	{
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 下一轮 ， 抽一張牌 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_GoblinSlayer":
+	{
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 消耗 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_HitsugiNoChaika":
+	{
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 造成 !M! 點 中毒 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_Kancolle":
+	{
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 如果這是從您的套牌中刪除 ， 獲得 !M! 金幣 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_Katanagatari":
+	{
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 如果這是你本回合打的第一張牌 ， 獲得 [E] 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_Konosuba":
+	{
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 增強 !SV! : 回復 !M! 點 生命 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_NoGameNoLife":
+	{
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 保留 你最右的可玩牌 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_Overlord":
+	{
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 這場戰鬥使這張卡的傷害提高 !M! 點 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_OwariNoSeraph":
+	{
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 遺產 : 獲得 !M! 點 力量 。",
+		"NAME": "Strike"
 	},
 	"animator_SwordMaiden":
 	{
@@ -680,7 +809,7 @@
 	},
 	"animator_Wiz":
 	{
-		"DESCRIPTION": "消耗 一張牌， 從已 消耗 的牌中選擇一張加入你的手牌。 抹除 [#EFC851]*[] 。",
+		"DESCRIPTION": "消耗 一張牌， 從已 消耗 的牌中選擇一張加入你的手牌 。 抹除 [#EFC851]*[] 。",
 		"EXTENDED_DESCRIPTION": ["* 注", "不能在被消耗牌中選另一張<維茲> 。"],
 		"NAME": "維茲",
 		"UPGRADE_DESCRIPTION": "消耗 一張牌， 從已 消耗 的牌中選擇一張加入你的手牌。 使用 !M! 次後 抹除 [#EFC851]*[] 。"

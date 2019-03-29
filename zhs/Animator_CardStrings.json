@@ -114,7 +114,7 @@
 	},
 	"animator_ChaikaTrabant":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 给予目标 1 层 眩晕 [#EFC851]*[] 。 消耗 。 在 已消耗 牌堆 !M! 回合后回到你的抽牌堆 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 给予目标 1 层 眩晕 [#EFC851]*[] 。 抹除 。 在 已 !M! 回合后回到你的抽牌堆 。",
 		"EXTENDED_DESCRIPTION": ["* 注", "该效果不叠加 。"],
 		"NAME": "嘉依卡·托勒庞特"
 	},
@@ -161,6 +161,71 @@
 	{
 		"DESCRIPTION": "获得 !B! 点 格挡 。",
 		"NAME": "防御"
+	},
+	"animator_Defend_AccelWorld":
+	{
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 撤回 : 获得 !B! 点 格挡 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_Elsword":
+	{
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 下回合 ， 获得 !B! 点 格挡 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_Fate":
+	{
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 每个敌人使你获得获得 !M! 点 格挡 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_FullmetalAlchemist":
+	{
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 预热 !SV! : [#EFC851]生成[] 1 个 冰霜 充能球",
+		"NAME": "Defend"
+	},
+	"animator_Defend_GATE":
+	{
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 保留 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_GoblinSlayer":
+	{
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 消耗 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_HitsugiNoChaika":
+	{
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 循环 1 张牌 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_Kancolle":
+	{
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 如果这是从您的套牌中删除 ， 获得 !M! 金币 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_Katanagatari":
+	{
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 获得 !M! 临时 [＃EFC851]荆棘 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_NoGameNoLife":
+	{
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 保留 你最左边的可玩牌 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_Konosuba":
+	{
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 鼓舞 !SV! : 恢复 !M! 点 生命 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_Overlord":
+	{
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 这场战斗使这张卡的格挡提高 !M! 点 。",
+		"NAME": "Defend"
+	},
+	"animator_Defend_OwariNoSeraph":
+	{
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 遗赠 : 获得 !M! 点 敏捷 。",
+		"NAME": "Defend"
 	},
 	"animator_Demiurge":
 	{
@@ -571,7 +636,7 @@
 	"animator_Scar":
 	{
 		"DESCRIPTION": "造成 !D! 点 穿刺 伤害 。 NL [#EFC851]龙之吐息[] .",
-		"EXTENDED_DESCRIPTION": ["龙之吐息", "如果这张牌消灭了一个非爪牙的敌人, #y抹除 这张牌，在你的牌库中永久 #y升级 一张牌"],
+		"EXTENDED_DESCRIPTION": ["龙之吐息", "如果这张牌消灭了一个非爪牙的敌人 ， #y抹除 这张牌，在你的牌库中永久 #y升级 一张牌"],
 		"NAME": "斯卡"
 	},
 	"animator_Sebas":
@@ -630,6 +695,71 @@
 		"DESCRIPTION": "造成 !D! 点伤害 。",
 		"NAME": "打击",
 		"UPGRADE_DESCRIPTION": "造成 !D! 点伤害 。"
+	},
+	"animator_Strike_AccelWorld":
+	{
+		"DESCRIPTION": "造成 !D! 点伤害 。 NL 撤回 : 造成 !M! 点 伤害 对一个随机的敌人 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_Elsword":
+	{
+		"DESCRIPTION": "对所有敌人造成 !D! 点 伤害 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_Fate":
+	{
+		"DESCRIPTION": "造成 !D! 点 穿刺 伤害 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_FullmetalAlchemist":
+	{
+		"DESCRIPTION": "造成 !D! 点伤害 。 NL 预热 !SV! : NL [#EFC851]生成[] 1 个 闪电 充能球 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_GATE":
+	{
+		"DESCRIPTION": "造成 !D! 点伤害 。 NL 下一轮 ， 抽一张牌 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_GoblinSlayer":
+	{
+		"DESCRIPTION": "造成 !D! 点伤害 。 NL 消耗 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_HitsugiNoChaika":
+	{
+		"DESCRIPTION": "造成 !D! 点伤害 。 NL 给予 !M! 层 中毒 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_Kancolle":
+	{
+		"DESCRIPTION": "造成 !D! 点伤害 。 NL 如果这是从您的套牌中删除 ， 获得 !M! 金币 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_Katanagatari":
+	{
+		"DESCRIPTION": "造成 !D! 点伤害 。 NL 如果这是你本回合打的第一张牌 ， 获得 [E] 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_Konosuba":
+	{
+		"DESCRIPTION": "造成 !D! 点伤害 。 NL 鼓舞 !SV! : 恢复 !M! 点 生命 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_NoGameNoLife":
+	{
+		"DESCRIPTION": "造成 !D! 点伤害 。 NL 保留 保留 你最右的可玩牌 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_Overlord":
+	{
+		"DESCRIPTION": "造成 !D! 点伤害 。 NL 这场战斗使这张卡的伤害提高 !M! 点 。",
+		"NAME": "Strike"
+	},
+	"animator_Strike_OwariNoSeraph":
+	{
+		"DESCRIPTION": "造成 !D! 点伤害 。 NL 遗赠 : 获得 !M! 点 力量 。",
+		"NAME": "Strike"
 	},
 	"animator_SwordMaiden":
 	{
