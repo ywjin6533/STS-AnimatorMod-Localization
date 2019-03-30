@@ -98,7 +98,7 @@
 	},
 	"animator_Bozes":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Whenever a card Synergizes this turn, gain !M! Block.",
+		"DESCRIPTION": "Deal !D! damage to the lowest health enemy. On your next !M! Synergies this turn, gain 1 [#EFC851]Plated [#EFC851]Armor.",
 		"NAME": "Bozes"
 	},
 	"animator_Caster":

@@ -98,7 +98,7 @@
 	},
 	"animator_Bozes":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 本回合中每有一张牌触发同调效果， 获得 !M! 点 格挡 。",
+		"DESCRIPTION": "对生命值最低的敌人造成 !D! 点 伤害 。 本回合中 ， 接下来 !M! 次触发 同调 效果时 ，每次获得一层 [#EFC851]多层护甲[] 。",
 		"NAME": "波赛斯"
 	},
 	"animator_Caster":
