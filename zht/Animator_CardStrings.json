@@ -204,7 +204,7 @@
 	},
 	"animator_Defend_Katanagatari":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 獲得3臨時[＃EFC851]荊棘 。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 獲得3臨時[＃EFC851]荊棘[] 。",
 		"NAME": "Defend"
 	},
 	"animator_Defend_NoGameNoLife":
@@ -224,7 +224,7 @@
 	},
 	"animator_Defend_OwariNoSeraph":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 遺產 : 獲得 !M! 點 敏捷 。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 遺產 : 給予所有敵人 !M! 層 虛弱 。",
 		"NAME": "Defend"
 	},
 	"animator_Demiurge":
@@ -541,9 +541,10 @@
 	},
 	"animator_MisaKurobane":
 	{
-		"DESCRIPTION": "賦予 !M! 層 [#EFC851]燃燒[] 。 NL 抽 1 張牌 。 NL 使用 !M! 次後 抹除 。",
+		"DESCRIPTION": "賦予 !SV! 層 [#EFC851]燃燒[] 。 NL 抽 1 張牌 。 NL 使用 !M! 次後 抹除 併 獲得 [#EFC851]yusarin[] 。",
 		"EXTENDED_DESCRIPTION": ["燃燒", "在回合開始時受到 傷害 。 每層使收到的傷害額外增加 4% 。"],
-		"NAME": "黑羽美砂"
+		"NAME": "黑羽美砂",
+		"UPGRADE_DESCRIPTION": "賦予 !SV! 層 [#EFC851]燃燒[] 。 NL 抽 1 張牌 。 NL 使用 !M! 次後 抹除 併 獲得 [#EFC851]yusarin+[] 。"
 	},
 	"animator_Mitsuba":
 	{
@@ -695,7 +696,7 @@
 	},
 	"animator_Strike_AccelWorld":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 撤回: 造成 !M! 點 傷害 對一個隨機的敵人",
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 撤回 : 造成 !M! 點 傷害 對一個隨機的敵人",
 		"NAME": "Strike"
 	},
 	"animator_Strike_Elsword":
@@ -735,7 +736,7 @@
 	},
 	"animator_Strike_Katanagatari":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 如果這是你本回合打的第一張牌 ， 獲得 [E] 。",
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 如果你手中的卡少於 3 張 ， 獲得 [E] 。",
 		"NAME": "Strike"
 	},
 	"animator_Strike_Konosuba":
@@ -755,7 +756,7 @@
 	},
 	"animator_Strike_OwariNoSeraph":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 遺產 : 獲得 !M! 點 力量 。",
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 遺產 : 給予所有敵人 !M! 層 易傷 。",
 		"NAME": "Strike"
 	},
 	"animator_SwordMaiden":
@@ -823,6 +824,12 @@
 	{
 		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 。 手牌中每有一張別的 [#EFC851]攻擊[] 牌， 增加一點消耗 。",
 		"NAME": "芸芸"
+	},
+	"animator_Yusarin":
+	{
+		"DESCRIPTION": 給予 !M! 層 虛弱 。 NL 下一轮 ， 抽 !M! 張牌 併 獲得 [E]",
+		"NAME": "Yusarin",
+		"UPGRADE_DESCRIPTION": "給予 !M! 層 虛弱 。 NL 下一轮 ， 抽 !M! 張牌 併 獲得 [E]"
 	},
 	"animator_Yuuichirou":
 	{

@@ -224,7 +224,7 @@
 	},
 	"animator_Defend_OwariNoSeraph":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Legacy: Gain !M! Dexterity.",
+		"DESCRIPTION": "Gain !B! Block. NL Legacy: Apply !M! Weak to ALL enemies.",
 		"NAME": "Defend"
 	},
 	"animator_Demiurge":
@@ -544,9 +544,10 @@
 	},
 	"animator_MisaKurobane":
 	{
-		"DESCRIPTION": "Apply !SV! [#EFC851]Burning. NL Draw 1 Card. NL Purge after !M! uses.",
+		"DESCRIPTION": "Apply !SV! [#EFC851]Burning. NL Draw 1 Card. NL After !M! uses, Purge and obtain [#EFC851]Yusarin.",
 		"EXTENDED_DESCRIPTION": ["Burning", "Take damage at the start of your turn. Also take #b4% more #yAttack damage per stack."],
-		"NAME": "Misa Kurobane"
+		"NAME": "Misa Kurobane",
+		"UPGRADE_DESCRIPTION": "Apply !SV! [#EFC851]Burning. NL Draw 1 Card. NL After !M! uses, Purge and obtain [#EFC851]Yusarin+."
 	},
 	"animator_Mitsuba":
 	{
@@ -738,7 +739,7 @@
 	},
 	"animator_Strike_Katanagatari":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL If this is the first card you play this turn, gain [E].",
+		"DESCRIPTION": "Deal !D! damage. NL If you have less than 3 cards in hand, NL gain [E].",
 		"NAME": "Strike"
 	},
 	"animator_Strike_Konosuba":
@@ -758,7 +759,7 @@
 	},
 	"animator_Strike_OwariNoSeraph":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Legacy: Gain !M! Strength.",
+		"DESCRIPTION": "Deal !D! damage. NL Legacy: Apply !M! Vulnerable to ALL enemies.",
 		"NAME": "Strike"
 	},
 	"animator_SwordMaiden":
@@ -826,6 +827,12 @@
 	{
 		"DESCRIPTION": "Deal !D! damage to ALL enemies. Costs 1 more for each other [#EFC851]Attack in your hand.",
 		"NAME": "YunYun"
+	},
+	"animator_Yusarin":
+	{
+		"DESCRIPTION": "Apply !M! Weak. NL Next turn, Gain [E] and draw !M! card.",
+		"NAME": "Yusarin",
+		"UPGRADE_DESCRIPTION": "Apply !M! Weak. NL Next turn, Gain [E] and draw !M! cards."
 	},
 	"animator_Yuuichirou":
 	{
