@@ -204,7 +204,7 @@
 	},
 	"animator_Defend_Katanagatari":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 獲得3臨時[＃EFC851]荊棘[] 。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 獲得3臨時 [＃EFC851]荊棘[] 。",
 		"NAME": "Defend"
 	},
 	"animator_Defend_NoGameNoLife":
@@ -827,9 +827,9 @@
 	},
 	"animator_Yusarin":
 	{
-		"DESCRIPTION": 給予 !M! 層 虛弱 。 NL 下一轮 ， 抽 !M! 張牌 併 獲得 [E]",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 下一轮 ， 抽 !M! 張牌 併 獲得 [E]",
 		"NAME": "Yusarin",
-		"UPGRADE_DESCRIPTION": "給予 !M! 層 虛弱 。 NL 下一轮 ， 抽 !M! 張牌 併 獲得 [E]"
+		"UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 NL 下一轮 ， 抽 !M! 張牌 併 獲得 [E]"
 	},
 	"animator_Yuuichirou":
 	{

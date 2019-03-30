@@ -830,9 +830,9 @@
 	},
 	"animator_Yusarin":
 	{
-		"DESCRIPTION": "Apply !M! Weak. NL Next turn, Gain [E] and draw !M! card.",
+		"DESCRIPTION": "Gain !B! Block. NL Next turn, Gain [E] and draw !M! card.",
 		"NAME": "Yusarin",
-		"UPGRADE_DESCRIPTION": "Apply !M! Weak. NL Next turn, Gain [E] and draw !M! cards."
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Next turn, Gain [E] and draw !M! cards."
 	},
 	"animator_Yuuichirou":
 	{

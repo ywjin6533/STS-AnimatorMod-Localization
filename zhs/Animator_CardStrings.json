@@ -830,9 +830,9 @@
 	},
 	"animator_Yusarin":
 	{
-		"DESCRIPTION": "给予 !M! 层 虚弱 。 NL 下一轮 ， 抽 !M! 张牌 和 获得 [E]",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 下一轮 ， 抽 !M! 张牌 和 获得 [E]",
 		"NAME": "Yusarin",
-		"UPGRADE_DESCRIPTION": "给予 !M! 层 虚弱 。 NL 下一轮 ， 抽 !M! 张牌 和 获得 [E]"
+		"UPGRADE_DESCRIPTION": "获得 !B! 点 格挡 。 NL 下一轮 ， 抽 !M! 张牌 和 获得 [E]"
 	},
 	"animator_Yuuichirou":
 	{
