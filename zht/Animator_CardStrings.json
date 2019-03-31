@@ -787,8 +787,7 @@
 	},
 	"animator_Urushihara":
 	{
-		"DESCRIPTION": "[#EFC851]產生[] 1 個黑暗充能球 ， NL 對所有敵人造成 !D! 傷害 。 NL [#EFC851]怠惰[] 。 ",
-		"EXTENDED_DESCRIPTION": ["怠惰", "抽到這張牌時， 有50%機率跟的棄牌堆裡的牌交換。"],
+		"DESCRIPTION": "在隨機數輪之後 ， [#EFC851]產生[] 1 個黑暗充能球 ， NL 對所有敵人造成 !D! 傷害 。",
 		"NAME": "漆原半藏"
 	},
 	"animator_Vanir":

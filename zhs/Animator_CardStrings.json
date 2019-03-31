@@ -790,8 +790,7 @@
 	},
 	"animator_Urushihara":
 	{
-		"DESCRIPTION": "[#EFC851]生成[] 1 个 黑暗 充能球 。 对所有敌人造成 !D! 点 伤害 。 [#EFC851]懒惰[] 。",
-		"EXTENDED_DESCRIPTION": ["懒惰", "抽到这张牌时 ， 有50％的几率的弃牌堆中的另一张卡交换 。"],
+		"DESCRIPTION": "在随机数轮之后 ， [#EFC851]生成[] 1 个 黑暗 充能球 。 对所有敌人造成 !D! 点 伤害 。",
 		"NAME": "漆原半藏-路西法"
 	},
 	"animator_Vanir":
