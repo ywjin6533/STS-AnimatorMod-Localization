@@ -647,7 +647,7 @@
 	},
 	"animator_Shalltear":
 	{
-		"DESCRIPTION": "Deal !D! damage to ALL enemies. NL Synergy and Overrun: Apply !M! Poison.",
+		"DESCRIPTION": "Deal !D! damage to ALL enemies. NL Synergy and Overrun: Apply !M! Weak.",
 		"NAME": "Shalltear"
 	},
 	"animator_Shichika":

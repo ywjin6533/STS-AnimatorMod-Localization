@@ -647,7 +647,7 @@
 	},
 	"animator_Shalltear":
 	{
-		"DESCRIPTION": "对所有敌人造成 !D! 点 伤害 。 NL 同调 ， 压倒 : 给予 !M! 层 中毒 。",
+		"DESCRIPTION": "对所有敌人造成 !D! 点 伤害 。 NL 同调 ， 压倒 : 给予 !M! 层 虚弱 。",
 		"NAME": "夏提雅"
 	},
 	"animator_Shichika":
