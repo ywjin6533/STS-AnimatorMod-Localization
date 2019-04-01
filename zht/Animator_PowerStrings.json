@@ -120,6 +120,16 @@
 		"DESCRIPTIONS": ["你偷了 #b", " 個金幣。 你可以再盜取 #b", " 個金幣。"],
 		"NAME": "被盜的黃金"
 	},
+	"animator_KaijinPower":
+	{
+		"DESCRIPTIONS": ["At the end of your turn, increase the #yBlock and damage of a random card in your draw pile by #b", "."],
+		"NAME": "Kaijin"
+	},
+	"animator_GazelDwargonPower":
+	{
+		"DESCRIPTIONS": ["Whenever your #yBlock is removed, deal that much damage #b", " times to ALL enemies."],
+		"NAME": "Gazel Dwargon"
+	},
 	"animator_EarthenThornsPower":
 	{
 		"DESCRIPTIONS": ["每次受到 #y攻擊 傷害時，就造成 #b", " 點反傷"],

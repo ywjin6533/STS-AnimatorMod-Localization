@@ -847,5 +847,64 @@
 		"DESCRIPTION": "從你的抽牌堆中打出一張隨機的 [#EFC851]技能牌[] 。 消耗 。",
 		"NAME": "零",
 		"UPGRADE_DESCRIPTION": "從你的抽牌堆中打出一張隨機的 [#EFC851]技能牌[] 。 "
+	},
+	"animator_Rimuru":
+	{
+		"DESCRIPTION": "[#EFC851]Drawn: Become a copy of a random card, it has Shapeshifter.",
+		"NAME": "Rimuru",
+		"UPGRADE_DESCRIPTION": "[#EFC851]Drawn: Become an Upgraded copy of a random card, it has Shapeshifter."
+	},
+	"animator_Shizu":
+	{
+		"DESCRIPTION": "Deal !D! Damage. NL Draw !M! card. NL [#EFC851]Ifrit.",
+		"EXTENDED_DESCRIPTION": ["Ifrit", "Exhaust up to 5 cards in your hand, apply that much [#EFC851]Burning to ALL enemies."],
+		"NAME": "Shizu",
+		"UPGRADE_DESCRIPTION": "Deal !D! Damage. NL Draw !M! cards. NL [#EFC851]Ifrit."
+	},
+	"animator_GazelDwargon":
+	{
+		"DESCRIPTION": "Whenever your Block is removed ([#EFC851]*[#FFFFFF]), deal that much damage to ALL enemies.",
+		"EXTENDED_DESCRIPTION": ["* Note", "Does not activate when #yBlock is used to reduce damage."],
+		"NAME": "Gazel Dwargon",
+		"UPGRADE_DESCRIPTION": "Innate. NL Whenever your Block is removed ([#EFC851]*[#FFFFFF]), deal that much damage to ALL enemies."
+	},
+	"animator_Souei":
+	{
+		"DESCRIPTION": "Apply !M! Poison. NL Trigger the Poison of ALL enemies, if any of them dies, gain Intangible.",
+		"NAME": "Souei"
+	},
+	"animator_Shuna":
+	{
+		"DESCRIPTION": "[#EFC851]Drawn: Gain !B! Block. NL Draw 2 cards. Synergy: Convert up to !M! Block into Temporary HP.",
+		"NAME": "Shuna"
+	},
+	"animator_Vesta":
+	{
+		"DESCRIPTION": "Choose a card in your Exhaust pile, after !M! turns, add an Upgraded copy of it to your hand. Purge.",
+		"EXTENDED_DESCRIPTION": ["Select a card, after # turns, add an Upgraded copy of it to your hand."],
+		"NAME": "Vesta"
+	},
+	"animator_Kaijin":
+	{
+		"DESCRIPTION": "At the end of each turn, give a random card in your draw pile !M! more damage and Block this combat.",
+		"NAME": "Kaijin"
+	},
+	"animator_Hakurou":
+	{
+		"DESCRIPTION": "[#EFC851]Martial [#EFC851]Artist. Deal !D! damage !M! times. NL [#EFC851]Drawn: Gain !SV! Dexterity until end of turn.",
+		"EXTENDED_DESCRIPTION": ["Martial Artist", "This card's damage also scales with #yDexterity."],
+		"NAME": "Hakurou"
+	},
+	"animator_Benimaru":
+	{
+		"DESCRIPTION": "Deal !D! damage. NL Gain !B! Block for each enemy with a [#EFC851]Debuff. NL Synergy: Apply !SV! Burning.",
+		"EXTENDED_DESCRIPTION": ["Burning", "Take damage at the start of your turn. Also take #b4% more #yAttack damage per stack."],
+		"NAME": "Benimaru"
+	},
+	"animator_Millim":
+	{
+		"DESCRIPTION": "Augmentable. [#EFC851]Unique. NL Deal !D! damage. NL Synergy: Gain !B! Block.",
+		"EXTENDED_DESCRIPTION": ["Unique", "You can only have 1 copy of this card in your deck, additional copies will #yUpgrade this card instead."],
+		"NAME": "Millim"
 	}
 }
