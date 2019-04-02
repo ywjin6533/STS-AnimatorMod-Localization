@@ -126,12 +126,12 @@
 	},
 	"animator_GazelDwargonPower":
 	{
-		"DESCRIPTIONS": ["Whenever your #yBlock is removed, deal that much damage #b", " times to ALL enemies."],
+		"DESCRIPTIONS": ["Whenever your #yBlock is removed, deal that much damage #b", " time/s to ALL enemies."],
 		"NAME": "Gazel Dwargon"
 	},
 	"animator_EarthenThornsPower":
 	{
-		"DESCRIPTIONS": ["When attacked, deals #b", " damage back."],
+		"DESCRIPTIONS": ["When attacked, deal #b", " damage back."],
 		"NAME": "Earthen Thorns"
 	}
 }
