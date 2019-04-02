@@ -17,7 +17,7 @@
 	},
 	"animator_EntouJyuuPower":
 	{
-		"DESCRIPTIONS": ["The next #b", " #yAttack/s you play this turn will gain #b", " damage and draw you 1 card."],
+		"DESCRIPTIONS": ["這回合打出的下一張攻擊牌 #b", " #y獲得額外的 #b", " 傷害，然後抽一張牌。"],
 		"NAME": "炎刃·銃"
 	},
 	"animator_ShiroPower":
