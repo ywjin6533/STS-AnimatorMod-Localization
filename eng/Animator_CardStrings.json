@@ -793,9 +793,8 @@
 	},
 	"animator_Tyuule":
 	{
-		"DESCRIPTION": "Apply !M! Poison to ALL enemies for each other [#EFC851]Non-Attack card in your hand. NL (Apply !SV! Poison)",
-		"NAME": "Tyuule",
-		"UPGRADE_DESCRIPTION": "Apply !M! Poison to ALL enemies for each [#EFC851]Non-Attack card in your hand. NL (Apply !SV! Poison)"
+		"DESCRIPTION": "Apply !M! Poison and 1 Weak to ALL enemies. NL Boost !SV!:  Gain [E]",
+		"NAME": "Tyuule"
 	},
 	"animator_Urushihara":
 	{

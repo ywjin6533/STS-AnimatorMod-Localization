@@ -791,9 +791,8 @@
 	},
 	"animator_Tyuule":
 	{
-		"DESCRIPTION": "手牌中每有另一個張 [#EFC851]技能牌[] ， 給予所有敵人 !M! 層 中毒 。 NL ( 給予 !SV! 層 中毒 )",
-		"NAME": "蒂尤蕾",
-		"UPGRADE_DESCRIPTION": "手牌中每有一張 [#EFC851]技能牌[] ， 給予所有敵人 !M! 層 中毒 。 NL ( 給予 !SV! 層 中毒 )"
+		"DESCRIPTION": "給予所有敵人 !M! 層 虛弱 併 1 層 中毒 。 增強 !SV! : 獲得 [E]",
+		"NAME": "蒂尤蕾"
 	},
 	"animator_Urushihara":
 	{
