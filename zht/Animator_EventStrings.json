@@ -9,7 +9,8 @@
       "[Sell] #gRemove ", ". #gGain #g", " #gGold.",
       "[Trade] #gImprove #gall Strikes #gand Defends. #rLose #r", " #rGold.",
       "[Leave]",
-	  "[Locked] No card to sell."
+	  "[Locked] No card to sell.",
+	  "[Locked] Not enough Gold."
     ]
   }
 }

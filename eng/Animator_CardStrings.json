@@ -799,7 +799,7 @@
 	},
 	"animator_Urushihara":
 	{
-		"DESCRIPTION": "When he feels like it, [#EFC851]Channel[] 1 Dark and deal !D! damage to ALL enemies.",
+		"DESCRIPTION": "When this card feels like it, [#EFC851]Channel[] 1 Dark and deal !D! damage to ALL enemies.",
 		"NAME": "Urushihara"
 	},
 	"animator_Vanir":
@@ -869,7 +869,7 @@
 	"animator_Shizu":
 	{
 		"DESCRIPTION": "Deal !D! Damage. NL Draw !M! card. NL [#EFC851]Ifrit.",
-		"EXTENDED_DESCRIPTION": ["Ifrit", "Exhaust up to 5 cards in your hand, apply that much [#EFC851]Burning to ALL enemies."],
+		"EXTENDED_DESCRIPTION": ["Ifrit", "Exhaust up to 3 cards in your hand, apply that much [#EFC851]Burning to ALL enemies."],
 		"NAME": "Shizu",
 		"UPGRADE_DESCRIPTION": "Deal !D! Damage. NL Draw !M! cards. NL [#EFC851]Ifrit."
 	},
@@ -887,12 +887,12 @@
 	},
 	"animator_Shuna":
 	{
-		"DESCRIPTION": "[#EFC851]Drawn: Gain !B! Block. NL Draw 2 cards. Synergy: Convert up to !M! Block into Temporary HP.",
+		"DESCRIPTION": "[#EFC851]Drawn: Gain !B! Block. NL Draw 2 cards. NL Synergy: Convert up to !M! Block into Temporary HP.",
 		"NAME": "Shuna"
 	},
 	"animator_Vesta":
 	{
-		"DESCRIPTION": "Choose a card in your Exhaust pile, after !M! turns, add an Upgraded copy of it to your hand. Purge.",
+		"DESCRIPTION": "Choose a card in your Exhaust pile, after !M! turns, add an Upgraded copy of it to your hand. Exhaust.",
 		"EXTENDED_DESCRIPTION": ["Select a card, after # turns, add an Upgraded copy of it to your hand."],
 		"NAME": "Vesta"
 	},
