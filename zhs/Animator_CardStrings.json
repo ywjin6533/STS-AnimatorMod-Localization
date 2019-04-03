@@ -863,46 +863,46 @@
 	},
 	"animator_Rimuru":
 	{
-		"DESCRIPTION": "[#EFC851]被抽到时[] : 变成一张随机牌的复制, 并带有 穿越者 ",
+		"DESCRIPTION": "[#EFC851]被抽到时[] : 变成一张随机牌的复制 ， 并 带有 穿越者 。",
 		"NAME": "利姆鲁",
-		"UPGRADE_DESCRIPTION": "[#EFC851]被抽到时[] : 变成一张升级过的随机牌的复制, 并带有 穿越者"
+		"UPGRADE_DESCRIPTION": "[#EFC851]被抽到时[] : 变成一张升级过的随机牌的复制 ， 并 带有 穿越者 。"
 	},
 	"animator_Shizu":
 	{
 		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 抽 !M! 张牌 。 NL [#EFC851]伊芙利特[]",
-		"EXTENDED_DESCRIPTION": ["伊芙利特", "#y消耗 最多4张手牌, 对所有敌人造成等量层数的 #y燃烧 . 向你的弃牌堆中加入 2 张 #y灼烧 ."],
+		"EXTENDED_DESCRIPTION": ["伊芙利特", "#y消耗 最多4张手牌 ， 对所有敌人造成等量层数的 #y燃烧 。 向你的弃牌堆中加入 2 张 #y灼烧 。"],
 		"NAME": "静"
 	},
 	"animator_GazelDwargon":
 	{
-		"DESCRIPTION": "每当你的格挡消失时, 对所有敌人造成等量伤害 [#EFC851]*[]",
-		"EXTENDED_DESCRIPTION": ["* 注", "由于抵消伤害而失去的 #y格挡 不会计算在内."],
+		"DESCRIPTION": "每当你的格挡消失时, 对所有敌人造成等量伤害 [#EFC851]*[] 。",
+		"EXTENDED_DESCRIPTION": ["* 注", "由于抵消伤害而失去的 #y格挡 不会计算在内 。"],
 		"NAME": "矮人王"
 	},
 	"animator_Souei":
 	{
-		"DESCRIPTION": "给予 !M! 层 中毒 。 NL 触发所有敌人的中毒效果, 如果有敌人被消灭, 获得 无实体",
+		"DESCRIPTION": "给予 !M! 层 中毒 。 NL 触发所有敌人的中毒效果 ， 如果有敌人被消灭 ， 获得 无实体 。",
 		"NAME": "苍影"
 	},
 	"animator_Shuna":
 	{
-		"DESCRIPTION": "[#EFC851]被抽到时[] : 获得 !B! 点 格挡 。 NL 抽 2 张牌 。 NL 同调 : 本场战斗中，该牌额外获得 !M! 点格挡.",
+		"DESCRIPTION": "[#EFC851]被抽到时[] : 获得 !B! 点 格挡 。 NL 抽 2 张牌 。 NL 同调 : 本场战斗中 ， 该牌额外获得 !M! 点 格挡 。",
 		"NAME": "朱菜"
 	},
 	"animator_Vesta":
 	{
-		"DESCRIPTION": "在你的弃牌堆中选择一张牌, 于 !M! 回合后,将这张牌的升级后的复制加入到手牌中. 抹除.",
-		"EXTENDED_DESCRIPTION": ["选一张牌, 于 # 回合后, 将一张升级过的复制加入手牌中."],
+		"DESCRIPTION": "在你的弃牌堆中选择一张牌 ， 于 !M! 回合后 ， 将这张牌的 升级 后的复制加入到手牌中 。 抹除 。",
+		"EXTENDED_DESCRIPTION": ["选一张牌 ， 于 # 回合后 ， 将一张升级过的复制加入手牌中 。"],
 		"NAME": "大臣"
 	},
 	"animator_Kaijin":
 	{
-		"DESCRIPTION": "每回合结束时, 随机选择一张抽牌堆中的牌，在本场战斗中使其造成的伤害与获得的格挡量提高 !M! 点.",
+		"DESCRIPTION": "每回合结束时 ， 随机选择一张抽牌堆中的牌 ， 在本场战斗中使其造成的伤害与获得的格挡量提高 !M! 点 。",
 		"NAME": "凯·金"
 	},
 	"animator_Hakurou":
 	{
-		"DESCRIPTION": "[#EFC851]剑圣[] 。 造成 !D! 点伤害 !M! 次 。 NL [#EFC851]被抽到时[] : 获得 !SV!  点临时 敏捷.",
+		"DESCRIPTION": "[#EFC851]剑圣[] 。 造成 !D! 点伤害 !M! 次 。 NL [#EFC851]被抽到时[] : 获得 !SV!  点临时 敏捷 。",
 		"EXTENDED_DESCRIPTION": ["剑圣", "此牌造成的伤害受敏捷影响"],
 		"NAME": "白老"
 	},
@@ -915,7 +915,7 @@
 	"animator_Millim":
 	{
 		"DESCRIPTION": "多重进化 。 [#EFC851]唯一[] 。 造成 !D! 点 伤害 。 NL 同调 : 获得 !B! 点 格挡 。",
-		"EXTENDED_DESCRIPTION": ["唯一", "卡组中只能存在一张该牌, 额外获得的同名牌会 #y升级 这张牌."],
+		"EXTENDED_DESCRIPTION": ["唯一", "卡组中只能存在一张该牌 ， 额外获得的同名牌会 #y升级 这张牌 。"],
 		"NAME": "米莉姆"
 	}
 }

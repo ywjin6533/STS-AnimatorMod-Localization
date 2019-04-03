@@ -860,59 +860,59 @@
 	},
 	"animator_Rimuru":
 	{
-		"DESCRIPTION": "[#EFC851]drawn[] : become a copy of a random card, it has 變形者",
-		"NAME": "Rimuru",
-		"UPGRADE_DESCRIPTION": "[#EFC851]drawn[] : become an 升級 copy of a random card, it has 變形者"
+		"DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張隨機牌的複制 ， 並 帶有 穿越者 。",
+		"NAME": "利姆魯",
+		"UPGRADE_DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張昇級過的隨機牌的複制 ， 並 帶有 穿越者 。"
 	},
 	"animator_Shizu":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 抽 !M! 張牌 。 NL [#EFC851]ifrit[]",
-		"EXTENDED_DESCRIPTION": ["ifrit", "#y消耗 up to 4 cards in your hand, apply that much #y燃燒 to all enemies. NL Add 2 #yBurns to your discard pile."],
-		"NAME": "Shizu"
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 抽 !M! 張牌 。 NL [#EFC851]伊芙利特[]",
+		"EXTENDED_DESCRIPTION": ["伊芙利特", "#y消耗 最多4張手牌 ， 對所有敵人造成等量層數的 #y燃燒 。向你的棄牌堆中加入 2 張 #y灼燒 。"],
+		"NAME": "靜"
 	},
 	"animator_GazelDwargon":
 	{
-		"DESCRIPTION": "whenever your 格擋 is removed, deal that much damage to all enemies [#EFC851]*[]",
-		"EXTENDED_DESCRIPTION": ["* note", "#y格擋 used to reduce damage does not count as removed."],
-		"NAME": "Gazel Dwargon"
+		"DESCRIPTION": "每當你的格擋消失時, 對所有敵人造成等量傷害 [#EFC851]*[] 。",
+		"EXTENDED_DESCRIPTION": ["* 注", "由於抵消傷害而失去的 #y格擋 不會計算在內 。"],
+		"NAME": "矮人王"
 	},
 	"animator_Souei":
 	{
-		"DESCRIPTION": "造成 !M! 點 中毒 。 NL trigger the 中毒 of all enemies, if any of them dies, gain 無實體 。",
-		"NAME": "Souei"
+		"DESCRIPTION": "造成 !M! 點 中毒 。 NL 觸發所有敵人的中毒效果 ， 如果有敵人被消滅 ， 獲得 無實體 。",
+		"NAME": "蒼影"
 	},
 	"animator_Shuna":
 	{
-		"DESCRIPTION": "[#EFC851]drawn[] : 獲得 !B! 點 格擋 。 NL 抽 2 張牌 。 NL 同調 : this card gains !M! 格擋 this combat.",
-		"NAME": "Shuna"
+		"DESCRIPTION": "[#EFC851]被抽到時[] : 獲得 !B! 點 格擋 。 NL 抽 2 張牌 。 NL 同調 : 該牌額外獲得 !M! 點 格擋 。",
+		"NAME": "朱菜"
 	},
 	"animator_Vesta":
 	{
-		"DESCRIPTION": "choose a card in your discard pile, after !M! turns, add an 升級 copy of it to your hand. 抹除 。",
-		"EXTENDED_DESCRIPTION": ["select a card, after # turns, add an 升級 copy of it to your hand."],
-		"NAME": "Vesta"
+		"DESCRIPTION": "在你的棄牌堆中選擇一張牌 ， 於 !M! 回合後 ， 將這張牌的 升級 後的複制加入到手牌中 。 抹除 。",
+		"EXTENDED_DESCRIPTION": ["選一張牌 ， 於 # 回合後 ， 將一張昇級過的複制加入手牌中 。"],
+		"NAME": "該部"
 	},
 	"animator_Kaijin":
 	{
-		"DESCRIPTION": "at the end of each turn, give a random card in your draw pile !M! more damage and 格擋 this combat.",
-		"NAME": "Kaijin"
+		"DESCRIPTION": "每回合結束時 ， 隨機選擇一張抽牌堆中的牌 ， 在本場戰鬥中使其造成的傷害與獲得的格擋量提高 !M! 點 。",
+		"NAME": "凱·金"
 	},
 	"animator_Hakurou":
 	{
-		"DESCRIPTION": "[#EFC851]武術家[] 。 造成 !D! 點傷害 !M! 次 。 NL [#EFC851]drawn[] : 獲得 !SV! 點 临时 敏捷 。",
+		"DESCRIPTION": "[#EFC851]武術家[] 。 造成 !D! 點傷害 !M! 次 。 NL [#EFC851]被抽到時[] : 獲得 !SV! 點 临时 敏捷 。",
 		"EXTENDED_DESCRIPTION": ["武術家", "此牌的傷害會受到敏捷影響"],
-		"NAME": "Hakurou"
+		"NAME": "白老"
 	},
 	"animator_Benimaru":
 	{
 		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 。 NL 壓倒 : 獲得 !B! 點 格擋 。 NL 同調: 造成 !M! 點 [#EFC851]燃燒[] 。",
 		"EXTENDED_DESCRIPTION": ["燃燒", "在你回合開始受到傷害，另外每層提供  4% 更多攻擊傷害。"],
-		"NAME": "Benimaru"
+		"NAME": "紅丸"
 	},
 	"animator_Millim":
 	{
-		"DESCRIPTION": "多重升級 。 [#EFC851]unique[] NL 造成 !D! 點 傷害 。 NL 同調 : 獲得 !B! 點 格擋 。",
-		"EXTENDED_DESCRIPTION": ["unique", "you can only have 1 copy of this card in your deck, additional copies will #升級 this card instead."],
-		"NAME": "Millim"
+		"DESCRIPTION": "多重升級 。 [#EFC851]唯一[] NL 造成 !D! 點 傷害 。 NL 同調 : 獲得 !B! 點 格擋 。",
+		"EXTENDED_DESCRIPTION": ["唯一", "卡組中只能存在一張該牌 ， 額外獲得的同名牌會 #y升級 這張牌 。"],
+		"NAME": "米莉姆"
 	}
 }
