@@ -334,7 +334,7 @@
 	},
 	"animator_Evileye":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害 。 NL [#EFC851]重装填[] : 使用你最右侧的1个充能球的被动能力 。",
+		"DESCRIPTION": "造成 !D! 点伤害 。 NL 抽一张牌 。 NL [#EFC851]重装填[] : 使用你最右侧的1个充能球的被动能力 。",
 		"EXTENDED_DESCRIPTION": ["重装填", "丢弃任意数量的牌 ， 触发同等次数 。"],
 		"NAME": "邪眼"
 	},
@@ -406,9 +406,8 @@
 	},
 	"animator_GuildGirl":
 	{
-		"DESCRIPTION": "获得 !M! 金币 。 回合开始时 ， 循环 1 张牌 。",
-		"NAME": "柜台小姐",
-		"UPGRADE_DESCRIPTION": "获得 !M! 金币 。 回合开始时 ， 循环 1 张牌 。"
+		"DESCRIPTION": "回合开始时 ， 循环 1 张牌 。 当非爪牙的敌人死亡时 ， 获得 !M! 枚金币 。",
+		"NAME": "柜台小姐"
 	},
 	"animator_Guren":
 	{
@@ -443,7 +442,7 @@
 	},
 	"animator_Hitei":
 	{
-		"DESCRIPTION": "在你的回合开始时获得 !M! 个金币 。 从你的牌库中随机选择 !SV! 张卡，选择并 消耗 其中一张1张 [#EFC851]*[] 。",
+		"DESCRIPTION": "在你的回合开始时 获 得随机 [#EFC851]积极影响[] 。 从你的牌库中随机选择 !M! 张卡，选择并 消耗 其中一张1张 [#EFC851]*[] 。",
 		"EXTENDED_DESCRIPTION": ["* 注", "每场战斗最多获得100个金币。 堆叠这种状态会使金币获得上限增加。"],
 		"NAME": "否定姬"
 	},
@@ -567,10 +566,10 @@
 	},
 	"animator_Nanami":
 	{
-		"DESCRIPTION": "根据敌人的意图激活 [#EFC851]效果[] 。",
+		"DESCRIPTION": "根据敌人的意图激活 [#EFC851]效果[] 。 NL [#c6be6f]当你瞄准敌人时[]， [#c6be6f]这个文本会改变[] 。",
 		"EXTENDED_DESCRIPTION": ["造成 # 点 伤害 。", "获得 # 点 格挡 。", "获得 # 点 力量 。", "给予 # 层 虚弱 。", "获得 # 层 易伤 。", "获得 # 层 眩晕 。", "生成 # 个随机充能球 。", "UNUSED", "UNUSED", "给予 # 层 中毒", "获得 [E]", "获得 # 点 临时生命 。", "抽 # 张牌 。"],
 		"NAME": "鑢七实",
-		"UPGRADE_DESCRIPTION": "根据敌人的意图激活改进的 [#EFC851]效果[] 。"
+		"UPGRADE_DESCRIPTION": "根据敌人的意图激活改进的 [#EFC851]效果[] 。 NL [#c6be6f]当你瞄准敌人时[]， [#c6be6f]这个文本会改变[] 。"
 	},
 	"animator_NarberalGamma":
 	{
@@ -652,7 +651,8 @@
 	},
 	"animator_Shalltear":
 	{
-		"DESCRIPTION": "对所有敌人造成 !D! 点 伤害 。 NL 同调 ， 压倒 : 给予 !M! 层 虚弱 。",
+		"DESCRIPTION": "[#EFC851]嗜血[]. NL 造成 !D! 點 傷害 。 NL 同調 : 偷 1 層 力量 。",
+		"EXTENDED_DESCRIPTION": ["嗜血", "如果这张牌消灭了一个非爪牙的敌人 ， 恢复 4 点 生命 ， 将此卡退还给您 并 获得 [E]"],
 		"NAME": "夏提雅"
 	},
 	"animator_Shichika":

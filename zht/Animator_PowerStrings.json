@@ -37,7 +37,7 @@
 	},
 	"animator_HiteiPower":
 	{
-		"DESCRIPTIONS": ["在你的回合開始時獲得", "選擇並且消耗", " 張隨機牌 。"],
+		"DESCRIPTIONS": ["在你的回合開始時獲得隨機 #y積極影響, 選擇並且消耗", " 張隨機牌 。"],
 		"NAME": "否定姫"
 	},
 	"animator_GuildGirlPower":

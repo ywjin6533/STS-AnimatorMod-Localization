@@ -334,7 +334,7 @@
 	},
 	"animator_Evileye":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL [#EFC851]Reload: Trigger the passive ability of your next Orb.",
+		"DESCRIPTION": "Deal !D! damage. NL Draw 1 card. NL [#EFC851]Reload: Trigger the passive ability of your next Orb.",
 		"EXTENDED_DESCRIPTION": ["Reload", "Discard any number of cards, activate this effect that many times."],
 		"NAME": "Evileye"
 	},
@@ -406,7 +406,7 @@
 	},
 	"animator_GuildGirl":
 	{
-		"DESCRIPTION": "Gain !M! [#EFC851]Gold. NL At the start of each turn, Cycle 1 card.",
+		"DESCRIPTION": "At the start of each turn, Cycle 1 card. NL When a non-minion enemy dies, gain !M! [#EFC851]Gold.",
 		"NAME": "'Guild Girl'"
 	},
 	"animator_Guren":
@@ -442,8 +442,7 @@
 	},
 	"animator_Hitei":
 	{
-		"DESCRIPTION": "At the start of your turn gain !M! [#EFC851]Gold then choose and Exhaust 1 of !SV! random cards in your deck ([#EFC851]*[#FFFFFF]).",
-		"EXTENDED_DESCRIPTION": ["* Note", "You cannot gain more than 100 #yGold per combat. Stacking this power increases the #yGold cap a little."],
+		"DESCRIPTION": "At the start of your turn, gain a random [#EFC851]Buff, then choose and Exhaust 1 of !M! cards in your deck.",
 		"NAME": "Hitei"
 	},
 	"animator_HououinKyouma":
@@ -651,7 +650,8 @@
 	},
 	"animator_Shalltear":
 	{
-		"DESCRIPTION": "Deal !D! damage to ALL enemies. NL Synergy and Overrun: Apply !M! Weak.",
+		"DESCRIPTION": "[#EFC851]Bloodlust. NL Deal !D! damage. NL Synergy: Steal !M! Strength.",
+		"EXTENDED_DESCRIPTION": ["Bloodlust", "If this kills a non-minion enemy, heal 4 HP, then return this card to your hand and gain [E]"],
 		"NAME": "Shalltear"
 	},
 	"animator_Shichika":
@@ -907,7 +907,7 @@
 	},
 	"animator_Benimaru":
 	{
-		"DESCRIPTION": "Deal !D! damage to ALL enemies. Overrun: Gain !B! Block. NL Synergy: Apply !M! [#EFC851]Burning[].",
+		"DESCRIPTION": "Deal !D! damage to ALL enemies. Overrun: Gain !B! Block. Synergy: Apply !M! [#EFC851]Burning[].",
 		"EXTENDED_DESCRIPTION": ["Burning", "Take damage at the start of your turn. Also take #b4% more #yAttack damage per stack."],
 		"NAME": "Benimaru"
 	},

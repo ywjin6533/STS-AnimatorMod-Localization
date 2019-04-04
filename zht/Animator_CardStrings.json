@@ -260,9 +260,9 @@
 	},
 	"animator_DwarfShaman":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 獲得1個 大地充能球 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 獲得1個 大地 充能球 。",
 		"NAME": "矮人薩滿",
-		"UPGRADE_DESCRIPTION": "造成 !D! 點 傷害 。 NL 獲得 !B! 點 護甲 。 NL 獲得1個 大地充能球 。"
+		"UPGRADE_DESCRIPTION": "造成 !D! 點 傷害 。 NL 獲得 !B! 點 護甲 。 NL 獲得1個 大地 充能球 。"
 	},
 	"animator_Elesis":
 	{
@@ -334,7 +334,7 @@
 	},
 	"animator_Evileye":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL [#EFC851]重新裝填[] : 使用你最右側的1個充能球的被動能力 。",
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 抽一張牌 。 NL [#EFC851]重新裝填[] : 使用你最右側的1個充能球的被動能力 。",
 		"EXTENDED_DESCRIPTION": ["重新裝填", "丟棄任意數量的牌 ， 觸發同等次數 。"],
 		"NAME": "Evileye"
 	},
@@ -405,9 +405,8 @@
 	},
 	"animator_GuildGirl":
 	{
-		"DESCRIPTION": "獲得 !M! 金幣 。 回合開始時 ， 循環 1 張牌 。",
-		"NAME": "櫃台小姐",
-		"UPGRADE_DESCRIPTION": "獲得 !M! 金幣 。 回合開始時 ， 循環 1 張牌 。"
+		"DESCRIPTION": "回合開始時 ， 循環 1 張牌 。 當非爪牙的敵人死亡時 ， 獲得 !M! 枚金幣 。",
+		"NAME": "櫃台小姐"
 	},
 	"animator_Guren":
 	{
@@ -440,7 +439,7 @@
 	},
 	"animator_Hitei":
 	{
-		"DESCRIPTION": "在你的回合開始時獲得 !M! 個金幣  。 選擇並且 消耗 抽牌堆 1 到 !SV! 張的隨機卡牌 [#EFC851]*[] 。",
+		"DESCRIPTION": "在你的回合開始時 獲 得隨機 [＃EFC851]積極影響[] 。 選擇並且 消耗 抽牌堆 1 到 !SV! 張的隨機卡牌 [#EFC851]*[] 。",
 		"EXTENDED_DESCRIPTION": ["* 注", "每場戰鬥最多獲得100個金幣。 堆疊這種狀態會使金幣獲得上限增加。"],
 		"NAME": "否定姬"
 	},
@@ -564,10 +563,10 @@
 	},
 	"animator_Nanami":
 	{
-		"DESCRIPTION": "根據敵人的意圖觸發一個 [#EFC851]效果[] 。 ",
+		"DESCRIPTION": "根據敵人的意圖觸發一個 [#EFC851]效果[] 。 NL [#c6be6f]當你瞄準敵人時[]， [#c6be6f]這個文本會改變[] 。",
 		"EXTENDED_DESCRIPTION": ["造成 # 點 傷害。", "獲得 # 點 格擋 。", "獲得 # 點 力量 。", "造成 # 點 虛弱 。", "造成 # 點 易傷 。 ", "暈眩 敵人 。", "生成 # 個隨機充能球 。", "UNUSED", "UNUSED", "造成 # 點 中毒 。", "獲得 [E]", "獲得 # 暫時生命 。", "抽 # 張牌 。"],
 		"NAME": "鑢七實",
-		"UPGRADE_DESCRIPTION": "根據敵人的意圖觸發一個 [#EFC851]效果+[] 。"
+		"UPGRADE_DESCRIPTION": "根據敵人的意圖觸發一個 [#EFC851]效果+[] 。 NL [#c6be6f]當你瞄準敵人時[]， [#c6be6f]這個文本會改變[] 。。"
 	},
 	"animator_NarberalGamma":
 	{
@@ -650,7 +649,8 @@
 	},
 	"animator_Shalltear":
 	{
-		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 。 NL 同調， 壓倒 : 給予 !M! 層 虛弱 。",
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 同調， 壓倒 : 給予 !M! 層 虛弱 。",
+		"EXTENDED_DESCRIPTION": ["嗜血", "如果這張牌消滅了一個非爪牙的敵人 ， 恢復 4 點 生命 ， 將此卡退還給您 並 獲得 [E]"],
 		"NAME": "夏提雅"
 	},
 	"animator_Shichika":
