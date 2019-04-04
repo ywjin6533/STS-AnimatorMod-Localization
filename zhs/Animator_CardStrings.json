@@ -234,7 +234,7 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "获得 [E] [E] ， 受到 !M! 点 伤害 ， 每次使用这张牌都会使下次受到的伤害增加 3 点.",
+		"DESCRIPTION": "获得 [E] [E] ， 在本轮结束时 ， 受到 !M! 点 伤害 ， 每次使用这张牌都会使下次受到的伤害增加 !SV! 点.",
 		"NAME": "迪米乌哥斯"
 	},
 	"animator_DolaCouronne":
@@ -442,8 +442,7 @@
 	},
 	"animator_Hitei":
 	{
-		"DESCRIPTION": "在你的回合开始时 获 得随机 [#EFC851]积极影响[] 。 从你的牌库中随机选择 !M! 张卡，选择并 消耗 其中一张1张 [#EFC851]*[] 。",
-		"EXTENDED_DESCRIPTION": ["* 注", "每场战斗最多获得100个金币。 堆叠这种状态会使金币获得上限增加。"],
+		"DESCRIPTION": "在你的回合开始时 获 得随机 [#EFC851]积极影响[] 。 从你的牌库中随机选择 !M! 张卡，选择并 消耗 其中一张1张 。",
 		"NAME": "否定姬"
 	},
 	"animator_HououinKyouma":
@@ -651,7 +650,7 @@
 	},
 	"animator_Shalltear":
 	{
-		"DESCRIPTION": "[#EFC851]嗜血[]. NL 造成 !D! 點 傷害 。 NL 同調 : 偷 1 層 力量 。",
+		"DESCRIPTION": "[#EFC851]嗜血[] 。 NL 造成 !D! 点伤害 。 NL 同调 : 偷 1 层 力量 。",
 		"EXTENDED_DESCRIPTION": ["嗜血", "如果这张牌消灭了一个非爪牙的敌人 ， 恢复 4 点 生命 ， 将此卡退还给您 并 获得 [E]"],
 		"NAME": "夏提雅"
 	},
@@ -881,7 +880,7 @@
 	},
 	"animator_Souei":
 	{
-		"DESCRIPTION": "给予 !M! 层 中毒 。 NL 触发所有敌人的中毒效果 ， 如果有敌人被消灭 ， 获得 无实体 。",
+		"DESCRIPTION": "给予 !M! 层 中毒 。 NL 触发所有敌人的 中毒 效果 ， 如果有敌人被消灭 ， 获得 无实体 。",
 		"NAME": "苍影"
 	},
 	"animator_Shuna":
@@ -908,7 +907,7 @@
 	},
 	"animator_Benimaru":
 	{
-		"DESCRIPTION": "对所有敌人造成 !D! 点 伤害 。 NL 压倒 : 获得 !B! 点 格挡 。 NL 同调 : 给予 !M! 层 燃烧 。",
+		"DESCRIPTION": "对所有敌人造成 !D! 点 伤害 。 NL 压倒 : 获得 !B! 点 格挡 。 同调 : 给予 !M! 层 燃烧 。",
 		"EXTENDED_DESCRIPTION": ["燃烧", "在回合开始时受到 伤害 。 每层使收到的伤害额外增加 4% 。"],
 		"NAME": "红丸"
 	},

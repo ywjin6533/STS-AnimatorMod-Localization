@@ -234,7 +234,7 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "Gain [E] [E]. NL Take !M! damage. NL Increase this card's damage by !SV! this combat.",
+		"DESCRIPTION": "Gain [E] [E]. NL Take !M! damage at the end of this turn, then increase this damage by !SV!.",
 		"NAME": "Demiurge"
 	},
 	"animator_DolaCouronne":
@@ -430,9 +430,9 @@
 	},
 	"animator_HighElfArcher":
 	{
-		"DESCRIPTION": "Deal !D! Piercing damage. NL Boost !SV!: Draw !M! card.",
+		"DESCRIPTION": "Deal !D! Piercing damage. NL Boost !SV! : Draw !M! card.",
 		"NAME": "'High Elf Archer'",
-		"UPGRADE_DESCRIPTION": "Deal !D! Piercing damage. NL Boost !SV!: Draw !M! cards."
+		"UPGRADE_DESCRIPTION": "Deal !D! Piercing damage. NL Boost !SV! : Draw !M! cards."
 	},
 	"animator_HiiragiShinya":
 	{
@@ -880,7 +880,7 @@
 	},
 	"animator_Souei":
 	{
-		"DESCRIPTION": "Apply !M! Poison. NL Trigger the Poison of ALL enemies, if any of them dies, gain Intangible.",
+		"DESCRIPTION": "Apply !M! Poison. NL Trigger the Poison of ALL enemies, if any of them dies gain Intangible.",
 		"NAME": "Souei"
 	},
 	"animator_Shuna":
