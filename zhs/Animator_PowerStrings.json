@@ -122,13 +122,13 @@
 	},
 	"animator_KaijinPower":
 	{
-		"DESCRIPTIONS": ["At the end of your turn, increase the #yBlock and damage of a random card in your draw pile by #b", "."],
+		"DESCRIPTIONS": ["每回合结束时 ， 随机选择一张抽牌堆中的牌 ， 在本场战斗中使其造成的伤害与获得的格挡量提高#b", "点."],
 		"NAME": "Kaijin"
 	},
 	"animator_GazelDwargonPower":
 	{
-		"DESCRIPTIONS": ["Whenever your #yBlock is removed, deal that much damage #b", " times to ALL enemies."],
-		"NAME": "Gazel Dwargon"
+		"DESCRIPTIONS": ["当你的格挡消失时, 对所有敌人造成等量伤害 #b", " ."],
+		"NAME": "矮人王"
 	},
 	"animator_EarthenThornsPower":
 	{
