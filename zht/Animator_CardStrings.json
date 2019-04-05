@@ -301,7 +301,7 @@
 	"animator_Emonzaemon":
 	{
 		"DESCRIPTION": "造成 !D! 點傷害。如果這是連續的第三次 [#EFC851]攻擊[] ， 抹除 并 獲得獲得 [#EFC851]炎刀·銃[] 。",
-		"EXTENDED_DESCRIPTION": ["炎刀·銃", "一個特殊的無耗能的#y能力 。"],
+		"EXTENDED_DESCRIPTION": ["炎刀·銃", "一個特殊的無耗能的 #y能力 。"],
 		"NAME": "左右田右衛門左衛門",
 		"UPGRADE_DESCRIPTION": " 造成 !D! 點傷害。 NL 如果這是連續的第三次 [#EFC851]攻擊[] ， 抹除 并 獲得獲得 [#EFC851]炎刀·銃+[] 。"
 	},
