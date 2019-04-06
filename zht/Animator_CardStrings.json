@@ -58,7 +58,7 @@
 	},
 	"animator_Ara":
 	{
-		"DESCRIPTION": "造成!D! 點傷害2次 。 壓倒 : 獲得 !M! 層 易傷 。",
+		"DESCRIPTION": "造成!D! 點傷害2次 。 壓倒 : 獲得 !M! 點 敏捷 。",
 		"NAME": "艾拉"
 	},
 	"animator_Archer":
@@ -80,6 +80,12 @@
 	{
 		"DESCRIPTION": "獲得 !B! 點 格擋 2 次 。 NL 同調 : 獲得 !M! 層 [#EFC851]多層護甲[] 。",
 		"NAME": "校倉必"
+	},
+	"animator_Benimaru":
+	{
+		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 。 NL 壓倒 : 獲得 !B! 點 格擋 。 NL 同調 : 造成 !M! 點 [#EFC851]燃燒[] 。",
+		"EXTENDED_DESCRIPTION": ["燃燒", "在你回合開始受到傷害，另外每層提供  4% 更多攻擊傷害。"],
+		"NAME": "紅丸"
 	},
 	"animator_Berserker":
 	{
@@ -147,7 +153,7 @@
 	},
 	"animator_CrowleyEusford":
 	{
-		"DESCRIPTION": "對指定目標和另一個隨機敵人造成 !D! 點傷害 。 NL 撤回 : 在本次戰鬥中提高其 !M! 點 傷害 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 對一個隨機的敵人 。 NL 撤回 : 在本次戰鬥中提高其 !M! 點 傷害 ， 返回抽牌堆。",
 		"NAME": "克羅里·尤斯福德"
 	},
 	"animator_Darkness":
@@ -207,14 +213,14 @@
 		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 獲得3層臨時 [＃EFC851]荊棘[] 。",
 		"NAME": "優越防禦"
 	},
-	"animator_Defend_NoGameNoLife":
-	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 保留 你最左邊的可玩牌 。",
-		"NAME": "優越防禦"
-	},
 	"animator_Defend_Konosuba":
 	{
 		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 增強 !SV! : 回復 !M! 點 生命 。",
+		"NAME": "優越防禦"
+	},
+	"animator_Defend_NoGameNoLife":
+	{
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 保留 你最左邊的可玩牌 。",
 		"NAME": "優越防禦"
 	},
 	"animator_Defend_Overlord":
@@ -249,7 +255,7 @@
 	},
 	"animator_DolaSchwi":
 	{
-		"DESCRIPTION": "造成 !M! 層 易傷 並造成 !D! 點 傷害 。 NL 同調 :獲得 [E] 。",
+		"DESCRIPTION": "造成 !M! 層 易傷 並造成 !D! 點 傷害 。 NL 同調 : 獲得 [E] 。",
 		"NAME": "休比"
 	},
 	"animator_DolaStephanie":
@@ -262,7 +268,7 @@
 	{
 		"DESCRIPTION": "造成 !D! 點 傷害 。 獲得1個 大地 充能球 。",
 		"NAME": "矮人薩滿",
-		"UPGRADE_DESCRIPTION": "造成 !D! 點 傷害 。 NL 獲得 !B! 點 護甲 。 NL 獲得1個 大地 充能球 。"
+		"UPGRADE_DESCRIPTION": "造成 !D! 點 傷害 。 NL 獲得1個 大地 充能球 。 同調 : 觸發其被動能力 。"
 	},
 	"animator_Elesis":
 	{
@@ -354,6 +360,12 @@
 		"DESCRIPTION": "變形者 。 每個敵人使你獲得獲得 !B! 點 格擋 。 撤回 : 獲得 !M! 層 [#EFC851]多層護甲[] 。",
 		"NAME": "弗蕾德麗卡"
 	},
+	"animator_GazelDwargon":
+	{
+		"DESCRIPTION": "每當你的格擋消失時, 對所有敵人造成等量傷害 [#EFC851]*[] 。",
+		"EXTENDED_DESCRIPTION": ["* 注", "由於抵消傷害而失去的 #y格擋 不會計算在內 。"],
+		"NAME": "矮人王"
+	},
 	"animator_Gilgamesh":
 	{
 		"DESCRIPTION": "多重升級 。 對一個敵人造成 !D! 點 傷害 3 次 。 NL [#EFC851]巴比倫的寶藏[] 。",
@@ -420,6 +432,12 @@
 		"DESCRIPTION": "給予所有敵人 !M! 點 格擋 和 !SV! 層 虛弱 。 循環 1 張牌 。 撤回 : 獲得 [E]",
 		"NAME": "奇伊"
 	},
+	"animator_Hakurou":
+	{
+		"DESCRIPTION": "[#EFC851]武術家[] 。 造成 !D! 點傷害 !M! 次 。 NL [#EFC851]被抽到時[] : 獲得 !SV! 點 临时 敏捷 。",
+		"EXTENDED_DESCRIPTION": ["武術家", "此牌的傷害會受到敏捷影響"],
+		"NAME": "白老"
+	},
 	"animator_HigakiRinne":
 	{
 		"DESCRIPTION": "變形者 。 NL 布朗運動愛好者。。。 NL (觸發隨機效果)",
@@ -469,6 +487,11 @@
 	{
 		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! ％ 的額外傷害 ， 乘以敵人的減益效果數 。",
 		"NAME": "吉普莉爾"
+	},
+	"animator_Kaijin":
+	{
+		"DESCRIPTION": "每回合結束時 ， 隨機選擇一張抽牌堆中的牌 ， 在本場戰鬥中使其造成的傷害與獲得的格擋量提高 !M! 點 。",
+		"NAME": "凱·金"
 	},
 	"animator_Kazuma":
 	{
@@ -542,6 +565,12 @@
 		"DESCRIPTION": "造成 !D! 點 傷害 。 給予 !M! 層 中毒 。 增強 !SV! :  從你的棄牌堆中選擇並 消耗 一張牌 。",
 		"NAME": "米迦爾"
 	},
+	"animator_Millim":
+	{
+		"DESCRIPTION": "多重升級 。 [#EFC851]唯一[] NL 造成 !D! 點 傷害 。 NL 同調 : 獲得 !B! 點 格擋 。",
+		"EXTENDED_DESCRIPTION": ["唯一", "卡組中只能存在一張該牌 ， 額外獲得的同名牌會 #y升級 這張牌 。"],
+		"NAME": "米莉姆"
+	},
 	"animator_MisaKurobane":
 	{
 		"DESCRIPTION": "賦予 !M! 層 [#EFC851]燃燒[] 。 NL 抽 1 張牌 。 NL 使用 !SV! 次後 抹除 ， 獲得 [#EFC851]西森柚咲[] 。",
@@ -606,6 +635,12 @@
 		"DESCRIPTION": "給予一層 易傷 效果， 獲得 !B! 點 格擋 。 同調 ， 撤回 : 獲得 1 [#EFC851]殘影[] 。",
 		"EXTENDED_DESCRIPTION": ["殘影", "下回合開始時格擋不會消失 。"],
 		"NAME": "蕾娜‧艾蘭黛"
+	},
+	"animator_Rimuru":
+	{
+		"DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張隨機牌的複制 ， 並 帶有 穿越者 。",
+		"NAME": "利姆魯",
+		"UPGRADE_DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張昇級過的隨機牌的複制 ， 並 帶有 穿越者 。"
 	},
 	"animator_RinTohsaka":
 	{
@@ -678,15 +713,31 @@
 		"DESCRIPTION": "這回合發動的 同調 減少此牌 1 點 耗能 。 每回合開始時獲得 [E] 。",
 		"NAME": "白"
 	},
+	"animator_Shizu":
+	{
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 抽 !M! 張牌 。 NL [#EFC851]伊芙利特[]",
+		"EXTENDED_DESCRIPTION": ["伊芙利特", "#y消耗 最多4張手牌 ， 對所有敵人造成等量層數的 #y燃燒 。向你的棄牌堆中加入 2 張 #y灼燒 。"],
+		"NAME": "靜"
+	},
+	"animator_Shuna":
+	{
+		"DESCRIPTION": "[#EFC851]被抽到時[] : 獲得 !B! 點 格擋 。 NL 抽 2 張牌 。 NL 同調 : 該牌額外獲得 !M! 點 格擋 。",
+		"NAME": "朱菜"
+	},
 	"animator_Sloth":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 這場戰鬥這張牌的基礎傷害提升兩倍。 NL 同調 : 獲得 !B! 點 格擋 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 這場戰鬥這張牌的基礎傷害提升兩倍。 NL 同調 : 獲得 !M! 點 力量 。",
 		"NAME": "斯洛斯"
 	},
 	"animator_Sora":
 	{
 		"DESCRIPTION": "選擇並觸發 !M! 次自定義效果 。 同調 : 選擇一個額外效果 。",
 		"NAME": "索拉"
+	},
+	"animator_Souei":
+	{
+		"DESCRIPTION": "造成 !M! 點 中毒 。 NL 觸發所有敵人的 中毒 效果 ， 如果有敵人被消滅 ， 獲得 無實體 。",
+		"NAME": "蒼影"
 	},
 	"animator_Spearman":
 	{
@@ -805,6 +856,12 @@
 		"EXTENDED_DESCRIPTION": ["巴尼爾", "如果這張卡被消耗了 ， 將手牌中的一張牌變為這張牌的複制 。"],
 		"NAME": "巴尼爾"
 	},
+	"animator_Vesta":
+	{
+		"DESCRIPTION": "在你的棄牌堆中選擇一張牌 ， 於 !M! 回合後 ， 將這張牌的 升級 後的複制加入到手牌中 。 抹除 。",
+		"EXTENDED_DESCRIPTION": ["選一張牌 ， 於 # 回合後 ， 將一張昇級過的複制加入手牌中 。"],
+		"NAME": "該部"
+	},
 	"animator_Viivi":
 	{
 		"DESCRIPTION": "對隨機敵人造成 !D! 點 傷害 !M! 次 。 對擊中的敵人造成 1 層 易傷 。",
@@ -848,7 +905,7 @@
 	},
 	"animator_ZankiKiguchi":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害. NL 壓倒 ， 撤回 : 本次戰鬥中，提高手牌中所有攻擊牌的傷害 !M! 點 。",
+		"DESCRIPTION": "造成 !D! 點傷害. NL 壓倒 ， 撤回 : 本次戰鬥中 ， 提高抽牌堆中所有攻擊牌的傷害 !M! 點 。",
 		"NAME": "汽口慚愧"
 	},
 	"animator_Zero":
@@ -856,62 +913,5 @@
 		"DESCRIPTION": "從你的抽牌堆中打出一張隨機的 [#EFC851]技能牌[] 。 消耗 。",
 		"NAME": "零",
 		"UPGRADE_DESCRIPTION": "從你的抽牌堆中打出一張隨機的 [#EFC851]技能牌[] 。 "
-	},
-	"animator_Rimuru":
-	{
-		"DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張隨機牌的複制 ， 並 帶有 穿越者 。",
-		"NAME": "利姆魯",
-		"UPGRADE_DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張昇級過的隨機牌的複制 ， 並 帶有 穿越者 。"
-	},
-	"animator_Shizu":
-	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 抽 !M! 張牌 。 NL [#EFC851]伊芙利特[]",
-		"EXTENDED_DESCRIPTION": ["伊芙利特", "#y消耗 最多4張手牌 ， 對所有敵人造成等量層數的 #y燃燒 。向你的棄牌堆中加入 2 張 #y灼燒 。"],
-		"NAME": "靜"
-	},
-	"animator_GazelDwargon":
-	{
-		"DESCRIPTION": "每當你的格擋消失時, 對所有敵人造成等量傷害 [#EFC851]*[] 。",
-		"EXTENDED_DESCRIPTION": ["* 注", "由於抵消傷害而失去的 #y格擋 不會計算在內 。"],
-		"NAME": "矮人王"
-	},
-	"animator_Souei":
-	{
-		"DESCRIPTION": "造成 !M! 點 中毒 。 NL 觸發所有敵人的 中毒 效果 ， 如果有敵人被消滅 ， 獲得 無實體 。",
-		"NAME": "蒼影"
-	},
-	"animator_Shuna":
-	{
-		"DESCRIPTION": "[#EFC851]被抽到時[] : 獲得 !B! 點 格擋 。 NL 抽 2 張牌 。 NL 同調 : 該牌額外獲得 !M! 點 格擋 。",
-		"NAME": "朱菜"
-	},
-	"animator_Vesta":
-	{
-		"DESCRIPTION": "在你的棄牌堆中選擇一張牌 ， 於 !M! 回合後 ， 將這張牌的 升級 後的複制加入到手牌中 。 抹除 。",
-		"EXTENDED_DESCRIPTION": ["選一張牌 ， 於 # 回合後 ， 將一張昇級過的複制加入手牌中 。"],
-		"NAME": "該部"
-	},
-	"animator_Kaijin":
-	{
-		"DESCRIPTION": "每回合結束時 ， 隨機選擇一張抽牌堆中的牌 ， 在本場戰鬥中使其造成的傷害與獲得的格擋量提高 !M! 點 。",
-		"NAME": "凱·金"
-	},
-	"animator_Hakurou":
-	{
-		"DESCRIPTION": "[#EFC851]武術家[] 。 造成 !D! 點傷害 !M! 次 。 NL [#EFC851]被抽到時[] : 獲得 !SV! 點 临时 敏捷 。",
-		"EXTENDED_DESCRIPTION": ["武術家", "此牌的傷害會受到敏捷影響"],
-		"NAME": "白老"
-	},
-	"animator_Benimaru":
-	{
-		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 。 NL 壓倒 : 獲得 !B! 點 格擋 。 NL 同調 : 造成 !M! 點 [#EFC851]燃燒[] 。",
-		"EXTENDED_DESCRIPTION": ["燃燒", "在你回合開始受到傷害，另外每層提供  4% 更多攻擊傷害。"],
-		"NAME": "紅丸"
-	},
-	"animator_Millim":
-	{
-		"DESCRIPTION": "多重升級 。 [#EFC851]唯一[] NL 造成 !D! 點 傷害 。 NL 同調 : 獲得 !B! 點 格擋 。",
-		"EXTENDED_DESCRIPTION": ["唯一", "卡組中只能存在一張該牌 ， 額外獲得的同名牌會 #y升級 這張牌 。"],
-		"NAME": "米莉姆"
 	}
 }
