@@ -153,7 +153,7 @@
 	},
 	"animator_CrowleyEusford":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 对一个随机的敌人 。 NL 撤回 : 在本次战斗中提高其 !M! 点 伤害 ， 返回抽牌堆 。",
+		"DESCRIPTION": "对一个随机的敌人造成 !D! 点 伤害  。 NL 撤回 : 在本次战斗中提高其 !M! 点 伤害 ， 返回抽牌堆 。",
 		"NAME": " 克劳利·尤斯福德"
 	},
 	"animator_Darkness":

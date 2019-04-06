@@ -78,7 +78,7 @@
 	"animator_BiyorigoPower":
 	{
 		"DESCRIPTIONS": ["每4次攻 ， 击获得 #b", " 点 力量 并且获得 #b", " 点 敏捷"],
-		"NAME": "Bito Kanzashi"
+		"NAME": "大和号"
 	},
 	"animator_AlbedoPower":
 	{
@@ -108,7 +108,7 @@
 	"animator_PridePower":
 	{
 		"DESCRIPTIONS": ["直到你的下个回合 ， 当你受到格挡外的伤害时 ， 你的伤害的黑暗充能球抵消这个伤害并损失同等的伤害充能 。"],
-		"NAME": "Pride"
+		"NAME": "傲慢"
 	},
 	"animator_BurningPower":
 	{
@@ -123,7 +123,7 @@
 	"animator_KaijinPower":
 	{
 		"DESCRIPTIONS": ["每回合结束时 ， 随机选择一张抽牌堆中的牌 ， 在本场战斗中使其造成的伤害与获得的格挡量提高#b", "点."],
-		"NAME": "Kaijin"
+		"NAME": "凯·金"
 	},
 	"animator_GazelDwargonPower":
 	{
