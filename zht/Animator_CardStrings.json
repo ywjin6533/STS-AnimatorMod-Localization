@@ -591,10 +591,10 @@
 	},
 	"animator_Nanami":
 	{
-		"DESCRIPTION": "根據敵人的意圖觸發一個 [#EFC851]效果[] 。 NL [#c6be6f]當你瞄準敵人時[]， [#c6be6f]這個文本會改變[] 。",
+		"DESCRIPTION": "根據敵人的意圖觸發一個 [#EFC851]效果[] 。 NL [#c6be6f]選擇目標時[]， [#c6be6f]這段文本會變為效果文本[] 。",
 		"EXTENDED_DESCRIPTION": ["造成 # 點 傷害。", "獲得 # 點 格擋 。", "獲得 # 點 力量 。", "造成 # 點 虛弱 。", "造成 # 點 易傷 。 ", "暈眩 敵人 。", "生成 # 個隨機充能球 。", "UNUSED", "UNUSED", "造成 # 點 中毒 。", "獲得 [E]", "獲得 # 暫時生命 。", "抽 # 張牌 。"],
 		"NAME": "鑢七實",
-		"UPGRADE_DESCRIPTION": "根據敵人的意圖觸發一個 [#EFC851]效果+[] 。 NL [#c6be6f]當你瞄準敵人時[]， [#c6be6f]這個文本會改變[] 。。"
+		"UPGRADE_DESCRIPTION": "根據敵人的意圖觸發一個 [#EFC851]效果+[] 。 NL [#c6be6f]選擇目標時[]， [#c6be6f]這段文本會變為效果文本[] 。。"
 	},
 	"animator_NarberalGamma":
 	{
@@ -683,8 +683,8 @@
 	},
 	"animator_Shalltear":
 	{
-		"DESCRIPTION": "[#EFC851]嗜血[] 。 造成 !D! 點 傷害 。 NL 同調 : 偷 1 層 力量 。",
-		"EXTENDED_DESCRIPTION": ["嗜血", "如果這張牌消滅了一個非爪牙的敵人 ， 恢復 4 點 生命 ， 將此卡退還給您 並 獲得 [E]"],
+		"DESCRIPTION": "[#EFC851]嗜血[] 。 造成 !D! 點 傷害 。 NL 同調 : 偷 1 點 力量 。",
+		"EXTENDED_DESCRIPTION": ["嗜血", "如果這張牌消滅了一個非爪牙的敵人 ， 恢復 4 點 生命 並 獲得 [E]"],
 		"NAME": "夏提雅"
 	},
 	"animator_Shichika":

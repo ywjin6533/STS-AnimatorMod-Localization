@@ -686,7 +686,7 @@
 	"animator_Shalltear":
 	{
 		"DESCRIPTION": "[#EFC851]嗜血[] 。 NL 造成 !D! 点伤害 。 NL 同调 : 获得 1 点力量，目标失去一点力量 。",
-		"EXTENDED_DESCRIPTION": ["嗜血", "如果这张牌消灭了一个非爪牙的敌人 ， 恢复 4 点 生命 ， 此牌返回手牌 并 获得 [E]"],
+		"EXTENDED_DESCRIPTION": ["嗜血", "如果这张牌消灭了一个非爪牙的敌人 ， 恢复 4 点 生命 并 获得 [E]"],
 		"NAME": "夏提雅"
 	},
 	"animator_Shichika":
