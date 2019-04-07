@@ -686,7 +686,7 @@
 	"animator_Shalltear":
 	{
 		"DESCRIPTION": "[#EFC851]Bloodlust. NL Deal !D! damage. NL Synergy: Steal !M! Strength.",
-		"EXTENDED_DESCRIPTION": ["Bloodlust", "If this kills a non-minion enemy, heal 4 HP and gain [E]"],
+		"EXTENDED_DESCRIPTION": ["Bloodlust", "If this kills a non-minion enemy, heal 5 HP and gain [E]"],
 		"NAME": "Shalltear"
 	},
 	"animator_Shichika":
