@@ -1,3 +1,4 @@
+
 {
 	"Animator_LivingPicture":
 	{
@@ -71,7 +72,7 @@
 		[
 			"每场战斗可触发一次, 当你再一次受伤中损失超过15点血量时, 获得 #b5 层 #y再生 和 #b2 点 #y力量."
 		]
-	},	
+	},
 	"Animator_RacePiece":
 	{
 		"NAME": "race piece",
@@ -158,10 +159,12 @@
 	{
 		"NAME": "精致的血瓶",
 		"FLAVOR": "一个装着远古纯种吸血鬼血液的瓶子.",
-		"DESCRIPTIONS":
 		[
-			"#yWARNING: You are not supposed to receive this relic yet, if you did it could be a bug, activating it may crash the game. NL NL 每场战斗开始时, 治愈 #b",
-			" 点生命. NL NL #y[Special #yRelic] NL #p在篝火处右击时，将移除所有克鲁鲁·采佩西的同名牌，并与之进行战斗且可以获得一个特殊卡牌."
+			"每场战斗开始时, 治愈 #b",
+			" 点生命. NL NL #y[Special #yRelic] NL #p在篝火处右击时 ， 将开启一场特殊且 #y困难 的战斗 ， 胜利后可以解锁该遗物的真正力量.",
+			"每场战斗开始时, 获得 #b",
+			" 层 #y再生 和 #b",
+			" 点生命上限. NL NL 失去所有 #y小血瓶 , 每当你获得一个 #y小血瓶 时, 只提升该遗物的效果."
 		]
 	},
 	"Animator_Buoy":

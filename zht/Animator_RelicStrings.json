@@ -1,3 +1,4 @@
+
 {
 	"Animator_LivingPicture":
 	{
@@ -71,7 +72,7 @@
 		[
 			"每場戰鬥可觸發一次, 當你再一次受傷中損失超過15點血量時, 獲得 #b5 層 #y再生 和 #b2 點 #y力量."
 		]
-	},	
+	},
 	"Animator_RacePiece":
 	{
 		"NAME": "race piece",
@@ -160,8 +161,11 @@
 		"FLAVOR": "一個裝著遠古純種吸血鬼血液的瓶子.",
 		"DESCRIPTIONS":
 		[
-			"#yWARNING: You are not supposed to receive this relic yet, if you did it could be a bug, activating it may crash the game. NL NL 每場戰鬥開始時, 治愈 #b",
-			" HP. NL NL #y[Special #yRelic] NL #p在篝火處右擊時， 將移除所有克魯魯·採佩西的同名牌， 並與之進行戰鬥且可以獲得一個特殊卡牌."
+			"每場戰鬥開始時, 治愈 #b",
+			" 點生命. NL NL #y[Special #yRelic] NL #p在篝火處右擊時 ， 將開啟一場特殊且 #y困難 的戰鬥 ， 勝利後可以解鎖該遺物的真正力量.",
+			"每場戰鬥開始時, 獲得 #b",
+			" 層 #y再生 和 #b",
+			" 點生命上限. NL NL 失去所有 #y小血瓶 , 每當你獲得一個 #y小血瓶 時, 只提升該遺物的效果."
 		]
 	},
 	"Animator_Buoy":

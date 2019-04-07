@@ -1,3 +1,4 @@
+
 {
 	"Animator_LivingPicture":
 	{
@@ -160,8 +161,11 @@
 		"FLAVOR": "A vial containing the blood of a pure and elder vampire.",
 		"DESCRIPTIONS":
 		[
-			"#yWARNING: You are not supposed to receive this relic yet, if you did it could be a bug, activating it may crash the game. NL NL At the start of each combat, heal #b", 
-			" HP. NL NL #y[Special #yRelic] NL #pRight #pClick at a rest site to fight #yKrul #yTepes, all copies of that card will be removed, but you will receive a special card as reward."
+			"At the start of each combat, heal #b",
+			" HP. NL NL #y[Special #yRelic] NL #pRight #pClick at a rest site to start a special and #ydifficult fight, winning it will activate this relic's true effect.",
+			"At the start of each combat, gain #b",
+			" #yRegeneration and #b",
+			" Max HP. NL NL Lose all #yBlood #yVials, whenever you would obtain a #yBlood #yVial, improve this relic's effect instead."
 		]
 	},
 	"Animator_Buoy":
