@@ -153,7 +153,7 @@
 	},
 	"animator_CrowleyEusford":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 對一個隨機的敵人 。 NL 撤回 : 在本次戰鬥中提高其 !M! 點 傷害 ， 返回抽牌堆。",
+		"DESCRIPTION": "對一個隨機的敵人造成 !D! 點 傷害 。 NL 撤回 : 在本次戰鬥中提高其 !M! 點 傷害 ， 返回抽牌堆。",
 		"NAME": "克羅里·尤斯福德"
 	},
 	"animator_Darkness":
@@ -741,7 +741,7 @@
 	},
 	"animator_Spearman":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害。 NL 增強 !SV! : 獲得 !M! 點 敏捷 。",
+		"DESCRIPTION": "造成 !D! 點 傷害。 NL 增強 !SV! : 獲得 !M! 點 敏捷 。",
 		"NAME": "斯皮爾曼"
 	},
 	"animator_Strike":
@@ -847,7 +847,7 @@
 	"animator_Urushihara":
 	{
 		"DESCRIPTION": "[#EFC851]產生[] 1 個黑暗充能球 ， NL 對所有敵人造成 !D! 傷害 。 [#EFC851]懶惰[] 。",
-		"EXTENDED_DESCRIPTION": ["懶惰", "此卡效果將被延遲一輪隨機數 。"],
+		"EXTENDED_DESCRIPTION": ["懶惰", "這張牌的效果會在隨機回合後生效 。"],
 		"NAME": "漆原半藏"
 	},
 	"animator_Vanir":

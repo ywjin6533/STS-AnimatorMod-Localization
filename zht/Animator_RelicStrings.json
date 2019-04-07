@@ -129,11 +129,11 @@
 	},
 	"Animator_ShionDessert":
 	{
-		"NAME": "Shion's Dessert",
-		"FLAVOR": "Here, have a taste, how bad can it be?",
+		"NAME": "紫苑的甜品",
+		"FLAVOR": "來，嚐嚐吧，味道不會太差......吧?",
 		"DESCRIPTIONS":
 		[
-			"Every #b", " #yAttacks, apply #b", " #yPoison to a random enemy."
+			"每次 #b", " 攻擊給予隨機敵人一層 #b", " #y中毒 效果."
 		]
 	},
 	"Animator_EngravedStaff":
@@ -156,12 +156,12 @@
 	},
 	"Animator_ExquisiteBloodVial":
 	{
-		"NAME": "Exquisite Blood Vial",
-		"FLAVOR": "A vial containing the blood of a pure and elder vampire.",
+		"NAME": "精緻的血瓶",
+		"FLAVOR": "一個裝著遠古純種吸血鬼血液的瓶子.",
 		"DESCRIPTIONS":
 		[
-			"#yWARNING: You are not supposed to receive this relic yet, if you did it could be a bug, activating it may crash the game. NL NL At the start of each combat, heal #b",
-			" HP. NL NL #y[Special #yRelic] NL #pRight #pClick at a rest site to fight #yKrul #yTepes, all copies of that card will be removed, but you will receive a special card as reward."
+			"#yWARNING: You are not supposed to receive this relic yet, if you did it could be a bug, activating it may crash the game. NL NL 每場戰鬥開始時, 治愈 #b",
+			" HP. NL NL #y[Special #yRelic] NL #p在篝火處右擊時， 將移除所有克魯魯·採佩西的同名牌， 並與之進行戰鬥且可以獲得一個特殊卡牌."
 		]
 	},
 	"Animator_Buoy":
