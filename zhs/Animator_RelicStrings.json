@@ -133,7 +133,7 @@
 		"FLAVOR": "来，尝尝吧，味道不会太差......吧?",
 		"DESCRIPTIONS":
 		[
-			"每次 #b", " #y攻击给予随机敌人一层 #b", " #y中毒 效果."
+			"每#b次 ", " 攻击给予随机敌人一层 #b", " #y中毒 效果."
 		]
 	},
 	"Animator_EngravedStaff":
@@ -156,12 +156,12 @@
 	},
 	"Animator_ExquisiteBloodVial":
 	{
-		"NAME": "Exquisite Blood Vial",
-		"FLAVOR": "A vial containing the blood of a pure and elder vampire.",
+		"NAME": "精致的血瓶",
+		"FLAVOR": "一个装着远古纯种吸血鬼血液的瓶子.",
 		"DESCRIPTIONS":
 		[
-			"#yWARNING: You are not supposed to receive this relic yet, if you did it could be a bug, activating it may crash the game. NL NL At the start of each combat, heal #b",
-			" HP. NL NL #y[Special #yRelic] NL #pRight #pClick at a rest site to fight #yKrul #yTepes, all copies of that card will be removed, but you will receive a special card as reward."
+			"#yWARNING: You are not supposed to receive this relic yet, if you did it could be a bug, activating it may crash the game. NL NL 每场战斗开始时, 治愈 #b",
+			" 点生命. NL NL #y[Special #yRelic] NL #p在篝火处右击时，将移除所有克鲁鲁·采佩西的同名牌，并与之进行战斗且可以获得一个特殊卡牌."
 		]
 	},
 	"Animator_Buoy":
