@@ -68,7 +68,7 @@
 	},
 	"animator_Arpeggio":
 	{
-		"DESCRIPTION": "Boost !SV! : NL Gain 1 Orb Slot. NL If this card's Boost is at 0, [#EFC851]Channel 1 Plasma and reset it.",
+		"DESCRIPTION": "Gain 1 Orb Slot. NL Cooldown !SV! : NL [#EFC851]Channel 1 Plasma instead.",
 		"NAME": "Arpeggio"
 	},
 	"animator_Asuramaru":
@@ -78,7 +78,7 @@
 	},
 	"animator_Azekura":
 	{
-		"DESCRIPTION": "Gain !B! Block Twice. NL Synergy: Gain !M! Plated_Armor.",
+		"DESCRIPTION": "Gain !B! Block twice. NL Synergy: Gain !M! Plated_Armor.",
 		"NAME": "Azekura"
 	},
 	"animator_Benimaru":
@@ -114,7 +114,7 @@
 	"animator_ChaikaBohdan":
 	{
 		"DESCRIPTION": "[#EFC851]Impatient !M!. NL Deal !D! damage. NL Overrun: Gain 1 Strength.",
-		"EXTENDED_DESCRIPTION": ["Impatient", "Whenever you attack an enemy while this is in your hand, gain this much damage. Reset after use. Multi-hits trigger this effect multiple times."],
+		"EXTENDED_DESCRIPTION": ["Impatient", "Whenever you attack an enemy while this is in your hand, gain this much damage. Multi-hits trigger this effect multiple times. Reset after use."],
 		"NAME": "Chaika Bohdan"
 	},
 	"animator_ChaikaTrabant":
@@ -136,7 +136,7 @@
 	},
 	"animator_Chung":
 	{
-		"DESCRIPTION": "Gain !B! Block. Cooldown !SV! : NL Deal !D! damage to ALL enemies.",
+		"DESCRIPTION": "Gain !B! Block. NL Cooldown !SV! : NL Deal !D! damage to ALL enemies.",
 		"NAME": "Chung"
 	},
 	"animator_Cocytus":
@@ -239,7 +239,7 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "Gain [E] [E]. NL Take !M! damage at the end of this turn, then increase this damage by !SV!.",
+		"DESCRIPTION": "Gain [E] [E]. NL Take !M! damage at the end of this turn. NL Legacy and Recall: Gain [E].",
 		"NAME": "Demiurge"
 	},
 	"animator_DolaCouronne":
@@ -839,7 +839,7 @@
 	},
 	"animator_Tyuule":
 	{
-		"DESCRIPTION": "Apply !M! Poison and 1 Weak to ALL enemies. NL Boost !SV! : Gain [E]",
+		"DESCRIPTION": "Apply !M! Poison and 1 Vulnerable to ALL enemies. NL Boost !SV! : Gain [E]",
 		"NAME": "Tyuule"
 	},
 	"animator_Urushihara":

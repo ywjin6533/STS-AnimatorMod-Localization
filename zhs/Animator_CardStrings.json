@@ -68,7 +68,7 @@
 	},
 	"animator_Arpeggio":
 	{
-		"DESCRIPTION": "鼓舞 !SV! : 获得一个充能球栏位 。 NL 如果鼓舞为 0 ， 重置 并 生成 1 个 等离子 充能球 。",
+		"DESCRIPTION": "获得一个充能球栏位 。 NL 冷卻 : 而不是主效应 ， [#EFC851]生成[] 1 个 等离子 充能球。",
 		"NAME": "阿尔蓓吉欧"
 	},
 	"animator_Asuramaru":
@@ -238,7 +238,7 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "获得 [E] [E] ， 在本轮结束时 ， 受到 !M! 点 伤害 ， 每次使用这张牌都会使下次受到的伤害增加 !SV! 点.",
+		"DESCRIPTION": "获得 [E] [E] ， 在本轮结束时 ， 受到 !M! 点 伤害 。 遗赠 ， 撤回 : 获得 [E]",
 		"NAME": "迪米乌哥斯"
 	},
 	"animator_DolaCouronne":
@@ -838,7 +838,7 @@
 	},
 	"animator_Tyuule":
 	{
-		"DESCRIPTION": "给予所有敌人 !M! 层 虚弱 和 1 层 中毒 。 鼓舞 !SV! : 获得 [E]",
+		"DESCRIPTION": "给予所有敌人 !M! 层 中毒 和 1 层 易伤 。 鼓舞 !SV! : 获得 [E]",
 		"NAME": "蒂尤蕾"
 	},
 	"animator_Urushihara":
