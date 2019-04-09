@@ -68,7 +68,7 @@
 	},
 	"animator_Arpeggio":
 	{
-		"DESCRIPTION": "增強 !SV! : 獲得一個充能球欄位 。 如果增強為 0 ， 重置 和 生成 1 個 電漿 充能球 。",
+		"DESCRIPTION": "獲得一個充能球欄位 。 冷卻 !SV! : 而不是主效應 ， [#EFC851]生成[] 1 個 電漿 充能球 。",
 		"NAME": "Arpeggio"
 	},
 	"animator_Asuramaru":
@@ -238,7 +238,7 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "獲得 [E] [E] 。 在本輪結束時 ， 受到 !M! 點 傷害 ， 然後這場戰鬥增加這張牌 !SV! 點 的傷害 。",
+		"DESCRIPTION": "獲得 [E] [E] 。 在本輪結束時 ， 受到 !M! 點 傷害 。 遺產 ， 撤回 : 獲得 [E]",
 		"NAME": "迪米烏哥斯"
 	},
 	"animator_DolaCouronne":
@@ -298,7 +298,7 @@
 	},
 	"animator_EmiyaShirou":
 	{
-		"DESCRIPTION": "給予一個隨機敵人 !M! 點格擋 和 1 層 易傷 。 [#EFC851]無限劍制[] 。",
+		"DESCRIPTION": "給予一個隨機敵人 !M! 點 格擋 和 1 層 易傷 。 [#EFC851]無限劍制[] 。",
 		"EXTENDED_DESCRIPTION": ["無限劍制", "本回合， 本回合，打破格擋時獲得 1 點 #y能量 和抽一張 隨機 #y攻擊牌 。 該效果不疊加 。"],
 		"NAME": "衛宮四郎"
 	},
@@ -372,7 +372,7 @@
 	},
 	"animator_Gillette":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 抽 2 張牌 。 遺贈 : 眩暈一個隨機的敵人 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 下一轮 ， 抽 !M! 張牌 。 遺贈 : 眩暈一個隨機的敵人 。",
 		"NAME": "亞伯力克·基烈特"
 	},
 	"animator_Gluttony":
@@ -621,6 +621,12 @@
 		"EXTENDED_DESCRIPTION": ["* 備註", "受到格擋修飾詞影響 。"],
 		"NAME": "女神官"
 	},
+	"animator_QuestionMark":
+	{
+		"DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張隨機牌的複制 ， 並 帶有 穿越者 。",
+		"NAME": "問號",
+		"UPGRADE_DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張昇級過的隨機牌的複制 ， 並 帶有 穿越者 。"
+	},
 	"animator_Raven":
 	{
 		"DESCRIPTION": "造成 !D! 點傷害 。 獲得 !B! 點 格擋 。 將抽牌堆中傷害最低 的 [#EFC851]攻擊[] 牌 加入手牌 。",
@@ -634,9 +640,9 @@
 	},
 	"animator_Rimuru":
 	{
-		"DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張隨機牌的複制 ， 並 帶有 穿越者 。",
+		"DESCRIPTION": "每當你打一牌時，將此卡變成一份副本 。",
 		"NAME": "利姆魯",
-		"UPGRADE_DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張昇級過的隨機牌的複制 ， 並 帶有 穿越者 。"
+		"UPGRADE_DESCRIPTION": "保留 。 每當你打一牌時，將此卡變成一份副本 。"
 	},
 	"animator_RinTohsaka":
 	{
@@ -835,7 +841,7 @@
 	},
 	"animator_Tyuule":
 	{
-		"DESCRIPTION": "給予所有敵人 !M! 層 虛弱 併 1 層 中毒 。 增強 !SV! : 獲得 [E]",
+		"DESCRIPTION": "給予所有敵人 !M! 層 中毒 併 1 層 易傷 。 增強 !SV! : 獲得 [E]",
 		"NAME": "蒂尤蕾"
 	},
 	"animator_Urushihara":
