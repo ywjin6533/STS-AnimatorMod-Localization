@@ -373,7 +373,7 @@
 	},
 	"animator_Gillette":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Draw 2 cards. NL Legacy: Stun a random enemy ([#EFC851]*[#FFFFFF]).",
+		"DESCRIPTION": "Deal !D! damage. NL Next turn, draw !M! cards. NL Legacy: Stun a random enemy ([#EFC851]*[#FFFFFF]).",
 		"EXTENDED_DESCRIPTION": ["* Note", "Does not stack."],
 		"NAME": "Gillette"
 	},
@@ -625,6 +625,12 @@
 		"EXTENDED_DESCRIPTION": ["* Note", "Affected by Block modifiers."],
 		"NAME": "'Priestess'"
 	},
+	"animator_QuestionMark":
+	{
+		"DESCRIPTION": "When drawn, become a copy of a random card and gain Shapeshifter.",
+		"NAME": "Question Mark",
+		"UPGRADE_DESCRIPTION": "When drawn, become an Upgraded copy of a random card and gain Shapeshifter."
+	},
 	"animator_Raven":
 	{
 		"DESCRIPTION": "Deal !D! damage. NL Gain !B! Block. NL Draw your lowest damage [#EFC851]Attack.",
@@ -637,9 +643,9 @@
 	},
 	"animator_Rimuru":
 	{
-		"DESCRIPTION": "[#EFC851]Drawn: Become a copy of a random card, it has Shapeshifter.",
+		"DESCRIPTION": "Whenever you play a card, turn this card into a copy of it.",
 		"NAME": "Rimuru",
-		"UPGRADE_DESCRIPTION": "[#EFC851]Drawn: Become an Upgraded copy of a random card, it has Shapeshifter."
+		"UPGRADE_DESCRIPTION": "Retain. Whenever you play a card, turn this card into a copy of it."
 	},
 	"animator_RinTohsaka":
 	{

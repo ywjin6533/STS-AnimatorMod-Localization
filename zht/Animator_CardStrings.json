@@ -372,7 +372,7 @@
 	},
 	"animator_Gillette":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 抽 2 張牌 。 遺贈 : 眩暈一個隨機的敵人 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 下一轮 ， 抽 !M! 張牌 。 遺贈 : 眩暈一個隨機的敵人 。",
 		"NAME": "亞伯力克·基烈特"
 	},
 	"animator_Gluttony":
@@ -621,6 +621,12 @@
 		"EXTENDED_DESCRIPTION": ["* 備註", "受到格擋修飾詞影響 。"],
 		"NAME": "女神官"
 	},
+	"animator_QuestionMark":
+	{
+		"DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張隨機牌的複制 ， 並 帶有 穿越者 。",
+		"NAME": "問號",
+		"UPGRADE_DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張昇級過的隨機牌的複制 ， 並 帶有 穿越者 。"
+	},
 	"animator_Raven":
 	{
 		"DESCRIPTION": "造成 !D! 點傷害 。 獲得 !B! 點 格擋 。 將抽牌堆中傷害最低 的 [#EFC851]攻擊[] 牌 加入手牌 。",
@@ -634,9 +640,9 @@
 	},
 	"animator_Rimuru":
 	{
-		"DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張隨機牌的複制 ， 並 帶有 穿越者 。",
+		"DESCRIPTION": "每當你打一牌時，將此卡變成一份副本 。",
 		"NAME": "利姆魯",
-		"UPGRADE_DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張昇級過的隨機牌的複制 ， 並 帶有 穿越者 。"
+		"UPGRADE_DESCRIPTION": "保留 。 每當你打一牌時，將此卡變成一份副本 。"
 	},
 	"animator_RinTohsaka":
 	{
