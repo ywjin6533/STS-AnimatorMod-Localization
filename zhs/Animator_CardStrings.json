@@ -68,7 +68,7 @@
 	},
 	"animator_Arpeggio":
 	{
-		"DESCRIPTION": "获得一个充能球栏位 。 NL 预热 : [#EFC851]生成[] 1 个 等离子 充能球，取代主效果。",
+		"DESCRIPTION": "获得一个充能球栏位 。 NL 预热 !SV! : [#EFC851]生成[] 1 个 等离子 充能球，取代主效果。",
 		"NAME": "阿尔蓓吉欧"
 	},
 	"animator_Asuramaru":
@@ -644,7 +644,7 @@
 	{
 		"DESCRIPTION": "当你打出一张牌时，变成那张牌的复制。",
 		"NAME": "利姆鲁",
-		"UPGRADE_DESCRIPTION": " 保留 。当你打出一张牌时，变成那张牌的复制 。"
+		"UPGRADE_DESCRIPTION": "保留 。当你打出一张牌时，变成那张牌的复制 。"
 	},
 	"animator_RinTohsaka":
 	{

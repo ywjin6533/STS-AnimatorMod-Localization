@@ -68,7 +68,7 @@
 	},
 	"animator_Arpeggio":
 	{
-		"DESCRIPTION": "獲得一個充能球欄位 。 冷卻 !SV! : 而不是主效應 ， [#EFC851]生成[] 1 個 電漿 充能球 。",
+		"DESCRIPTION": "獲得一個充能球欄位 。 冷卻 !SV! : [#EFC851]生成[] 1 個 等離子 充能球，取代主效果 。",
 		"NAME": "Arpeggio"
 	},
 	"animator_Asuramaru":
@@ -640,9 +640,9 @@
 	},
 	"animator_Rimuru":
 	{
-		"DESCRIPTION": "每當你打一牌時，將此卡變成一份副本 。",
+		"DESCRIPTION": "當你打出一張牌時，變成那張牌的複制 。",
 		"NAME": "利姆魯",
-		"UPGRADE_DESCRIPTION": "保留 。 每當你打一牌時，將此卡變成一份副本 。"
+		"UPGRADE_DESCRIPTION": "保留 。 當你打出一張牌時 ， 變成那張牌的複制 。"
 	},
 	"animator_RinTohsaka":
 	{

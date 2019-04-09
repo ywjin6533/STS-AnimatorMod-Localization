@@ -152,7 +152,7 @@
 	},
 	"animator_CrowleyEusford":
 	{
-		"DESCRIPTION": "Deal !D! damage to a random enemy. NL Recall: Gain !M! damage and return to your draw pile",
+		"DESCRIPTION": "Deal !D! damage to a random enemy. NL Recall: Gain !M! damage and return to your draw pile.",
 		"NAME": "Crowley Eusford"
 	},
 	"animator_Darkness":
@@ -627,9 +627,9 @@
 	},
 	"animator_QuestionMark":
 	{
-		"DESCRIPTION": "When drawn, become a copy of a random card and gain Shapeshifter.",
+		"DESCRIPTION": "When drawn, turns into a copy of a random card and gains Shapeshifter.",
 		"NAME": "Question Mark",
-		"UPGRADE_DESCRIPTION": "When drawn, become an Upgraded copy of a random card and gain Shapeshifter."
+		"UPGRADE_DESCRIPTION": "When drawn, turns into an Upgraded copy of a random card and gains Shapeshifter."
 	},
 	"animator_Raven":
 	{
