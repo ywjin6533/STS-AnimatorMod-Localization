@@ -40,10 +40,9 @@
 	},
 	"animator_Albedo":
 	{
-		"DESCRIPTION": "Gain !M! % NL [#EFC851]Damage [#EFC851]Resistance.",
-		"EXTENDED_DESCRIPTION": ["Damage Resistance", "Take less damage from enemy attacks, further stacks are less effective."],
-		"NAME": "Albedo",
-		"UPGRADE_DESCRIPTION": "Retain. NL Gain !M! % NL [#EFC851]Damage [#EFC851]Resistance."
+		"DESCRIPTION": "Gain !M! [#EFC851]Enchanted [#EFC851]Armor.",
+		"EXTENDED_DESCRIPTION": ["Enchanted Armor", "Take less damage from enemy attacks, further stacks are less effective."],
+		"NAME": "Albedo"
 	},
 	"animator_Alexander":
 	{
@@ -94,7 +93,8 @@
 	"animator_Biyorigo":
 	{
 		"DESCRIPTION": "Every 4 Attacks played, gain !M! Strength and 1 Dexterity.",
-		"NAME": "Biyorigo"
+		"NAME": "Biyorigo",
+		"UPGRADE_DESCRIPTION": "Gain !SV! Thorns. NL Every 4 Attacks played, gain !M! Strength and 1 Dexterity."
 	},
 	"animator_BlackLotus":
 	{
@@ -422,9 +422,8 @@
 	},
 	"animator_Guren":
 	{
-		"DESCRIPTION": "Exhaust a random [#EFC851]Attack in your draw pile. Turn its current damage into Support_Damage.",
-		"NAME": "Guren",
-		"UPGRADE_DESCRIPTION": "Exhaust a random [#EFC851]Attack in your draw pile. Turn its current damage into Block and Support_Damage."
+		"DESCRIPTION": "Gain !B! Block. NL Exhaust a random [#EFC851]Attack in your draw pile. Turn its damage to Support_Damage.",
+		"NAME": "Guren"
 	},
 	"animator_Guy":
 	{

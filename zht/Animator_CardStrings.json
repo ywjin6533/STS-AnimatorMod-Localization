@@ -40,10 +40,9 @@
 	},
 	"animator_Albedo":
 	{
-		"DESCRIPTION": "獲得 !M! % 點 [#EFC851]傷害抵抗[] 。",
-		"EXTENDED_DESCRIPTION": ["傷害抵抗", "受到敵人更少的傷害，效果被層數影響。"],
-		"NAME": "雅兒貝德",
-		"UPGRADE_DESCRIPTION": "獲得 !M! % 點 [#EFC851]傷害抵抗[] 。 下回合  獲得 [E] 。"
+		"DESCRIPTION": "獲得 !M! 點 [#EFC851]魔法盔甲[] 。",
+		"EXTENDED_DESCRIPTION": ["魔法盔甲", "受到敵人更少的傷害，效果被層數影響。"],
+		"NAME": "雅兒貝德"
 	},
 	"animator_Alexander":
 	{
@@ -94,7 +93,8 @@
 	"animator_Biyorigo":
 	{
 		"DESCRIPTION": "每次打出 4 張牌後 ， 獲得 !M! 點 力量 和 1 點 敏捷 。",
-		"NAME": "日和號"
+		"NAME": "日和號",
+		"UPGRADE_DESCRIPTION": "獲得 !SV! 層 荊棘 。 每次打出 4 張牌後 ， 獲得 !M! 點 力量 和 1 點 敏捷 。"
 	},
 	"animator_BlackLotus":
 	{
@@ -420,9 +420,8 @@
 	},
 	"animator_Guren":
 	{
-		"DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將傷害轉換到 支援 中 。",
-		"NAME": "紅蓮",
-		"UPGRADE_DESCRIPTION": "從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將傷害轉為 格擋 並預存到 支援 中 。"
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將傷害轉換到 支援 中 。",
+		"NAME": "紅蓮"
 	},
 	"animator_Guy":
 	{
@@ -690,7 +689,7 @@
 	},
 	"animator_Shichika":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 和 1 點 力量 。 NL 同調 : !M! 層 荊棘 。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 和 1 點 力量 。 NL 同調 : 獲得 !M! 層 荊棘 。",
 		"NAME": "鑢七花"
 	},
 	"animator_Shigure":

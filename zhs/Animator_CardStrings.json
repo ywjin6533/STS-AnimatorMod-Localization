@@ -40,10 +40,9 @@
 	},
 	"animator_Albedo":
 	{
-		"DESCRIPTION": "获得 !M! % 的 [#EFC851]抗性[] 。",
-		"EXTENDED_DESCRIPTION": ["抗性", "减少受到的伤害，效果由层数决定 。"],
-		"NAME": "雅儿贝德",
-		"UPGRADE_DESCRIPTION": "保留 。 获得 !M! % 的 [#EFC851]抗性[] 。"
+		"DESCRIPTION": "获得 !M! 的 [#EFC851]魔法盔甲[] 。",
+		"EXTENDED_DESCRIPTION": ["魔法盔甲", "减少受到的伤害，效果由层数决定 。"],
+		"NAME": "雅儿贝德"
 	},
 	"animator_Alexander":
 	{
@@ -94,7 +93,8 @@
 	"animator_Biyorigo":
 	{
 		"DESCRIPTION": "每 4 次攻击获得 !M! 点 力量 并且获得 1 点 敏捷 。",
-		"NAME": "大和号"
+		"NAME": "大和号",
+		"UPGRADE_DESCRIPTION": "获得 !SV! 层 荆棘 。 每 4 次攻击获得 !M! 点 力量 并且获得 1 点 敏捷 。"
 	},
 	"animator_BlackLotus":
 	{
@@ -421,9 +421,8 @@
 	},
 	"animator_Guren":
 	{
-		"DESCRIPTION": "从抽牌堆随机 消耗 一张 [#EFC851]攻击[] 牌 。 将其伤害预存到 支援 中 。",
-		"NAME": "红莲",
-		"UPGRADE_DESCRIPTION": "从抽牌堆随机 消耗 一张 [#EFC851]攻击[] 牌 。 将其伤害转换为等量 格挡 ，并预存到 支援 中 。"
+		"DESCRIPTION": "获得 !B! 点 格挡 。 从抽牌堆随机 消耗 一张 [#EFC851]攻击[] 牌 。 将其伤害预存到 支援 中 。",
+		"NAME": "红莲"
 	},
 	"animator_Guy":
 	{
