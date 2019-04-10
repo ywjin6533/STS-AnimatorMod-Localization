@@ -68,8 +68,8 @@
 	},
 	"animator_Arpeggio":
 	{
-		"DESCRIPTION": "獲得一個充能球欄位 。 冷卻 !SV! : [#EFC851]生成[] 1 個 等離子 充能球，取代主效果 。",
-		"NAME": "Arpeggio"
+		"DESCRIPTION": "獲得一個充能球欄位 。 冷卻 !SV! : [#EFC851]生成[] 1 個 電漿 充能球，取代主效果 。",
+		"NAME": "阿爾貝吉歐"
 	},
 	"animator_Asuramaru":
 	{
@@ -238,7 +238,7 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "獲得 [E] [E] 。 在本輪結束時 ， 受到 !M! 點 傷害 。 遺產 ， 撤回 : 獲得 [E]",
+		"DESCRIPTION": "獲得 [E] [E] 。 在本回合結束時 ， 受到 !M! 點 傷害 。 遺產 ， 撤回 : 獲得 [E]",
 		"NAME": "迪米烏哥斯"
 	},
 	"animator_DolaCouronne":
@@ -281,8 +281,8 @@
 	},
 	"animator_ElricAlphonseAlt":
 	{
-		"DESCRIPTION": "獲得 !M! 層 多層護甲 。 NL 獲得 !B! 點 格擋 。 NL 同調 : 獲得 1 個閃電球 。",
-		"NAME": "裝甲阿爾馮斯+"
+		"DESCRIPTION": "獲得 !M! 層 多層護甲 。 NL 獲得 !B! 點 格擋 。 NL 同調 : 獲得 1 個閃電充能球 。",
+		"NAME": "裝甲阿爾馮斯"
 	},
 	"animator_ElricEdward":
 	{
@@ -372,7 +372,7 @@
 	},
 	"animator_Gillette":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 下一轮 ， 抽 !M! 張牌 。 遺贈 : 眩暈一個隨機的敵人 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 下一回合 ， 抽 !M! 張牌 。 遺贈 : 眩暈一個隨機的敵人 。",
 		"NAME": "亞伯力克·基烈特"
 	},
 	"animator_Gluttony":
@@ -431,7 +431,7 @@
 	},
 	"animator_Hakurou":
 	{
-		"DESCRIPTION": "[#EFC851]武術家[] 。 造成 !D! 點傷害 !M! 次 。 NL [#EFC851]被抽到時[] : 獲得 !SV! 點 临时 敏捷 。",
+		"DESCRIPTION": "[#EFC851]武術家[] 。 造成 !D! 點傷害 !M! 次 。 NL [#EFC851]被抽到時[] : 獲得 !SV! 點 臨時 敏捷 。",
 		"EXTENDED_DESCRIPTION": ["武術家", "此牌的傷害會受到敏捷影響"],
 		"NAME": "白老"
 	},
@@ -587,10 +587,10 @@
 	},
 	"animator_Nanami":
 	{
-		"DESCRIPTION": "根據敵人的意圖觸發一個 [#EFC851]效果[] 。 [#c6be6f]選擇目標時[] ， [#c6be6f]這段文本會變為效果文本[] 。",
+		"DESCRIPTION": "根據敵人的意圖觸發一個 [#EFC851]效果[] 。 [#c6be6f]選擇目標時[] ， [#c6be6f]這段敘述會變為效果敘述[] 。",
 		"EXTENDED_DESCRIPTION": ["造成 # 點 傷害。", "獲得 # 點 格擋 。", "獲得 # 點 力量 。", "造成 # 點 虛弱 。", "造成 # 點 易傷 。 ", "暈眩 敵人 。", "生成 # 個隨機充能球 。", "UNUSED", "UNUSED", "造成 # 點 中毒 。", "獲得 [E]", "獲得 # 暫時生命 。", "抽 # 張牌 。"],
 		"NAME": "鑢七實",
-		"UPGRADE_DESCRIPTION": "根據敵人的意圖觸發一個 [#EFC851]效果+[] 。 [#c6be6f]選擇目標時[] ， [#c6be6f]這段文本會變為效果文本[] 。"
+		"UPGRADE_DESCRIPTION": "根據敵人的意圖觸發一個 [#EFC851]效果+[] 。 [#c6be6f]選擇目標時[] ， [#c6be6f]這段敘述會變為效果敘述] 。"
 	},
 	"animator_NarberalGamma":
 	{
@@ -623,9 +623,9 @@
 	},
 	"animator_QuestionMark":
 	{
-		"DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張隨機牌的複制 ， 並 帶有 穿越者 。",
+		"DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張隨機牌的複制 ， 並 帶有 變形者 。",
 		"NAME": "問號",
-		"UPGRADE_DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張昇級過的隨機牌的複制 ， 並 帶有 穿越者 。"
+		"UPGRADE_DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張昇級過的隨機牌的複制 ， 並 帶有 變形者 。"
 	},
 	"animator_Raven":
 	{
@@ -640,9 +640,9 @@
 	},
 	"animator_Rimuru":
 	{
-		"DESCRIPTION": "當你打出一張牌時，變成那張牌的複制 。",
+		"DESCRIPTION": "當你打出一張牌時，變成打出的那張牌 。",
 		"NAME": "利姆魯",
-		"UPGRADE_DESCRIPTION": "保留 。 當你打出一張牌時 ， 變成那張牌的複制 。"
+		"UPGRADE_DESCRIPTION": "保留 。 當你打出一張牌時 ， 變成打出的那張牌。"
 	},
 	"animator_RinTohsaka":
 	{
@@ -841,7 +841,7 @@
 	},
 	"animator_Tyuule":
 	{
-		"DESCRIPTION": "給予所有敵人 !M! 層 中毒 併 1 層 易傷 。 增強 !SV! : 獲得 [E]",
+		"DESCRIPTION": "給予所有敵人 !M! 層 中毒 和 1 層 易傷 。 增強 !SV! : 獲得 [E]",
 		"NAME": "蒂尤蕾"
 	},
 	"animator_Urushihara":
