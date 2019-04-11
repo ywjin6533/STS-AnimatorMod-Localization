@@ -40,8 +40,8 @@
 	},
 	"animator_Albedo":
 	{
-		"DESCRIPTION": "获得 !M! 的 [#EFC851]魔法盔甲[] 。",
-		"EXTENDED_DESCRIPTION": ["魔法盔甲", "减少受到的伤害，效果由层数决定 。"],
+		"DESCRIPTION": "获得 !M! 层 [#EFC851]魔法护甲[] 。",
+		"EXTENDED_DESCRIPTION": ["魔法护甲", "减少受到的伤害，效果由层数决定 。"],
 		"NAME": "雅儿贝德"
 	},
 	"animator_Alexander":
