@@ -350,9 +350,10 @@
 	},
 	"animator_FeridBathory":
 	{
-		"DESCRIPTION": "Once per turn, when a card is Exhausted gain 1 Strength and Heal 2 HP.",
+		"DESCRIPTION": "Once per turn, NL when a card is Exhausted gain 1 Strength and Heal 2 HP ([#EFC851]*[]).",
+		"EXTENDED_DESCRIPTION": ["*Note", "If you are at Max HP, the healing is converted to Temporary HP."],
 		"NAME": "Ferid Bathory",
-		"UPGRADE_DESCRIPTION": "Twice per turn, when a card is Exhausted gain 1 Strength and Heal 2 HP."
+		"UPGRADE_DESCRIPTION": "Twice per turn, NL when a card is Exhausted gain 1 Strength and Heal 2 HP ([#EFC851]*[])."
 	},
 	"animator_Fredrika":
 	{

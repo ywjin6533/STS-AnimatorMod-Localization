@@ -40,8 +40,8 @@
 	},
 	"animator_Albedo":
 	{
-		"DESCRIPTION": "獲得 !M! 點 [#EFC851]魔法盔甲[] 。",
-		"EXTENDED_DESCRIPTION": ["魔法盔甲", "受到敵人更少的傷害，效果被層數影響。"],
+		"DESCRIPTION": "獲得 !M! 層 [#EFC851]魔法護甲[] 。",
+		"EXTENDED_DESCRIPTION": ["魔法護甲", "受到敵人更少的傷害，效果被層數影響。"],
 		"NAME": "雅兒貝德"
 	},
 	"animator_Alexander":
@@ -349,7 +349,8 @@
 	},
 	"animator_FeridBathory":
 	{
-		"DESCRIPTION": "每回合可觸發一旦 ， 消耗 一張牌時 獲得 1 點 力量 ， 回復 2 點 生命 。",
+		"DESCRIPTION": "每回合可觸發一旦 ， 消耗 一張牌時 獲得 1 點 力量 ， 回復 2 點 生命 [#EFC851]*[] 。",
+		"EXTENDED_DESCRIPTION": ["*備註", "當你的生活充滿時，你會得到 #b2 分臨時生命。"],
 		"NAME": "費里德·巴特利",
 		"UPGRADE_DESCRIPTION": "每回合可觸發兩次 ， 消耗 一張牌時 獲得 1 點 力量 ， 回復 2 點 生命 。"
 	},
