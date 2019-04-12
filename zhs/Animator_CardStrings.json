@@ -350,7 +350,7 @@
 	"animator_FeridBathory":
 	{
 		"DESCRIPTION": "每回合可触发一次 ， 消耗 一张牌时 获得 1 点 力量 ， 治愈 2 点 生命 [#EFC851]*[] 。",
-		"EXTENDED_DESCRIPTION": ["*备注", "当你的生活充满时 ， 你会得到 #b2 分临时生命。"],
+		"EXTENDED_DESCRIPTION": ["*备注", "如果血量已满，则治疗量将溢出为临时生命。"],
 		"NAME": "费里德·巴特利",
 		"UPGRADE_DESCRIPTION": "每回合可触发两次 ， 消耗 一张牌时 获得 1 点 力量 ， 治愈 2 点 生命 。"
 	},
