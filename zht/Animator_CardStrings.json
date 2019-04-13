@@ -495,6 +495,12 @@
 		"DESCRIPTION": "獲得 !B! 點 格擋 ， 造成 !D! 點傷害 。 NL 同調 : 抽一張牌 。",
 		"NAME": "和真"
 	},
+	"animator_Kira":
+	{
+		"DESCRIPTION": "Ethereal. The enemy will die soon ([#EFC851]*[]). NL Gain !SV! Vulnerable. NL Exhaust.",
+		"EXTENDED_DESCRIPTION": ["* Note", "This card's text will change when targeting an enemy, enemies with more health will survive longer. Ignores Artifact.", "Ethereal. The enemy will die in # turns. NL Gain !SV! Vulnerable. NL Exhaust."],
+		"NAME": "Light Yagami"
+	},
 	"animator_Konayuki":
 	{
 		"DESCRIPTION": "若至少擁有10 點力量 ， 造成 !D! 點傷害 , 否則獲得 !M! 點 力量 。",

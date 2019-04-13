@@ -40,8 +40,7 @@
 	},
 	"animator_Albedo":
 	{
-		"DESCRIPTION": "Gain !M! [#EFC851]Enchanted [#EFC851]Armor.",
-		"EXTENDED_DESCRIPTION": ["Enchanted Armor", "Take less damage from enemy attacks, further stacks are less effective."],
+		"DESCRIPTION": "Deal !D! Damage. NL Gain that much Enchanted_Armor. NL Synergy: Return to your draw pile.",
 		"NAME": "Albedo"
 	},
 	"animator_Alexander":
@@ -130,7 +129,7 @@
 	},
 	"animator_Chris":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Steal [#EFC851]Gold equal to this card's damage ([#EFC851]*[#FFFFFF]).",
+		"DESCRIPTION": "Deal !D! damage. NL Steal !M! [#EFC851]Gold ([#EFC851]*[#FFFFFF]). NL Legacy: 30% chance of obtaining [#EFC851]Eris.",
 		"EXTENDED_DESCRIPTION": ["* Note", "You can steal up to 50 #yGold from a boss, 25 #yGold from an elite, or 10 #yGold from other non-minion enemies."],
 		"NAME": "Chris"
 	},
@@ -300,15 +299,15 @@
 	"animator_EmiyaShirou":
 	{
 		"DESCRIPTION": "Give a random NL enemy !M! Block and 1 Vulnerable. [#EFC851]Unlimited [#EFC851]Blade [#EFC851]Works.",
-		"EXTENDED_DESCRIPTION": ["Unlimited Blade Works", "Whenever an enemy loses its block this turn, gain 1 #yEnergy and draw a random #yAttack from your draw pile. Does not stack."],
+		"EXTENDED_DESCRIPTION": ["Unlimited Blade Works", "Whenever an enemy loses its block this turn, gain 1 #yEnergy and draw a random #yAttack from your draw pile."],
 		"NAME": "Emiya Shirou"
 	},
 	"animator_Emonzaemon":
 	{
-		"DESCRIPTION": "Deal !D! damage. If this is your 3rd [#EFC851]Attack in a row, Purge this and obtain [#EFC851]Entou [#EFC851]Jyuu.",
+		"DESCRIPTION": "Deal !D! Piercing damage twice. NL Legacy: Obtain NL [#EFC851]Entou [#EFC851]Jyuu.",
 		"EXTENDED_DESCRIPTION": ["Entou Jyuu", "A special 1-Cost #yPower, which costs 0 when upgraded."],
 		"NAME": "Emonzaemon",
-		"UPGRADE_DESCRIPTION": "Deal !D! damage. If this is your 3rd [#EFC851]Attack in a row, Purge this and obtain [#EFC851]Entou [#EFC851]Jyuu+."
+		"UPGRADE_DESCRIPTION": "Deal !D! Piercing damage twice. NL Legacy: Obtain NL [#EFC851]Entou [#EFC851]Jyuu+."
 	},
 	"animator_Entoma":
 	{
@@ -433,8 +432,7 @@
 	},
 	"animator_Hakurou":
 	{
-		"DESCRIPTION": "[#EFC851]Martial [#EFC851]Artist. Deal !D! damage !M! times. NL [#EFC851]Drawn: Gain !SV! Temporary Dexterity.",
-		"EXTENDED_DESCRIPTION": ["Martial Artist", "This card's damage also scales with #yDexterity."],
+		"DESCRIPTION": "Martial_Artist. Deal !D! damage !M! times. NL [#EFC851]Drawn: Gain !SV! Temporary Dexterity.",
 		"NAME": "Hakurou"
 	},
 	"animator_HigakiRinne":
@@ -498,6 +496,12 @@
 	{
 		"DESCRIPTION": "Gain !B! Block. NL Deal !D! damage. NL Synergy: Draw 1 card.",
 		"NAME": "Kazuma"
+	},
+	"animator_Kira":
+	{
+		"DESCRIPTION": "Ethereal. The enemy will die soon ([#EFC851]*[]). NL Gain !SV! Vulnerable. NL Exhaust.",
+		"EXTENDED_DESCRIPTION": ["* Note", "This card's text will change when targeting an enemy, enemies with more health will survive longer. Ignores Artifact.", "Ethereal. The enemy will die in # turns. NL Gain !SV! Vulnerable. NL Exhaust."],
+		"NAME": "Light Yagami"
 	},
 	"animator_Konayuki":
 	{
@@ -649,9 +653,8 @@
 	},
 	"animator_RinTohsaka":
 	{
-		"DESCRIPTION": "Channel !M! random Orb. Synergy: Gain !B! Block.",
-		"NAME": "Rin Tohsaka",
-		"UPGRADE_DESCRIPTION": "Apply 1 Lock-On to ALL enemies. [#EFC851]Channel !M! random Orb. Synergy: Gain !B! Block."
+		"DESCRIPTION": "Channel 1 random Orb. Gain !B! Block. NL Synergy: Gain !M! Enchanted_Armor.",
+		"NAME": "Rin Tohsaka"
 	},
 	"animator_RoryMercury":
 	{
@@ -908,8 +911,8 @@
 	},
 	"animator_ZankiKiguchi":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL Overrun and Recall: ALL [#EFC851]Attacks in your draw pile gain !M! damage.",
-		"NAME": "Zanki"
+		"DESCRIPTION": "Martial_Artist. NL Deal !D! Damage. NL Synergy: Convert !M! Strength to Dexterity.",
+		"NAME": "Zanki Kiguchi"
 	},
 	"animator_Zero":
 	{
