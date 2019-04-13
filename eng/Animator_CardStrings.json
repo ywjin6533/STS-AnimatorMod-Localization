@@ -2,7 +2,7 @@
 {
 	"animator_AcuraAkari":
 	{
-		"DESCRIPTION": "Discard 1 card. NL Apply !M! Marks of Poison to an enemy. NL Gain !B! Block.",
+		"DESCRIPTION": "Discard 1 card. NL Gain !B! Block. NL Gain !M! Envenom until end of turn.",
 		"NAME": "Akari"
 	},
 	"animator_AcuraShin":
@@ -427,7 +427,8 @@
 	},
 	"animator_Guy":
 	{
-		"DESCRIPTION": "Apply !SV! Weak to ALL enemies and give them !M! Block. NL Cycle 1 card. NL Recall: Gain [E]",
+		"DESCRIPTION": "Apply 2 Weak. NL Cycle !M! cards. NL Boost !SV! : Gain [#EFC851]Strategic[] [#EFC851]Information[].",
+		"EXTENDED_DESCRIPTION": ["Strategic Information", "Once per turn, when a card is discarded, gain 2 Block and reduce the cost of a random card in your hand by 1. Can be used multiple times per turn when stacked."],
 		"NAME": "Guy"
 	},
 	"animator_Hakurou":
