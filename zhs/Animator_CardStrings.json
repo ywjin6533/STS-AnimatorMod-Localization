@@ -426,7 +426,7 @@
 	"animator_Guy":
 	{
 		"DESCRIPTION": "给予 2 层 易伤 。 NL 循环 !M! 张牌 。 NL 鼓舞 !SV! : 获得 1 点 [#EFC851]战略信息[] 。",
-		"EXTENDED_DESCRIPTION": ["战略信息", "每回合一次 ， 当一张卡被丢弃时，获得 #b2 点 格挡 ， 并将手中随机卡的成本降低 #b1。 堆叠时每回合可以多次使用。"],
+		"EXTENDED_DESCRIPTION": ["战略信息", "当一张卡被丢弃时， 获得 #b2 点 格挡 ， 将手中随机卡的耗能降低 #b1， 并 损失1层效果。该效果每回合开始充能一次"],
 		"NAME": "奇伊"
 	},
 	"animator_Hakurou":
@@ -498,8 +498,8 @@
 	},
 	"animator_Kira":
 	{
-		"DESCRIPTION": "虚无 。 敌人很快就会死去 [#EFC851]*[] 。 NL 获得 !M! 层 易伤 。 NL 消耗 。",
-		"EXTENDED_DESCRIPTION": 
+		"DESCRIPTION": "虚无 。 敌人很快就会死去 [#EFC851]*[] 。 NL 获得 !SV! 层 易伤 。 NL 消耗 。",
+		"EXTENDED_DESCRIPTION":
 		[
 			"* 注", "这张卡片的文字会在针对敌人时发生变化 ， 拥有更多健康的敌人将会存活更长时间 。 忽略 #y人工制品 。",
 			"虚无 。 敌人将在 # 轮后死亡 。 NL 获得 !M! 层 易伤 。 NL 消耗 。"

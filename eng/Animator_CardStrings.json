@@ -500,7 +500,7 @@
 	},
 	"animator_Kira":
 	{
-		"DESCRIPTION": "Ethereal. The enemy will die soon ([#EFC851]*[]). NL Gain !SV! Vulnerable. NL Exhaust.",
+		"DESCRIPTION": "Ethereal. Kill the enemy after a certain number of turns ([#EFC851]*[]). NL Gain !SV! Vulnerable. NL Exhaust.",
 		"EXTENDED_DESCRIPTION": 
 		[
 			"* Note", "This card's text will change when targeting an enemy, enemies with more health will survive longer. Ignores Artifact.",
