@@ -304,7 +304,7 @@
 	"animator_Emonzaemon":
 	{
 		"DESCRIPTION": "造成 !D! 点 穿刺 伤害 2 次 。 遗赠 : 获得获得 [#EFC851]炎刀·铳[] 。",
-		"EXTENDED_DESCRIPTION": ["炎刀·铳", "一个特殊的无消耗 #y能力 。"],
+		"EXTENDED_DESCRIPTION": ["炎刀·铳", "一个特殊的无消耗 #y能力牌 。"],
 		"NAME": "左右田右卫门左卫门",
 		"UPGRADE_DESCRIPTION": "造成 !D! 点 穿刺 伤害 2 次 。 遗赠 : 获得获得 [#EFC851]炎刀·铳+[] 。"
 	},
@@ -431,7 +431,7 @@
 	},
 	"animator_Hakurou":
 	{
-		"DESCRIPTION": "武术家 。 造成 !D! 点伤害 !M! 次 。 NL [#EFC851]被抽到时[] : 获得 !SV! 点 临时 敏捷 。",
+		"DESCRIPTION": " 剑圣 。 造成 !D! 点伤害 !M! 次 。 NL [#EFC851]被抽到时[] : 获得 !SV! 点 临时 敏捷 。",
 		"NAME": "白老"
 	},
 	"animator_HigakiRinne":
@@ -501,10 +501,10 @@
 		"DESCRIPTION": "虚无 。 敌人很快就会死去 [#EFC851]*[] 。 NL 获得 !SV! 层 易伤 。 NL 消耗 。",
 		"EXTENDED_DESCRIPTION":
 		[
-			"* 注", "这张卡片的文字会在针对敌人时发生变化 ， 拥有更多健康的敌人将会存活更长时间 。 忽略 #y人工制品 。",
+			"* 注", "这张卡片的文字会在针对敌人时发生变化 ， 血量多的敌人将会存活更长时间 。 忽略 #y人工制品 。",
 			"虚无 。 敌人将在 # 轮后死亡 。 NL 获得 !M! 层 易伤 。 NL 消耗 。"
 		],
-		"NAME": "Light Yagami"
+		"NAME": "夜神月"
 	},
 	"animator_Konayuki":
 	{
