@@ -56,7 +56,7 @@
 	},
 	"animator_Ara":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害 2 次 。 压倒 : 获得 !M! 点 敏捷 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 2 次 。 如果敌人有 负面效果， 抽 2 张牌 ， 然后丢弃 1 张牌 。",
 		"NAME": "爱拉"
 	},
 	"animator_Archer":
@@ -151,7 +151,7 @@
 	},
 	"animator_CrowleyEusford":
 	{
-		"DESCRIPTION": "对一个随机的敌人造成 !D! 点 伤害  。 NL 撤回 : 在本次战斗中提高其 !M! 点 伤害 ， 返回抽牌堆 。",
+		"DESCRIPTION": "对一个随机的敌人造成 !D! 点 伤害  。 NL 如果你这一轮消耗一张牌, 将此卡的成本降低到0 。",
 		"NAME": " 克劳利·尤斯福德"
 	},
 	"animator_Darkness":
@@ -639,7 +639,7 @@
 	},
 	"animator_Raven":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 获得 !B! 点 格挡 。 将抽牌堆中伤害最低的 [#EFC851]攻击[] 牌 加入手牌 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 给予 !M! 层 虚弱 。 将抽牌堆中伤害最低的 [#EFC851]攻击[] 牌 加入手牌 。",
 		"NAME": "雷文"
 	},
 	"animator_Rena":
@@ -765,7 +765,7 @@
 	},
 	"animator_Strike_Elsword":
 	{
-		"DESCRIPTION": "对所有敌人造成 !D! 点 伤害 。",
+		"DESCRIPTION": "造成 !D! 点伤害 。 获得 !M! 点 临时 力量 。",
 		"NAME": "优越打击"
 	},
 	"animator_Strike_Fate":
@@ -913,7 +913,7 @@
 	},
 	"animator_ZankiKiguchi":
 	{
-		"DESCRIPTION": "武术家 。 造成 !D! 点伤害. NL 同调 : 将 !M! 点 力量 转换为 敏捷 。",
+		"DESCRIPTION": "武术家 。 造成 !D! 点伤害. NL 获得 !B! 点 格挡 。 NL 同调 : 将 !M! 点 力量 转换为 敏捷 。",
 		"NAME": "汽口惭愧"
 	},
 	"animator_Zero":

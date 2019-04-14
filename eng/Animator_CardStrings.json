@@ -56,7 +56,7 @@
 	},
 	"animator_Ara":
 	{
-		"DESCRIPTION": "Deal !D! damage twice. NL Overrun: Gain !M! Dexterity.",
+		"DESCRIPTION": "Deal !D! damage twice. NL If the enemy has a Debuff, draw 2 cards, then discard 1 card.",
 		"NAME": "Ara"
 	},
 	"animator_Archer":
@@ -151,7 +151,7 @@
 	},
 	"animator_CrowleyEusford":
 	{
-		"DESCRIPTION": "Deal !D! damage to a random enemy. NL Recall: Gain !M! damage and return to your draw pile.",
+		"DESCRIPTION": "Deal !D! damage to a random enemy. NL Costs 0 if you Exhausted a card this turn.",
 		"NAME": "Crowley Eusford"
 	},
 	"animator_Darkness":
@@ -641,7 +641,7 @@
 	},
 	"animator_Raven":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Gain !B! Block. NL Draw your lowest damage [#EFC851]Attack.",
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. NL Draw your lowest damage [#EFC851]Attack.",
 		"NAME": "Raven"
 	},
 	"animator_Rena":
@@ -767,7 +767,7 @@
 	},
 	"animator_Strike_Elsword":
 	{
-		"DESCRIPTION": "Deal !D! damage to ALL enemies.",
+		"DESCRIPTION": "Deal !D! damage. NL Gain !M! Strength until end of turn.",
 		"NAME": "Improved Strike"
 	},
 	"animator_Strike_Fate":
@@ -915,7 +915,7 @@
 	},
 	"animator_ZankiKiguchi":
 	{
-		"DESCRIPTION": "Martial_Artist. NL Deal !D! Damage. NL Synergy: Convert !M! Strength to Dexterity.",
+		"DESCRIPTION": "Martial_Artist. NL Deal !D! Damage. NL Gain !B! Block. NL Synergy: Convert !M! Strength to Dexterity.",
 		"NAME": "Zanki Kiguchi"
 	},
 	"animator_Zero":
