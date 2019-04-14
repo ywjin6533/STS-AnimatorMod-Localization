@@ -13,7 +13,7 @@
 	},
 	"animator_AcuraTooru":
 	{
-		"DESCRIPTION": "Deal !D! damage !M! times. Recall: Increase this card's attacks count by 1.",
+		"DESCRIPTION": "Deal !D! damage !M! times. Recall: Increase this card's attacks count by 1 this combat.",
 		"NAME": "Tooru"
 	},
 	"animator_Add":
@@ -151,7 +151,7 @@
 	},
 	"animator_CrowleyEusford":
 	{
-		"DESCRIPTION": "Deal !D! damage to a random enemy. NL Costs 0 if you Exhausted a card this turn.",
+		"DESCRIPTION": "Deal !D! damage to a random enemy. NL This card costs 0 if you Exhausted a card this turn.",
 		"NAME": "Crowley Eusford"
 	},
 	"animator_Darkness":
@@ -253,7 +253,7 @@
 	},
 	"animator_DolaSchwi":
 	{
-		"DESCRIPTION": "Apply !M! Vulnerable, then deal !D! damage. NL Synergy: Gain [E].",
+		"DESCRIPTION": "Apply !M! Vulnerable. NL Deal !D! damage. NL Synergy: Gain [E].",
 		"NAME": "Schwi"
 	},
 	"animator_DolaStephanie":
@@ -328,7 +328,7 @@
 	},
 	"animator_Eris":
 	{
-		"DESCRIPTION": "Heal !M! HP. Purge. NL Resurrect.",
+		"DESCRIPTION": "Heal !M! HP. Exhaust. NL Resurrect.",
 		"NAME": "Eris"
 	},
 	"animator_Eve":
@@ -349,14 +349,14 @@
 	},
 	"animator_FeridBathory":
 	{
-		"DESCRIPTION": "Once per turn, NL when a card is Exhausted gain 1 Strength and Heal 2 HP ([#EFC851]*[]).",
+		"DESCRIPTION": "Once per turn, NL when a card is Exhausted, gain 1 Strength and Heal 2 HP ([#EFC851]*[]).",
 		"EXTENDED_DESCRIPTION": ["*Note", "If you are at Max HP, the healing is converted to Temporary HP."],
 		"NAME": "Ferid Bathory",
-		"UPGRADE_DESCRIPTION": "Twice per turn, NL when a card is Exhausted gain 1 Strength and Heal 2 HP ([#EFC851]*[])."
+		"UPGRADE_DESCRIPTION": "Twice per turn, NL when a card is Exhausted, gain 1 Strength and Heal 2 HP ([#EFC851]*[])."
 	},
 	"animator_Fredrika":
 	{
-		"DESCRIPTION": "Shapeshifter. Gain !B! Block for each enemy. Recall: Gain !M! Plated_Armor.",
+		"DESCRIPTION": "Shapeshifter. Gain !B! Block for each enemy. Recall: Gain !M! Metallicize.",
 		"NAME": "Fredrika"
 	},
 	"animator_GazelDwargon":
@@ -526,10 +526,10 @@
 	},
 	"animator_Kuroyukihime":
 	{
-		"DESCRIPTION": "Discard 2 cards. Add [#EFC851]Black [#EFC851]Lotus to your draw pile. Exhaust.",
+		"DESCRIPTION": "Discard !M! cards. Add [#EFC851]Black [#EFC851]Lotus to your draw pile. Exhaust.",
 		"EXTENDED_DESCRIPTION": ["Black Lotus", "A special 1-cost #yAttack."],
 		"NAME": "Kuroyukihime",
-		"UPGRADE_DESCRIPTION": "Discard 2 cards. Add [#EFC851]Black [#EFC851]Lotus+ to your draw pile. Exhaust."
+		"UPGRADE_DESCRIPTION": "Discard !M! card. Add [#EFC851]Black [#EFC851]Lotus+ to your draw pile. Exhaust."
 	},
 	"animator_Kyubey":
 	{
@@ -556,7 +556,7 @@
 	},
 	"animator_LizardPriest":
 	{
-		"DESCRIPTION": "Set the Block of an enemy to !M!. NL Gain !B! Block. NL Synergy: Draw 1 card.",
+		"DESCRIPTION": "Set the Block of an enemy to !M!. NL Gain !B! Block. NL Synergy: Retain your hand this turn.",
 		"NAME": "'Lizard Priest'"
 	},
 	"animator_MaesHughes":
@@ -588,7 +588,7 @@
 	},
 	"animator_Mitsuba":
 	{
-		"DESCRIPTION": "Deal !D! damage. If the enemy had more health than you, gain !B! Block.",
+		"DESCRIPTION": "Deal !D! damage. NL If the enemy had more health than you, gain !B! Block.",
 		"NAME": "Mitsuba"
 	},
 	"animator_Mitsurugi":
@@ -667,7 +667,7 @@
 	},
 	"animator_RoyMustang":
 	{
-		"DESCRIPTION": "Deal !D! Damage to ALL enemies and apply 2 Burning. NL Synergy: Apply !M! more Burning.",
+		"DESCRIPTION": "Deal !D! Damage to ALL enemies and apply !M! Burning. NL Synergy: Apply 2 more Burning.",
 		"NAME": "Roy Mustang"
 	},
 	"animator_Saber":
@@ -726,7 +726,7 @@
 	"animator_Shizu":
 	{
 		"DESCRIPTION": "Deal !D! Damage. NL Draw !M! cards. NL [#EFC851]Ifrit.",
-		"EXTENDED_DESCRIPTION": ["Ifrit", "Exhaust up to 4 cards in your hand, apply that much #yBurning to ALL enemies. NL Add 2 #yBurns to your discard pile."],
+		"EXTENDED_DESCRIPTION": ["Ifrit", "Exhaust up to 3 cards in your hand, apply twice that much #yBurning to ALL enemies. NL Add 2 #yBurns to your discard pile."],
 		"NAME": "Shizu"
 	},
 	"animator_Shuna":
@@ -915,7 +915,7 @@
 	},
 	"animator_ZankiKiguchi":
 	{
-		"DESCRIPTION": "Martial_Artist. NL Deal !D! Damage. NL Gain !B! Block. NL Synergy: Convert !M! Strength to Dexterity.",
+		"DESCRIPTION": "Martial_Artist. NL Deal !D! Damage. NL Synergy: Convert !M! Block to 1 Dexterity.",
 		"NAME": "Zanki Kiguchi"
 	},
 	"animator_Zero":
