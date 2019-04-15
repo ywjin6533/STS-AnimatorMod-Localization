@@ -207,7 +207,7 @@
 	},
 	"animator_Defend_Katanagatari":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 獲得3層臨時 [＃EFC851]荊棘[] 。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 獲得 !M! 層 臨時 [＃EFC851]荊棘[] 。",
 		"NAME": "優越防禦"
 	},
 	"animator_Defend_Konosuba":

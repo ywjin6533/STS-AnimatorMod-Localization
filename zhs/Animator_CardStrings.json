@@ -472,7 +472,7 @@
 	},
 	"animator_ItamiYouji":
 	{
-		"DESCRIPTION": "抽 !M! 张牌 。 每抽一张牌造成 !D! 减去抽到的牌的消耗的伤害,  。",
+		"DESCRIPTION": "抽 !M! 张牌 。 每抽一张牌造成 !D! 减去抽到的牌的消耗的伤害 。",
 		"NAME": "伊丹耀司"
 	},
 	"animator_IzunaHatsuse":
