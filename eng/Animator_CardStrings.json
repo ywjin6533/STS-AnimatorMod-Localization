@@ -875,7 +875,7 @@
 	},
 	"animator_Viivi":
 	{
-		"DESCRIPTION": "Deal !D! damage to a random Enemy !M! times. Synergy: Apply 1 Weak to ALL enemies.",
+		"DESCRIPTION": "Deal !D! damage to a random Enemy !M! times. Synergy: Apply !SV! Weak to ALL enemies.",
 		"NAME": "Viivi"
 	},
 	"animator_Witch":

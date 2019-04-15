@@ -873,7 +873,7 @@
 	},
 	"animator_Viivi":
 	{
-		"DESCRIPTION": "对随机敌人造成 !D! 点 伤害 !M! 次 。 同调 : 给予所有敌人 1 层 虚弱 。",
+		"DESCRIPTION": "对随机敌人造成 !D! 点 伤害 !M! 次 。 同调 : 给予所有敌人 !SV! 层 虚弱 。",
 		"NAME": "薇薇·荷罗派涅"
 	},
 	"animator_Witch":
