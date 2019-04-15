@@ -61,7 +61,7 @@
 	},
 	"animator_Archer":
 	{
-		"DESCRIPTION": "在你的回合结束时 ， 对每个敌人造成伤害 ， 伤害值由每个敌人各自的负面效果层数决定 (造成 !D! 点 伤害) ， 可受 力量 效果加成 。",
+		"DESCRIPTION": "在你的回合结束时 ， 对每个敌人造成伤害 ， 伤害次数等同于各目标的负面效果种类个数 (造成 !D! 点 伤害) ， 可受 力量 效果加成 。",
 		"NAME": "Archer"
 	},
 	"animator_Arpeggio":
@@ -207,7 +207,7 @@
 	},
 	"animator_Defend_Katanagatari":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 获得 !M! [＃EFC851]临时荆棘[] 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 获得 !M! 层  [＃EFC851]临时荆棘[] 。",
 		"NAME": "优越防御"
 	},
 	"animator_Defend_Konosuba":
@@ -316,7 +316,7 @@
 	},
 	"animator_EntouJyuu":
 	{
-		"DESCRIPTION": "每轮一次，什么时候打出 [#EFC851]攻击[] 牌时使其增加 !M! 点 伤害 ， 抽一张牌 。",
+		"DESCRIPTION": "每回合一次，打出 [#EFC851]攻击牌[] 时使其增加 !M! 点 伤害 ， 抽一张牌 。",
 		"NAME": "炎刀·铳"
 	},
 	"animator_Envy":
@@ -409,7 +409,7 @@
 	},
 	"animator_Greed":
 	{
-		"DESCRIPTION": "获得 !M! 点 多层护甲 。 获得 !M! 层 锻铸 . NL [#EFC851]贪婪[] 。",
+		"DESCRIPTION": "获得 !M! 点 多层护甲 。 获得 !M! 层 柔韧 . NL [#EFC851]贪婪[] 。",
 		"EXTENDED_DESCRIPTION": ["贪婪", "在你的回合结束时 , 获得等同于一半当前失去血量百分比的金币 ，该效果不叠加 。"],
 		"NAME": "贪婪"
 	},
@@ -472,7 +472,7 @@
 	},
 	"animator_ItamiYouji":
 	{
-		"DESCRIPTION": "抽 !M! 张牌 。 每抽一张牌造成 !D! 点伤害, 并减少其消耗 。",
+		"DESCRIPTION": "抽 !M! 张牌 。 每抽一张牌造成 !D! 减去抽到的牌的消耗的伤害,  。",
 		"NAME": "伊丹耀司"
 	},
 	"animator_IzunaHatsuse":
@@ -527,7 +527,7 @@
 		"DESCRIPTION": "丢弃 !M! 张牌 。 将 [#EFC851]黑莲花[] 加入到你的抽牌堆中 。 消耗 。",
 		"EXTENDED_DESCRIPTION": ["黑莲花", "特殊的1耗#y攻击牌 。"],
 		"NAME": "黑雪公主",
-		"UPGRADE_DESCRIPTION": "丢弃 !M! 张牌 。 将 [#EFC851]黑莲花+ [] 加入到你的抽牌堆中 。 消耗 。"
+		"UPGRADE_DESCRIPTION": "丢弃 !M! 张牌 。 将 [#EFC851]黑莲花+[] 加入到你的抽牌堆中 。 消耗 。"
 	},
 	"animator_Kyubey":
 	{
@@ -760,7 +760,7 @@
 	},
 	"animator_Strike_AccelWorld":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害 。 NL 撤回 : 造成 !M! 点 伤害 对一个随机的敌人 。",
+		"DESCRIPTION": "造成 !D! 点伤害 。 NL 撤回 :对一个随机的敌人造成 !M! 点 伤害  。",
 		"NAME": "优越打击"
 	},
 	"animator_Strike_Elsword":
@@ -883,10 +883,10 @@
 	},
 	"animator_Wiz":
 	{
-		"DESCRIPTION": "消耗 一张牌， 从已 消耗 的牌中选择一张假如你的手牌 。 抹除 [#EFC851]*[] 。",
+		"DESCRIPTION": "消耗 一张牌， 从已 消耗 的牌中选择一张加入你的手牌 。 抹除 [#EFC851]*[] 。",
 		"EXTENDED_DESCRIPTION": ["* 注", "不能在被消耗牌中选另一张<维兹> 。"],
 		"NAME": "维兹",
-		"UPGRADE_DESCRIPTION": "消耗 一张牌， 从已 消耗 的牌中选择一张假如你的手牌 。 使用 !M! 次后 抹除 [#EFC851]*[] 。"
+		"UPGRADE_DESCRIPTION": "消耗 一张牌， 从已 消耗 的牌中选择一张加入你的手牌 。 使用 !M! 次后 抹除 [#EFC851]*[] 。"
 	},
 	"animator_YaoHaDucy":
 	{
