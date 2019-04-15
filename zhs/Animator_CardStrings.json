@@ -151,8 +151,8 @@
 	},
 	"animator_CrowleyEusford":
 	{
-		"DESCRIPTION": "对一个随机的敌人造成 !D! 点 伤害  。 NL 如果你这一轮 消耗 一张牌, 将此卡的成本降低到0 。",
-		"NAME": " 克劳利·尤斯福德"
+		"DESCRIPTION": "对一个随机的敌人造成 !D! 点 伤害  。 NL 如果该回合你 消耗 了一张牌, 将此卡的消耗降低到0 。",
+		"NAME": " 克劳利·尤斯福德 "
 	},
 	"animator_Darkness":
 	{
@@ -724,7 +724,7 @@
 	"animator_Shizu":
 	{
 		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 抽 !M! 张牌 。 NL [#EFC851]伊芙利特[]",
-		"EXTENDED_DESCRIPTION": ["伊芙利特", "#y消耗 最多 3 张手牌 ， 对所有敌人造成双重等量层数的 #y燃烧 。 向你的弃牌堆中加入 2 张 #y灼烧 。"],
+		"EXTENDED_DESCRIPTION": ["伊芙利特", "#y消耗 最多 3 张手牌 ， 对所有敌人造成双倍层数的 #y燃烧 。 向你的弃牌堆中加入 2 张 #y灼烧 。"],
 		"NAME": "静"
 	},
 	"animator_Shuna":
