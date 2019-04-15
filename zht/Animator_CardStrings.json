@@ -151,7 +151,7 @@
 	},
 	"animator_CrowleyEusford":
 	{
-		"DESCRIPTION": "對一個隨機的敵人造成 !D! 點 傷害 。 NL 如果你這一輪 消耗 一張牌, 將此卡的成本降低到0 。",
+		"DESCRIPTION": "對一個隨機的敵人造成 !D! 點 傷害 。 NL 如果該回合你 消耗 了一張牌, 將此卡的消耗降低到0 。",
 		"NAME": "克羅里·尤斯福德"
 	},
 	"animator_Darkness":
@@ -202,7 +202,7 @@
 	},
 	"animator_Defend_Kancolle":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 如果這是從您的套牌中刪除 ， 獲得 !M! 金幣 。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 增強 !SV! : 獲得 !M! 金幣 。",
 		"NAME": "優越防禦"
 	},
 	"animator_Defend_Katanagatari":
@@ -517,7 +517,7 @@
 	},
 	"animator_Kuribayashi":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 同調 : 本回合目標失去 !M! 點 力量 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 造成 !M! 點 勒脖 。 同調 : 本回合目標失去 !M! 點 力量 。",
 		"NAME": "栗林志乃"
 	},
 	"animator_Kuroyukihime":
@@ -723,7 +723,7 @@
 	"animator_Shizu":
 	{
 		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 抽 !M! 張牌 。 NL [#EFC851]伊芙利特[]",
-		"EXTENDED_DESCRIPTION": ["伊芙利特", "#y消耗 最多 3 張手牌 ， 對所有敵人造成双重等量層數的 #y燃燒 。 向你的棄牌堆中加入 2 張 #y灼燒 。"],
+		"EXTENDED_DESCRIPTION": ["伊芙利特", "#y消耗 最多 3 張手牌 ， 對所有敵人造成雙倍層數的 #y燃燒 。 向你的棄牌堆中加入 2 張 #y灼燒 。"],
 		"NAME": "靜"
 	},
 	"animator_Shuna":
@@ -793,7 +793,7 @@
 	},
 	"animator_Strike_Kancolle":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 如果這是從您的套牌中刪除 ， 獲得 !M! 金幣 。",
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 增強 !SV! : 獲得 !M! 金幣 。",
 		"NAME": "優越打擊"
 	},
 	"animator_Strike_Katanagatari":
@@ -888,7 +888,7 @@
 	},
 	"animator_YaoHaDucy":
 	{
-		"DESCRIPTION": "對所有敵人造成 !D! 點傷害 。 同調 : 獲得 !B! 點 格擋 。",
+		"DESCRIPTION": "對所有敵人造成 !D! 點傷害 。 該卡的所有副本均獲得 1 點 傷害 。 同調 : 獲得 !B! 點 格擋 。",
 		"NAME": "姚·漢·蒂修"
 	},
 	"animator_YunYun":

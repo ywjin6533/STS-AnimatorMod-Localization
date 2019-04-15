@@ -120,6 +120,11 @@
 		"PROPERNAME": "金屬化"
 	},
 	{
+		"NAMES": ["勒脖"],
+		"DESCRIPTION": "本回合每打出1張牌，該名敵人都會失去 1 點 生命 。",
+		"PROPERNAME": "勒脖"
+	},
+	{
 		"DESCRIPTION": "每回合結束時獲得 格擋 。 受到攻擊傷害而失去生命時，其層數將會減少 #b1",
 		"NAMES": ["多層護甲"],
 		"PROPERNAME": "多層護甲"

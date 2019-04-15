@@ -202,7 +202,7 @@
 	},
 	"animator_Defend_Kancolle":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。 NL  从牌库中被移除时， 获得 !M! 金币 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 鼓舞 !SV! : 获得 !M! 金币 。",
 		"NAME": "优越防御"
 	},
 	"animator_Defend_Katanagatari":
@@ -519,7 +519,7 @@
 	},
 	"animator_Kuribayashi":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 同调 : 本回合目标失去 !M! 点 力量 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 给予 !M! 层 勒脖 。 同调 : 本回合目标失去 !M! 点 力量 。",
 		"NAME": "栗林志乃"
 	},
 	"animator_Kuroyukihime":
@@ -795,7 +795,7 @@
 	},
 	"animator_Strike_Kancolle":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害 。 NL 从牌库中移除时 ， 获得 !M! 金币 。",
+		"DESCRIPTION": "造成 !D! 点伤害 。 NL 鼓舞 !SV! : 获得 !M! 金币 。",
 		"NAME": "优越打击"
 	},
 	"animator_Strike_Katanagatari":
@@ -890,7 +890,7 @@
 	},
 	"animator_YaoHaDucy":
 	{
-		"DESCRIPTION": "对所有敌人造成 !D! 点伤害 。 同调 : 获得 !B! 点 格挡 。",
+		"DESCRIPTION": "对所有敌人造成 !D! 点伤害 。 该卡的所有副本均获得 1 点 伤害 。 同调 : 获得 !B! 点 格挡 。",
 		"NAME": "姚·汉·蒂修"
 	},
 	"animator_YunYun":

@@ -125,6 +125,11 @@
 		"PROPERNAME": "Metallicize"
 	},
 	{
+		"NAMES": ["choke"],
+		"DESCRIPTION": "Whenever you play a card this turn, the enemy loses HP.",
+		"PROPERNAME": "Choke"
+	},
+	{
 		"PROPER_NAME": "Plated Armor",
 		"NAMES": ["plated armor", "plated_armor"],
 		"DESCRIPTION": "Gain #yBlock at the end of your turn. Reduced by #b1 when receiving unblocked damage."

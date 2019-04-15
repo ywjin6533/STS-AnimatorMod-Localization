@@ -203,7 +203,7 @@
 	},
 	"animator_Defend_Kancolle":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL If this is removed from your deck, gain !M! [#EFC851]Gold.",
+		"DESCRIPTION": "Gain !B! Block. NL Boost !SV! : Gain !M! [#EFC851]Gold.",
 		"NAME": "Improved Defend"
 	},
 	"animator_Defend_Katanagatari":
@@ -213,7 +213,7 @@
 	},
 	"animator_Defend_Konosuba":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Boost !SV!: Heal !M! HP.",
+		"DESCRIPTION": "Gain !B! Block. NL Boost !SV! : Heal !M! HP.",
 		"NAME": "Improved Defend"
 	},
 	"animator_Defend_NoGameNoLife":
@@ -521,7 +521,7 @@
 	},
 	"animator_Kuribayashi":
 	{
-		"DESCRIPTION": "Deal !D! damage. Synergy: The enemy loses !M! Strength this turn.",
+		"DESCRIPTION": "Deal !D! damage. NL Apply !SV! Choke. NL Synergy: The enemy loses !M! Strength this turn.",
 		"NAME": "Kuribayashi"
 	},
 	"animator_Kuroyukihime":
@@ -797,7 +797,7 @@
 	},
 	"animator_Strike_Kancolle":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL If this is removed from your deck, gain !M! [#EFC851]Gold.",
+		"DESCRIPTION": "Deal !D! damage. NL Boost !SV! : Gain !M! [#EFC851]Gold.",
 		"NAME": "Improved Strike"
 	},
 	"animator_Strike_Katanagatari":
@@ -807,7 +807,7 @@
 	},
 	"animator_Strike_Konosuba":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Boost !SV!: Heal !M! HP.",
+		"DESCRIPTION": "Deal !D! damage. NL Boost !SV! : Heal !M! HP.",
 		"NAME": "Improved Strike"
 	},
 	"animator_Strike_NoGameNoLife":
@@ -892,7 +892,7 @@
 	},
 	"animator_YaoHaDucy":
 	{
-		"DESCRIPTION": "Deal !D! damage to ALL enemies. Synergy: Gain !B! Block.",
+		"DESCRIPTION": "Deal !D! damage to ALL enemies. All copies of this card gain !M! damage this combat. Synergy: Gain !B! Block.",
 		"NAME": "Yao Ha Ducy"
 	},
 	"animator_YunYun":
