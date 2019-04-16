@@ -517,7 +517,7 @@
 	},
 	"animator_Kuribayashi":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 造成 !M! 點 勒脖 。 同調 : 本回合目標失去 !M! 點 力量 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 造成 !SV! 點 勒脖 。 同調 : 本回合目標失去 !M! 點 力量 。",
 		"NAME": "栗林志乃"
 	},
 	"animator_Kuroyukihime":
@@ -888,7 +888,7 @@
 	},
 	"animator_YaoHaDucy":
 	{
-		"DESCRIPTION": "對所有敵人造成 !D! 點傷害 。 該卡的所有副本均獲得 1 點 傷害 。 同調 : 獲得 !B! 點 格擋 。",
+		"DESCRIPTION": "對所有敵人造成 !D! 點傷害 。 該卡的所有副本均獲得 1 點 傷害 。",
 		"NAME": "姚·漢·蒂修"
 	},
 	"animator_YunYun":

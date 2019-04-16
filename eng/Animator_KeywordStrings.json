@@ -125,9 +125,9 @@
 		"PROPERNAME": "Metallicize"
 	},
 	{
-		"NAMES": ["choke"],
-		"DESCRIPTION": "Whenever you play a card this turn, the enemy loses HP.",
-		"PROPERNAME": "Choke"
+		"NAMES": ["choked"],
+		"DESCRIPTION": "Whenever you play a card this turn, the target loses 1 HP.",
+		"PROPERNAME": "Choked"
 	},
 	{
 		"PROPER_NAME": "Plated Armor",
