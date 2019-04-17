@@ -81,7 +81,7 @@
 	},
 	"animator_Benimaru":
 	{
-		"DESCRIPTION": "Deal !D! damage to ALL enemies. Overrun: Gain !B! Block. NL Synergy: Apply !M! Burning.",
+		"DESCRIPTION": "Channel 1 Fire. NL Deal !D! damage to ALL enemies. Synergy: Apply !M! Burning.",
 		"NAME": "Benimaru"
 	},
 	"animator_Berserker":
@@ -333,7 +333,7 @@
 	},
 	"animator_Eve":
 	{
-		"DESCRIPTION": "Gain !M! Focus. NL Every 3 Synergies, Channel a random Orb and draw a card.",
+		"DESCRIPTION": "Gain !M! Focus. NL Every 3 Synergies, Channel a random Orb and gain [E].",
 		"NAME": "Eve"
 	},
 	"animator_Evileye":

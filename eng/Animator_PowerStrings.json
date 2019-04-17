@@ -26,7 +26,7 @@
 	},
 	"animator_EvePower":
 	{
-		"DESCRIPTIONS": ["Every 3 #ySynergies, #yChannel #b", " random Orb/s and draw #b", " card/s."],
+		"DESCRIPTIONS": ["Every 3 #ySynergies, #yChannel #b", " random Orb/s and gain #b", " Energy."],
 		"NAME": "Eve"
 	},
 	"animator_FeridBathoryPower":

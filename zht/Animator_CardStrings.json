@@ -66,7 +66,7 @@
 	},
 	"animator_Arpeggio":
 	{
-		"DESCRIPTION": "獲得一個充能球欄位 。 冷卻 !SV! : [#EFC851]生成[] 1 個 電漿 充能球，取代主效果 。",
+		"DESCRIPTION": "獲得一個充能球欄位 。 冷卻 !SV! : [#EFC851]生成[] 1 個 電漿 充能球 ， 取代主效果 。",
 		"NAME": "阿爾貝吉歐"
 	},
 	"animator_Asuramaru":
@@ -81,7 +81,7 @@
 	},
 	"animator_Benimaru":
 	{
-		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 。 NL 壓倒 : 獲得 !B! 點 格擋 。 NL 同調 : 造成 !M! 點 燃燒 。",
+		"DESCRIPTION": "[#EFC851]生成[] 1 個 火焰 充能球 。 對所有敵人造成 !D! 點 傷害 。 NL 同調 : 造成 !M! 點 燃燒 。",
 		"NAME": "紅丸"
 	},
 	"animator_Berserker":
@@ -332,7 +332,7 @@
 	},
 	"animator_Eve":
 	{
-		"DESCRIPTION": "獲得 !M! 點 集中 。 觸發 3 次 同調 時 ， 生成 !M! 個 隨機 充能球 併 抽一張牌 。",
+		"DESCRIPTION": "獲得 !M! 點 集中 。 觸發 3 次 同調 時 ， 生成 !M! 個 隨機 充能球 併 獲得 [E] 。",
 		"NAME": "伊芙"
 	},
 	"animator_Evileye":
