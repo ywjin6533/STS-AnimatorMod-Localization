@@ -655,7 +655,7 @@
 	},
 	"animator_RinTohsaka":
 	{
-		"DESCRIPTION": "生成 !M! 个随机充能球 。 获得 !B! 点 格挡 。 同调 : 获得 !M! 点 魔法护甲 。",
+		"DESCRIPTION": "生成 1 个随机充能球 。 获得 !B! 点 格挡 。 同调 : 获得 !M! 点 魔法护甲 。",
 		"NAME": "远坂凛"
 	},
 	"animator_RoryMercury":
@@ -890,7 +890,7 @@
 	},
 	"animator_YaoHaDucy":
 	{
-		"DESCRIPTION": "对所有敌人造成 !D! 点伤害 。 该卡的所有副本均获得 1 点 伤害 。",
+		"DESCRIPTION": "对所有敌人造成 !D! 点伤害 。 所有同名卡均获得 1 点 额外伤害 。",
 		"NAME": "姚·汉·蒂修"
 	},
 	"animator_YunYun":
