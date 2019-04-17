@@ -332,7 +332,7 @@
 	},
 	"animator_Eve":
 	{
-		"DESCRIPTION": "每當觸發一次 同調 ， 對隨機敵人造成 !M! 點傷害並增加這張牌 1 點傷害 。",
+		"DESCRIPTION": "獲得 !M! 點 集中 。 觸發 3 次 同調 時 ， 生成 !M! 個 隨機 充能球 併 抽一張牌 。",
 		"NAME": "伊芙"
 	},
 	"animator_Evileye":
@@ -654,7 +654,7 @@
 	},
 	"animator_RinTohsaka":
 	{
-		"DESCRIPTION": "生成 !M! 個隨機充能球 。 獲得 !B! 點 格擋 。 同調 : 獲得 !M! 點 魔法護甲 。",
+		"DESCRIPTION": "生成 !M! 個 隨機 充能球 。 獲得 !B! 點 格擋 。 同調 : 獲得 !M! 點 魔法護甲 。",
 		"NAME": "遠阪凜"
 	},
 	"animator_RoryMercury":

@@ -332,7 +332,7 @@
 	},
 	"animator_Eve":
 	{
-		"DESCRIPTION": "每当触发一次 同调 ， 对随机敌人造成 !M! 点 伤害并增加这张牌 1 点 伤害 。",
+		"DESCRIPTION": "获得 !M! 点 集中 。 触发 3 次 同调 时 ， 生成 1 个 随机 充能球 和 抽一张牌 。",
 		"NAME": "伊芙"
 	},
 	"animator_Evileye":
