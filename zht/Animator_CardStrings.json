@@ -453,7 +453,7 @@
 	},
 	"animator_Hitei":
 	{
-		"DESCRIPTION": "在你的回合開始時 獲 得隨機 [#EFC851]積極影響[] 。 選擇並且 消耗 抽牌堆 1 到 !SV! 張的隨機卡牌 。",
+		"DESCRIPTION": "在你的回合開始時 獲 得隨機 [#EFC851]積極影響[] 。 選擇並且 消耗 抽牌堆 1 到 !M! 張的隨機卡牌 。",
 		"NAME": "否定姬"
 	},
 	"animator_HououinKyouma":
@@ -654,7 +654,7 @@
 	},
 	"animator_RinTohsaka":
 	{
-		"DESCRIPTION": "生成 !M! 個 隨機 充能球 。 獲得 !B! 點 格擋 。 同調 : 獲得 !M! 點 魔法護甲 。",
+		"DESCRIPTION": "生成 1 個 隨機 充能球 。 獲得 !B! 點 格擋 。 同調 : 獲得 !M! 點 魔法護甲 。",
 		"NAME": "遠阪凜"
 	},
 	"animator_RoryMercury":
