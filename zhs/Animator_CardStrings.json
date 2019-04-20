@@ -18,9 +18,9 @@
 	},
 	"animator_Add":
 	{
-		"DESCRIPTION": "在你的抽牌堆中消耗1张牌 。 用 充电球核心 代替它 。 虚无 。 消耗 。",
+		"DESCRIPTION": "在你的抽牌堆中消耗1张牌 。 加入一张 充能球核心 到抽牌堆。 虚无 。 消耗 。",
 		"NAME": "艾迪",
-		"UPGRADE_DESCRIPTION": "在你的抽牌堆中消耗1张牌 。 用 充电球核心 代替它 。 虚无 。"
+		"UPGRADE_DESCRIPTION": "在你的抽牌堆中消耗1张牌 。 加入一张 充能球核心 到抽牌堆。 虚无 。"
 	},
 	"animator_Ain":
 	{
@@ -333,7 +333,7 @@
 	},
 	"animator_Eve":
 	{
-		"DESCRIPTION": "发挥 充电球核心 。 每當觸發一次 同調 ， 對隨機敵人造成 !M! 點傷害並增加這張牌 1 點傷害 。",
+		"DESCRIPTION": "发挥 充能球核心 。 每触发一次同调 ， 对随机敌人造成 !M! 点伤害并提高该能力 1 点额外伤害 。",
 		"NAME": "伊芙"
 	},
 	"animator_Evileye":
@@ -611,27 +611,27 @@
 	},
 	"animator_OrbCore_Dark":
 	{
-		"DESCRIPTION": "生成 1 个 黑暗 充能球 。 NL 在你的第二个同调每回合 ， 抽 !M! 张牌 ， 然后丢弃 1 张牌 。",
+		"DESCRIPTION": "生成 1 个 黑暗 充能球 。 NL 每回合第二次同调时 ， 抽 !M! 张牌 ， 然后丢弃 1 张牌 。",
 		"NAME": "黑暗 核心"
 	},
 	"animator_OrbCore_Fire":
 	{
-		"DESCRIPTION": "生成 1 个 火素 充能球 。  NL 在你的第二个同调每回合 ， 对所有敌人造成 !M! 层 燃烧 。",
+		"DESCRIPTION": "生成 1 个 火素 充能球 。  NL 每回合第二次同调时 ， 对所有敌人造成 !M! 层 燃烧 。",
 		"NAME": "火素 核心"
 	},
 	"animator_OrbCore_Frost":
 	{
-		"DESCRIPTION": "生成 1 个 冰霜充能球 。 NL 在你的第二个同调每回合 ， 获得 !B! 点 格挡 。",
+		"DESCRIPTION": "生成 1 个 冰霜充能球 。 NL 每回合第二次同调时 ， 获得 !B! 点 格挡 。",
 		"NAME": "冰霜 核心"
 	},
 	"animator_OrbCore_Lightning":
 	{
-		"DESCRIPTION": "生成 1 个 闪电充 能球 。 NL 在你的第二个同调每回合 ， 对所有敌人造成 !M! 点 伤害 。",
-		"NAME": "闪电充 核心"
+		"DESCRIPTION": "生成 1 个 闪电充能 球 。 NL 每回合第二次同调时 ， 对所有敌人造成 !M! 点 伤害 。",
+		"NAME": "闪电 核心"
 	},
 	"animator_OrbCore_Plasma":
 	{
-		"DESCRIPTION": "生成 1 等离子 。 NL 在你的第二个同调每回合 ， 获得 [E] 。",
+		"DESCRIPTION": "生成 1 个 等离子球 。 NL 每回合第二次同调时 ， 获得 [E] 。",
 		"NAME": "等离子 核心"
 	},
 	"animator_PandorasActor":
