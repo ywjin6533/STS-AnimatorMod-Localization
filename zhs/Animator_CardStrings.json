@@ -615,7 +615,7 @@
 	},
 	"animator_OrbCore_Chaos":
 	{
-		"DESCRIPTION": "生成 1 个随机充能球 。 NL 在你的第二个同调每回合 ， 发现 1 张牌 。",
+		"DESCRIPTION": "生成 1 个随机充能球 。 NL 每回合第二次同调时 ， 发现 1 张牌 。",
 		"NAME": "Chaos 核心"
 	},
 	"animator_OrbCore_Dark":
