@@ -145,6 +145,16 @@
 		"DESCRIPTION": "此牌造成的伤害受敏捷影响"
 	},
 	{
+		"PROPER_NAME": "重装填",
+		"NAMES": ["重装填"],
+		"DESCRIPTION": "丢弃任意数量的牌 ， 触发同等次数 。"
+	},
+	{
+		"PROPER_NAME": "发现",
+		"NAMES": ["发现"],
+		"DESCRIPTION": "从 3 张随机牌中选择 1 张加入你的手牌 。 这张牌在本回合耗能变为 0 。"
+	},
+	{
 		"DESCRIPTION": "下回合开始时格挡不会消失 。",
 		"NAMES": ["残影"],
 		"PROPERNAME": "残影"
