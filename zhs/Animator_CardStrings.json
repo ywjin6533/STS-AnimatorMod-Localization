@@ -167,7 +167,7 @@
 	},
 	"animator_Defend_AccelWorld":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 撤回 : 获得 !B! 点 格挡 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 撤回 : 获得 !M! 点 格挡 。",
 		"NAME": "优越防御"
 	},
 	"animator_Defend_Elsword":
