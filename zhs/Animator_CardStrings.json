@@ -26,7 +26,7 @@
 	{
 		"DESCRIPTION": "[#EFC851]施法者[] 。 对所有敌人造成 !D! 点 伤害 !M! 次 。 获得 1 点 集中 。",
 		"EXTENDED_DESCRIPTION": ["施法者", "此牌的伤害受 集中  的影响。"],
-		"NAME": "艾因"
+		"NAME":"艾因"
 	},
 	"animator_Ainz":
 	{
@@ -172,7 +172,7 @@
 	},
 	"animator_Defend_Elsword":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 下回合 ， 获得 !B! 点 格挡 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 下回合 ， 获得 !M! 点 格挡 。",
 		"NAME": "优越防御"
 	},
 	"animator_Defend_Fate":
@@ -866,7 +866,7 @@
 	},
 	"animator_SwordMaiden":
 	{
-		"DESCRIPTION": "获得 !M! 层 [#EFC851]再生[] 。 NL 移除你身上的所有负面效果 。 NL 消耗 。",
+		"DESCRIPTION": "获得 !M! 层 [#EFC851]临时生命[] 。 NL 移除你身上的所有负面效果 。 NL 消耗 。",
 		"NAME": "剑之圣女"
 	},
 	"animator_Tet":
