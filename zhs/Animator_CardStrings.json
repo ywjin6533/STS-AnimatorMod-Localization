@@ -18,9 +18,9 @@
 	},
 	"animator_Add":
 	{
-		"DESCRIPTION": "在你的抽牌堆中消耗1张牌 。 加入一张 充能球核心 到抽牌堆。 虚无 。 消耗 。",
+		"DESCRIPTION": "获得一个充能球栏位 。 在你的抽牌堆中 消耗 1 张牌 。 加入一张 充能球核心 到抽牌堆。 虚无 。 消耗 。",
 		"NAME": "艾迪",
-		"UPGRADE_DESCRIPTION": "在你的抽牌堆中消耗1张牌 。 加入一张 充能球核心 到抽牌堆。 虚无 。"
+		"UPGRADE_DESCRIPTION": "获得一个充能球栏位 。 在你的抽牌堆中 消耗 1 张牌 。 加入一张 充能球核心 到抽牌堆。 虚无 。"
 	},
 	"animator_Ain":
 	{
@@ -124,7 +124,7 @@
 	},
 	"animator_ChlammyZell":
 	{
-		"DESCRIPTION": "对每个敌人造成 !M! 到 !D! 点 伤害 。 同调 : 下一轮 ， 获得 [E] 。",
+		"DESCRIPTION": "对每个敌人造成 !M! 到 !D! 点 伤害 。 同调 : 抽 1 张牌 。",
 		"NAME": "克拉米·杰尔"
 	},
 	"animator_Chris":
@@ -875,7 +875,7 @@
 	},
 	"animator_Tet":
 	{
-		"DESCRIPTION": "在你的抽牌堆中选择 !M! 张牌 。 抽 2 张牌 。 同调 : 循环 1 张牌 。",
+		"DESCRIPTION": "在你的抽牌堆中选择 !M! 张牌 。 抽 2 张牌 。 同调 : 下一轮 ， 获得 [E]",
 		"NAME": "特图"
 	},
 	"animator_Togame":
@@ -931,6 +931,13 @@
 	{
 		"DESCRIPTION": "对所有敌人造成 !D! 点伤害 。 所有同名卡均获得 1 点 额外伤害 。",
 		"NAME": "姚·汉·蒂修"
+	},
+	"animator_YukoShionji":
+	{
+		"DESCRIPTION": "虚无 。 显示您的绘图堆的顶部卡片 。 每回合一次 ， 您可以绘制和/或丢弃它 [#EFC851]*[] 。",
+		"EXTENDED_DESCRIPTION": ["* 注意", "您可以左键单击卡片进行绘制，也可以右键单击它以丢弃它。"],
+		"NAME": "Yuuko Shionji",
+		"UPGRADE_DESCRIPTION": "显示您的绘图堆的顶部卡片 。 每回合一次 ， 您可以绘制和/或丢弃它 [#EFC851]*[] 。"
 	},
 	"animator_YunYun":
 	{

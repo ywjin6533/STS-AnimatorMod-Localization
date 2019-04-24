@@ -179,5 +179,10 @@
 	{
 		"DESCRIPTIONS": ["回合结束时对血量较低的敌人造成 #b", " 点 伤害"],
 		"NAME": "支援"
+	},
+	"animator_YukoShionjiPower":
+	{
+		"DESCRIPTIONS": ["Reveal the top card of your draw pile, NL you may #pLeft-Click to draw it ( #b", " use/s ), or #pRight-Click to discard it ( #b", " use/s)."],
+		"NAME": "Yuko Shionji"
 	}
 }
