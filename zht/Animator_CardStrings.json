@@ -763,7 +763,7 @@
 	},
 	"animator_Shizu":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 抽 !M! 張牌 。 NL [#EFC851]伊芙利特[]",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 抽 !M! 張牌 。 NL 虚无 。 [#EFC851]伊芙利特[]",
 		"EXTENDED_DESCRIPTION": ["伊芙利特", "#y消耗 最多 3 張手牌 ， 對敵人造成雙倍層數的 #y燃燒 。 向你的棄牌堆中加入 2 張 #y灼燒 。"],
 		"NAME": "靜"
 	},

@@ -764,7 +764,7 @@
 	},
 	"animator_Shizu":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL Draw !M! cards. NL [#EFC851]Ifrit.",
+		"DESCRIPTION": "Deal !D! Damage. NL Draw !M! cards. NL Ethereal. [#EFC851]Ifrit.",
 		"EXTENDED_DESCRIPTION": ["Ifrit", "Exhaust up to 3 cards in your hand, apply twice that much #yBurning to the enemy. NL Add 2 #yBurns to your discard pile."],
 		"NAME": "Shizu"
 	},
