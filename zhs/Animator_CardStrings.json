@@ -935,9 +935,9 @@
 	},
 	"animator_YukoShionji":
 	{
-		"DESCRIPTION": "显示您的绘图堆的顶部卡片 。 每回合一次 ， 您可以绘制和/或丢弃它 [#EFC851]*[] 。",
-		"EXTENDED_DESCRIPTION": ["* 注意", "您可以左键单击卡片进行绘制，也可以右键单击它以丢弃它。"],
-		"NAME": "Yuuko Shionji"
+		"DESCRIPTION": "查看抽牌堆顶端的卡牌 。每回合一次 ， 你可以将其纳入手牌或是丢弃 [#EFC851]*[] 。",
+		"EXTENDED_DESCRIPTION": ["* 注意", "您可以左键单击以纳入手牌，也可以右键单击以丢弃它。"],
+		"NAME": "紫苑寺有子"
 	},
 	"animator_YunYun":
 	{
