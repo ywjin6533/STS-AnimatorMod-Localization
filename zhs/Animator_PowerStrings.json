@@ -27,8 +27,8 @@
 	},
 	"animator_ChlammyZellPower":
 	{
-		"DESCRIPTIONS": ["每當你玩交替卡類型这一轮 ， 循环 1 张牌 和 对所有敌人造成 #b", " 点 伤害 。 NL NL 你玩的最后一种类型是 : #y"],
-		"NAME": "Chlammy Zell"
+		"DESCRIPTIONS": ["当你交替打出不同类型的牌时 ， 循环 1 张牌 并 对所有敌人造成 #b", " 点 伤害 。 NL NL 你上一次打出的牌的类型是 : #y"],
+		"NAME": "克拉米·杰尔"
 	},
 	"animator_DarknessPower":
 	{
