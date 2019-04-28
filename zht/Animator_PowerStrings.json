@@ -35,6 +35,11 @@
 		"DESCRIPTIONS": ["Heal #g", " HP at the start of your next turn."],
 		"NAME": "Delayed Heal"
 	},
+	"animator_ChlammyZellPower":
+	{
+		"DESCRIPTIONS": ["每當你玩交替卡類型這一輪 ， 循環 1 張牌 並 對所有敵人造成 #b", " 點 傷害 。 NL NL 你玩的最後一種類型是 : #y"],
+		"NAME": "Chlammy Zell"
+	},
 	"animator_EarthenThornsPower":
 	{
 		"DESCRIPTIONS": ["每次受到 #y攻擊 傷害時，就造成 #b", " 點反傷"],
