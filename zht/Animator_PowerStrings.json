@@ -25,6 +25,11 @@
 		"DESCRIPTIONS": ["在回合結束時受到 #b", " 點傷害 。 獲得 #b", "% 更多 #y攻擊傷害 。"],
 		"NAME": "燃燒"
 	},
+	"animator_ChlammyZellPower":
+	{
+		"DESCRIPTIONS": ["當你交替打出不同類型的牌時 ， 循環 1 張牌 並 對所有敵人造成 #b", " 點 傷害 。 NL NL 你上一次打出的牌的類型是 : #y"],
+		"NAME": "Chlammy Zell"
+	},
 	"animator_DarknessPower":
 	{
 		"DESCRIPTIONS": ["當你受到傷害時升級 #b", " 張隨機牌，以手牌為優先"],
@@ -34,11 +39,6 @@
 	{
 		"DESCRIPTIONS": ["Heal #g", " HP at the start of your next turn."],
 		"NAME": "Delayed Heal"
-	},
-	"animator_ChlammyZellPower":
-	{
-		"DESCRIPTIONS": ["每當你玩交替卡類型這一輪 ， 循環 1 張牌 並 對所有敵人造成 #b", " 點 傷害 。 NL NL 你玩的最後一種類型是 : #y"],
-		"NAME": "Chlammy Zell"
 	},
 	"animator_EarthenThornsPower":
 	{
@@ -177,7 +177,7 @@
 	},
 	"animator_StrategicInformationPower":
 	{
-		"DESCRIPTIONS": ["The next #b", " time/s you discard a card, gain #b", " #yBlock and reduce the cost of a random card in your hand by 1."],
+		"DESCRIPTIONS": ["The next #b", " time/s you discard a card, gain #b", " #yBlock and deal #b", " damage to the lowest health enemy."],
 		"NAME": "戰略信息"
 	},
 	"animator_SupportDamagePower":

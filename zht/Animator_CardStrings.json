@@ -13,7 +13,7 @@
 	},
 	"animator_AcuraTooru":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 !M! 次 。 同調 : 增加 !SV! 張 小刀 到手牌 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 !M! 次 。 下一轮 ， 抽 1 張牌 。 同調 : 增加 !SV! 張 小刀 到手牌 。",
 		"NAME": "托魯"
 	},
 	"animator_Add":
@@ -124,7 +124,7 @@
 	},
 	"animator_ChlammyZell":
 	{
-		"DESCRIPTION": "每當你玩交替卡類型這一輪 ， 循環 1 張牌 並 對所有敵人造成 !M! 點 傷害 。",
+		"DESCRIPTION": "當你交替打出不同類型的牌時 ， 循環 1 張牌 並 對所有敵人造成 !M! 點 傷害 。",
 		"NAME": "克拉米·傑爾"
 	},
 	"animator_Chris":
@@ -252,7 +252,7 @@
 	},
 	"animator_DolaSchwi":
 	{
-		"DESCRIPTION": "造成 !M! 層 跟蹤鎖定 並 造成 !D! 點 傷害 。 NL 冷卻 !SV! : 額外造成 30 點 傷害 。",
+		"DESCRIPTION": "造成 !M! 層 跟蹤鎖定 並 生成 !M! 個 閃電 充能球 。 NL 冷卻 !SV! : 造成 !D! 點 傷害 。",
 		"NAME": "休比"
 	},
 	"animator_DolaStephanie":
@@ -353,8 +353,14 @@
 	},
 	"animator_Fredrika":
 	{
-		"DESCRIPTION": "變形者 。 每個敵人使你獲得獲得 !B! 點 格擋 。 撤回 : 獲得 !M! 層 金屬化 。",
-		"NAME": "弗蕾德麗卡"
+		"DESCRIPTION": "變形者 。 每个敌人使你获得获得 !B! 点 格挡 。 撤回 : 將此卡退還給您並選擇其他表格 。",
+		"EXTENDED_DESCRIPTION":
+		[
+			"變形者 。 抽 1 張牌 。",
+			"變形者 。 造成 !D! 點傷害 2 次 。 獲得 2 層 金屬化 。 撤回 : 获得 !M! 点 金属化 。",
+			"變形者 。 造成 !D! 點 傷害 。 給予 1 層 虛弱 。 給予 1 層 易傷 。"
+		],
+		"NAME": "芙蕾多妮卡"
 	},
 	"animator_GazelDwargon":
 	{
@@ -422,8 +428,8 @@
 	},
 	"animator_Guy":
 	{
-		"DESCRIPTION": "給予 2 層 易傷 。 循環 1 張牌 。 增強 !SV! : 獲得 1 點 [#EFC851]戰略信息[] 。",
-		"EXTENDED_DESCRIPTION": ["戰略信息", "當一張卡被丟棄時，獲得 #b2 點 格擋 ， 將手中隨機卡的耗能降低 #b1，並損失1層效果。該效果每回合開始充能一次"],
+		"DESCRIPTION": "抽 !M! 張牌 。 丟棄 !M! 張牌 。 同調 : 獲得 1 點 [#EFC851]戰略信息[] 。",
+		"EXTENDED_DESCRIPTION": ["戰略信息", "當一張卡被丟棄時，獲得 #b2 點 格擋 ， 將手中隨機卡的耗能降低 #b1 ， 並損失1層效果 。 該效果每回合開始充能一次"],
 		"NAME": "奇伊"
 	},
 	"animator_Hakurou":
@@ -467,7 +473,7 @@
 	},
 	"animator_ItamiYouji":
 	{
-		"DESCRIPTION": "抽 !M! 張牌 。 每抽一張牌造成 !D! 點 傷害 。 同調 : 再畫一張卡片。",
+		"DESCRIPTION": "抽 !M! 張牌 。 每抽一張牌造成 !D! 點 傷害 。 同調 : 再抽一張卡片 。",
 		"NAME": "伊丹耀司"
 	},
 	"animator_IzunaHatsuse":
@@ -538,7 +544,7 @@
 	},
 	"animator_Layla":
 	{
-		"DESCRIPTION": "[#EFC851]重新裝填[] : 造成 !D! 點 穿刺 傷害 。 NL 同調 : 給予 !M! 層 中毒 每次打擊 。",
+		"DESCRIPTION": "造成 !D! 點 穿刺 傷害 。 NL 重新裝填 : 給予 !M! 層 中毒 對一個隨機的敵人 。",
 		"NAME": "蕾拉"
 	},
 	"animator_LeleiLaLalena":
@@ -611,7 +617,7 @@
 	},
 	"animator_NarberalGamma":
 	{
-		"DESCRIPTION": "生成 !M! 個閃電充能球 。 NL 變形者 。",
+		"DESCRIPTION": "生成 !M! 個 閃電 充能球 。 NL 變形者 。",
 		"NAME": "娜貝拉爾·伽瑪",
 		"UPGRADE_DESCRIPTION": "生成 !M! 個 閃電 充能球 。 NL 變形者 。 閃電 本回合擊中所有敵人。"
 	},
@@ -698,7 +704,7 @@
 	},
 	"animator_RoryMercury":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 [#EFC851]被抽到時[] ， 同調 : 造成 !M! 點 傷害 對一個隨機的敵人 。",
+		"DESCRIPTION": "造成 !D! 點傷害 。 [#EFC851]被抽到時[] ， 同調 : 對一個隨機的敵人造成 !M! 點 傷害 。",
 		"NAME": "蘿莉·麥丘利"
 	},
 	"animator_RoyMustang":
