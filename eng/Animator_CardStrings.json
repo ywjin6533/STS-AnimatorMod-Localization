@@ -244,7 +244,7 @@
 	},
 	"animator_DolaCouronne":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Synergy: Cycle 1 card. NL Legacy: Gain 1 Dexterity.",
+		"DESCRIPTION": "Gain !B! Block. NL Synergy: Draw 1 card. NL Legacy: Gain 1 Dexterity.",
 		"NAME": "Couronne"
 	},
 	"animator_DolaRiku":

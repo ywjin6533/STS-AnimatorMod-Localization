@@ -242,7 +242,7 @@
 	},
 	"animator_DolaCouronne":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 同調 : 循環 1 張牌 。 遺產 : 獲得 1 點 敏捷 。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 同調 : 抽一張牌 。 遺產 : 獲得 1 點 敏捷 。",
 		"NAME": "克洛妮"
 	},
 	"animator_DolaRiku":

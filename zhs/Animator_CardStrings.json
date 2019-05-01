@@ -242,7 +242,7 @@
 	},
 	"animator_DolaCouronne":
 	{
-		"DESCRIPTION": "获得 !B! 点 护甲 。 NL 同调 : 循环 1 张牌 。 遗赠 : 获得 1 点 敏捷 。",
+		"DESCRIPTION": "获得 !B! 点 护甲 。 NL 同调 : 抽 1 张牌 。 遗赠 : 获得 1 点 敏捷 。",
 		"NAME": "克洛妮"
 	},
 	"animator_DolaRiku":
