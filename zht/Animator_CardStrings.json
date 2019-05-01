@@ -375,7 +375,7 @@
 	},
 	"animator_Gillette":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 如果您在本回合丟棄了一張卡片 ， 獲得 !B! 點 格擋 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 下一轮 ， 獲得 [E] 。 撤回 : 給予所有敵人 !M! 層 虛弱 。",
 		"NAME": "亞伯力克·基烈特"
 	},
 	"animator_Gluttony":
@@ -429,7 +429,7 @@
 	"animator_Guy":
 	{
 		"DESCRIPTION": "抽 !M! 張牌 。 丟棄 !M! 張牌 。 同調 : 獲得 1 點 [#EFC851]戰略信息[] 。",
-		"EXTENDED_DESCRIPTION": ["戰略信息", "當一張卡被丟棄時，獲得 #b2 點 格擋 ， 將手中隨機卡的耗能降低 #b1 ， 並損失1層效果 。 該效果每回合開始充能一次"],
+		"EXTENDED_DESCRIPTION": ["戰略信息", "當一張卡被丟棄時，獲得 #b2 點 格擋 ， 對生命值最低的敵人造成 #b2 點 傷害 ， 並損失1層效果 。 該效果每回合開始充能一次"],
 		"NAME": "奇伊"
 	},
 	"animator_Hakurou":
@@ -720,9 +720,10 @@
 	},
 	"animator_Saitama":
 	{
-		"DESCRIPTION": "固有 。 保留 。 NL 造成 !D! 點 傷害 。 NL 只有在手中的所有其他牌消耗 2 個能量時才能使用 。",
+		"DESCRIPTION": "固有 。 保留 。 NL 造成 !D! 點 傷害 。 NL [#EFC851]one[] [#EFC851]punch[] 。",
+		"EXTENDED_DESCRIPTION": ["One Punch", "Spend ALL your energy, this card deals #yincreasingly more damage for each point spent."],
 		"NAME": "埼玉",
-		"UPGRADE_DESCRIPTION": "固有 。 保留 。 NL 造成 !D! 點 穿刺 傷害 。 NL 只有在手中的所有其他牌消耗 2 個能量時才能使用 。"
+		"UPGRADE_DESCRIPTION": "固有 。 保留 。 NL 造成 !D! 點 傷害 。 NL [#EFC851]one[] [#EFC851]punch+[] 。"
 	},
 	"animator_Scar":
 	{

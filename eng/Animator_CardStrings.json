@@ -254,7 +254,7 @@
 	},
 	"animator_DolaSchwi":
 	{
-		"DESCRIPTION": "Apply !M! Lock-On. NL Channel 1 Lightning. NL Cooldown !SV! : NL Deal !D! Damage.",
+		"DESCRIPTION": "Apply !M! Lock-On. NL Channel 1 Lightning. NL Cooldown !SV! : NL Deal !D! damage.",
 		"NAME": "Schwi"
 	},
 	"animator_DolaStephanie":
@@ -378,7 +378,7 @@
 	},
 	"animator_Gillette":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL If you discarded a card this turn, NL gain !B! Block.",
+		"DESCRIPTION": "Deal !D! damage. NL Next turn, gain [E]. Recall: Apply !M! Weak to ALL enemies.",
 		"NAME": "Gillette"
 	},
 	"animator_Gluttony":
@@ -432,7 +432,7 @@
 	"animator_Guy":
 	{
 		"DESCRIPTION": "Draw !M! card. NL Discard !M! card. NL Synergy : Gain [#EFC851]Strategic[] [#EFC851]Information[].",
-		"EXTENDED_DESCRIPTION": ["Strategic Information", "Once per turn, when a card is discarded, gain #b2 Block and deal #b3 damage to the lowest health enemy. Can be used multiple times per turn when stacked."],
+		"EXTENDED_DESCRIPTION": ["Strategic Information", "Once per turn, when a card is discarded, gain #b2 Block and deal #b2 damage to the lowest health enemy. Can be used multiple times per turn when stacked."],
 		"NAME": "Guy",
 		"UPGRADE_DESCRIPTION": "Draw !M! cards. NL Discard !M! cards. NL Synergy : Gain [#EFC851]Strategic[] [#EFC851]Information[]."
 	},
@@ -721,9 +721,10 @@
 	},
 	"animator_Saitama":
 	{
-		"DESCRIPTION": "Innate. Retain. NL Deal !D! Damage. NL Can only be played if all other cards in your hand cost 2 or more.",
+		"DESCRIPTION": "Innate. Retain. NL Deal !D! Damage. NL [#EFC851]One[] [#EFC851]Punch[].",
+		"EXTENDED_DESCRIPTION": ["One Punch", "Spend ALL your energy, this card deals #yincreasingly more damage for each point spent."],
 		"NAME": "Saitama",
-		"UPGRADE_DESCRIPTION": "Innate. Retain. Deal !D! Piercing Damage. Can only be played if all other cards in your hand cost 2 or more."
+		"UPGRADE_DESCRIPTION": "Innate. Retain. NL Deal !D! Damage. NL [#EFC851]One[] [#EFC851]Punch+[]."
 	},
 	"animator_Scar":
 	{

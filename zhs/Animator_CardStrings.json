@@ -375,7 +375,7 @@
 	},
 	"animator_Gillette":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 如果您在本回合丢弃了一张卡片 ， 获得 !B! 点 格挡 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 下一轮 ， 获得 [E] 。 撤回 : 给予所有敌人 !M! 层 虚弱 。",
 		"NAME": "基烈特"
 	},
 	"animator_Gluttony":
@@ -429,7 +429,7 @@
 	"animator_Guy":
 	{
 		"DESCRIPTION": "抽 !M! 张牌 。 NL 丢弃 !M! 张牌 。 NL 同调 : 获得 1 点 [#EFC851]战略信息[] 。",
-		"EXTENDED_DESCRIPTION": ["战略信息", "当一张卡被丢弃时， 获得 #b2 点 格挡 ， 将一张随机手牌的耗能降低 #b1 点， 并 损失1层效果。该效果每回合开始充能一次"],
+		"EXTENDED_DESCRIPTION": ["战略信息", "当一张卡被丢弃时， 获得 #b2 点 格挡 ， 对生命值最低的敌人造成 #b2 点 伤害， 并 损失1层效果。该效果每回合开始充能一次"],
 		"NAME": "奇伊"
 	},
 	"animator_Hakurou":
@@ -721,9 +721,10 @@
 	},
 	"animator_Saitama":
 	{
-		"DESCRIPTION": "固有 。 保留 。 NL 造成 !D! 点伤害 。 NL 只有在手中的所有其他牌消耗 2 个能量时才能使用 。",
+		"DESCRIPTION": "固有 。 保留 。 NL 造成 !D! 点伤害 。 NL [#EFC851]one[] [#EFC851]punch[] 。",
+		"EXTENDED_DESCRIPTION": ["One Punch", "Spend ALL your energy, this card deals #yincreasingly more damage for each point spent."],
 		"NAME": "秃头披风侠",
-		"UPGRADE_DESCRIPTION": "固有 。 保留 。 NL 造成 !D! 点 穿刺 伤害 。 NL 只有在手中的所有其他牌消耗 2 个能量时才能使用 。"
+		"UPGRADE_DESCRIPTION": "固有 。 保留 。 NL 造成 !D! 点伤害 。 NL [#EFC851]one[] [#EFC851]punch+[] 。"
 	},
 	"animator_Scar":
 	{
