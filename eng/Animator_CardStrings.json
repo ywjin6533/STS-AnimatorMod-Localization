@@ -13,9 +13,9 @@
 	},
 	"animator_AcuraTooru":
 	{
-		"DESCRIPTION": "Deal !D! damage !M! times. Next turn, draw 1 card. Synergy: Add !SV! Shiv to your hand.",
+		"DESCRIPTION": "Deal !D! damage !M! times. Next turn, draw 1 card. Synergy: Add !SV! Throwing-Knife to your hand.",
 		"NAME": "Tooru",
-		"UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. Next turn, draw 1 card. Synergy: Add !SV! Shivs to your hand."
+		"UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. Next turn, draw 1 card. Synergy: Add !SV! Throwing-Knives to your hand."
 	},
 	"animator_Add":
 	{
@@ -771,7 +771,7 @@
 	"animator_Shizu":
 	{
 		"DESCRIPTION": "Deal !D! Damage. NL Draw !M! cards. NL Ethereal. [#EFC851]Ifrit.",
-		"EXTENDED_DESCRIPTION": ["Ifrit", "Exhaust up to 3 cards in your hand, apply twice that much #yBurning to the enemy. NL Add 2 #yBurns to your discard pile."],
+		"EXTENDED_DESCRIPTION": ["Ifrit", "Exhaust up to 3 cards in your hand, #Channel that much #yFire. NL Add 2 #yBurns to your discard pile."],
 		"NAME": "Shizu"
 	},
 	"animator_Shuna":
@@ -885,6 +885,21 @@
 		"DESCRIPTION": "Discard up to !M! cards from your draw pile. NL Draw 2 cards. NL Boost !SV! : gain [E].",
 		"NAME": "Tet"
 	},
+	"animator_ThrowingKnife_0":
+	{
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. NL Exhaust. Recall: Play this card.",
+		"NAME": "Throwing-Knife"
+	},
+	"animator_ThrowingKnife_1":
+	{
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable. NL Exhaust. Recall: Play this card.",
+		"NAME": "Throwing-Knife"
+	},
+	"animator_ThrowingKnife_2":
+	{
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Poison. NL Exhaust. Recall: Play this card.",
+		"NAME": "Throwing-Knife"
+	},
 	"animator_Togame":
 	{
 		"DESCRIPTION": "Draw !M! cards. NL You may Exhaust a card, otherwise gain [E] and Exhaust.",
@@ -919,7 +934,7 @@
 	},
 	"animator_Viivi":
 	{
-		"DESCRIPTION": "Deal !D! damage to a random Enemy !M! times. Recall: Add 2 Shivs to your hand.",
+		"DESCRIPTION": "Deal !D! damage to a random Enemy !M! times. Recall: Add 1 Throwing-Knife to your hand.",
 		"NAME": "Viivi"
 	},
 	"animator_Witch":

@@ -13,7 +13,7 @@
 	},
 	"animator_AcuraTooru":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 !M! 次 。 下一轮 ， 抽 1 張牌 。 同調 : 增加 !SV! 張 小刀 到手牌 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 !M! 次 。 下一轮 ， 抽 1 張牌 。 同調 : 增加 !SV! 張 投擲刀 到手牌 。",
 		"NAME": "托魯"
 	},
 	"animator_Add":
@@ -83,7 +83,7 @@
 	},
 	"animator_Benimaru":
 	{
-		"DESCRIPTION": "[#EFC851]生成[] 1 個 火焰 充能球 。 對所有敵人造成 !D! 點 傷害 。 NL 同調 : 造成 !M! 點 燃燒 。",
+		"DESCRIPTION": "生成 1 個 火焰 充能球 。 對所有敵人造成 !D! 點 傷害 。 NL 同調 : 造成 !M! 點 燃燒 。",
 		"NAME": "紅丸"
 	},
 	"animator_Berserker":
@@ -770,7 +770,7 @@
 	"animator_Shizu":
 	{
 		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 抽 !M! 張牌 。 NL 虚无 。 [#EFC851]伊芙利特[]",
-		"EXTENDED_DESCRIPTION": ["伊芙利特", "#y消耗 最多 3 張手牌 ， 對敵人造成雙倍層數的 #y燃燒 。 向你的棄牌堆中加入 2 張 #y灼燒 。"],
+		"EXTENDED_DESCRIPTION": ["伊芙利特", "#y消耗 最多 3 張手牌 。 對於你消耗的每張卡 ， 生成1個火焰充能球 。 向你的棄牌堆中加入 2 張 #y灼燒 。"],
 		"NAME": "靜"
 	},
 	"animator_Shuna":
@@ -883,6 +883,21 @@
 		"DESCRIPTION": "在你的抽牌堆中選擇 !M! 張牌 。 抽 2 張牌 。 增強 !SV! : 獲得 [E]",
 		"NAME": "特圖"
 	},
+	"animator_ThrowingKnife_0":
+	{
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! 層 虛弱 。 NL 消耗 。 撤回 : 打這張牌。",
+		"NAME": "投擲刀"
+	},
+	"animator_ThrowingKnife_1":
+	{
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! 層 易傷 。 NL 消耗 。 撤回 : 打這張牌。",
+		"NAME": "投擲刀"
+	},
+	"animator_ThrowingKnife_2":
+	{
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! 層 中毒 。 NL 消耗 。 撤回 : 打這張牌。",
+		"NAME": "投擲刀"
+	},
 	"animator_Togame":
 	{
 		"DESCRIPTION": "抽 !M! 張牌 。 NL 可以 消耗 1 張牌 ， 否則獲得 [E] 並 消耗 。",
@@ -917,7 +932,7 @@
 	},
 	"animator_Viivi":
 	{
-		"DESCRIPTION": "對隨機敵人造成 !D! 點 傷害 !M! 次 。 撤回 : 增加 2 張 小刀 到手牌 。",
+		"DESCRIPTION": "對隨機敵人造成 !D! 點 傷害 !M! 次 。 撤回 : 增加 2 張 投擲刀 到手牌 。",
 		"NAME": "薇薇·荷羅派涅"
 	},
 	"animator_Witch":

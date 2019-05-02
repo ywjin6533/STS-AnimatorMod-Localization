@@ -165,6 +165,11 @@
 		"DESCRIPTION": "Put the next card you play this turn on top of your draw pile."
 	},
 	{
+		"PROPER_NAME": "Throwing-Knife",
+		"NAMES": ["throwing-knife", "throwing-knives"],
+		"DESCRIPTION": "0-Cost #yAttack which applies a randomized debuff and #yExhausts."
+	},
+	{
 		"PROPER_NAME": "Discover",
 		"NAMES": ["discover"],
 		"DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn."
