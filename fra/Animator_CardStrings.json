@@ -446,7 +446,7 @@
 		"DESCRIPTION": "Changeforme. NL Agis de manière imprévisible...",
 		"EXTENDED_DESCRIPTION": ["What Happened?"],
 		"NAME": "Higaki Rinne",
-		"UPGRADE_DESCRIPTION": "Changeforme. NL Agis de manière imprévisible..."
+		"UPGRADE_DESCRIPTION": "Changeforme. NL Agis de manière très imprévisible..."
 	},
 	"animator_HighElfArcher":
 	{
@@ -456,7 +456,7 @@
 	},
 	"animator_HiiragiShinya":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Si c'est votre première [#EFC851]Attaque ce tour, apply a random [#EFC851]Debuff.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Si c'est votre première [#EFC851]Attaque ce tour, appliquez un [#EFC851]Debuff aléatoire.",
 		"NAME": "Shinya Hiiragi",
 		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s). NL If this is your first [#EFC851]Attaque ce tour, appliquez un [#EFC851]Debuff Amélioré aléatoire."
 	},
@@ -717,7 +717,7 @@
 	{
 		"DESCRIPTION": "Loyale. Infligez !D! dégât(s). Si ca Synergize !M! fois, Purge et obtenez [#EFC851]Excalibur.",
 		"NAME": "Saber",
-		"UPGRADE_DESCRIPTION": "Loyale. Infligez !D! dégât(s). If this Synergizes !M! fois, Purge et obtenez [#EFC851]Excalibur+."
+		"UPGRADE_DESCRIPTION": "Loyale. Infligez !D! dégât(s). Si ca Synergize !M! fois, Purge et obtenez [#EFC851]Excalibur+."
 	},
 	"animator_Saitama":
 	{
