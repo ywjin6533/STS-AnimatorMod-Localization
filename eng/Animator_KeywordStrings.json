@@ -180,6 +180,11 @@
 		"DESCRIPTION": "Temporary HP disappears at the end of combat."
 	},
 	{
+		"PROPER_NAME": "Flight",
+		"NAMES": ["flight"],
+		"DESCRIPTION": "Take 50% less #yAttack damage. Lose 1 stack until end of turn when taking damage, the power is cancelled at 0 stacks."
+	},
+	{
 		"PROPER_NAME": "Support Damage",
 		"NAMES": ["support damage", "support_damage"],
 		"DESCRIPTION": "Deal damage to the enemy with lowest HP at the end of each turn."

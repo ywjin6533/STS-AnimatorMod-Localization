@@ -989,14 +989,29 @@
 		"NAME": "Zero",
 		"UPGRADE_DESCRIPTION": "Play a random [#EFC851]Skill from your draw pile."
 	},
+	"animator_Azriel":
+	{
+		"DESCRIPTION": "Gain Flight. NL Whenever you apply a debuff to an enemy, gain !M! Strength.",
+		"NAME": "Azriel"
+	},
+	"animator_Giselle":
+	{
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable. NL Deal triple damage to normal enemies.",
+		"NAME": "Giselle"
+	},
 	"animator_HiiragiTenri":
 	{
 		"DESCRIPTION": "Gain !B! Block. NL Play and Exhaust NL ALL cards in your discard pile.",
 		"NAME": "Tenri Hiiragi"
 	},
+	"animator_SirTouchMe":
+	{
+		"DESCRIPTION": "Deal !D! damage. NL Gain !B! Block. NL Whenever a card Synergizes, increase this card's damage by !M! this combat.",
+		"NAME": "Sir Touch Me"
+	},
 	"animator_ShikizakiKiki":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Draw !M! cards. NL Double the damage of all [#EFC851]Attacks in your hand this combat.",
+		"DESCRIPTION": "Draw !M! cards. NL Double the damage of all [#EFC851]Attacks in your hand for the rest of this combat.",
 		"NAME": "Shikizaki Kiki"
 	},
 	"animator_Chomusuke":
@@ -1010,9 +1025,14 @@
 		"DESCRIPTION": "Deal !D! Damage. NL Draw !M! Cards. NL While in your deck, increase the chances of [#EFC851]Bonus [#EFC851]Relics.",
 		"NAME": "'Hero'"
 	},
+	"animator_Truth":
+	{
+		"DESCRIPTION": "Gain !SV! Focus. NL Gain !M! Strength. NL Permanently replace a card in your deck with a [#EFC851]Wound.",
+		"NAME": "Truth"
+	},
 	"animator_Rose":
 	{
-		"DESCRIPTION": "Augmentable. Deal !D! Piercing damage !M! times. If this kills an enemy, target another random enemy.",
+		"DESCRIPTION": "Deal !D! Piercing damage !M! times. If this kills an enemy, replay this card on another random enemy.",
 		"NAME": "Rose"
 	},
 	"animator_NivaLada":
