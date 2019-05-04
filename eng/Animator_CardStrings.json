@@ -1006,7 +1006,7 @@
 	},
 	"animator_SirTouchMe":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Gain !B! Block. NL Whenever a card Synergizes, increase this card's damage by !M! this combat.",
+		"DESCRIPTION": "Deal !D! damage. NL Gain !M! Juggernaut. NL Gain !B! Block.",
 		"NAME": "Sir Touch Me"
 	},
 	"animator_ShikizakiKiki":
@@ -1019,6 +1019,11 @@
 		"DESCRIPTION": "Gain [E] and draw !M! card for each card you Exhausted this turn ( !SV! ). Exhaust.",
 		"NAME": "Chomusuke",
 		"UPGRADE_DESCRIPTION": "Gain [E] and draw !M! cards for each card you Exhausted this turn ( !SV! ). Exhaust."
+	},
+	"animator_JeanneDArc":
+	{
+		"DESCRIPTION": "Deal !D! Damage. NL Gain !M! Temp._HP. NL Exhaust a random Curse or Status.",
+		"NAME": "Jeanne D'Arc"
 	},
 	"animator_Hero":
 	{

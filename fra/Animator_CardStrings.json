@@ -615,7 +615,7 @@
 		"DESCRIPTION": "[#EFC851]Contre l'intension de l'ennemi. NL [#c6be6f]Ce [#c6be6f]text [#c6be6f]changera [#c6be6f]en [#c6be6f]ciblant [#c6be6f]un [#c6be6f]ennemi.",
 		"EXTENDED_DESCRIPTION": ["Infligez # dégât(s).", "Gagnez # d'Armure.", "Gagnez # Force.", "Appliquez # Faiblesse.", "Appliquez # Vulnérabilité.", "Assome l'ennemi.", "Canalisez # Orb(s) Aléatoire.", "UNUSED", "UNUSED", "Appliquez # Poison.", "Gagnez [E].", "Gagnez # Temp._PV.", "Piochez # carte(s)."],
 		"NAME": "Nanami",
-		"UPGRADE_DESCRIPTION": "[#EFC851]Contre FORTEMENT l'intension de l'ennemi. NL [#c6be6f]Ce [#c6be6f]text [#c6be6f]changera [#c6be6f]en [#c6be6f]ciblant [#c6be6f]un [#c6be6f]ennemi."."
+		"UPGRADE_DESCRIPTION": "[#EFC851]Contre FORTEMENT l'intension de l'ennemi. NL [#c6be6f]Ce [#c6be6f]text [#c6be6f]changera [#c6be6f]en [#c6be6f]ciblant [#c6be6f]un [#c6be6f]ennemi."
 	},
 	"animator_NarberalGamma":
 	{
