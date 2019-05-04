@@ -76,8 +76,8 @@
 	},
 	{
 		"DESCRIPTION": "S'active quand une carte est Défaussé ou Recyclé.",
-		"NAMES": ["recall"],
-		"PROPERNAME": "Recall"
+		"NAMES": ["rappel"],
+		"PROPERNAME": "Rappel"
 	},
 	{
 		"DESCRIPTION": "S'active quand un ennemi perd son armure durant cette attaque.",
@@ -125,9 +125,9 @@
 		"PROPERNAME": "Choked"
 	},
 	{
-		"NAMES": ["orb core", "orb_core", "fire_core", "earth_core", "lightning_core", "plasma_core", "fire_core", "frost_core"],
+		"NAMES": ["noyau d'orbe", "noyau_d'orbe", "noyau_de_feu", "noyau_de_terre", "noyau_de_foudre", "noyau_de_plasma", "noyau_de_feu", "noyau_de_gel"],
 		"DESCRIPTION": "#yPouvoir: #yCanalise 1 orbe à l'utilisation, octroyant un bonus à la seconde #ySynergy de chaque tour.",
-		"PROPER_NAME": "Orb Core"
+		"PROPER_NAME": "Noyau d'orbe"
 	},
 	{
 		"PROPER_NAME": "Armure Renforcée",
@@ -140,23 +140,23 @@
 		"DESCRIPTION": "Subit moins de dégats de TOUTES les #yAttaques. De moins en moins efficaces."
 	},
 	{
-		"PROPER_NAME": "Martial Artist",
-		"NAMES": ["martial artist", "martial_artist"],
+		"PROPER_NAME": "Maître des art martiaux",
+		"NAMES": ["maître des arts martiaux", "maître_des_arts_martiaux"],
 		"DESCRIPTION": "Les dégats de cette carte augmentes avec la #yDexterité."
 	},
 	{
-		"PROPER_NAME": "Reload",
-		"NAMES": ["reload"],
+		"PROPER_NAME": "Rechargement",
+		"NAMES": ["rechargement"],
 		"DESCRIPTION": "Défausse n'importe quel nombre de cartes, ative cet effet autant de fois."
 	},
 	{
-		"PROPER_NAME": "Lazy",
-		"NAMES": ["lazy"],
+		"PROPER_NAME": "Paresse",
+		"NAMES": ["paresse"],
 		"DESCRIPTION": "Les dégats de cette cartes peuvent être retardé de plusieurs tours."
 	},
 	{
-		"PROPER_NAME": "Flame Barrier",
-		"NAMES": ["flame barrier", "flame_barrier"],
+		"PROPER_NAME": "Barrière de flamme",
+		"NAMES": ["barrière de flamme", "barrière_de_flamme"],
 		"DESCRIPTION": "Jusqu'au prochain tour, chaque fois que vous subissez des dommages, inflige 1 dégat à l'ennemi."
 	},
 	{
