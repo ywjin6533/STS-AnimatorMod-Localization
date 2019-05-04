@@ -721,10 +721,10 @@
 	},
 	"animator_Saitama":
 	{
-		"DESCRIPTION": "Innate. Retain. NL Deal !D! Damage. NL [#EFC851]One[] [#EFC851]Punch[].",
+		"DESCRIPTION": "Deal !D! Damage. NL [#EFC851]One[] [#EFC851]Punch[].",
 		"EXTENDED_DESCRIPTION": ["One Punch", "Spend ALL your energy, this card deals #yincreasingly more damage for each point spent."],
 		"NAME": "Saitama",
-		"UPGRADE_DESCRIPTION": "Innate. Retain. NL Deal !D! Damage. NL [#EFC851]One[] [#EFC851]Punch+[]."
+		"UPGRADE_DESCRIPTION": "Deal !D! Damage. NL [#EFC851]One[] [#EFC851]Punch+[]."
 	},
 	"animator_Scar":
 	{
@@ -771,7 +771,7 @@
 	"animator_Shizu":
 	{
 		"DESCRIPTION": "Deal !D! Damage. NL Draw !M! cards. NL Ethereal. [#EFC851]Ifrit.",
-		"EXTENDED_DESCRIPTION": ["Ifrit", "Exhaust up to 3 cards in your hand, #Channel that much #yFire. NL Add 2 #yBurns to your discard pile."],
+		"EXTENDED_DESCRIPTION": ["Ifrit", "Exhaust up to 3 cards in your hand, #yChannel that much #yFire. Add 2 #yBurns to your discard pile."],
 		"NAME": "Shizu"
 	},
 	"animator_Shuna":
@@ -973,10 +973,10 @@
 	},
 	"animator_Yuuichirou":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Gain !M! Temporary Dexterity. NL Legacy: Obtain [#EFC851]Asuramaru.",
+		"DESCRIPTION": "Deal !D! damage. NL Gain !M! Temporary Dexterity. Legacy: Obtain [#EFC851]Asuramaru.",
 		"EXTENDED_DESCRIPTION": ["Asuramaru", "A special 1-Cost #yAttack."],
 		"NAME": "Yuuichirou",
-		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Gain !M! Temporary Dexterity. NL Legacy: Obtain [#EFC851]Asuramaru+."
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Gain !M! Temporary Dexterity. Legacy: Obtain [#EFC851]Asuramaru+."
 	},
 	"animator_ZankiKiguchi":
 	{
@@ -988,5 +988,36 @@
 		"DESCRIPTION": "Play a random [#EFC851]Skill from your draw pile. Exhaust.",
 		"NAME": "Zero",
 		"UPGRADE_DESCRIPTION": "Play a random [#EFC851]Skill from your draw pile."
+	},
+	"animator_HiiragiTenri":
+	{
+		"DESCRIPTION": "Gain !B! Block. NL Play and Exhaust NL ALL cards in your discard pile.",
+		"NAME": "Tenri Hiiragi"
+	},
+	"animator_ShikizakiKiki":
+	{
+		"DESCRIPTION": "Gain !B! Block. NL Draw !M! cards. NL Double the damage of all [#EFC851]Attacks in your hand this combat.",
+		"NAME": "Shikizaki Kiki"
+	},
+	"animator_Chomusuke":
+	{
+		"DESCRIPTION": "Gain [E] and draw !M! card for each card you Exhausted this turn ( !SV! ). Exhaust.",
+		"NAME": "Chomusuke",
+		"UPGRADE_DESCRIPTION": "Gain [E] and draw !M! cards for each card you Exhausted this turn ( !SV! ). Exhaust."
+	},
+	"animator_Hero":
+	{
+		"DESCRIPTION": "Deal !D! Damage. NL Draw !M! Cards. NL While in your deck, increase the chances of [#EFC851]Bonus [#EFC851]Relics.",
+		"NAME": "'Hero'"
+	},
+	"animator_Rose":
+	{
+		"DESCRIPTION": "Augmentable. Deal !D! Piercing damage !M! times. If this kills an enemy, target another random enemy.",
+		"NAME": "Rose"
+	},
+	"animator_NivaLada":
+	{
+		"DESCRIPTION": "Cooldown !SV! : NL Deal 300 damage. NL When you Exhaust or discard a card, reduce this Cooldown by 1.",
+		"NAME": "Niva Lada"
 	}
 }
