@@ -42,12 +42,12 @@
 	},
 	"animator_Albedo":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez autant Enchanted_Armor. NL Synergie: Retourne dans votre pioche.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez autant Armure_Enchantée. NL Synergie: Retourne dans votre pioche.",
 		"NAME": "Albedo"
 	},
 	"animator_Alexander":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) à un ennemi et !SV! dégât(s) aux autres ennemis. Héritage: Gagnez !M! Plated_Armor.",
+		"DESCRIPTION": "Infligez !D! dégât(s) à un ennemi et !SV! dégât(s) aux autres ennemis. Héritage: Gagnez !M! Armure Renforcée.",
 		"NAME": "Alexander"
 	},
 	"animator_Aqua":
@@ -79,7 +79,7 @@
 	},
 	"animator_Azekura":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure deux fois. NL Synergie: Gagnez !M! Plated_Armor.",
+		"DESCRIPTION": "Gagnez !B! d'Armure deux fois. NL Synergie: Gagnez !M! Armure Renforcée.",
 		"NAME": "Azekura"
 	},
 	"animator_Benimaru":
@@ -104,7 +104,7 @@
 	},
 	"animator_Bozes":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) à l'ennemi avec le moins de PV. A votre prochaine !M! Synergie ce tour, Gagnez 1 Plated_Armor.",
+		"DESCRIPTION": "Infligez !D! dégât(s) à l'ennemi avec le moins de PV. A votre prochaine !M! Synergie ce tour, Gagnez 1 Armure Renforcée.",
 		"NAME": "Bozes"
 	},
 	"animator_Caster":
@@ -157,10 +157,10 @@
 	},
 	"animator_Darkness":
 	{
-		"DESCRIPTION": "Gagnez !M! Plated_Armor. Chaque fois que prenez des dégât(s), Amélioré !M! carte(s) aléatoire(s) ([#EFC851]*[#FFFFFF]).",
+		"DESCRIPTION": "Gagnez !M! Armure Renforcée. Chaque fois que prenez des dégât(s), Amélioré !M! carte(s) aléatoire(s) ([#EFC851]*[#FFFFFF]).",
 		"EXTENDED_DESCRIPTION": ["* Note", "Priorise les cartes de votre main."],
 		"NAME": "Darkness",
-		"UPGRADE_DESCRIPTION": "Gagnez !M! Plated_Armor. Chaque fois que prenez des dégât(s), Amélioré !M! carte(s) aléatoire(s) ([#EFC851]*[#FFFFFF])."
+		"UPGRADE_DESCRIPTION": "Gagnez !M! Armure Renforcée. Chaque fois que prenez des dégât(s), Amélioré !M! carte(s) aléatoire(s) ([#EFC851]*[#FFFFFF])."
 	},
 	"animator_Defend":
 	{
@@ -282,7 +282,7 @@
 	},
 	"animator_ElricAlphonseAlt":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez !M! Plated_Armor. NL Synergie: [#EFC851]Canalisez[] 1 Foudre.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez !M! Armure Renforcée. NL Synergie: [#EFC851]Canalisez[] 1 Foudre.",
 		"NAME": "Armored Alphonse"
 	},
 	"animator_ElricEdward":
@@ -415,7 +415,7 @@
 	},
 	"animator_Greed":
 	{
-		"DESCRIPTION": "Gagnez !SV! Plated_Armor. NL Gagnez !M! Métalisation. NL Gagnez 3 Malleable. NL [#EFC851]Greed[].",
+		"DESCRIPTION": "Gagnez !SV! Armure Renforcée. NL Gagnez !M! Métalisation. NL Gagnez 3 Malleable. NL [#EFC851]Greed[].",
 		"EXTENDED_DESCRIPTION": ["Greed", "Si cette carte est dans votre deck au début du combat, Gagnez #b8 #yOr quand joué. Cette carte coute 1 d'énergie en moins pour chaque #b100 #yOr que vous avez."],
 		"NAME": "Greed"
 	},
@@ -700,7 +700,7 @@
 	},
 	"animator_RinTohsaka":
 	{
-		"DESCRIPTION": "Canalisez 1 Orbe aléatoire. Gagnez !B! d'Armure. NL Synergie: Gagnez !M! Enchanted_Armor.",
+		"DESCRIPTION": "Canalisez 1 Orbe aléatoire. Gagnez !B! d'Armure. NL Synergie: Gagnez !M! Armure_Enchantée.",
 		"NAME": "Rin Tohsaka"
 	},
 	"animator_RoryMercury":
@@ -988,5 +988,56 @@
 		"DESCRIPTION": "Joue une [#EFC851]Compétence aléatoire de votre pioche. Épuisement.",
 		"NAME": "Zero",
 		"UPGRADE_DESCRIPTION": "Joue une [#EFC851]Compétence aléatoire de votre pioche."
+	},
+	"animator_Azriel":
+	{
+		"DESCRIPTION": "Gagne Vol. NL Quand vous infligez un debuff à un ennemi, gagnez !M! Force.",
+		"NAME": "Azriel"
+	},
+	"animator_Giselle":
+	{
+		"DESCRIPTION": "Ingligez !D! dégat(s). NL Infligez !M! Brûlure. NL Dégats triplé sur les ennemis normaux.",
+		"NAME": "Giselle"
+	},
+	"animator_HiiragiTenri":
+	{
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Jouez et Épuisez NL TOUTES les cartes de votre Défausse.",
+		"NAME": "Tenri Hiiragi"
+	},
+	"animator_SirTouchMe":
+	{
+		"DESCRIPTION": "Ingligez !D! dégat(s). NL Gagnez !B! d'Armure. NL Quand une carte Synergizes, augmentez les dégats de cette carte de !M! ce combat.",
+		"NAME": "Sir Touch Me"
+	},
+	"animator_ShikizakiKiki":
+	{
+		"DESCRIPTION": "Piochez !M! carte(s). NL Toutes les [#EFC851]Attaques de votre main ont des dégats doublé pour ce combat.",
+		"NAME": "Shikizaki Kiki"
+	},
+	"animator_Chomusuke":
+	{
+		"DESCRIPTION": "Gagnez [E] et piochez !M! carte(s) pour chaque carte Épuisé ce tour( !SV! ). Épuisement.",
+		"NAME": "Chomusuke",
+		"UPGRADE_DESCRIPTION": "Gagnez [E] et piochez !M! carte(s) pour chaque carte Épuisé ce tour ( !SV! ). Épuisement."
+	},
+	"animator_Hero":
+	{
+		"DESCRIPTION": "Infligez !D! dégat(s). NL Piochez !M! carte(s). NL Tant que présent dans votre deck, augmente les chances [#EFC851]Reliques [#EFC851]Bonus.",
+		"NAME": "'Hero'"
+	},
+	"animator_Truth":
+	{
+		"DESCRIPTION": "Gagnez !SV! Concentration. NL Gagnez !M! Force. NL Renplace de manière permanent une carte de votre deck par une [#EFC851]Plaie.",
+		"NAME": "Truth"
+	},
+	"animator_Rose":
+	{
+		"DESCRIPTION": "Piochez !M! carte(s). NL Reload: Infligez !D! dégats Perçant. Si ca tue un ennemi, rejoue cette carte un ennemi aléatoire.",
+		"NAME": "Rose"
+	},
+	"animator_NivaLada":
+	{
+		"DESCRIPTION": "Cooldown !SV! : NL Infligez 300 dégats. NL Quand vous Épuisez ou Défaussez une carte, réduit le Cooldown de 1.",
+		"NAME": "Niva Lada"
 	}
 }
