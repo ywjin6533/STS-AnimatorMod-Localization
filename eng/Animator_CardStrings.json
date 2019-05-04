@@ -996,7 +996,7 @@
 	},
 	"animator_Giselle":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable. NL Deal triple damage to normal enemies.",
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Burning. NL Deal triple damage to normal enemies.",
 		"NAME": "Giselle"
 	},
 	"animator_HiiragiTenri":
@@ -1032,7 +1032,7 @@
 	},
 	"animator_Rose":
 	{
-		"DESCRIPTION": "Deal !D! Piercing damage !M! times. If this kills an enemy, replay this card on another random enemy.",
+		"DESCRIPTION": "Draw !M! cards. NL Reload: Deal !D! Piercing damage. If the enemy dies, hit another enemy.",
 		"NAME": "Rose"
 	},
 	"animator_NivaLada":
