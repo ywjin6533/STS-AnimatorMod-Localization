@@ -76,8 +76,8 @@
 	},
 	{
 		"DESCRIPTION": "S'active quand une carte est Défaussé ou Recyclé.",
-		"NAMES": ["recall"],
-		"PROPERNAME": "Recall"
+		"NAMES": ["rappel"],
+		"PROPERNAME": "Rappel"
 	},
 	{
 		"DESCRIPTION": "S'active quand un ennemi perd son armure durant cette attaque.",
