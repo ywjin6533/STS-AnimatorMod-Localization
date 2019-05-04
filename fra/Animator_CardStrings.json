@@ -334,7 +334,7 @@
 	},
 	"animator_Eve":
 	{
-		"DESCRIPTION": "Jouer un Orb_Core. NL Quand vous effectuez une Synergie, Infligez !M! dégât(s) à un ennemi et augmentez ces dégât(s) par 1.",
+		"DESCRIPTION": "Jouer un Noyau d'orbe. NL Quand vous effectuez une Synergie, Infligez !M! dégât(s) à un ennemi et augmentez ces dégât(s) par 1.",
 		"NAME": "Eve"
 	},
 	"animator_Evileye":
@@ -628,22 +628,22 @@
 		"DESCRIPTION": "Canalisez 1 Orbe aléatoire. Sur la seconde Synergie de chaque tour, Découvrez 1 carte.",
 		"NAME": "Noyau Chaotique"
 	},
-	"animator_OrbCore_Tenèbre":
+	"animator_OrbCore_Dark":
 	{
 		"DESCRIPTION": "Canalisez 1 Tenèbre. NL Sur la seconde Synergie de chaque tour, piochez !M! carte(s), puis Défaussez 1 carte.",
 		"NAME": "Noyau de Tenèbre"
 	},
-	"animator_OrbCore_Feu":
+	"animator_OrbCore_Fire":
 	{
 		"DESCRIPTION": "Canalisez 1 Feu. NL Sur la seconde Synergie de chaque tour, apply !M! Brûlure à TOUS les ennemis.",
 		"NAME": "Noyau de Feu"
 	},
-	"animator_OrbCore_Givre":
+	"animator_OrbCore_Frost":
 	{
 		"DESCRIPTION": "Canalisez 1 Givre. NL Sur la seconde Synergie de chaque tour, Gagnez !M! d'Armure.",
 		"NAME": "Noyau de Gel"
 	},
-	"animator_OrbCore_Foudre":
+	"animator_OrbCore_Thunder":
 	{
 		"DESCRIPTION": "Canalisez 1 Foudre. NL Sur la seconde Synergie de chaque tour, Infligez !M! dégât(s) à TOUS les ennemis.",
 		"NAME": "Noyau de Foudre"
