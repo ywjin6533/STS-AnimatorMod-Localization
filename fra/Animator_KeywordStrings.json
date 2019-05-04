@@ -176,8 +176,8 @@
 	},
 	{
 		"PROPER_NAME": "PV Temporaire",
-		"NAMES": ["temp. hp", "temp._hp"],
-		"DESCRIPTION": "les PV Temporaire disparaisse à la fin du combat."
+		"NAMES": ["temp. hp", "temp._hp", "temp._pv", "temp. pv" ],
+		"DESCRIPTION": "Les PV Temporaire disparaisse à la fin du combat."
 	},
 	{
 		"PROPER_NAME": "Vol",

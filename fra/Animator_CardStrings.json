@@ -660,7 +660,7 @@
 	},
 	"animator_PinaCoLada":
 	{
-		"DESCRIPTION": "La première carte [#EFC851]0-Cost que vous jouez chaque tour est jouée deux fois.",
+		"DESCRIPTION": "La première carte [#EFC851]Coûtant [#EFC851]0  que vous jouez chaque tour est jouée deux fois.",
 		"NAME": "Pina Co Lada",
 		"UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL La première carte [#EFC851]0-Cost que vous jouez chaque tour est jouée deux fois."
 	},
@@ -776,7 +776,7 @@
 	},
 	"animator_Shuna":
 	{
-		"DESCRIPTION": "Piochez 2 carte(s). Synergie: NL Gagnez !M! Temp._PV. NL [#EFC851]Drawn: Gagnez !B! d'Armure.",
+		"DESCRIPTION": "Piochez 2 carte(s). Synergie: NL Gagnez !M! Temp._PV. NL [#EFC851]Pioché: Gagnez !B! d'Armure.",
 		"NAME": "Shuna"
 	},
 	"animator_Sloth":
