@@ -131,12 +131,12 @@
 	},
 	{
 		"PROPER_NAME": "Armure Renforcée",
-		"NAMES": ["plated armor", "plated_armor"],
+		"NAMES": ["armure_renforcée", "armure_renforcée"],
 		"DESCRIPTION": "Gagnez autant #yd'Armure à la fin de votre tour. Réduit de #b1 par dégat non bloqué."
 	},
 	{
 		"PROPER_NAME": "Armure Enchantée",
-		"NAMES": ["enchanted armor", "enchanted_armor"],
+		"NAMES": ["armure enchantée", "armure_enchantée"],
 		"DESCRIPTION": "Subit moins de dégats de TOUTES les #yAttaques. De moins en moins efficaces."
 	},
 	{
@@ -178,6 +178,11 @@
 		"PROPER_NAME": "PV Temporaire",
 		"NAMES": ["temp. hp", "temp._hp"],
 		"DESCRIPTION": "les PV Temporaire disparaisse à la fin du combat."
+	},
+	{
+		"PROPER_NAME": "Vol",
+		"NAMES": ["vol"],
+		"DESCRIPTION": "Subit 50% moins de dégats d'#yAttaque. Perd 1 charge quand vous subissez des dégats, se reset en début de tour, disparait à 0 charge."
 	},
 	{
 		"PROPER_NAME": "Support Damage",

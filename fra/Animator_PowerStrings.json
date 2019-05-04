@@ -10,14 +10,19 @@
 		"DESCRIPTIONS": ["A la fin de votre tour, inflige #b", " dégat(s) à tous les ennemis avec un Debuff."],
 		"NAME": "Archer"
 	},
+	"animator_AzrielPower":
+	{
+		"DESCRIPTIONS": ["Quand vous infligez un debuff a un ennemi, gagnez #b", " Force."],
+		"NAME": "Azriel"
+	},
 	"animator_BiyorigoPower":
 	{
-		"DESCRIPTIONS": ["Toutes 4 #yAttaques joué, gagne #b", " Force et #b", " Dextérité."],
+		"DESCRIPTIONS": ["Toutes 4 #yAttaques joué, gagnez #b", " Force et #b", " Dextérité."],
 		"NAME": "Bito Kanzashi"
 	},
 	"animator_BozesPower":
 	{
-		"DESCRIPTIONS": ["A la prochaine #b", " #ySynergies ce tour, gagnez #b", " #yPlated #yArmor."],
+		"DESCRIPTIONS": ["A la prochaine #b", " #ySynergies ce tour, gagnez #b", " #yArmure_Renforcée."],
 		"NAME": "Bozes Co Palesti"
 	},
 	"animator_BurningPower":
