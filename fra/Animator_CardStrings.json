@@ -165,77 +165,77 @@
 	"animator_Defend":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure.",
-		"NAME": "Defend"
+		"NAME": "Défense"
 	},
 	"animator_Defend_AccelWorld":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Rappel: Gagnez !M! d'Armure.",
-		"NAME": "Improved Defend"
+		"NAME": "Défense Amélioré"
 	},
 	"animator_Defend_Elsword":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Au prochain tour, Gagnez !M! d'Armure.",
-		"NAME": "Improved Defend"
+		"NAME": "Défense Amélioré"
 	},
 	"animator_Defend_Fate":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez !M! d'Armure supplémentaire pour chaque ennemi.",
-		"NAME": "Improved Defend"
+		"NAME": "Défense Amélioré"
 	},
 	"animator_Defend_FullmetalAlchemist":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Cooldown !SV!: NL [#EFC851]Canalisez 1 Givre.",
-		"NAME": "Improved Defend"
+		"NAME": "Défense Amélioré"
 	},
 	"animator_Defend_GATE":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Concervez.",
-		"NAME": "Improved Defend"
+		"NAME": "Défense Amélioré"
 	},
 	"animator_Defend_GoblinSlayer":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Épuisement.",
-		"NAME": "Improved Defend"
+		"NAME": "Défense Amélioré"
 	},
 	"animator_Defend_HitsugiNoChaika":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Recyclez 1 carte.",
-		"NAME": "Improved Defend"
+		"NAME": "Défense Amélioré"
 	},
 	"animator_Defend_Kancolle":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Boost !SV! : Gagnez !M! [#EFC851]Or.",
-		"NAME": "Improved Defend"
+		"NAME": "Défense Amélioré"
 	},
 	"animator_Defend_Katanagatari":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez !M! [#EFC851]Épines temporaire.",
-		"NAME": "Improved Defend"
+		"NAME": "Défense Amélioré"
 	},
 	"animator_Defend_Konosuba":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Boost !SV! : Soignez !M! PV.",
-		"NAME": "Improved Defend"
+		"NAME": "Défense Amélioré"
 	},
 	"animator_Defend_NoGameNoLife":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Concervez votre carte jouable la plus à gauche.",
-		"NAME": "Improved Defend"
+		"NAME": "Défense Amélioré"
 	},
 	"animator_Defend_Overlord":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Augmentez l'Armure de cettte carte de !M! pour ce combat.",
-		"NAME": "Improved Defend"
+		"NAME": "Défense Amélioré"
 	},
 	"animator_Defend_OwariNoSeraph":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Héritage: Appliquez !M! Faiblesse à TOUS les ennemis.",
-		"NAME": "Improved Defend"
+		"NAME": "Défense Amélioré"
 	},
 	"animator_Defend_TenSura":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure deux fois.",
-		"NAME": "Improved Defend"
+		"NAME": "Défense Amélioré"
 	},
 	"animator_Demiurge":
 	{
@@ -385,22 +385,22 @@
 	{
 		"DESCRIPTION": "Épuise jusqu'a !M! Cartes de votre main, active un [#EFC851]Effet [#EFC851]Bonus pour chaque type de carte. Épuisement.",
 		"EXTENDED_DESCRIPTION": ["Bonus Effect", "#yAttack: Gagnez 1 Force NL #yCompétence(s): Gagnez 6 #yTemporary #yPV NL #yPower: Soignez 7 PV NL #yStatus: Gagnez 1 Energie NL #yCurse: Gagnez 6 d'Armure"],
-		"NAME": "Gluttony"
+		"NAME": "Gourmandise"
 	},
 	"animator_GoblinChampion":
 	{
 		"DESCRIPTION": "A la fin de votre tour, mélanger 1 Goblin aléatoire dans votre pioche.",
-		"NAME": "Goblin Champion"
+		"NAME": "Champion Goblin"
 	},
 	"animator_GoblinKing":
 	{
 		"DESCRIPTION": "A la fin de votre tour, mélanger 3 Goblins aléatoires dans votre pioche.",
-		"NAME": "Goblin King"
+		"NAME": "Roi Goblin"
 	},
 	"animator_GoblinShaman":
 	{
 		"DESCRIPTION": "Quand vous piochez cette carte, piochez une autre carte. A la fin de votre tour, Gagnez 1 Fragilisé.",
-		"NAME": "Goblin Shaman"
+		"NAME": "Goblin Chaman"
 	},
 	"animator_GoblinSlayer":
 	{
@@ -411,7 +411,7 @@
 	"animator_GoblinSoldier":
 	{
 		"DESCRIPTION": "Quand vous piochez cette carte, piochez une autre carte. A la fin de votre tour, perdez 2 PV.",
-		"NAME": "Goblin Soldier"
+		"NAME": "Soldat Goblin"
 	},
 	"animator_Greed":
 	{
@@ -451,7 +451,7 @@
 	"animator_HighElfArcher":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s) Perçant. Boost !SV! : Piochez !M! carte(s).",
-		"NAME": "'High Elf Archer'",
+		"NAME": "'Archère Haut Elfe'",
 		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) Perçant. Boost !SV! : Piochez !M! carte(s)."
 	},
 	"animator_HiiragiShinya":
@@ -564,7 +564,7 @@
 	"animator_LizardPriest":
 	{
 		"DESCRIPTION": "Met l'Armure d'un ennemi à !M!. NL Gagnez !B! d'Armure. NL Synergie: Concervez votre main ce tour.",
-		"NAME": "'Lizard Priest'"
+		"NAME": "'Prêtre Lézard'"
 	},
 	"animator_MaesHughes":
 	{
@@ -625,38 +625,38 @@
 	},
 	"animator_OrbCore_Chaos":
 	{
-		"DESCRIPTION": "Canalisez 1 Orbe aléatoire. Sur la seconde Synergie de chaque tour, Découvrez 1 carte.",
+		"DESCRIPTION": "Canalisez 1 Orbe aléatoire. Après la seconde Synergie de chaque tour,NL Découvrez 1 carte.",
 		"NAME": "Noyau Chaotique"
 	},
 	"animator_OrbCore_Dark":
 	{
-		"DESCRIPTION": "Canalisez 1 Tenèbre. NL Sur la seconde Synergie de chaque tour, piochez !M! carte(s), puis Défaussez 1 carte.",
+		"DESCRIPTION": "Canalisez 1 Tenèbre. NL Après la seconde Synergie de chaque tour,NL piochez !M! carte(s), puis Défaussez 1 carte.",
 		"NAME": "Noyau de Tenèbre"
 	},
 	"animator_OrbCore_Fire":
 	{
-		"DESCRIPTION": "Canalisez 1 Feu. NL Sur la seconde Synergie de chaque tour, apply !M! Brûlure à TOUS les ennemis.",
+		"DESCRIPTION": "Canalisez 1 Feu. NL Après la seconde Synergie de chaque tour,NL infligez !M! Brûlure à TOUS les ennemis.",
 		"NAME": "Noyau de Feu"
 	},
 	"animator_OrbCore_Frost":
 	{
-		"DESCRIPTION": "Canalisez 1 Givre. NL Sur la seconde Synergie de chaque tour, Gagnez !M! d'Armure.",
+		"DESCRIPTION": "Canalisez 1 Givre. NL Après la seconde Synergie de chaque tour,NL Gagnez !M! d'Armure.",
 		"NAME": "Noyau de Gel"
 	},
 	"animator_OrbCore_Lightning":
 	{
-		"DESCRIPTION": "Canalisez 1 Foudre. NL Sur la seconde Synergie de chaque tour, Infligez !M! dégât(s) à TOUS les ennemis.",
+		"DESCRIPTION": "Canalisez 1 Foudre. NL Après la seconde Synergie de chaque tour,NL Infligez !M! dégât(s) à TOUS les ennemis.",
 		"NAME": "Noyau de Foudre"
 	},
 	"animator_OrbCore_Plasma":
 	{
-		"DESCRIPTION": "Canalisez 1 Plasma. NL Sur la seconde Synergie de chaque tour, Gagnez [E].",
+		"DESCRIPTION": "Canalisez 1 Plasma. NL Après la seconde Synergie de chaque tour,NL Gagnez [E].",
 		"NAME": "Noyau de Plasma"
 	},
 	"animator_PandorasActor":
 	{
 		"DESCRIPTION": "Changeforme. NL Gagnez !B! d'Armure. NL Synergie: NLGagnez !M! d'Armure supplémentaire.",
-		"NAME": "Pandora's Actor"
+		"NAME": "Acteur de Pandora"
 	},
 	"animator_PinaCoLada":
 	{
@@ -782,7 +782,7 @@
 	"animator_Sloth":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). Au début de chaque tour, augmentez les dégât(s) de cet carte de !M! pour chaque orbe unique.",
-		"NAME": "Sloth"
+		"NAME": "Paresse"
 	},
 	"animator_Sora":
 	{
@@ -797,83 +797,83 @@
 	"animator_Spearman":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Boost !SV! : Gagnez !M! Dextérité.",
-		"NAME": "'Spearman'"
+		"NAME": "'Lancier'"
 	},
 	"animator_Strike":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s).",
-		"NAME": "Strike",
+		"NAME": "Frappe",
 		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s)."
 	},
 	"animator_Strike_AccelWorld":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Rappel: Infligez !M! dégât(s) to un ennemi aléatoire.",
-		"NAME": "Improved Strike"
+		"NAME": "Frappe Amélioré"
 	},
 	"animator_Strike_Elsword":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! Force jusqu'a la fin du tour.",
-		"NAME": "Improved Strike"
+		"NAME": "Frappe Amélioré"
 	},
 	"animator_Strike_Fate":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s) Perçant.",
-		"NAME": "Improved Strike"
+		"NAME": "Frappe Amélioré"
 	},
 	"animator_Strike_FullmetalAlchemist":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Cooldown !SV!: NL [#EFC851]Canalisez 1 Foudre.",
-		"NAME": "Improved Strike"
+		"NAME": "Frappe Amélioré"
 	},
 	"animator_Strike_GATE":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Au prochain tour, piochez une carte.",
-		"NAME": "Improved Strike"
+		"NAME": "Frappe Amélioré"
 	},
 	"animator_Strike_GoblinSlayer":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Épuisement.",
-		"NAME": "Improved Strike"
+		"NAME": "Frappe Amélioré"
 	},
 	"animator_Strike_HitsugiNoChaika":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! Poison.",
-		"NAME": "Improved Strike"
+		"NAME": "Frappe Amélioré"
 	},
 	"animator_Strike_Kancolle":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Boost !SV! : Gagnez !M! [#EFC851]Or.",
-		"NAME": "Improved Strike"
+		"NAME": "Frappe Amélioré"
 	},
 	"animator_Strike_Katanagatari":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Si vous avez moins de 3 cartes dans votre main, NL Gagnez [E].",
-		"NAME": "Improved Strike"
+		"NAME": "Frappe Amélioré"
 	},
 	"animator_Strike_Konosuba":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Boost !SV! : Soignez !M! PV.",
-		"NAME": "Improved Strike"
+		"NAME": "Frappe Amélioré"
 	},
 	"animator_Strike_NoGameNoLife":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Concervez votre carte jouable la plus à droite.",
-		"NAME": "Improved Strike"
+		"NAME": "Frappe Amélioré"
 	},
 	"animator_Strike_Overlord":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Augmentez les dégâts de cette carte de !M! pour ce combat.",
-		"NAME": "Improved Strike"
+		"NAME": "Frappe Amélioré"
 	},
 	"animator_Strike_OwariNoSeraph":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Héritage: Appliquez !M! Vulnérabilité à TOUS les ennemis.",
-		"NAME": "Improved Strike"
+		"NAME": "Frappe Amélioré"
 	},
 	"animator_Strike_TenSura":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! Temp._PV.",
-		"NAME": "Improved Strike"
+		"NAME": "Frappe Amélioré"
 	},
 	"animator_SwordMaiden":
 	{
@@ -940,7 +940,7 @@
 	"animator_Witch":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Synergie: Appliquez !M! Brûlure. NL Héritage: Obtenez une Potion aléatoire.",
-		"NAME": "'Witch'"
+		"NAME": "'Sorcière'"
 	},
 	"animator_Wiz":
 	{
@@ -1006,7 +1006,7 @@
 	},
 	"animator_SirTouchMe":
 	{
-		"DESCRIPTION": "Ingligez !D! dégat(s). NL Gagnez !B! d'Armure. NL Quand une carte Synergizes, augmentez les dégats de cette carte de !M! ce combat.",
+		"DESCRIPTION": "Ingligez !D! dégat(s. NL Gagnez !M! Juggernaut. NL Gagnez !B! d'Armure.",
 		"NAME": "Sir Touch Me"
 	},
 	"animator_ShikizakiKiki":
@@ -1020,6 +1020,11 @@
 		"NAME": "Chomusuke",
 		"UPGRADE_DESCRIPTION": "Gagnez [E] et piochez !M! carte(s) pour chaque carte Épuisé ce tour ( !SV! ). Épuisement."
 	},
+	"animator_JeanneDArc":
+	{
+		"DESCRIPTION": "Infligez !D! dégat(s). NL Gagnez !M! Temp._HP. NL Épuisez une Malédiction ou Status aléatoire.",
+		"NAME": "Jeanne D'Arc"
+	},
 	"animator_Hero":
 	{
 		"DESCRIPTION": "Infligez !D! dégat(s). NL Piochez !M! carte(s). NL Tant que présent dans votre deck, augmente les chances [#EFC851]Reliques [#EFC851]Bonus.",
@@ -1028,7 +1033,7 @@
 	"animator_Truth":
 	{
 		"DESCRIPTION": "Gagnez !SV! Concentration. NL Gagnez !M! Force. NL Renplace de manière permanent une carte de votre deck par une [#EFC851]Plaie.",
-		"NAME": "Truth"
+		"NAME": "Vérité"
 	},
 	"animator_Rose":
 	{

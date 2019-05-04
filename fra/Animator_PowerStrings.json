@@ -162,7 +162,7 @@
 	},
 	"animator_PridePower":
 	{
-		"DESCRIPTIONS": ["Jusqu'à votre prochain tour, tous dégats nn bloqué, diminuera les dégats de votre Orbe des #yTenèbres à la place."],
+		"DESCRIPTIONS": ["Jusqu'à votre prochain tour, tous dégats non bloqué, diminuera les dégats de votre Orbe des #yTenèbres à la place."],
 		"NAME": "Fierté"
 	},
 	"animator_RoryMercuryPower":
