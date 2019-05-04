@@ -339,7 +339,7 @@
 	},
 	"animator_Evileye":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Piochez 1 carte. NL Reload: Active la capacité passive de votre prochaine orbe.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Piochez 1 carte. NL Rechargement: Active la capacité passive de votre prochaine orbe.",
 		"NAME": "Evileye"
 	},
 	"animator_Excalibur":
@@ -438,7 +438,7 @@
 	},
 	"animator_Hakurou":
 	{
-		"DESCRIPTION": "Martial_Artist. Infligez !D! dégât(s) !M! fois. NL [#EFC851]Drawn: Gagnez !SV! Dextérité Temporaire.",
+		"DESCRIPTION": "Maître_des_arts_martiaux. Infligez !D! dégât(s) !M! fois. NL [#EFC851]Drawn: Gagnez !SV! Dextérité Temporaire.",
 		"NAME": "Hakurou"
 	},
 	"animator_HigakiRinne":
@@ -446,7 +446,7 @@
 		"DESCRIPTION": "Changeforme. NL Agis de manière imprévisible...",
 		"EXTENDED_DESCRIPTION": ["What Happened?"],
 		"NAME": "Higaki Rinne",
-		"UPGRADE_DESCRIPTION": "Changeforme. NL Agis de manière très imprévisible..."
+		"UPGRADE_DESCRIPTION": "Changeforme. NL Agis de manière imprévisible..."
 	},
 	"animator_HighElfArcher":
 	{
@@ -456,7 +456,7 @@
 	},
 	"animator_HiiragiShinya":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Si c'est votre première [#EFC851]Attaque ce tour, appliquez un [#EFC851]Debuff aléatoire.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Si c'est votre première [#EFC851]Attaque ce tour, apply a random [#EFC851]Debuff.",
 		"NAME": "Shinya Hiiragi",
 		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s). NL If this is your first [#EFC851]Attaque ce tour, appliquez un [#EFC851]Debuff Amélioré aléatoire."
 	},
@@ -546,7 +546,7 @@
 	},
 	"animator_Layla":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) Perçant. Reload: Appliquez !M! Poison à un ennemi aléatoire.",
+		"DESCRIPTION": "Infligez !D! dégât(s) Perçant. Rechargement: Appliquez !M! Poison à un ennemi aléatoire.",
 		"NAME": "Layla"
 	},
 	"animator_LeleiLaLalena":
@@ -557,9 +557,9 @@
 	},
 	"animator_LimeBell":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Reload: Au prochain tour, Soignez !M! PV. NL Épuisement.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Rechargement: Au prochain tour, Soignez !M! PV. NL Épuisement.",
 		"NAME": "Lime Bell",
-		"UPGRADE_DESCRIPTION": "Piochez 1 carte. NL Gagnez !B! d'Armure. NL Reload: Au prochain tour, Soignez !M! PV. NL Épuisement."
+		"UPGRADE_DESCRIPTION": "Piochez 1 carte. NL Gagnez !B! d'Armure. NL Rechargement: Au prochain tour, Soignez !M! PV. NL Épuisement."
 	},
 	"animator_LizardPriest":
 	{
@@ -615,7 +615,7 @@
 		"DESCRIPTION": "[#EFC851]Contre l'intension de l'ennemi. NL [#c6be6f]Ce [#c6be6f]text [#c6be6f]changera [#c6be6f]en [#c6be6f]ciblant [#c6be6f]un [#c6be6f]ennemi.",
 		"EXTENDED_DESCRIPTION": ["Infligez # dégât(s).", "Gagnez # d'Armure.", "Gagnez # Force.", "Appliquez # Faiblesse.", "Appliquez # Vulnérabilité.", "Assome l'ennemi.", "Canalisez # Orb(s) Aléatoire.", "UNUSED", "UNUSED", "Appliquez # Poison.", "Gagnez [E].", "Gagnez # Temp._PV.", "Piochez # carte(s)."],
 		"NAME": "Nanami",
-		"UPGRADE_DESCRIPTION": "[#EFC851]Contre FORTEMENT l'intension de l'ennemi. NL [#c6be6f]Ce [#c6be6f]text [#c6be6f]changera [#c6be6f]en [#c6be6f]ciblant [#c6be6f]un [#c6be6f]ennemi."."
+		"UPGRADE_DESCRIPTION": "[#EFC851]Contre FORTEMENT l'intension de l'ennemi. NL [#c6be6f]Ce [#c6be6f]text [#c6be6f]changera [#c6be6f]en [#c6be6f]ciblant [#c6be6f]un [#c6be6f]ennemi."
 	},
 	"animator_NarberalGamma":
 	{
@@ -626,32 +626,32 @@
 	"animator_OrbCore_Chaos":
 	{
 		"DESCRIPTION": "Canalisez 1 Orbe aléatoire. Sur la seconde Synergie de chaque tour, Découvrez 1 carte.",
-		"NAME": "Chaos Core"
+		"NAME": "Noyau Chaotique"
 	},
 	"animator_OrbCore_Tenèbre":
 	{
 		"DESCRIPTION": "Canalisez 1 Tenèbre. NL Sur la seconde Synergie de chaque tour, piochez !M! carte(s), puis Défaussez 1 carte.",
-		"NAME": "Tenèbre Core"
+		"NAME": "Noyau de Tenèbre"
 	},
 	"animator_OrbCore_Feu":
 	{
 		"DESCRIPTION": "Canalisez 1 Feu. NL Sur la seconde Synergie de chaque tour, apply !M! Brûlure à TOUS les ennemis.",
-		"NAME": "Feu Core"
+		"NAME": "Noyau de Feu"
 	},
 	"animator_OrbCore_Givre":
 	{
 		"DESCRIPTION": "Canalisez 1 Givre. NL Sur la seconde Synergie de chaque tour, Gagnez !M! d'Armure.",
-		"NAME": "Givre Core"
+		"NAME": "Noyau de Gel"
 	},
 	"animator_OrbCore_Foudre":
 	{
 		"DESCRIPTION": "Canalisez 1 Foudre. NL Sur la seconde Synergie de chaque tour, Infligez !M! dégât(s) à TOUS les ennemis.",
-		"NAME": "Foudre Core"
+		"NAME": "Noyau de Foudre"
 	},
 	"animator_OrbCore_Plasma":
 	{
 		"DESCRIPTION": "Canalisez 1 Plasma. NL Sur la seconde Synergie de chaque tour, Gagnez [E].",
-		"NAME": "Plasma Core"
+		"NAME": "Noyau de Plasma"
 	},
 	"animator_PandorasActor":
 	{
@@ -666,7 +666,7 @@
 	},
 	"animator_Pride":
 	{
-		"DESCRIPTION": "Changeforme. [#EFC851]Pride. NL [#EFC851]Canalisez !M! [#EFC851]Tenèbre NL Synergie: Appliquez !SV! Constricted.",
+		"DESCRIPTION": "Changeforme. [#EFC851]Fierté. NL [#EFC851]Canalisez !M! [#EFC851]Tenèbre NL Synergie: Appliquez !SV! Constricted.",
 		"EXTENDED_DESCRIPTION": ["Fierté", "Jusqu'a votre prochain tour, quand vous subissez dégât(s) non bloqué, votre Orbe de #yTenèbre la plus à droite perd autant en dommage à la place."],
 		"NAME": "Fierté"
 	},
@@ -710,14 +710,14 @@
 	},
 	"animator_RoyMustang":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis et Canalisez 1 Feu pour chaque ennemis. NL Synergie: Gagnez !M! Flame_Barrier.",
+		"DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis et Canalisez 1 Feu pour chaque ennemis. NL Synergie: Gagnez !M! Barrière_de_Flamme.",
 		"NAME": "Roy Mustang"
 	},
 	"animator_Saber":
 	{
 		"DESCRIPTION": "Loyale. Infligez !D! dégât(s). Si ca Synergize !M! fois, Purge et obtenez [#EFC851]Excalibur.",
 		"NAME": "Saber",
-		"UPGRADE_DESCRIPTION": "Loyale. Infligez !D! dégât(s). Si ca Synergize !M! fois, Purge et obtenez [#EFC851]Excalibur+."
+		"UPGRADE_DESCRIPTION": "Loyale. Infligez !D! dégât(s). If this Synergizes !M! fois, Purge et obtenez [#EFC851]Excalibur+."
 	},
 	"animator_Saitama":
 	{
@@ -917,7 +917,7 @@
 	},
 	"animator_Urushihara":
 	{
-		"DESCRIPTION": "Lazy. NL [#EFC851]Canalisez[] 1 Tenèbre et Infligez !D! dégât(s) à TOUS les ennemis.",
+		"DESCRIPTION": "Paresse. NL [#EFC851]Canalisez[] 1 Tenèbre et Infligez !D! dégât(s) à TOUS les ennemis.",
 		"NAME": "Urushihara"
 	},
 	"animator_Vanir":
@@ -980,7 +980,7 @@
 	},
 	"animator_ZankiKiguchi":
 	{
-		"DESCRIPTION": "Martial_Artist. NL Infligez !D! dégât(s). NL Synergie: Converti !M! d'Armure en 1 Dextérité.",
+		"DESCRIPTION": "Maître_des_arts_martiaux. NL Infligez !D! dégât(s). NL Synergie: Converti !M! d'Armure en 1 Dextérité.",
 		"NAME": "Zanki Kiguchi"
 	},
 	"animator_Zero":
@@ -1032,7 +1032,7 @@
 	},
 	"animator_Rose":
 	{
-		"DESCRIPTION": "Piochez !M! carte(s). NL Reload: Infligez !D! dégats Perçant. Si ca tue un ennemi, rejoue cette carte un ennemi aléatoire.",
+		"DESCRIPTION": "Piochez !M! carte(s). NL Rechargement: Infligez !D! dégats Perçant. Si ca tue un ennemi, rejoue cette carte un ennemi aléatoire.",
 		"NAME": "Rose"
 	},
 	"animator_NivaLada":

@@ -113,37 +113,37 @@
 	"animator_OrbCore_ChaosPower":
 	{
 		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, #yDécouvre #b", " cartes."],
-		"NAME": "Chaos Core"
+		"NAME": "Noyau Chaotique"
 	},
 	"animator_OrbCore_DarkPower":
 	{
 		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, piochez #b", " carte, puis défaussé #b1 carte."],
-		"NAME": "Dark Core"
+		"NAME": "Noyau de Tenèbre"
 	},
 	"animator_OrbCore_EarthPower":
 	{
 		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, gagnez #b", " #yEpine temporaire."],
-		"NAME": "Earth Core"
+		"NAME": "Noyau de Terre"
 	},
 	"animator_OrbCore_FirePower":
 	{
 		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, infligez #b", " #yBrûlure à TOUS les ennemis."],
-		"NAME": "Fire Core"
+		"NAME": "Noyau de Feu"
 	},
 	"animator_OrbCore_FrostPower":
 	{
 		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, gagnez #b", " d'#yArmure."],
-		"NAME": "Frost Core"
+		"NAME": "Noyau de Gel"
 	},
 	"animator_OrbCore_LightningPower":
 	{
 		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, inflige #b", " dégat(s) à TOUS les ennemis."],
-		"NAME": "Lightning Core"
+		"NAME": "Noyau de Foudre"
 	},
 	"animator_OrbCore_PlasmaPower":
 	{
 		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, gagnez #b", " #yEnergie."],
-		"NAME": "Plasma Core"
+		"NAME": "Noyau de Plasma"
 	},
 	"animator_PinaCoLadaPower":
 	{
@@ -162,8 +162,8 @@
 	},
 	"animator_PridePower":
 	{
-		"DESCRIPTIONS": ["Jusqu'à votre prochain tour, tous dégats nn bloqué, diminuera les dégat de votre #yDark Orbe à la place."],
-		"NAME": "Pride"
+		"DESCRIPTIONS": ["Jusqu'à votre prochain tour, tous dégats nn bloqué, diminuera les dégats de votre Orbe des #yTenèbres à la place."],
+		"NAME": "Fierté"
 	},
 	"animator_RoryMercuryPower":
 	{
@@ -172,7 +172,7 @@
 	},
 	"animator_ShiroPower":
 	{
-		"DESCRIPTIONS": ["Au début de votre tour gagnez #b", " energie."],
+		"DESCRIPTIONS": ["Au début de votre tour gagnez #b", " Energie."],
 		"NAME": "Shiro"
 	},
 	"animator_StolenGoldPower":
