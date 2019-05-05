@@ -170,6 +170,16 @@
 		"DESCRIPTION": "本回合你每受到1次攻擊，都對攻擊者造成 #b1 點傷害 。"
 	},
 	{
+		"PROPER_NAME": "Flight",
+		"NAMES": ["flight"],
+		"DESCRIPTION": "Take 50% less #yAttack damage. Lose 1 stack until end of turn when taking damage, the power is cancelled at 0 stacks."
+	},
+	{
+		"PROPER_NAME": "Juggernaut",
+		"NAMES": ["juggernaut"],
+		"DESCRIPTION": "Whenever you gain #yBlock, deal damage to a random enemy."
+	},
+	{
 		"DESCRIPTION": "下回合開始時格擋不會消失 。",
 		"NAMES": ["殘影"],
 		"PROPERNAME": "殘影"

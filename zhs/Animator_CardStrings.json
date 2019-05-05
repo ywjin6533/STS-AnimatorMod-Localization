@@ -989,35 +989,61 @@
 		"NAME": "零",
 		"UPGRADE_DESCRIPTION": "从你的抽牌堆中打出一张随机的 [#EFC851]技能牌[] 。"
 	},
+	"animator_Azriel":
+	{
+		"DESCRIPTION": "Gain 2 Flight. NL Whenever you apply a debuff to an enemy, gain !M! Strength.",
+		"NAME": "Azriel"
+	},
+	"animator_Giselle":
+	{
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Burning. NL Deal triple damage to normal enemies.",
+		"NAME": "Giselle"
+	},
 	"animator_HiiragiTenri":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Play and Exhaust NL ALL cards in your discard pile.",
+		"DESCRIPTION": "Gain !M! Temp._HP. NL Play and Exhaust NL ALL cards in your discard pile.",
 		"NAME": "Tenri Hiiragi"
+	},
+	"animator_SirTouchMe":
+	{
+		"DESCRIPTION": "Gain !M! Juggernaut. NL Deal !D! damage. NL Gain !B! Block.",
+		"NAME": "Sir Touch Me"
 	},
 	"animator_ShikizakiKiki":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Draw !M! cards. NL Double the damage of all [#EFC851]Attacks in your hand this combat.",
+		"DESCRIPTION": "Draw !M! cards. NL Double the damage of all [#EFC851]Attacks in your hand for the rest of this combat.",
 		"NAME": "Shikizaki Kiki"
 	},
 	"animator_Chomusuke":
 	{
-		"DESCRIPTION": "Gain [E] and draw !M! card for each card you Exhausted this turn ( !SV! ). Exhaust.",
+		"DESCRIPTION": "Gain [E] and draw !M! card for each card you Exhausted this turn ( !SV! ). Can be used once per turn.",
 		"NAME": "Chomusuke",
-		"UPGRADE_DESCRIPTION": "Gain [E] and draw !M! cards for each card you Exhausted this turn ( !SV! ). Exhaust."
+		"UPGRADE_DESCRIPTION": "Gain [E] and draw !M! cards for each card you Exhausted this turn ( !SV! ). Can be used once per turn."
+	},
+	"animator_JeanneDArc":
+	{
+		"DESCRIPTION": "Deal !D! Damage. NL Gain !M! Temp._HP. NL Exhaust a random Status or Curse.",
+		"NAME": "Jeanne D'Arc"
 	},
 	"animator_Hero":
 	{
 		"DESCRIPTION": "Deal !D! Damage. NL Draw !M! Cards. NL While in your deck, increase the chances of [#EFC851]Bonus [#EFC851]Relics.",
 		"NAME": "'Hero'"
 	},
+	"animator_Truth":
+	{
+		"DESCRIPTION": "Gain 1 Energy. NL Draw 2 cards. NL Gain 3 Focus. NL Gain 4 Strength. NL Permanently replace a card in your deck with a [#EFC851]Wound.",
+		"NAME": "Truth",
+		"UPGRADE_DESCRIPTION": "Gain 2 Energy. NL Draw 3 cards. NL Gain 4 Focus. NL Gain 5 Strength. NL Permanently replace a card in your deck with a [#EFC851]Wound."
+	},
 	"animator_Rose":
 	{
-		"DESCRIPTION": "Augmentable. Deal !D! Piercing damage !M! times. If this kills an enemy, target another random enemy.",
+		"DESCRIPTION": "Draw !M! cards. NL Reload: Deal !D! Piercing damage. If the enemy dies, hit another enemy.",
 		"NAME": "Rose"
 	},
 	"animator_NivaLada":
 	{
 		"DESCRIPTION": "Cooldown !SV! : NL Deal 300 damage. NL When you Exhaust or discard a card, reduce this Cooldown by 1.",
 		"NAME": "Niva Lada"
-	},
+	}
 }
