@@ -1042,6 +1042,11 @@
 		"DESCRIPTION": "Piochez !M! carte(s). NL Rechargement: Infligez !D! dégats Perçant. Si ca tue un ennemi, rejoue cette carte un ennemi aléatoire.",
 		"NAME": "Rose"
 	},
+	"animator_Veldora":
+	{
+		"DESCRIPTION": "Gain !SV! Focus. NL Evoke ALL orbs !M! times. [#EFC851]Drawn: Channel 2 random orbs.",
+		"NAME": "Veldora"
+	},
 	"animator_NivaLada":
 	{
 		"DESCRIPTION": "Cooldown !SV! : NL Infligez 300 dégats. NL Quand vous Épuisez ou Défaussez une carte, réduit le Cooldown de 1.",
