@@ -12,7 +12,7 @@
 	},
 	"animator_AzrielPower":
 	{
-		"DESCRIPTIONS": ["Whenever you apply a debuff to an enemy, gain #b", " Strength."],
+		"DESCRIPTIONS": ["每當給予一個敵人負面效果時, 獲得 #b", " 點 力量."],
 		"NAME": "Azriel"
 	},
 	"animator_BiyorigoPower":

@@ -989,59 +989,58 @@
 	},
 	"animator_Azriel":
 	{
-		"DESCRIPTION": "Gain 2 Flight. NL Whenever you apply a debuff to an enemy, gain !M! Strength.",
+		"DESCRIPTION": "獲得兩 2 層 飛行 。 NL 每當給予敵人負面效果時, 獲得 !M! 點 力量 。",
 		"NAME": "Azriel"
 	},
 	"animator_Giselle":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Burning. NL Deal triple damage to normal enemies.",
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 給予 !M! 層 燃燒 。 NL 對生命值低於 !SV! 點 的敵人造成三倍傷害 。",
 		"NAME": "Giselle"
 	},
 	"animator_HiiragiTenri":
 	{
-		"DESCRIPTION": "Gain !M! Temp._HP. NL Play and Exhaust NL ALL cards in your discard pile.",
+		"DESCRIPTION": "獲得 !M! 點 臨時生命 。 NL 打出並 消耗 棄牌堆中所有牌 。",
 		"NAME": "Tenri Hiiragi"
 	},
 	"animator_SirTouchMe":
 	{
-		"DESCRIPTION": "Gain !M! Juggernaut. NL Deal !D! damage. NL Gain !B! Block.",
+		"DESCRIPTION": "獲得 !M! 勢不可當 。 NL 造成 !D! 點傷害 。 NL 獲得 !B! 點 格擋 。",
 		"NAME": "Sir Touch Me"
 	},
 	"animator_ShikizakiKiki":
 	{
-		"DESCRIPTION": "Draw !M! cards. NL Double the damage of all [#EFC851]Attacks in your hand for the rest of this combat.",
+		"DESCRIPTION": "抽 !M! 張牌 。 NL 在本次戰鬥中，使你手牌中的所有 [#EFC851]攻擊牌[] 造成的傷害翻倍 。",
 		"NAME": "Shikizaki Kiki"
 	},
 	"animator_Chomusuke":
 	{
-		"DESCRIPTION": "Gain [E] and draw !M! card for each card you Exhausted this turn ( !SV! ). Can be used once per turn.",
-		"NAME": "Chomusuke",
-		"UPGRADE_DESCRIPTION": "Gain [E] and draw !M! cards for each card you Exhausted this turn ( !SV! ). Can be used once per turn."
+		"DESCRIPTION": "獲得 [E] ， 本回合每消耗一張牌 ， 抽 !M! 牌 ( 本回合已消耗 !SV! ) 。 每回合可使用一次 。",
+		"NAME": "Chomusuke"
 	},
 	"animator_JeanneDArc":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL Gain !M! Temp._HP. NL Exhaust a random Status or Curse.",
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 獲得 !M! 點 臨時生命 。 NL 隨機消耗一個狀態牌或詛咒牌 。",
 		"NAME": "Jeanne D'Arc"
 	},
 	"animator_Hero":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL Draw !M! Cards. NL While in your deck, increase the chances of [#EFC851]Bonus [#EFC851]Relics.",
+		"DESCRIPTION": "造成 !D! 點傷害. NL 抽 !M! 張牌 。 NL 位於牌組中時, 增加獲得 [#EFC851]遺物獎勵[] 的機會 。",
 		"NAME": "'Hero'"
 	},
 	"animator_Truth":
 	{
-		"DESCRIPTION": "Gain 1 Energy. NL Draw 2 cards. NL Gain 3 Focus. NL Gain 4 Strength. NL Permanently replace a card in your deck with a [#EFC851]Wound.",
+		"DESCRIPTION": "獲得 1 點 能量 。 NL 抽 2 張牌 。 NL 獲得 3 點 集中 。 NL 獲得 4 點 力量 。 NL 永久的將牌組中的一張牌用 [#EFC851]傷口 代替 。",
 		"NAME": "Truth",
-		"UPGRADE_DESCRIPTION": "Gain 2 Energy. NL Draw 3 cards. NL Gain 4 Focus. NL Gain 5 Strength. NL Permanently replace a card in your deck with a [#EFC851]Wound."
+		"UPGRADE_DESCRIPTION": "獲得 2 點 能量 。 NL 抽 3 張牌 。 NL 獲得 4 點 集中 。 NL 獲得 5 點 力量 。 NL 永久的將牌組中的一張牌用 [#EFC851]傷口 代替 。"
 	},
 	"animator_Rose":
 	{
-		"DESCRIPTION": "Draw !M! cards. NL Reload: Deal !D! Piercing damage. If the enemy dies, hit another enemy.",
+		"DESCRIPTION": "抽 !M! 張牌. NL 重新裝填 : 造成 !D! 點 穿刺 傷害 。若目標死亡， 則對別的目標造成溢出傷害 。",
 		"NAME": "Rose"
 	},
 	"animator_NivaLada":
 	{
-		"DESCRIPTION": "Cooldown !SV! : NL Deal 300 damage. NL When you Exhaust or discard a card, reduce this Cooldown by 1.",
+		"DESCRIPTION": "冷卻 !SV! : NL 造成 300 點傷害 。 NL 每當你丟棄或消耗牌時 ， 減少 1 層 預熱 層數 。",
 		"NAME": "Niva Lada"
 	}
 }

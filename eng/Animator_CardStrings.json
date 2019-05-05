@@ -996,7 +996,7 @@
 	},
 	"animator_Giselle":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Burning. NL Deal triple damage to normal enemies.",
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Burning. NL Deal triple damage NL to enemies with less than !SV! HP.",
 		"NAME": "Giselle"
 	},
 	"animator_HiiragiTenri":
