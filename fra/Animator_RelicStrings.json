@@ -30,6 +30,12 @@
 		"FLAVOR": "Elle tire sa force du sang de son manieur, convient parfaitement à un vampire.",
 		"NAME": "Epée maudite"
 	},
+	"Animator_CursedGlyph":
+	{
+		"DESCRIPTIONS": ["Au ramassage, #rperdez #r", " #rPV Max, Tous les ennemis recoivent des PV Max suppémentaire."],
+		"FLAVOR": "C'était une erreur...",
+		"NAME": "Glyphe Maudit"
+	},
 	"Animator_EngravedStaff":
 	{
 		"DESCRIPTIONS": ["A la fin de votre tour, #yConcervez votre carte au plus haut coût, elle #b1 coûte 1 de moins au prochain tour."],
