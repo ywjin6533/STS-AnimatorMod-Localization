@@ -563,7 +563,7 @@
 	},
 	"animator_LizardPriest":
 	{
-		"DESCRIPTION": "Met l'Armure d'un ennemi à !M!. NL Gagnez !B! d'Armure. NL Synergie: Concervez votre main ce tour.",
+		"DESCRIPTION": "Gagnez !B! d'Armure.NL Met l'Armure d'un ennemi à !M!. NL Synergie: Concervez votre main ce tour.",
 		"NAME": "'Prêtre Lézard'"
 	},
 	"animator_MaesHughes":
@@ -1038,12 +1038,12 @@
 	},
 	"animator_Rose":
 	{
-		"DESCRIPTION": "Piochez !M! carte(s). NL Rechargement: Infligez !D! dégats Perçant. Si ca tue un ennemi, rejoue cette carte un ennemi aléatoire.",
+		"DESCRIPTION": "Piochez !M! carte(s). NL Rechargement: Infligez !D! dégats Perçant. Si ca tue un ennemi, infligez !SV! dégats à TOUS les ennemis.",
 		"NAME": "Rose"
 	},
 	"animator_Veldora":
 	{
-		"DESCRIPTION": "Gain !SV! Focus. NL Evoke ALL orbs !M! times. [#EFC851]Drawn: Channel 2 random orbs.",
+		"DESCRIPTION": "Gagnez !SV! Concentration. NL Active TOUTES les orbes, !M! fois. [#EFC851]Pioché: Canalise 2 orbes aléatoires.",
 		"NAME": "Veldora"
 	},
 	"animator_NivaLada":
