@@ -2,7 +2,7 @@
 {
 	"animator_AcuraAkari":
 	{
-		"DESCRIPTION": "Défaussez 1 carte. NL Gagnez !B! d'Armure. NL Gagnez !M! Envenimer jusqu'a la fin du tour.",
+		"DESCRIPTION": "Défaussez 1 carte. NL Ajouter !SV! Throwing-Knife to your hand. NL Gagnez !M! Envenimer jusqu'a la fin du tour.",
 		"NAME": "Akari"
 	},
 	"animator_AcuraShin":
@@ -770,8 +770,7 @@
 	},
 	"animator_Shizu":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! carte(s). NL Éthérée. [#EFC851]Ifrit.",
-		"EXTENDED_DESCRIPTION": ["Ifrit", "Épuisez jusqu'a 3 carte(s) de votre main, #yCanalisez autant de #yFeu. Ajouter 2 #yBurns à votre Défausse."],
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez Flaming_Weapon. NL Si cela tue l'ennemi, soigne 1 point pour chaque couche de Brûlure.",
 		"NAME": "Shizu"
 	},
 	"animator_Shuna":

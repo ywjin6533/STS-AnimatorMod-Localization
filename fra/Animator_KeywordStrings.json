@@ -185,6 +185,11 @@
 		"DESCRIPTION": "Subit 50% moins de dégats d'#yAttaque. Perd 1 charge quand vous subissez des dégats, se reset en début de tour, disparait à 0 charge."
 	},
 	{
+		"PROPER_NAME": "Flaming Weapon",
+		"NAMES": ["flaming weapon", "flaming_weapon"],
+		"DESCRIPTION": "Tout dégats non bloqué, inflige #b1 Brûlure par coup."
+	},
+	{
 		"PROPER_NAME": "Juggernaut",
 		"NAMES": ["juggernaut"],
 		"DESCRIPTION": "Quand vous gagnez de #yl'Armure, infligé des dégats à un ennemi aléatoire."

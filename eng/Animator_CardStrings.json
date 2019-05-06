@@ -2,7 +2,7 @@
 {
 	"animator_AcuraAkari":
 	{
-		"DESCRIPTION": "Discard 1 card. NL Gain !B! Block. NL Gain !M! Envenom until end of turn.",
+		"DESCRIPTION": "Discard 1 card. Add !SV! Throwing-Knives to your hand. NL Gain !M! Envenom until end of turn.",
 		"NAME": "Akari"
 	},
 	"animator_AcuraShin":
@@ -770,8 +770,7 @@
 	},
 	"animator_Shizu":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL Draw !M! cards. NL Ethereal. [#EFC851]Ifrit.",
-		"EXTENDED_DESCRIPTION": ["Ifrit", "Exhaust up to 3 cards in your hand, #yChannel that much #yFire. Add 2 #yBurns to your discard pile."],
+		"DESCRIPTION": "Deal !D! Damage. Gain Flaming_Weapon. NL If this kills an enemy, NL heal for its Burning amount.",
 		"NAME": "Shizu"
 	},
 	"animator_Shuna":
