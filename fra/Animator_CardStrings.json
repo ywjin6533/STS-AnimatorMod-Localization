@@ -1017,9 +1017,8 @@
 	},
 	"animator_Chomusuke":
 	{
-		"DESCRIPTION": "Gagnez [E] et piochez !M! carte(s) pour chaque carte Épuisé ce tour( !SV! ). Ne peut être utilisé qu'une fois par tour.",
-		"NAME": "Chomusuke",
-		"UPGRADE_DESCRIPTION": "Gagnez [E] et piochez !M! carte(s) pour chaque carte Épuisé ce tour ( !SV! ). Ne peut être utilisé qu'une fois par tour."
+		"DESCRIPTION": "Concervez. Gagnez [E] et piochez !M! carte(s) pour chaque carte Épuisé ce tour( !SV! ). Ne peut être utilisé qu'une fois par tour.",
+		"NAME": "Chomusuke"
 	},
 	"animator_JeanneDArc":
 	{
@@ -1033,9 +1032,9 @@
 	},
 	"animator_Truth":
 	{
-		"DESCRIPTION": "Gagnez 1 Energie. NL Piochez 2 cartes. NL Gagnez 3 Concentration. NL Gain 4 Force. NL Renplace de manière permanent une carte de votre deck par une [#EFC851]Plaie.",
+		"DESCRIPTION": "Gagnez 1 Concentration. NL Gagnez 2 Energie. NL Piochez 3 cartes. NL Gain 4 Force. NL Renplace de manière permanent une carte de votre deck par une [#EFC851]Plaie.",
 		"NAME": "Vérité",
-		"UPGRADE_DESCRIPTION": "Gagnez 2 Energie. NL Piochez 3 cartes. NL Gagnez 4 Concentration. NL Gain 5 Force. NL Renplace de manière permanent une carte de votre deck par une [#EFC851]Plaie."
+		"UPGRADE_DESCRIPTION": "Gagnez 2 Concentration. NL Gagnez 3 Energie. NL Piochez 4 cartes. NL Gain 5 Force. NL Renplace de manière permanent une carte de votre deck par une [#EFC851]Plaie."
 	},
 	"animator_Rose":
 	{

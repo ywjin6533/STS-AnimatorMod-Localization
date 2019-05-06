@@ -1016,9 +1016,9 @@
 	},
 	"animator_Chomusuke":
 	{
-		"DESCRIPTION": "Gain [E] and draw !M! card for each card you Exhausted this turn ( !SV! ). Can be used once per turn.",
+		"DESCRIPTION": "Retain. Once per turn, gain [E] and draw !M! card for each card you Exhausted this turn ( !SV! cards ).",
 		"NAME": "Chomusuke",
-		"UPGRADE_DESCRIPTION": "Gain [E] and draw !M! cards for each card you Exhausted this turn ( !SV! ). Can be used once per turn."
+		"UPGRADE_DESCRIPTION": "Retain. Once per turn, gain [E] and draw !M! cards for each card you Exhausted this turn ( !SV! cards )."
 	},
 	"animator_JeanneDArc":
 	{
@@ -1032,9 +1032,9 @@
 	},
 	"animator_Truth":
 	{
-		"DESCRIPTION": "Gain 1 Energy. NL Draw 2 cards. NL Gain 3 Focus. NL Gain 4 Strength. NL Permanently replace a card in your deck with a [#EFC851]Wound.",
+		"DESCRIPTION": "Gain 1 Focus. NL Gain 2 Energy. NL Draw 3 cards. NL Gain 4 Strength. NL Permanently replace a card in your deck with a [#EFC851]Wound.",
 		"NAME": "Truth",
-		"UPGRADE_DESCRIPTION": "Gain 2 Energy. NL Draw 3 cards. NL Gain 4 Focus. NL Gain 5 Strength. NL Permanently replace a card in your deck with a [#EFC851]Wound."
+		"UPGRADE_DESCRIPTION": "Gain 2 Focus. NL Gain 3 Energy. NL Draw 4 cards. NL Gain 5 Strength. NL Permanently replace a card in your deck with a [#EFC851]Wound."
 	},
 	"animator_Rose":
 	{

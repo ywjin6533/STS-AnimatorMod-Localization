@@ -1016,7 +1016,7 @@
 	},
 	"animator_Chomusuke":
 	{
-		"DESCRIPTION": "获得 [E] ， 本回合每消耗一张牌 ， 抽 !M! 牌 ( 本回合已消耗 !SV! ) 。 每回合可使用一次 。",
+		"DESCRIPTION": "保留 。 获得 [E] ， 本回合每消耗一张牌 ， 抽 !M! 牌 ( 本回合已消耗 !SV! ) 。 每回合可使用一次 。",
 		"NAME": "Chomusuke"
 	},
 	"animator_JeanneDArc":
@@ -1031,9 +1031,9 @@
 	},
 	"animator_Truth":
 	{
-		"DESCRIPTION": "获得 1 点 能量 。 NL 抽 2 张牌 。 NL 获得 3 点 集中 。 NL 获得 4 点 力量 。 NL 永久的将牌组中的一张牌用 [#EFC851]伤口 代替 。",
+		"DESCRIPTION": "获得 1 点 集中 。 NL 获得 2 点 能量 。 NL 抽 3 张牌 。 NL 获得 4 点 力量 。 NL 永久的将牌组中的一张牌用 [#EFC851]伤口 代替 。",
 		"NAME": "Truth",
-		"UPGRADE_DESCRIPTION": "获得 2 点 能量 。 NL 抽 3 张牌 。 NL 获得 4 点 集中 。 NL 获得 5 点 力量 。 NL 永久的将牌组中的一张牌用 [#EFC851]伤口 代替 。"
+		"UPGRADE_DESCRIPTION": "获得 2 点 集中 。 NL 获得 3 点 能量 。 NL 抽 4 张牌 。 NL 获得 5 点 力量 。 NL 永久的将牌组中的一张牌用 [#EFC851]伤口 代替 。"
 	},
 	"animator_Rose":
 	{
