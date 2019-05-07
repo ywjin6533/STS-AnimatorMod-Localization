@@ -438,7 +438,7 @@
 	},
 	"animator_Hakurou":
 	{
-		"DESCRIPTION": "Maître_des_arts_martiaux NL Infligez !D! dégât(s) !M! fois. NL [#EFC851]Pioché: Gagnez !SV! Dextérité Temporaire.",
+		"DESCRIPTION": "Artiste_martial NL Infligez !D! dégât(s) !M! fois. NL [#EFC851]Pioché: Gagnez !SV! Dextérité Temporaire.",
 		"NAME": "Hakurou"
 	},
 	"animator_HigakiRinne":
@@ -979,7 +979,7 @@
 	},
 	"animator_ZankiKiguchi":
 	{
-		"DESCRIPTION": "Maître_des_arts_martiaux NL Infligez !D! dégât(s). NL Synergie: Converti !M! d'Armure en 1 Dextérité.",
+		"DESCRIPTION": "Artiste_martiale NL Infligez !D! dégât(s). NL Synergie: Converti !M! d'Armure en 1 Dextérité.",
 		"NAME": "Zanki Kiguchi"
 	},
 	"animator_Zero":
