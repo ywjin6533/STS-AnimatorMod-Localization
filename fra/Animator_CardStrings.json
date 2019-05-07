@@ -2,7 +2,7 @@
 {
 	"animator_AcuraAkari":
 	{
-		"DESCRIPTION": "Défaussez 1 carte. NL Ajouter !SV! Couteau de Jet à votre main. NL Gagnez !M! Envenimer jusqu'a la fin du tour.",
+		"DESCRIPTION": "Défaussez 1 carte. NL Ajouter !SV! Couteau_de_Jet à votre main. NL Gagnez !M! Envenimer jusqu'a la fin du tour.",
 		"NAME": "Akari"
 	},
 	"animator_AcuraShin":
@@ -13,9 +13,9 @@
 	},
 	"animator_AcuraTooru":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) !M! fois. Au prochain tour, piochez une carte. Synergie: Ajouter !SV! Couteau de Jet à votre main.",
+		"DESCRIPTION": "Infligez !D! dégât(s) !M! fois. Au prochain tour, piochez une carte. Synergie: Ajouter !SV! Couteau_de_Jet à votre main.",
 		"NAME": "Tooru",
-		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) !M! fois. Au prochain tour, piochez une carte. Synergie: Ajouter !SV! Couteau de Jet à votre main."
+		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) !M! fois. Au prochain tour, piochez une carte. Synergie: Ajouter !SV! Couteau_de_Jet à votre main."
 	},
 	"animator_Add":
 	{
@@ -933,12 +933,12 @@
 	},
 	"animator_Viivi":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire !M! fois. Rappel: Ajouter 1 Couteau de Jet à votre main.",
+		"DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire !M! fois. Rappel: Ajouter 1 Couteau_de_Jet à votre main.",
 		"NAME": "Viivi"
 	},
 	"animator_Witch":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez !M! Brûlure à TOUS les ennemis. Héritage: Obtenez une Potion aléatoire.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Synergie: Appliquez !M! Brûlure. NL Héritage: Obtenez une Potion aléatoire.",
 		"NAME": "'Sorcière'"
 	},
 	"animator_Wiz":
