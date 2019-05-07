@@ -141,7 +141,7 @@
 	},
 	{
 		"PROPER_NAME": "Maître des art martiaux",
-		"NAMES": ["maître des arts martiaux", "maître_des_arts_martiaux"],
+		"NAMES": ["artist martial", "artist_martial", "artist martiale", "artist_martiale", "maître des arts martiaux", "maître_des_arts_martiaux"],
 		"DESCRIPTION": "Les dégats de cette carte augmentes avec la #yDexterité."
 	},
 	{
