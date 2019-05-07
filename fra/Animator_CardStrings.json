@@ -25,13 +25,13 @@
 	},
 	"animator_Ain":
 	{
-		"DESCRIPTION": "[#EFC851]Jeteur de sorts. NL Infligez !D! dégât(s) à TOUS les ennemis !M! fois. Gagnez 1 Concentration.",
+		"DESCRIPTION": "[#EFC851]Jeteur [#EFC851]de [#EFC851]sorts. NL Infligez !D! dégât(s) à TOUS les ennemis !M! fois. Gagnez 1 Concentration.",
 		"EXTENDED_DESCRIPTION": ["Jeteur de sorts", "Les dégât(s) de cette carte augmente avec la Concentration."],
 		"NAME": "Ain"
 	},
 	"animator_Ainz":
 	{
-		"DESCRIPTION": "Coûte 1 de moins chaque tour. Au début de chaque tour, active 1 à 4  [#EFC851]Effet(s) Amélioré(s) aléatoire.",
+		"DESCRIPTION": "Coûte 1 de moins chaque tour. Au début de chaque tour, active 1 à 4  [#EFC851]Effet(s) aléatoire.",
 		"NAME": "Ainz Ooal Gown",
 		"UPGRADE_DESCRIPTION": "Coûte 1 de moins chaque tour. Au début de chaque tour, active 1 à 4  [#EFC851]Effet(s) Amélioré(s) aléatoire."
 	},
@@ -239,7 +239,7 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "Gagnez [E] [E]. NL Perdez !M! PV à la fin de votre tour. NL Héritage et Rappel: Gagnez [E].",
+		"DESCRIPTION": "Gagnez [E] [E]. NL Prendre !M! dégâts à la fin de votre tour. NL Héritage et Rappel: Gagnez [E].",
 		"NAME": "Demiurge"
 	},
 	"animator_DolaCouronne":
@@ -456,7 +456,7 @@
 	},
 	"animator_HiiragiShinya":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Si c'est votre première [#EFC851]Attaque ce tour, apply a random [#EFC851]Debuff.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Si c'est votre première [#EFC851]Attaque ce tour, appliquez un [#EFC851]Debuff aléatoire.",
 		"NAME": "Shinya Hiiragi",
 		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s). NL If this is your first [#EFC851]Attaque ce tour, appliquez un [#EFC851]Debuff Amélioré aléatoire."
 	},
@@ -717,7 +717,7 @@
 	{
 		"DESCRIPTION": "Loyale. Infligez !D! dégât(s). Si ca Synergize !M! fois, Purge et obtenez [#EFC851]Excalibur.",
 		"NAME": "Saber",
-		"UPGRADE_DESCRIPTION": "Loyale. Infligez !D! dégât(s). If this Synergizes !M! fois, Purge et obtenez [#EFC851]Excalibur+."
+		"UPGRADE_DESCRIPTION": "Loyale. Infligez !D! dégât(s). Si ca Synergizes !M! fois, Purge et obtenez [#EFC851]Excalibur+."
 	},
 	"animator_Saitama":
 	{

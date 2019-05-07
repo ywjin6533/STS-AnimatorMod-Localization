@@ -21,7 +21,7 @@
 	},
 	{
 		"DESCRIPTION": "Si la cible à moins de #b50% PV, fait des double damage.",
-		"NAMES": ["chercheCoeur"],
+		"NAMES": ["cherchecoeur"],
 		"PROPERNAME": "ChercheCoeur"
 	},
 	{
@@ -115,9 +115,9 @@
 		"PROPERNAME": "Envenimer"
 	},
 	{
-		"NAMES": ["mètalisation"],
+		"NAMES": ["métalisation"],
 		"DESCRIPTION": "Gagne autant #yd'Armure au début du combat.",
-		"PROPERNAME": "Mètalisation"
+		"PROPERNAME": "Métalisation"
 	},
 	{
 		"NAMES": ["choked"],
