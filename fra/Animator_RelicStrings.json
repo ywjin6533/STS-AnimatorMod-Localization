@@ -8,13 +8,13 @@
 	},
 	"Animator_BattleDrones":
 	{
-		"DESCRIPTIONS": ["Quand une carte #ySynergizes, inflige #b", " dégat(s) à un ennemi aléatoire et gagnez #b", " #yBlock."],
+		"DESCRIPTIONS": ["Quand une carte #ySynergizes, inflige #b", " dégat(s) à un ennemi aléatoire et gagnez #b", " #yd'Armure."],
 		"FLAVOR": "Pièce maîtresse de l'ingénieur.",
 		"NAME": "Drones de combat"
 	},
 	"Animator_Buoy":
 	{
-		"DESCRIPTIONS": ["Une fois par tour, quand vous piochez 3 cartes ou plus, gagnez #b", " #yd'Armures et #b", " #yDexterity jusqu'à la fin du tour."],
+		"DESCRIPTIONS": ["Une fois par tour, quand vous piochez 3 cartes ou plus, gagnez #b", " #yd'Armure et #b", " #yDexterity jusqu'à la fin du tour."],
 		"FLAVOR": "Pour ce qu'il en est de la vitesse, je suis le meilleur, rapide comme le vent de l'île",
 		"NAME": "Buoy"
 	},
