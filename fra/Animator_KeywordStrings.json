@@ -1,7 +1,7 @@
 [
 	{
 		"DESCRIPTION": "S'active si la dernière carte joué et de la même série.",
-		"NAMES": ["synergies", "synergy", "synergies", "synergize", "synergizes"],
+		"NAMES": ["synergie", "synergy", "synergies", "synergize", "synergizes"],
 		"PROPERNAME": "Synergie"
 	},
 	{
