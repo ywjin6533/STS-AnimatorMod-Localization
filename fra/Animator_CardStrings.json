@@ -938,7 +938,7 @@
 	},
 	"animator_Witch":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Synergie: Appliquez !M! Brûlure. NL Héritage: Obtenez une Potion aléatoire.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez !M! Brûlure à TOUS les ennemis. Héritage: Obtenez une Potion aléatoire.",
 		"NAME": "'Sorcière'"
 	},
 	"animator_Wiz":

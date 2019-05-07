@@ -938,7 +938,7 @@
 	},
 	"animator_Witch":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Synergy: Apply !M! Burning. NL Legacy: Obtain a random Potion.",
+		"DESCRIPTION": "Gain !B! Block. NL Apply !M! Burning to ALL enemies. NL Legacy: Obtain a random Potion.",
 		"NAME": "'Witch'"
 	},
 	"animator_Wiz":
