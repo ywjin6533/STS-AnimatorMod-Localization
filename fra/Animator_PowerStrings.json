@@ -79,11 +79,11 @@
 	{
 		"DESCRIPTIONS": ["Quand une carte est épuisé gagnez #b", " Force et Soignez #b", " PV."],
 		"NAME": "Ferid Bathory"
-	},	
+	},
 	"animator_FlamingWeaponPower":
 	{
 		"DESCRIPTIONS": ["Tout dégats non bloqué, inflige #b", " Brûlure."],
-		"NAME": "Flaming Weapon"
+		"NAME": "Arme Enflammé"
 	},
 	"animator_GazelDwargonPower":
 	{

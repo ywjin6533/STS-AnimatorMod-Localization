@@ -165,8 +165,8 @@
 		"DESCRIPTION": "La prochaine carte que vous jouer retourne sur le haut de votre pioche."
 	},
 	{
-		"PROPER_NAME": "Throwing-Knife",
-		"NAMES": ["throwing-knife", "throwing-knives"],
+		"PROPER_NAME": "Couteau de jet",
+		"NAMES": ["couteau_de_jet", "couteau de jet"],
 		"DESCRIPTION": "Carte d'#yAttaque qui coûte 0 qui applique un debuff et d'#yépuise."
 	},
 	{
@@ -185,8 +185,8 @@
 		"DESCRIPTION": "Subit 50% moins de dégats d'#yAttaque. Perd 1 charge quand vous subissez des dégats, se reset en début de tour, disparait à 0 charge."
 	},
 	{
-		"PROPER_NAME": "Flaming Weapon",
-		"NAMES": ["flaming weapon", "flaming_weapon"],
+		"PROPER_NAME": "Arme Enflammé",
+		"NAMES": ["arme enflammé", "arme_enflammé"],
 		"DESCRIPTION": "Tout dégats non bloqué, inflige #b1 Brûlure par coup."
 	},
 	{

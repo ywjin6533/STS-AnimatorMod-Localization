@@ -2,7 +2,7 @@
 {
 	"animator_AcuraAkari":
 	{
-		"DESCRIPTION": "Défaussez 1 carte. NL Ajouter !SV! Throwing-Knife to your hand. NL Gagnez !M! Envenimer jusqu'a la fin du tour.",
+		"DESCRIPTION": "Défaussez 1 carte. NL Ajouter !SV! Couteau de Jet à votre main. NL Gagnez !M! Envenimer jusqu'a la fin du tour.",
 		"NAME": "Akari"
 	},
 	"animator_AcuraShin":
@@ -13,9 +13,9 @@
 	},
 	"animator_AcuraTooru":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) !M! fois. Au prochain tour, piochez une carte. Synergie: Ajouter !SV! Throwing-Knife to your hand.",
+		"DESCRIPTION": "Infligez !D! dégât(s) !M! fois. Au prochain tour, piochez une carte. Synergie: Ajouter !SV! Couteau de Jet à votre main.",
 		"NAME": "Tooru",
-		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) !M! fois. Au prochain tour, piochez une carte. Synergie: Ajouter !SV! Throwing-Knives to your hand."
+		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) !M! fois. Au prochain tour, piochez une carte. Synergie: Ajouter !SV! Couteau de Jet à votre main."
 	},
 	"animator_Add":
 	{
@@ -770,7 +770,7 @@
 	},
 	"animator_Shizu":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez Flaming_Weapon. NL Si cela tue l'ennemi, soigne 1 point pour chaque couche de Brûlure.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez Arme_Enflammé. NL Si cela tue l'ennemi, soigne 1 point pour chaque Brûlure.",
 		"NAME": "Shizu"
 	},
 	"animator_Shuna":
@@ -887,17 +887,17 @@
 	"animator_ThrowingKnife_0":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! Faiblesse. NL Épuisement. Rappel: Joue cette carte.",
-		"NAME": "Throwing-Knife"
+		"NAME": "Couteau de Jet"
 	},
 	"animator_ThrowingKnife_1":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! Vulnérabilité. NL Épuisement. Rappel: Joue cette carte.",
-		"NAME": "Throwing-Knife"
+		"NAME": "Couteau de Jet"
 	},
 	"animator_ThrowingKnife_2":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! Poison. NL Épuisement. Rappel: Joue cette carte.",
-		"NAME": "Throwing-Knife"
+		"NAME": "Couteau de Jet"
 	},
 	"animator_Togame":
 	{
@@ -933,7 +933,7 @@
 	},
 	"animator_Viivi":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire !M! fois. Rappel: Ajouter 1 Throwing-Knife à votre main.",
+		"DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire !M! fois. Rappel: Ajouter 1 Couteau de Jet à votre main.",
 		"NAME": "Viivi"
 	},
 	"animator_Witch":
