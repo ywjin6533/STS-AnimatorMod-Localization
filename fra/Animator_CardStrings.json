@@ -19,13 +19,13 @@
 	},
 	"animator_Add":
 	{
-		"DESCRIPTION": "Gagnez 1 emplacement d'Orbe. NL Épuise 1 carte dans votre pioche. Replace it with an Orb_Core. NL Éthérée. Épuisement.",
+		"DESCRIPTION": "Gagnez 1 emplacement d'Orbe. NL Épuise 1 carte dans votre pioche. Remplacez-le par un Noyau_d'orbe. NL Éthérée. Épuisement.",
 		"NAME": "Ajouter",
-		"UPGRADE_DESCRIPTION": "Gagnez 1 emplacement d'Orbe. NL Épuise 1 carte dans votre pioche. Replace it with an Orb_Core. NL Éthérée."
+		"UPGRADE_DESCRIPTION": "Gagnez 1 emplacement d'Orbe. NL Épuise 1 carte dans votre pioche. Remplacez-le par un Noyau_d'orbe. NL Éthérée."
 	},
 	"animator_Ain":
 	{
-		"DESCRIPTION": "[#EFC851]Jeteur de sorts. NL Infligez !D! dégât(s) à TOUS les ennemis !M! fois. NL Gagnez 1 Concentration.",
+		"DESCRIPTION": "[#EFC851]Jeteur de sorts. NL Infligez !D! dégât(s) à TOUS les ennemis !M! fois. Gagnez 1 Concentration.",
 		"EXTENDED_DESCRIPTION": ["Jeteur de sorts", "Les dégât(s) de cette carte augmente avec la Concentration."],
 		"NAME": "Ain"
 	},
@@ -189,7 +189,7 @@
 	},
 	"animator_Defend_GATE":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Concervez.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Conservez.",
 		"NAME": "Défense Amélioré"
 	},
 	"animator_Defend_GoblinSlayer":
@@ -219,7 +219,7 @@
 	},
 	"animator_Defend_NoGameNoLife":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Concervez votre carte jouable la plus à gauche.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Conservez votre carte jouable la plus à gauche.",
 		"NAME": "Défense Amélioré"
 	},
 	"animator_Defend_Overlord":
@@ -271,7 +271,7 @@
 	},
 	"animator_Elesis":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). Concervez. Augmentez les dégâts de cette carte de !M! pour chaque tour passé dans votre main.",
+		"DESCRIPTION": "Infligez !D! dégât(s). Conservez. Augmentez les dégâts de cette carte de !M! pour chaque tour passé dans votre main.",
 		"NAME": "Elesis"
 	},
 	"animator_ElricAlphonse":
@@ -334,7 +334,7 @@
 	},
 	"animator_Eve":
 	{
-		"DESCRIPTION": "Jouer un Noyau d'orbe. NL Quand vous effectuez une Synergie, Infligez !M! dégât(s) à un ennemi et augmentez ces dégât(s) par 1.",
+		"DESCRIPTION": "Jouer un Noyau_d'orbe. NL Quand vous effectuez une Synergie, Infligez !M! dégât(s) à un ennemi et augmentez ces dégât(s) par 1.",
 		"NAME": "Eve"
 	},
 	"animator_Evileye":
@@ -344,7 +344,7 @@
 	},
 	"animator_Excalibur":
 	{
-		"DESCRIPTION": "Concervez. Épuise TOUTES les [#EFC851]Attaques de votre main et Gagnez leurs dégât(s). Infligez !D! dégât(s) à TOUS les ennemis.",
+		"DESCRIPTION": "Conservez. Épuise TOUTES les [#EFC851]Attaques de votre main et Gagnez leurs dégât(s). Infligez !D! dégât(s) à TOUS les ennemis.",
 		"NAME": "Excalibur"
 	},
 	"animator_FeridBathory":
@@ -404,7 +404,7 @@
 	},
 	"animator_GoblinSlayer":
 	{
-		"DESCRIPTION": "[#EFC851]Goblin [#EFC851]Slayer. NL Infligez !D! dégât(s). NL Gagnez !B! d'Armure. NL Concervez.",
+		"DESCRIPTION": "[#EFC851]Goblin [#EFC851]Slayer. NL Infligez !D! dégât(s). NL Gagnez !B! d'Armure. NL Conservez.",
 		"EXTENDED_DESCRIPTION": ["Goblin Slayer", "Épuisez tous les Status et Malédiction de votre main et Défausse. Infligez 3 dégât(s) supplémentaire pour chaque cartes épuisé. NL #yWARNING: Des Goblins seront ajoutés a votre Deck."],
 		"NAME": "Goblin Slayer"
 	},
@@ -474,7 +474,7 @@
 	},
 	"animator_Illya":
 	{
-		"DESCRIPTION": "Piochez votre carte [#EFC851]Attaque avec les plus haut dégats et augmentez ces dégât(s) de !M! pour ce combat. Synergie: Concervez là.",
+		"DESCRIPTION": "Piochez votre carte [#EFC851]Attaque avec les plus haut dégats et augmentez ces dégât(s) de !M! pour ce combat. Synergie: Conservez là.",
 		"NAME": "Illya"
 	},
 	"animator_ItamiYouji":
@@ -563,7 +563,7 @@
 	},
 	"animator_LizardPriest":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure.NL Met l'Armure d'un ennemi à !M!. NL Synergie: Concervez votre main ce tour.",
+		"DESCRIPTION": "Gagnez !B! d'Armure.NL Met l'Armure d'un ennemi à !M!. NL Synergie: Conservez votre main ce tour.",
 		"NAME": "'Prêtre Lézard'"
 	},
 	"animator_MaesHughes":
@@ -696,7 +696,7 @@
 	{
 		"DESCRIPTION": "Devient la copie de la dernière carte joué.",
 		"NAME": "Rimuru",
-		"UPGRADE_DESCRIPTION": "Concervez. Devient la copie de la dernière carte joué."
+		"UPGRADE_DESCRIPTION": "Conservez. Devient la copie de la dernière carte joué."
 	},
 	"animator_RinTohsaka":
 	{
@@ -721,10 +721,10 @@
 	},
 	"animator_Saitama":
 	{
-		"DESCRIPTION": "Inné. Concervez. NL Infligez !D! dégât(s). NL [#EFC851]One[] [#EFC851]Punch[].",
+		"DESCRIPTION": "Inné. Conservez. NL Infligez !D! dégât(s). NL [#EFC851]One[] [#EFC851]Punch[].",
 		"EXTENDED_DESCRIPTION": ["One Punch", "Utilise TOUTE votre energie, cette carte inflige #yincreasingly dégats supplémentaire pour chaque point utilisé."],
 		"NAME": "Saitama",
-		"UPGRADE_DESCRIPTION": "Inné. Concervez. NL Infligez !D! dégât(s). NL [#EFC851]One[] [#EFC851]Punch+[]."
+		"UPGRADE_DESCRIPTION": "Inné. Conservez. NL Infligez !D! dégât(s). NL [#EFC851]One[] [#EFC851]Punch+[]."
 	},
 	"animator_Scar":
 	{
@@ -856,7 +856,7 @@
 	},
 	"animator_Strike_NoGameNoLife":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Concervez votre carte jouable la plus à droite.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Conservez votre carte jouable la plus à droite.",
 		"NAME": "Frappe Amélioré"
 	},
 	"animator_Strike_Overlord":
@@ -1016,7 +1016,7 @@
 	},
 	"animator_Chomusuke":
 	{
-		"DESCRIPTION": "Concervez. Gagnez [E] et piochez !M! carte(s) pour chaque carte Épuisé ce tour( !SV! ). Ne peut être utilisé qu'une fois par tour.",
+		"DESCRIPTION": "Conservez. Gagnez [E] et piochez !M! carte(s) pour chaque carte Épuisé ce tour( !SV! ). Ne peut être utilisé qu'une fois par tour.",
 		"NAME": "Chomusuke"
 	},
 	"animator_JeanneDArc":

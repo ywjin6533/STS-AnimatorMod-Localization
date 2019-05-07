@@ -1,7 +1,7 @@
 [
 	{
 		"DESCRIPTION": "S'active si la dernière carte joué et de la même série.",
-		"NAMES": ["synergy", "synergies", "synergize", "synergizes"],
+		"NAMES": ["synergies", "synergy", "synergies", "synergize", "synergizes"],
 		"PROPERNAME": "Synergie"
 	},
 	{
@@ -115,9 +115,9 @@
 		"PROPERNAME": "Envenimer"
 	},
 	{
-		"NAMES": ["metallicize"],
+		"NAMES": ["mètalisation"],
 		"DESCRIPTION": "Gagne autant #yd'Armure au début du combat.",
-		"PROPERNAME": "Metallicize"
+		"PROPERNAME": "Mètalisation"
 	},
 	{
 		"NAMES": ["choked"],
@@ -131,7 +131,7 @@
 	},
 	{
 		"PROPER_NAME": "Armure Renforcée",
-		"NAMES": ["armure_renforcée", "armure_renforcée"],
+		"NAMES": ["armure renforcée", "armure_renforcée"],
 		"DESCRIPTION": "Gagnez autant #yd'Armure à la fin de votre tour. Réduit de #b1 par dégat non bloqué."
 	},
 	{
@@ -166,7 +166,7 @@
 	},
 	{
 		"PROPER_NAME": "Couteau de jet",
-		"NAMES": ["couteau_de_jet", "couteau de jet"],
+		"NAMES": ["couteau de jet", "couteau_de_jet"],
 		"DESCRIPTION": "Carte d'#yAttaque qui coûte 0 qui applique un debuff et d'#yépuise."
 	},
 	{
