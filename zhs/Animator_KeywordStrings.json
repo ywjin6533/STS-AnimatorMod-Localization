@@ -152,7 +152,7 @@
 	{
 		"PROPER_NAME": "飞刃",
 		"NAMES": ["投掷刀","飞刃"],
-		"DESCRIPTION": "0耗 #y攻击 。 对敌人给予1层随机负面效果 #y消耗 。"
+		"DESCRIPTION": "0能耗 #y攻击 。 对敌人给予1层随机负面效果 #y消耗 。"
 	},
 	{
 		"PROPER_NAME": "发现",
