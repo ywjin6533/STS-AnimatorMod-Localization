@@ -2,7 +2,7 @@
 {
 	"animator_AcuraAkari":
 	{
-		"DESCRIPTION": "丟棄 1 張牌 。 NL 增加 !SV! 張 投擲刀 到手牌 。 NL 獲得 !M! 點 臨時 塗毒 。",
+		"DESCRIPTION": "丟棄 1 張牌 。 NL 增加 !SV! 張 飛刃 到手牌 。 NL 獲得 !M! 點 臨時 塗毒 。",
 		"NAME": "阿卡莉"
 	},
 	"animator_AcuraShin":
@@ -13,7 +13,7 @@
 	},
 	"animator_AcuraTooru":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 !M! 次 。 下一輪 ， 抽 1 張牌 。 同調 : 增加 !SV! 張 投擲刀 到手牌 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 !M! 次 。 下一輪 ， 抽 1 張牌 。 同調 : 增加 !SV! 張 飛刃 到手牌 。",
 		"NAME": "托魯"
 	},
 	"animator_Add":
@@ -884,17 +884,17 @@
 	"animator_ThrowingKnife_0":
 	{
 		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! 層 虛弱 。 NL 消耗 。 撤回 : 打這張牌。",
-		"NAME": "投擲刀"
+		"NAME": "飛刃"
 	},
 	"animator_ThrowingKnife_1":
 	{
 		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! 層 易傷 。 NL 消耗 。 撤回 : 打這張牌。",
-		"NAME": "投擲刀"
+		"NAME": "飛刃"
 	},
 	"animator_ThrowingKnife_2":
 	{
 		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! 層 中毒 。 NL 消耗 。 撤回 : 打這張牌。",
-		"NAME": "投擲刀"
+		"NAME": "飛刃"
 	},
 	"animator_Togame":
 	{
@@ -930,7 +930,7 @@
 	},
 	"animator_Viivi":
 	{
-		"DESCRIPTION": "對隨機敵人造成 !D! 點 傷害 !M! 次 。 撤回 : 增加 2 張 投擲刀 到手牌 。",
+		"DESCRIPTION": "對隨機敵人造成 !D! 點 傷害 !M! 次 。 撤回 : 增加 2 張 飛刃 到手牌 。",
 		"NAME": "薇薇·荷羅派涅"
 	},
 	"animator_Witch":
