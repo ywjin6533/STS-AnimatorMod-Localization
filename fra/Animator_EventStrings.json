@@ -7,7 +7,7 @@
     ],
     "OPTIONS": [
       "[Vendre] #gEnlever ", ". #gGagner #g", " #gOr.",
-      "[Commercer] #gAméliorer #gtoutes les Frappes #get Défenses. #rPerdre #r", " #rOr.",
+      "[Commercer] #gAméliorer #gtoutes #gles Frappes #get Défenses. #rPerdre #r", " #rOr.",
       "[Partir]",
 	  "[Bloquer] Pas de carte à Vendre.",
 	  "[Bloquer] Pas assez d'or."
