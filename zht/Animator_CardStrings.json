@@ -125,7 +125,8 @@
 	"animator_ChlammyZell":
 	{
 		"DESCRIPTION": "當你交替打出不同類型的牌時 ， 循環 1 張牌 並 對所有敵人造成 !M! 點 傷害 。",
-		"NAME": "克拉米·傑爾"
+		"NAME": "克拉米·傑爾",
+		"UPGRADE_DESCRIPTION": "固有 。 當你交替打出不同類型的牌時 ， 循環 1 張牌 並 對所有敵人造成 !M! 點 傷害 。"
 	},
 	"animator_Chris":
 	{
@@ -720,10 +721,8 @@
 	},
 	"animator_Saitama":
 	{
-		"DESCRIPTION": "固有 。 保留 。 NL 造成 !D! 點 傷害 。 NL [#EFC851]一[] [#EFC851]拳[] 。",
-		"EXTENDED_DESCRIPTION": ["一拳", "花費所有能量，每點能量增加此牌更多傷害。"],
-		"NAME": "埼玉",
-		"UPGRADE_DESCRIPTION": "固有 。 保留 。 NL 造成 !D! 點 傷害 。 NL [#EFC851]一[] [#EFC851]拳+[] 。"
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 花費所有能量，每點能量增加此牌更多傷害 。",
+		"NAME": "埼玉"
 	},
 	"animator_Scar":
 	{

@@ -126,7 +126,8 @@
 	"animator_ChlammyZell":
 	{
 		"DESCRIPTION": "Quand vous jouez des cartes de type différent, Recyclez 1 carte et Infligez !M! dégât(s) à TOUS les ennemis.",
-		"NAME": "Kurami"
+		"NAME": "Kurami",
+		"UPGRADE_DESCRIPTION": "Inné. Quand vous jouez des cartes de type différent, Recyclez 1 carte et Infligez !M! dégât(s) à TOUS les ennemis."
 	},
 	"animator_Chris":
 	{
@@ -721,10 +722,8 @@
 	},
 	"animator_Saitama":
 	{
-		"DESCRIPTION": "Inné. Conservez. NL Infligez !D! dégât(s). NL [#EFC851]One[] [#EFC851]Punch[].",
-		"EXTENDED_DESCRIPTION": ["One Punch", "Utilise TOUTE votre energie, cette carte inflige #yincreasingly dégats supplémentaire pour chaque point utilisé."],
-		"NAME": "Saitama",
-		"UPGRADE_DESCRIPTION": "Inné. Conservez. NL Infligez !D! dégât(s). NL [#EFC851]One[] [#EFC851]Punch+[]."
+		"DESCRIPTION": "Infligez !D! dégât(s). Utilise TOUTE votre energie, cette carte inflige de plus en plus dégats supplémentaire pour chaque point utilisé.",
+		"NAME": "Saitama"
 	},
 	"animator_Scar":
 	{
