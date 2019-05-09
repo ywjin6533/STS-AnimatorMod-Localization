@@ -319,7 +319,7 @@
 	},
 	"animator_EntouJyuu":
 	{
-		"DESCRIPTION": "Une fois par tour, après que vous ayez joué une [#EFC851]Attaque, augmentez ces dégât(s) de !M! pour ce combat et piochez une carte.",
+		"DESCRIPTION": "Deux fois par tour, après que vous ayez joué une [#EFC851]Attaque, augmentez ces dégât(s) de !M! pour ce combat et piochez une carte.",
 		"NAME": "Entou Jyuu"
 	},
 	"animator_Envy":

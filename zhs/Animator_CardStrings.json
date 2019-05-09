@@ -316,7 +316,7 @@
 	},
 	"animator_EntouJyuu":
 	{
-		"DESCRIPTION": "每回合一次，打出 [#EFC851]攻击牌[] 时使其增加 !M! 点 伤害 ， 抽一张牌 。",
+		"DESCRIPTION": "每回合两次， 打出 [#EFC851]攻击牌[] 时使其增加 !M! 点 伤害 ， 抽一张牌 。",
 		"NAME": "炎刀·铳"
 	},
 	"animator_Envy":

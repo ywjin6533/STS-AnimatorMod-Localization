@@ -319,7 +319,7 @@
 	},
 	"animator_EntouJyuu":
 	{
-		"DESCRIPTION": "Once per turn, after you play an [#EFC851]Attack, increase its damage by !M! this combat and draw 1 card.",
+		"DESCRIPTION": "Twice per turn, after you play an [#EFC851]Attack, increase its damage by !M! this combat and draw 1 card.",
 		"NAME": "Entou Jyuu"
 	},
 	"animator_Envy":
