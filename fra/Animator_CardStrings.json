@@ -1038,7 +1038,7 @@
 	{
 		"DESCRIPTION": "Gagnez 1 Concentration. NL Gagnez 2 Energie. NL Piochez 3 cartes. NL Gain 4 Force. NL [#EFC851]Vérité[].",
 		"NAME": "Vérité",
-		"EXTENDED_DESCRIPTION": ["Vérité","Remplacez de manière permanente une carte de votre deck au choix par une #yPlaie. Si vous avez au moins 3 Orbes uniques, supprimez toutes les Orbes plutôt."],
+		"EXTENDED_DESCRIPTION": ["Vérité"," Si vous avez au moins 3 Orbes uniques, supprimez toutes vos Orbes. Sinon, remplacez de manière permanente une carte au choix de votre deck par une #yPlaie."],
 		"UPGRADE_DESCRIPTION": "Gagnez 2 Concentration. NL Gagnez 3 Energie. NL Piochez 4 cartes. NL Gain 5 Force. NL [#EFC851]Vérité[]."
 	},
 	"animator_Rose":

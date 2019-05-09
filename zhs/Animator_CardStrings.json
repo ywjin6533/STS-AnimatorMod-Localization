@@ -1037,7 +1037,7 @@
 	{
 		"DESCRIPTION": "获得 1 点 集中 。 NL 获得 2 点 能量 。 NL 抽 3 张牌 。 NL 获得 4 点 力量 。 NL [#EFC851]真相[] 。",
 		"NAME": "真相",
-		"EXTENDED_DESCRIPTION": ["真相", "永久的将牌组中的一张牌用 #y伤口 代替 。 如果您拥有至少 3 种不同充能球 ， 与其启动效果， 失去所有充能球 。"],
+		"EXTENDED_DESCRIPTION": ["真相", "如果您拥有至少 3 种不同充能球 ， 失去所有充能球 。否则永久的将牌组中的一张牌用 #y伤口 代替 。"],
 		"UPGRADE_DESCRIPTION": "获得 2 点 集中 。 NL 获得 3 点 能量 。 NL 抽 4 张牌 。 NL 获得 5 点 力量 。 NL [#EFC851]真相[] 。"
 	},
 	"animator_Rose":
