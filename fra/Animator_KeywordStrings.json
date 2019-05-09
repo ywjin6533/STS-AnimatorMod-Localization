@@ -130,8 +130,8 @@
 		"PROPER_NAME": "Noyau d'orbe"
 	},
 	{
-		"PROPER_NAME": "Armure Renforcée",
-		"NAMES": ["armure renforcée", "armure_renforcée"],
+		"PROPER_NAME": "Armure Plaquée",
+		"NAMES": ["armure renforcée", "armure_renforcée", "armure plaquée", "armure_plaquée"],
 		"DESCRIPTION": "Gagnez autant #yd'Armure à la fin de votre tour. Réduit de #b1 par dégat non bloqué."
 	},
 	{

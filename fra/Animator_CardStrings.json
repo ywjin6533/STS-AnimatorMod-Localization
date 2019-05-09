@@ -2,47 +2,47 @@
 {
 	"animator_AcuraAkari":
 	{
-		"DESCRIPTION": "Défaussez 1 carte. NL Ajouter !SV! Couteau_de_Jet à votre main. NL Gagnez !M! Envenimer jusqu'a la fin du tour.",
+		"DESCRIPTION": "Défaussez 1 carte. NL Ajoutez !SV! Couteau_de_Jet à votre main. NL Gagnez !M! Envenimer jusqu'à la fin du tour.",
 		"NAME": "Akari"
 	},
 	"animator_AcuraShin":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis, puis NL Appliquez !M! Poison. NL Gagnez 1 [#EFC851]Poison [#EFC851]Affinité.",
-		"EXTENDED_DESCRIPTION": ["Poison Affinité", "Chaque fois que vous appliquez Poison, appliquez 1 Poison additionnel par stack."],
+		"DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis, puis NL Appliquez !M! de Poison. NL Gagnez 1 [#EFC851]Affinité [#EFC851]au [#EFC851]Poison.",
+		"EXTENDED_DESCRIPTION": ["Affinité au Poison", "Chaque fois que vous appliquez Poison, appliquez 1 Poison additionnel par stack."],
 		"NAME": "Shin"
 	},
 	"animator_AcuraTooru":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) !M! fois. Au prochain tour, piochez une carte. Synergie: Ajouter !SV! Couteau_de_Jet à votre main.",
+		"DESCRIPTION": "Infligez !D! dégât(s) !M! fois. Au prochain tour, piochez une carte. Synergie: Ajoutez !SV! Couteau_de_Jet à votre main.",
 		"NAME": "Tooru",
-		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) !M! fois. Au prochain tour, piochez une carte. Synergie: Ajouter !SV! Couteau_de_Jet à votre main."
+		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) !M! fois. Au prochain tour, piochez une carte. Synergie: Ajoutez !SV! Couteau_de_Jet à votre main."
 	},
 	"animator_Add":
 	{
-		"DESCRIPTION": "Gagnez 1 emplacement d'Orbe. NL Épuise 1 carte dans votre pioche. Remplacez-le par un Noyau_d'orbe. NL Éthérée. Épuisement.",
+		"DESCRIPTION": "Gagnez 1 emplacement d'Orbe. NL Épuisez 1 carte dans votre pioche. Remplacez-la par un Noyau_d'orbe. NL Éthérée. Épuisement.",
 		"NAME": "Ajouter",
 		"UPGRADE_DESCRIPTION": "Gagnez 1 emplacement d'Orbe. NL Épuise 1 carte dans votre pioche. Remplacez-le par un Noyau_d'orbe. NL Éthérée."
 	},
 	"animator_Ain":
 	{
 		"DESCRIPTION": "[#EFC851]Jeteur [#EFC851]de [#EFC851]sorts. NL Infligez !D! dégât(s) à TOUS les ennemis !M! fois. Gagnez 1 Concentration.",
-		"EXTENDED_DESCRIPTION": ["Jeteur de sorts", "Les dégât(s) de cette carte augmente avec la Concentration."],
+		"EXTENDED_DESCRIPTION": ["Jeteur de sorts", "Le(s) dégât(s) de cette carte augmente(nt) avec la Concentration."],
 		"NAME": "Ain"
 	},
 	"animator_Ainz":
 	{
-		"DESCRIPTION": "Coûte 1 de moins chaque tour. Au début de chaque tour, active 1 à 4  [#EFC851]Effet(s) aléatoire.",
+		"DESCRIPTION": "Coûte 1 de moins chaque tour. Au début de chaque tour, choisissez 1 des 4  [#EFC851]Effets aléatoires.",
 		"NAME": "Ainz Ooal Gown",
-		"UPGRADE_DESCRIPTION": "Coûte 1 de moins chaque tour. Au début de chaque tour, active 1 à 4  [#EFC851]Effet(s) Amélioré(s) aléatoire."
+		"UPGRADE_DESCRIPTION": "Coûte 1 de moins chaque tour. Au début de chaque tour, choisissez 1 des 4  [#EFC851]Effets Améliorés aléatoires."
 	},
 	"animator_Aisha":
 	{
-		"DESCRIPTION": "Défaussez 1 carte. NL Chercher une [#EFC851]Compétence(s) de votre pioche, elle coûte !M! de moins ce tour.",
+		"DESCRIPTION": "Défaussez 1 carte. NL Cherchez une [#EFC851]Compétence de votre pioche, elle coûte !M! de moins ce tour.",
 		"NAME": "Aisha"
 	},
 	"animator_Albedo":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez autant Armure_Enchantée. NL Synergie: Retourne dans votre pioche.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez autant d'Armure_Enchantée. NL Synergie: Retourne dans votre pioche.",
 		"NAME": "Albedo"
 	},
 	"animator_Alexander":
@@ -74,12 +74,12 @@
 	},
 	"animator_Asuramaru":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégât(s). NL Gagnez !M! Force, Dextérité et Concentration. Épuisement.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégât(s). NL Gagnez !M! de Force, Dextérité et Concentration. Épuisement.",
 		"NAME": "Asuramaru"
 	},
 	"animator_Azekura":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure deux fois. NL Synergie: Gagnez !M! Armure Renforcée.",
+		"DESCRIPTION": "Gagnez !B! d'Armure deux fois. NL Synergie: Gagnez !M! d'Armure Plaquée.",
 		"NAME": "Azekura"
 	},
 	"animator_Benimaru":
