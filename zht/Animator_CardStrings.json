@@ -744,8 +744,8 @@
 	"animator_Shichika":
 	{
 		"DESCRIPTION": "獲得 !B! 點 格擋 和 1 點 力量 。 NL 同調 : 增加 [#EFC851]虛刀流[] 到你的手牌 。",
-		"NAME": "鑢七花",
-		"UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 和 1 點 力量 。 NL 同調 : 增加 [#EFC851]虛刀流+[] 到你的手牌 。"
+		"EXTENDED_DESCRIPTION": ["虚刀流", "A special 1-cost attack that hits multiple times and Exhaust."],
+		"NAME": "鑢七花"
 	},
 	"animator_ShichikaKyotouryuu":
 	{

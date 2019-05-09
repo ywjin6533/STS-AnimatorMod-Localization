@@ -745,8 +745,8 @@
 	"animator_Shichika":
 	{
 		"DESCRIPTION": "Gain !B! Block. NL Gain 1 Strength. NL Synergy: Add NL [#EFC851]Kyotouryuu[] NL to your hand.",
-		"NAME": "Shichika",
-		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Gain 1 Strength. NL Synergy: Add NL [#EFC851]Kyotouryuu+[] NL to your hand."
+		"EXTENDED_DESCRIPTION": ["Kyotouryuu", "A special 1-cost attack that hits multiple times and Exhaust."],
+		"NAME": "Shichika"
 	},
 	"animator_ShichikaKyotouryuu":
 	{
