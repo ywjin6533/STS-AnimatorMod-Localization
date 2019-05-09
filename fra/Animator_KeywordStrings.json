@@ -131,7 +131,7 @@
 	},
 	{
 		"PROPER_NAME": "Armure Plaquée",
-		"NAMES": ["armure renforcée", "armure_renforcée", "d'armure plaquée", "d'armure_plaquée"],
+		"NAMES": ["d'armure plaquée", "d'armure_plaquée"],
 		"DESCRIPTION": "Gagnez autant #yd'Armure à la fin de votre tour. Réduit de #b1 par dégat non bloqué."
 	},
 	{

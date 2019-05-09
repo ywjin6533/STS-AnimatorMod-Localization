@@ -518,8 +518,8 @@
 	},
 	"animator_KrulTepes":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez 1 Faiblesse. NL Si ca tue un Elite ou un Boss obtenez une NL [#EFC851]Blood [#EFC851]Vial ([#EFC851]*[#FFFFFF]).",
-		"EXTENDED_DESCRIPTION": ["* Note", "La relique sera recu en fin de combat. Une relique max par combat. Vous pouvez avoir plusieur Blood Vial."],
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Faiblesse. NL Si ça tue un Elite ou un Boss obtenez une NL [#EFC851]Blood [#EFC851]Vial ([#EFC851]*[#FFFFFF]).",
+		"EXTENDED_DESCRIPTION": ["* Note", "La relique sera reçu en fin de combat. Une relique max par combat. Vous pouvez avoir plusieurs Blood Vial."],
 		"NAME": "Krul Tepes"
 	},
 	"animator_Kuribayashi":
@@ -1038,7 +1038,7 @@
 	{
 		"DESCRIPTION": "Gagnez 1 Concentration. NL Gagnez 2 Energie. NL Piochez 3 cartes. NL Gain 4 Force. NL [#EFC851]Vérité[].",
 		"NAME": "Vérité",
-		"EXTENDED_DESCRIPTION": ["Vérité","Renplace de manière permanent une carte de votre deck par une #yPlaie. Si vous avez au moins 3 sphères uniques, supprimer toutes les sphères plutot."],
+		"EXTENDED_DESCRIPTION": ["Vérité","Remplacez de manière permanente une carte de votre deck au choix par une #yPlaie. Si vous avez au moins 3 Orbes uniques, supprimez toutes les Orbes plutôt."],
 		"UPGRADE_DESCRIPTION": "Gagnez 2 Concentration. NL Gagnez 3 Energie. NL Piochez 4 cartes. NL Gain 5 Force. NL [#EFC851]Vérité[]."
 	},
 	"animator_Rose":
