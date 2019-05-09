@@ -307,7 +307,7 @@
 	"animator_Emonzaemon":
 	{
 		"DESCRIPTION": "Deal !D! Piercing damage twice. NL Legacy: Obtain NL [#EFC851]Entou [#EFC851]Jyuu.",
-		"EXTENDED_DESCRIPTION": ["Entou Jyuu", "A special 1-Cost #yPower, which costs 0 when upgraded."],
+		"EXTENDED_DESCRIPTION": ["Entou Jyuu", "A special 1-Cost #yPower"],
 		"NAME": "Emonzaemon",
 		"UPGRADE_DESCRIPTION": "Deal !D! Piercing damage twice. NL Legacy: Obtain NL [#EFC851]Entou [#EFC851]Jyuu+."
 	},
