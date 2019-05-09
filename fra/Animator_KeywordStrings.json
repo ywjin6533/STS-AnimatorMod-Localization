@@ -110,7 +110,7 @@
 		"PROPERNAME": "Brûlure"
 	},
 	{
-		"NAMES": ["envenom", "envenimer"],
+		"NAMES": ["envenom", "envenimer", "d'envenimer"],
 		"DESCRIPTION": "Tout dégats non bloqué, inflige #b1 Poison par coup.",
 		"PROPERNAME": "Envenimer"
 	},
@@ -131,7 +131,7 @@
 	},
 	{
 		"PROPER_NAME": "Armure Plaquée",
-		"NAMES": ["armure renforcée", "armure_renforcée", "armure plaquée", "armure_plaquée"],
+		"NAMES": ["armure renforcée", "armure_renforcée", "d'armure plaquée", "d'armure_plaquée"],
 		"DESCRIPTION": "Gagnez autant #yd'Armure à la fin de votre tour. Réduit de #b1 par dégat non bloqué."
 	},
 	{
@@ -167,7 +167,7 @@
 	{
 		"PROPER_NAME": "Couteau de jet",
 		"NAMES": ["couteau de jet", "couteau_de_jet", "couteaux de jet", "couteaux_de_jet"],
-		"DESCRIPTION": "Les couteaux de jets sont des cartes d' #yAttaque qui coûtent 0 appliquant un debuff et s' #yépuisent."
+		"DESCRIPTION": "Les couteaux de jets sont des cartes d'Attaque qui coûtent 0 appliquant un debuff et s'épuisent."
 	},
 	{
 		"PROPER_NAME": "Découvrir",
