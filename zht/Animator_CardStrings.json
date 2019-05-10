@@ -1013,7 +1013,7 @@
 	},
 	"animator_ShikizakiKiki":
 	{
-		"DESCRIPTION": "抽 !M! 張牌 。 NL 在本次戰鬥中，使你手牌中的所有 [#EFC851]攻擊牌[] 造成的傷害翻倍 。",
+		"DESCRIPTION": "抽 !M! 張牌 。 NL 升級你手中的所有牌 ， 在其餘的戰鬥中加倍傷害 。",
 		"NAME": "Shikizaki Kiki"
 	},
 	"animator_Chomusuke":

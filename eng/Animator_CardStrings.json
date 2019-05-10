@@ -745,7 +745,7 @@
 	"animator_Shichika":
 	{
 		"DESCRIPTION": "Gain !B! Block. NL Gain 1 Strength. NL Synergy: Add NL [#EFC851]Kyotouryuu[] NL to your hand.",
-		"EXTENDED_DESCRIPTION": ["Kyotouryuu", "A special 1-cost attack that hits multiple times and Exhaust."],
+		"EXTENDED_DESCRIPTION": ["Kyotouryuu", "A special 1-cost #yAttack that hits multiple times and #yExhausts."],
 		"NAME": "Shichika"
 	},
 	"animator_ShichikaKyotouryuu":
@@ -1015,7 +1015,7 @@
 	},
 	"animator_ShikizakiKiki":
 	{
-		"DESCRIPTION": "Draw !M! cards. NL Double the damage of all [#EFC851]Attacks in your hand for the rest of this combat.",
+		"DESCRIPTION": "Draw !M! cards. NL Upgrade all cards in your hand and double their damage for the rest of this combat.",
 		"NAME": "Shikizaki Kiki"
 	},
 	"animator_Chomusuke":

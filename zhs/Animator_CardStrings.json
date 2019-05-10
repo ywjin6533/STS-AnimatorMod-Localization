@@ -1015,7 +1015,7 @@
 	},
 	"animator_ShikizakiKiki":
 	{
-		"DESCRIPTION": "抽 !M! 张牌 。 NL 在本次战斗中，使你手牌中的所有  [#EFC851]攻击牌[] 造成的伤害翻倍 。",
+		"DESCRIPTION": "抽 !M! 张牌 。 NL 升级你手中的所有牌 ， 在其余的战斗中加倍伤害 。",
 		"NAME": "四季崎 記紀"
 	},
 	"animator_Chomusuke":
