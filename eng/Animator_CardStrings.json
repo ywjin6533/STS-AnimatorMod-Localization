@@ -13,9 +13,8 @@
 	},
 	"animator_AcuraTooru":
 	{
-		"DESCRIPTION": "Deal !D! damage !M! times. Next turn, draw 1 card. Synergy: Add !SV! Throwing-Knife to your hand.",
-		"NAME": "Tooru",
-		"UPGRADE_DESCRIPTION": "Deal !D! damage !M! times. Next turn, draw 1 card. Synergy: Add !SV! Throwing-Knives to your hand."
+		"DESCRIPTION": "Deal !D! damage NL twice. Add !SV! Throwing-Knives to your hand. Synergy: Cycle 1 card.",
+		"NAME": "Tooru"
 	},
 	"animator_Add":
 	{
@@ -432,10 +431,9 @@
 	},
 	"animator_Guy":
 	{
-		"DESCRIPTION": "Draw !M! card. NL Discard !M! card. NL Synergy : Gain [#EFC851]Strategic[] [#EFC851]Information[].",
-		"EXTENDED_DESCRIPTION": ["Strategic Information", "Once per turn, when a card is discarded, gain #b2 Block and deal #b2 damage to the lowest health enemy. Can be used multiple times per turn when stacked."],
+		"DESCRIPTION": "Draw !M! card. NL Discard !M! card. NL Synergy: Next turn, gain !SV! Block.",
 		"NAME": "Guy",
-		"UPGRADE_DESCRIPTION": "Draw !M! cards. NL Discard !M! cards. NL Synergy : Gain [#EFC851]Strategic[] [#EFC851]Information[]."
+		"UPGRADE_DESCRIPTION": "Draw !M! cards. NL Discard !M! cards. NL Synergy: Next turn, gain !SV! Block."
 	},
 	"animator_Hakurou":
 	{
@@ -491,7 +489,7 @@
 	},
 	"animator_Jibril":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Increase this damage by !M! % for each [#EFC851]Debuff on the enemy.",
+		"DESCRIPTION": "Deal !D! damage. NL Draw 1 card for each unique Orb you have. Synergy: Gain !M! temporary Focus.",
 		"NAME": "Jibril"
 	},
 	"animator_Kaijin":
