@@ -671,7 +671,7 @@
 	},
 	"animator_Priestess":
 	{
-		"DESCRIPTION": "Gain !B! Temp._HP ([#EFC851]*[]). Synergy: Gain !M! [#EFC851]Regeneration[], can activate !SV! times.",
+		"DESCRIPTION": "Gain !B! Temp._HP ([#EFC851]*[]). Synergy: Gain !M! [#EFC851]Regeneration[], can activate !SV! time/s.",
 		"EXTENDED_DESCRIPTION": ["* Note", "Affected by Block modifiers."],
 		"NAME": "'Priestess'"
 	},
