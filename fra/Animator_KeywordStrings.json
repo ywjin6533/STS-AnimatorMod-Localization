@@ -145,6 +145,11 @@
 		"DESCRIPTION": "Les dégats de cette carte augmentent avec la #yDexterité."
 	},
 	{
+		"PROPER_NAME": "Jeteur de Sorts",
+		"NAMES": ["Jeteur de Sorts", "Jeteur_de_Sorts", "Jeteuse de Sorts", "Jeteuse_de_Sorts"],
+		"DESCRIPTION": "Les dégâts de cette carte augmentent avec la #yConcentration."
+	},
+	{
 		"PROPER_NAME": "Rechargement",
 		"NAMES": ["rechargement"],
 		"DESCRIPTION": "Défausse n'importe quel nombre de cartes, ative cet effet autant de fois."

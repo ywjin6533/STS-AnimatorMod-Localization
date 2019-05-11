@@ -13,7 +13,7 @@
 	},
 	"animator_AcuraTooru":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 !M! 次 。 下一輪 ， 抽 1 張牌 。 同調 : 增加 !SV! 張 飛刃 到手牌 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 2 次 。增加 !SV! 張 飛刃 到手牌 。同調 : 循環 1 張手牌。",
 		"NAME": "托魯"
 	},
 	"animator_Add":
@@ -24,8 +24,7 @@
 	},
 	"animator_Ain":
 	{
-		"DESCRIPTION": "[#EFC851]施法者[] 。 對所有敵人造成 !D! 傷害 !M! 次 。 獲得 1 點 集中 。",
-		"EXTENDED_DESCRIPTION": ["施法者", "此牌的傷害會受到集中影響 。"],
+		"DESCRIPTION": "施法者 。 對所有敵人造成 !D! 傷害 !M! 次 。 獲得 1 點 集中 。",
 		"NAME": "艾因"
 	},
 	"animator_Ainz":
@@ -429,8 +428,7 @@
 	},
 	"animator_Guy":
 	{
-		"DESCRIPTION": "抽 !M! 張牌 。 丟棄 !M! 張牌 。 同調 : 獲得 1 點 [#EFC851]戰略信息[] 。",
-		"EXTENDED_DESCRIPTION": ["戰略信息", "當一張卡被丟棄時，獲得 #b2 點 格擋 ， 對生命值最低的敵人造成 #b2 點 傷害 ， 並損失1層效果 。 該效果每回合開始充能一次"],
+		"DESCRIPTION": "抽 !M! 張牌 。 NL 丟棄 !M! 張牌 。 NL 同調 : 下一輪，獲得 !SV! 點 護甲。",
 		"NAME": "奇伊"
 	},
 	"animator_Hakurou":
@@ -1013,7 +1011,7 @@
 	},
 	"animator_ShikizakiKiki":
 	{
-		"DESCRIPTION": "抽 !M! 張牌 。 NL 升級你手中的所有牌 ， 在其餘的戰鬥中加倍傷害 。",
+		"DESCRIPTION": "抽 !M! 張牌 。 NL 升級你手中的所有牌 ， 然後將它們的傷害翻倍 。",
 		"NAME": "Shikizaki Kiki"
 	},
 	"animator_Chomusuke":

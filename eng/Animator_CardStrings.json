@@ -24,8 +24,7 @@
 	},
 	"animator_Ain":
 	{
-		"DESCRIPTION": "[#EFC851]Spellcaster. NL Deal !D! damage to ALL enemies !M! times. NL Gain 1 Focus.",
-		"EXTENDED_DESCRIPTION": ["Spellcaster", "This card's damage also scales with Focus."],
+		"DESCRIPTION": "Spellcaster. NL Deal !D! damage to ALL enemies !M! times. NL Gain 1 Focus.",
 		"NAME": "Ain"
 	},
 	"animator_Ainz":
@@ -489,7 +488,7 @@
 	},
 	"animator_Jibril":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Draw 1 card for each unique Orb you have. Synergy: Gain !M! temporary Focus.",
+		"DESCRIPTION": "Deal !D! damage. NL Draw 1 card for each unique Orb you have. NL Synergy: Gain !M! temporary Focus.",
 		"NAME": "Jibril"
 	},
 	"animator_Kaijin":

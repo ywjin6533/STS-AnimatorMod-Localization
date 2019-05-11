@@ -13,9 +13,8 @@
 	},
 	"animator_AcuraTooru":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) !M! fois. Au prochain tour, piochez une carte. Synergie: Ajoutez !SV! Couteau_de_Jet à votre main.",
-		"NAME": "Tooru",
-		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) !M! fois. Au prochain tour, piochez une carte. Synergie: Ajoutez !SV! Couteaux_de_Jet à votre main."
+		"DESCRIPTION": "Infligez !D! dégât(s) 2 fois. Ajoutez !SV! Couteaux_de-Jet à votre main. Synergie: Recyclez une carte.",
+	"NAME": "Tooru"
 	},
 	"animator_Add":
 	{
@@ -25,8 +24,7 @@
 	},
 	"animator_Ain":
 	{
-		"DESCRIPTION": "[#EFC851]Jeteur [#EFC851]de [#EFC851]sorts. NL Infligez !D! dégât(s) à TOUS les ennemis !M! fois. Gagnez 1 de Concentration.",
-		"EXTENDED_DESCRIPTION": ["Jeteur de sorts", "Le(s) dégât(s) de cette carte augmente(nt) avec la Concentration."],
+		"DESCRIPTION": "Jeteur_de_Sorts. NL Infligez !D! dégât(s) à TOUS les ennemis !M! fois. Gagnez 1 de Concentration.",
 		"NAME": "Ain"
 	},
 	"animator_Ainz":
@@ -432,10 +430,9 @@
 	},
 	"animator_Guy":
 	{
-		"DESCRIPTION": "Piochez !M! carte(s). NL Défausser !M! carte(s). NL Synergie : Gagnez [#EFC851]Strategic[] [#EFC851]Information[].",
-		"EXTENDED_DESCRIPTION": ["Strategic Information", "Une fois par tour, quand une carte est défaussé, Gagnez #b2 d'Armure et Infligez #b2 dégât(s) à l'ennemi avec le moins de PV. Multipliable"],
+		"DESCRIPTION": "Piochez !M! carte. NL Défaussez !M! carte. NL Synergie : Au prochain tour, gagnez !SV! d'Armure.",
 		"NAME": "Guy",
-		"UPGRADE_DESCRIPTION": "Piochez !M! carte(s). NL Défausser !M! carte(s). NL Synergie : Gagnez [#EFC851]Strategic[] [#EFC851]Information[]."
+		"UPGRADE_DESCRIPTION": "Piochez !M! cartes. NL Défaussez !M! cartes. NL Synergie : Au prochain tour, gagnez !SV! d'Armure."
 	},
 	"animator_Hakurou":
 	{
@@ -445,9 +442,9 @@
 	"animator_HigakiRinne":
 	{
 		"DESCRIPTION": "Changeforme. NL Agis de manière imprévisible...",
-		"EXTENDED_DESCRIPTION": ["What Happened?"],
+		"EXTENDED_DESCRIPTION": ["Que s'est-il passé?"],
 		"NAME": "Higaki Rinne",
-		"UPGRADE_DESCRIPTION": "Changeforme. NL Agis de manière imprévisible..."
+		"UPGRADE_DESCRIPTION": "Changeforme. NL Agis de manière drôlement imprévisible..."
 	},
 	"animator_HighElfArcher":
 	{
@@ -491,7 +488,7 @@
 	},
 	"animator_Jibril":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Augmentez ces dégâts de !M! % pour chaque [#EFC851]Debuff de l'ennemi.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Piochez une carte pour chaque Orbe unique que vous avez. NL Synergie: Gagnez !M! de Concentration temporaire",
 		"NAME": "Jibril"
 	},
 	"animator_Kaijin":
@@ -1016,7 +1013,7 @@
 	},
 	"animator_ShikizakiKiki":
 	{
-		"DESCRIPTION": "Piochez !M! carte(s). NL Améliorez toutes les cartes de votre main et doublez leurs dégâts pour le reste du combat.",
+		"DESCRIPTION": "Piochez !M! carte(s). NL Améliorez toutes les cartes de votre main et doublez leurs dégâts pour le restant du combat.",
 		"NAME": "Shikizaki Kiki"
 	},
 	"animator_Chomusuke":

@@ -13,7 +13,7 @@
 	},
 	"animator_AcuraTooru":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 !M! 次 。 下一轮 ， 抽 1 张牌 。 同调 : 增加 !SV! 张 飞刃 到你的手牌 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 2 次 。 添加 !SV! 飞刃 到你的手牌。 同调 : 循环 1 张手牌。",
 		"NAME": "托鲁"
 	},
 	"animator_Add":
@@ -24,8 +24,7 @@
 	},
 	"animator_Ain":
 	{
-		"DESCRIPTION": "[#EFC851]施法者[] 。 对所有敌人造成 !D! 点 伤害 !M! 次 。 获得 1 点 集中 。",
-		"EXTENDED_DESCRIPTION": ["施法者", "此牌的伤害受 集中  的影响。"],
+		"DESCRIPTION": "施法者 。 对所有敌人造成 !D! 点 伤害 !M! 次 。 获得 1 点 集中 。",
 		"NAME":"艾因"
 	},
 	"animator_Ainz":
@@ -429,8 +428,7 @@
 	},
 	"animator_Guy":
 	{
-		"DESCRIPTION": "抽 !M! 张牌 。 NL 丢弃 !M! 张牌 。 NL 同调 : 获得 1 点 [#EFC851]战略信息[] 。",
-		"EXTENDED_DESCRIPTION": ["战略信息", "当一张卡被丢弃时， 获得 #b2 点 格挡 ， 对生命值最低的敌人造成 #b2 点 伤害， 并 损失1层效果。该效果每回合开始充能一次"],
+		"DESCRIPTION": "抽 !M! 张牌 。 NL 丢弃 !M! 张牌 。 NL 同调 : 下一轮，获得 !SV! 点 护甲。",
 		"NAME": "奇伊"
 	},
 	"animator_Hakurou":
@@ -487,7 +485,7 @@
 	},
 	"animator_Jibril":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 造成 !M! ％ 的额外伤害 ， 乘以敌人的减益效果数 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 為每1種不同充能球抽1張牌。NL 同調 ：獲得 !SV! 點臨時 集中",
 		"NAME": "吉普莉尔"
 	},
 	"animator_Kaijin":
@@ -1015,7 +1013,7 @@
 	},
 	"animator_ShikizakiKiki":
 	{
-		"DESCRIPTION": "抽 !M! 张牌 。 NL 升级你手中的所有牌 ， 在其余的战斗中加倍伤害 。",
+		"DESCRIPTION": "抽 !M! 张牌 。 NL 升级你手中的所有牌 ， 然后将它们的伤害翻倍 。",
 		"NAME": "四季崎 記紀"
 	},
 	"animator_Chomusuke":
