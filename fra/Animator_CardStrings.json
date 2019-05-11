@@ -436,8 +436,9 @@
 	},
 	"animator_Hakurou":
 	{
-		"DESCRIPTION": "Artiste_martial NL Infligez !D! dégât(s) !M! fois. NL [#EFC851]Pioché: Gagnez !SV! Dextérité Temporaire.",
-		"NAME": "Hakurou"
+		"DESCRIPTION": "Artiste_martial. Infligez !D! dégât(s) !M! fois. NL [#EFC851]Pioché: Gagnez !SV! Dextérité Temporaire.",
+		"NAME": "Hakurou",
+		"UPGRADE_DESCRIPTION": "Artiste_martial. Infligez !D! dégât(s) !M! fois. Piochez et améliorez une carte. [#EFC851]Pioché: Gagnez !SV! Dextérité Temporaire."
 	},
 	"animator_HigakiRinne":
 	{
