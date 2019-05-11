@@ -85,7 +85,7 @@
 		"PROPERNAME": "Overrun"
 	},
 	{
-		"DESCRIPTION": "Tant que le compter est supérieur à 0,NL active l'effet puis diminue de 1. Resets à chaque fin de combat.",
+		"DESCRIPTION": "Tant que le compter est supérieur à 0, NL active l'effet puis diminue de 1. Resets à chaque fin de combat.",
 		"NAMES": ["boost"],
 		"PROPERNAME": "Boost"
 	},

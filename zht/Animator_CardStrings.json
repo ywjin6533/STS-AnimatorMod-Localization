@@ -13,7 +13,7 @@
 	},
 	"animator_AcuraTooru":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 2 次 。增加 !SV! 張 飛刃 到手牌 。同調 : 循環 1 張手牌。",
+		"DESCRIPTION": "造成 !D! 點 傷害 2 次 。增加 !SV! 張 飛刃 到手牌 。同調 : 循環 !M! 張手牌。",
 		"NAME": "托魯"
 	},
 	"animator_Add":
@@ -87,7 +87,7 @@
 	},
 	"animator_Berserker":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 壓倒 : 獲得 [E] NL 以這張牌擊殺敵人時， 獲得 [E] 併 獲得 !B! 點 格擋 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 如果敵人擁有 max hp 並 且這可以造成未受阻擋的傷害， 獲得 !B! 點 格擋 。",
 		"NAME": "Berserker"
 	},
 	"animator_Biyorigo":
@@ -434,7 +434,8 @@
 	"animator_Hakurou":
 	{
 		"DESCRIPTION": "武術家 。 造成 !D! 點傷害 !M! 次 。 NL [#EFC851]被抽到時[] : 獲得 !SV! 點 臨時 敏捷 。",
-		"NAME": "白老"
+		"NAME": "白老",
+		"UPGRADE_DESCRIPTION": "武術家 。 造成 !D! 點傷害 !M! 次 。 抽 1 張牌 並 升級 。 NL [#EFC851]被抽到時[] : 獲得 !SV! 點 臨時 敏捷 。"
 	},
 	"animator_HigakiRinne":
 	{
@@ -460,10 +461,10 @@
 	},
 	"animator_HououinKyouma":
 	{
-		"DESCRIPTION": "選擇 !M! 張本場戰鬥中使用過的牌 ， 並將它們的複制加入到手牌中 [#EFC851]*[] 。 抹除 。",
+		"DESCRIPTION": "選擇 1 張本場戰鬥中使用過的牌 ， 並將它們的複制加入到手牌中 [#EFC851]*[] 。 抹除 。",
 		"EXTENDED_DESCRIPTION": ["* 注", "你不能複制這張牌 ， 因為這是石頭門的選擇 。"],
 		"NAME": "鳳凰院兇真",
-		"UPGRADE_DESCRIPTION": "選擇 !M! 張本場戰鬥中使用過的牌 ， 並將它們的複制加入到手牌中 [#EFC851]*[] 。 抹除 。"
+		"UPGRADE_DESCRIPTION": "選擇 1 張本場戰鬥中使用過的牌 ， 並將它們的複制加入到手牌中 [#EFC851]*[] 。 在這一輪中， 費用減少 1 張 。 抹除 。"
 	},
 	"animator_Illya":
 	{
@@ -575,12 +576,12 @@
 	},
 	"animator_Mikaela":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 給予 !M! 層 中毒 。 你可以 從你的棄牌堆中選擇並 消耗 一張牌 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 給予 !M! 層 中毒 。 從你的棄牌堆中選擇並 消耗 一張牌 。",
 		"NAME": "米迦爾"
 	},
 	"animator_Millim":
 	{
-		"DESCRIPTION": "多重升級 。 [#EFC851]唯一[] NL 造成 !D! 點 傷害 。 NL 同調 : 獲得 [E] 。",
+		"DESCRIPTION": "多重升級 。 [#EFC851]唯一[] NL 造成 !D! 點 傷害 。 抽 !M! 張牌  NL 同調 : 獲得 [E] 。",
 		"EXTENDED_DESCRIPTION": ["唯一", "卡組中只能存在一張該牌 ， 額外獲得的同名牌會 #y升級 這張牌 。"],
 		"NAME": "米莉姆"
 	},

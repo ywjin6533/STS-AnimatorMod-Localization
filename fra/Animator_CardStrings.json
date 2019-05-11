@@ -13,8 +13,8 @@
 	},
 	"animator_AcuraTooru":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) 2 fois. Ajoutez !SV! Couteaux_de-Jet à votre main. Synergie: Recyclez une carte.",
-	"NAME": "Tooru"
+		"DESCRIPTION": "Infligez !D! dégât(s) 2 fois. Ajoutez !SV! Couteaux_de_Jet à votre main. Synergie: Recyclez !M! carte(s).",
+		"NAME": "Tooru"
 	},
 	"animator_Add":
 	{
@@ -87,7 +87,7 @@
 	},
 	"animator_Berserker":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Overrun: Gagnez [E]. NL Si ca tue un ennemi, Gagnez [E] et !B! d'Armure.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Si l'ennemi a Max HP et que cela a causé des dégâts non bloqués, gagnez !B! d'Armure.",
 		"NAME": "Berserker"
 	},
 	"animator_Biyorigo":
@@ -449,8 +449,7 @@
 	"animator_HighElfArcher":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s) Perçant. Boost !SV! : Piochez !M! carte(s).",
-		"NAME": "'Archère Haut Elfe'",
-		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) Perçant. Boost !SV! : Piochez !M! carte(s)."
+		"NAME": "'Archère Haut Elfe'"
 	},
 	"animator_HiiragiShinya":
 	{
@@ -465,10 +464,10 @@
 	},
 	"animator_HououinKyouma":
 	{
-		"DESCRIPTION": "Choisissez !M! carte(s) que vous avez joué pour ce combat et ajouté une copie à votre main ([#EFC851]*[#FFFFFF]). Purge.",
+		"DESCRIPTION": "Choisissez 1 carte(s) que vous avez joué pour ce combat et ajouté une copie à votre main ([#EFC851]*[#FFFFFF]). Purge.",
 		"EXTENDED_DESCRIPTION": ["* Note", "Vous ne pouvez choisir une copie de cette carte. Cela créerai un Paradox"],
 		"NAME": "Hououin Kyouma",
-		"UPGRADE_DESCRIPTION": "Choisissez !M! carte(s) que vous avez joué pour ce combat et ajouté une copie à votre main([#EFC851]*[#FFFFFF]). Purge."
+		"UPGRADE_DESCRIPTION": "Choisissez 1 carte(s) que vous avez joué pour ce combat et ajouté une copie à votre main([#EFC851]*[#FFFFFF]), elle coûte 1 en moins ce tour. Purge."
 	},
 	"animator_Illya":
 	{
@@ -576,12 +575,12 @@
 	},
 	"animator_Mikaela":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! Poison. NL Epuisé une carte choisi de votre Défausse.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! Poison. NL Epuisé une carte de votre Défausse.",
 		"NAME": "Mikaela"
 	},
 	"animator_Millim":
 	{
-		"DESCRIPTION": "Augmentable. [#EFC851]Unique. NL Infligez !D! dégât(s). NL Synergie: Gagnez [E].",
+		"DESCRIPTION": "Augmentable. [#EFC851]Unique. NL Infligez !D! dégât(s). NL Piochez !M! Cartes. NL Synergie: Gagnez [E].",
 		"EXTENDED_DESCRIPTION": ["Unique", "Vous ne pouvez avoir qu'une copie de cettte carte, les autre copie #yUpgraded cet carte à la place."],
 		"NAME": "Millim"
 	},

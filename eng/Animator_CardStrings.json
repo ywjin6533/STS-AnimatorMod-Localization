@@ -13,8 +13,9 @@
 	},
 	"animator_AcuraTooru":
 	{
-		"DESCRIPTION": "Deal !D! damage NL twice. Add !SV! Throwing-Knives to your hand. Synergy: Cycle 1 card.",
-		"NAME": "Tooru"
+		"DESCRIPTION": "Deal !D! damage NL twice. Add !SV! Throwing-Knives to your hand. Synergy: Cycle !M! card.",
+		"NAME": "Tooru",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage NL twice. Add !SV! Throwing-Knives to your hand. Synergy: Cycle !M! cards."
 	},
 	"animator_Add":
 	{
@@ -87,7 +88,7 @@
 	},
 	"animator_Berserker":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Overrun: Gain [E]. NL If this kills an enemy, gain [E] and !B! Block.",
+		"DESCRIPTION": "Deal !D! damage. NL If the enemy had Max HP and this deals unblocked damage, gain !B! Block.",
 		"NAME": "Berserker"
 	},
 	"animator_Biyorigo":
@@ -437,7 +438,8 @@
 	"animator_Hakurou":
 	{
 		"DESCRIPTION": "Martial_Artist. Deal !D! damage !M! times. NL [#EFC851]Drawn: Gain !SV! Temporary Dexterity.",
-		"NAME": "Hakurou"
+		"NAME": "Hakurou",
+		"UPGRADE_DESCRIPTION": "Martial_Artist. Deal !D! damage !M! times. Draw and Upgrade a card. NL [#EFC851]Drawn: Gain !SV! Temporary Dexterity."
 	},
 	"animator_HigakiRinne":
 	{
@@ -449,8 +451,7 @@
 	"animator_HighElfArcher":
 	{
 		"DESCRIPTION": "Deal !D! Piercing damage. Boost !SV! : Draw !M! card.",
-		"NAME": "'High Elf Archer'",
-		"UPGRADE_DESCRIPTION": "Deal !D! Piercing damage. Boost !SV! : Draw !M! cards."
+		"NAME": "'High Elf Archer'"
 	},
 	"animator_HiiragiShinya":
 	{
@@ -465,10 +466,10 @@
 	},
 	"animator_HououinKyouma":
 	{
-		"DESCRIPTION": "Choose !M! card you played this combat and add a copy of it to your hand ([#EFC851]*[#FFFFFF]). Purge.",
+		"DESCRIPTION": "Choose 1 card you played this combat and add a copy of it to your hand ([#EFC851]*[#FFFFFF]). Purge.",
 		"EXTENDED_DESCRIPTION": ["* Note", "You cannot select another copy of this card. Because that would cause a paradox."],
 		"NAME": "Hououin Kyouma",
-		"UPGRADE_DESCRIPTION": "Choose !M! cards you played this combat and add a copy of them to your hand ([#EFC851]*[#FFFFFF]). Purge."
+		"UPGRADE_DESCRIPTION": "Choose 1 card you played this combat and add a copy of it to your hand ([#EFC851]*[#FFFFFF]), it costs 1 less this turn. Purge."
 	},
 	"animator_Illya":
 	{
@@ -477,7 +478,7 @@
 	},
 	"animator_ItamiYouji":
 	{
-		"DESCRIPTION": "Draw !M! cards. NL Deal !D! damage for each card drawn. Synergy: Draw 1 more card.",
+		"DESCRIPTION": "Draw !M! cards. NL Deal !D! damage for each card drawn. Synergy: Draw 1 NL additional card.",
 		"NAME": "Itami Youji"
 	},
 	"animator_IzunaHatsuse":
@@ -576,12 +577,12 @@
 	},
 	"animator_Mikaela":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Poison. NL You may choose and Exhaust a card in your discard pile.",
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Poison. NL Exhaust a card in your discard pile.",
 		"NAME": "Mikaela"
 	},
 	"animator_Millim":
 	{
-		"DESCRIPTION": "Augmentable. [#EFC851]Unique. NL Deal !D! damage. NL Synergy: Gain [E].",
+		"DESCRIPTION": "Augmentable. [#EFC851]Unique. NL Deal !D! damage. NL Draw !M! cards. NL Synergy: Gain [E].",
 		"EXTENDED_DESCRIPTION": ["Unique", "You can only have 1 copy of this card in your deck, additional copies will #yUpgrade this card instead."],
 		"NAME": "Millim"
 	},
