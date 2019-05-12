@@ -356,7 +356,7 @@
 	"animator_Fredrika":
 	{
 		"DESCRIPTION": "Changeforme. Gagnez !B! d'Armure pour chaque ennemi. Rappel: Retourne dans votre main et choisissez une nouvelle forme ce tour.",
-		"EXTENDED_DESCRIPTION": 
+		"EXTENDED_DESCRIPTION":
 		[
 			"Changeforme. NL Piochez 1 card.",
 			"Changeforme. NL Infligez !D! dégât(s) deux fois. Gagnez 2 Métalisation.",
@@ -549,9 +549,15 @@
 	},
 	"animator_LeleiLaLalena":
 	{
-		"DESCRIPTION": "[#EFC851]Canalisez !M! Givre. NL Synergie: Appliquez !SV! Faiblesse à TOUS les ennemis.",
+		"DESCRIPTION": "Canalisez !M! Givre. NL Synergie: Appliquez !SV! Faiblesse à TOUS les ennemis.",
 		"NAME": "Lelei La Lalena",
-		"UPGRADE_DESCRIPTION": "[#EFC851]Canalisez !M! Givre. NL Recyclez 1 carte. NL Synergie: Appliquez !SV! Faiblesse à TOUS les ennemis."
+		"UPGRADE_DESCRIPTION": "Canalisez !M! Givre. NL Recyclez 1 carte. NL Synergie: Appliquez !SV! Faiblesse à TOUS les ennemis."
+	},
+	"animator_Lelouch":
+	{
+		"DESCRIPTION": "Épuiser toutes les [#EFC851]Attaques dans votre main. Ce tour, l'ennemi va s'attaquer. NL Purge.",
+		"NAME": "Lelouch",
+		"UPGRADE_DESCRIPTION": "Épuiser toutes les [#EFC851]Attaques dans votre main. Ce tour, tous les ennemis s’attaqueront. NL Purge."
 	},
 	"animator_LimeBell":
 	{
@@ -1003,7 +1009,7 @@
 	"animator_HiiragiTenri":
 	{
 		"DESCRIPTION": "Gagnez !M! Temp._HP. NL Jouez et Épuisez NL TOUTES les cartes de votre Défausse.",
-		
+
 		"NAME": "Tenri Hiiragi"
 	},
 	"animator_SirTouchMe":
@@ -1035,7 +1041,7 @@
 	{
 		"DESCRIPTION": "Gagnez 1 Concentration. NL Gagnez 2 Energie. NL Piochez 3 cartes. NL Gagnez 4 Force. NL [#EFC851]Vérité[].",
 		"NAME": "Vérité",
-		"EXTENDED_DESCRIPTION": ["Vérité"," Si vous avez au moins 3 Orbes uniques, supprimez toutes vos Orbes. Sinon, remplacez de manière permanente une carte au choix de votre deck par une #yPlaie."],
+		"EXTENDED_DESCRIPTION": ["Vérité", " Si vous avez au moins 3 Orbes uniques, supprimez toutes vos Orbes. Sinon, remplacez de manière permanente une carte au choix de votre deck par une #yPlaie."],
 		"UPGRADE_DESCRIPTION": "Gagnez 2 Concentration. NL Gagnez 3 Energie. NL Piochez 4 cartes. NL Gagnez 5 Force. NL [#EFC851]Vérité[]."
 	},
 	"animator_Rose":

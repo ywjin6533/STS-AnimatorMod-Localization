@@ -357,7 +357,7 @@
 	"animator_Fredrika":
 	{
 		"DESCRIPTION": "Shapeshifter. Gain !B! Block for each enemy. Recall: Return to your hand and choose a new form this turn.",
-		"EXTENDED_DESCRIPTION": 
+		"EXTENDED_DESCRIPTION":
 		[
 			"Shapeshifter. NL Draw 1 card.",
 			"Shapeshifter. NL Deal !D! damage twice. Gain 2 Metallicize.",
@@ -516,12 +516,12 @@
 	},
 	"animator_KrulTepes":
 	{
-	"DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. NL If this card kills an Elite or Boss, obtain a NL [#EFC851]Blood [#EFC851]Vial ([#EFC851]*[#FFFFFF]).",
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. NL If this card kills an Elite or Boss, obtain a NL [#EFC851]Blood [#EFC851]Vial ([#EFC851]*[#FFFFFF]).",
 		"EXTENDED_DESCRIPTION": ["* Note", "The relic will drop at the end of combat. You will only receive 1 relic in multi-elite combats. You can equip multiple Blood Vials."],
 		"NAME": "Krul Tepes"
 	},
 	"animator_Kuribayashi":
-{
+	{
 		"DESCRIPTION": "Deal !D! damage. NL Apply !SV! Choked. NL Synergy: The enemy loses !M! Strength this turn.",
 		"NAME": "Kuribayashi"
 	},
@@ -553,6 +553,12 @@
 		"DESCRIPTION": "[#EFC851]Channel !M! Frost. NL Synergy: Apply !SV! Weak to ALL enemies.",
 		"NAME": "Lelei La Lalena",
 		"UPGRADE_DESCRIPTION": "[#EFC851]Channel !M! Frost. NL Cycle 1 card. NL Synergy: Apply !SV! Weak to ALL enemies."
+	},
+	"animator_Lelouch":
+	{
+		"DESCRIPTION": "Exhaust ALL [#EFC851]Attacks in your hand. The enemy will attack itself this turn. NL Purge.",
+		"NAME": "Lelouch",
+		"UPGRADE_DESCRIPTION": "Exhaust ALL [#EFC851]Attacks in your hand. ALL enemies will attack themselves this turn. NL Purge."
 	},
 	"animator_LimeBell":
 	{
@@ -1043,7 +1049,7 @@
 	{
 		"DESCRIPTION": "Draw !M! cards. Reload: Deal !D! Piercing damage. If the enemy dies, deal !SV! damage to ALL enemies.",
 		"NAME": "Rose"
-	},	
+	},
 	"animator_Veldora":
 	{
 		"DESCRIPTION": "Gain !SV! Focus. NL Evoke ALL orbs !M! times. [#EFC851]Drawn: Channel 2 random orbs.",

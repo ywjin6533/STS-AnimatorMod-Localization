@@ -501,7 +501,7 @@
 	"animator_Kira":
 	{
 		"DESCRIPTION": "虛無 。 敵人很快就會死去 [#EFC851]*[] 。 NL 獲得 !SV! 層 易傷 。 NL 消耗 。",
-		"EXTENDED_DESCRIPTION": 
+		"EXTENDED_DESCRIPTION":
 		[
 			"* 注", "這張卡片的文字會在針對敵人時發生變化 ， 生命值較多的敵人將會存活更長時間 。 忽略 #y人工製品 。",
 			"虛無 。 敵人將在 # 回合後死亡 。 NL 獲得 !M! 層 易傷 。 NL 消耗 。"
@@ -552,6 +552,12 @@
 		"DESCRIPTION": "獲得 !M! 個冰霜充能球 。 NL 同調 : 給予所有敵人 !SV! 層 虛弱 。",
 		"NAME": "蕾萊·拉·列娜",
 		"UPGRADE_DESCRIPTION": "獲得 !M! 個冰霜充能球 。 NL 循環 1 張牌 。 NL 同調 : 給予所有敵人 !SV! 層 虛弱 。"
+	},
+	"animator_Lelouch":
+	{
+		"DESCRIPTION": "消耗 你手中的所有攻擊卡。 這一輪 ， 敵人會攻擊自己 。 NL 抹除 。",
+		"NAME": "Lelouch",
+		"UPGRADE_DESCRIPTION": "消耗 你手中的所有攻擊卡。 這一輪 ， 所有敵人都會攻擊自己 。 NL 抹除 。"
 	},
 	"animator_LimeBell":
 	{
