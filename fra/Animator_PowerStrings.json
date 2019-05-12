@@ -92,7 +92,7 @@
 	},
 	"animator_GeassPower":
 	{
-		"DESCRIPTIONS": ["Ce tour l'ennemi va attaquer il-même."],
+		"DESCRIPTIONS": ["Ce tour l'ennemi va s'attaquer lui-même."],
 		"NAME": "Geass"
 	},
 	"animator_GuildGirlPower":

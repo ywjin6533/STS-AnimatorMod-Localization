@@ -555,9 +555,9 @@
 	},
 	"animator_Lelouch":
 	{
-		"DESCRIPTION": "Épuiser toutes les [#EFC851]Attaques dans votre main. Ce tour, l'ennemi va s'attaquer. NL Purge.",
+		"DESCRIPTION": "Épuise toutes les [#EFC851]Attaques dans votre main. Ce tour, l'ennemi va s'attaquer. NL Purge.",
 		"NAME": "Lelouch",
-		"UPGRADE_DESCRIPTION": "Épuiser toutes les [#EFC851]Attaques dans votre main. Ce tour, tous les ennemis s’attaqueront. NL Purge."
+		"UPGRADE_DESCRIPTION": "Épuise toutes les [#EFC851]Attaques dans votre main. Ce tour, tous les ennemis s’attaqueront. NL Purge."
 	},
 	"animator_LimeBell":
 	{
