@@ -87,7 +87,7 @@
 	},
 	"animator_Berserker":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 如果敌人原来拥有满血量而且这张牌造成了未被格挡的伤害， 获得 !B! 点 格挡 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 如果这张牌杀死了敌人要么打破目标 格挡 ， 获得 !B! 点 格挡 。",
 		"NAME": "Berserker"
 	},
 	"animator_Biyorigo":
