@@ -87,7 +87,7 @@
 	},
 	"animator_Berserker":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 如果敵人擁有 max hp 並 且這可以造成未受阻擋的傷害， 獲得 !B! 點 格擋 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 如果敵人原來擁有滿血量而且這張牌造成了未被格擋的傷害， 獲得 !B! 點 格擋 。",
 		"NAME": "Berserker"
 	},
 	"animator_Biyorigo":
@@ -435,7 +435,7 @@
 	{
 		"DESCRIPTION": "武術家 。 造成 !D! 點傷害 !M! 次 。 NL [#EFC851]被抽到時[] : 獲得 !SV! 點 臨時 敏捷 。",
 		"NAME": "白老",
-		"UPGRADE_DESCRIPTION": "武術家 。 造成 !D! 點傷害 !M! 次 。 抽 1 張牌 並 升級 。 NL [#EFC851]被抽到時[] : 獲得 !SV! 點 臨時 敏捷 。"
+		"UPGRADE_DESCRIPTION": "武術家 。 造成 !D! 點傷害 !M! 次 。 抽 1 張牌 並 升級 它。 NL [#EFC851]被抽到時[] : 獲得 !SV! 點 臨時 敏捷 。"
 	},
 	"animator_HigakiRinne":
 	{
@@ -461,10 +461,10 @@
 	},
 	"animator_HououinKyouma":
 	{
-		"DESCRIPTION": "選擇 1 張本場戰鬥中使用過的牌 ， 並將它們的複制加入到手牌中 [#EFC851]*[] 。 抹除 。",
+		"DESCRIPTION": "選擇 1 張本場戰鬥中使用過的牌 ， 並將它的複制加入到手牌中 [#EFC851]*[] 。 抹除 。",
 		"EXTENDED_DESCRIPTION": ["* 注", "你不能複制這張牌 ， 因為這是石頭門的選擇 。"],
 		"NAME": "鳳凰院兇真",
-		"UPGRADE_DESCRIPTION": "選擇 1 張本場戰鬥中使用過的牌 ， 並將它們的複制加入到手牌中 [#EFC851]*[] 。 在這一輪中， 費用減少 1 張 。 抹除 。"
+		"UPGRADE_DESCRIPTION": "選擇 1 張本場戰鬥中使用過的牌 ， 並將它的複制加入到手牌中 [#EFC851]*[] 。在此輪， 將這張牌的能耗減1。 抹除 。"
 	},
 	"animator_Illya":
 	{

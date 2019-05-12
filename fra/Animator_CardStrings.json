@@ -87,7 +87,7 @@
 	},
 	"animator_Berserker":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Si l'ennemi a Max HP et que cela a causé des dégâts non bloqués, gagnez !B! d'Armure.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Si l'ennemi avait tous ses PV et que cela a causé des dégâts non bloqués, gagnez !B! d'Armure.",
 		"NAME": "Berserker"
 	},
 	"animator_Biyorigo":
@@ -465,10 +465,10 @@
 	},
 	"animator_HououinKyouma":
 	{
-		"DESCRIPTION": "Choisissez 1 carte(s) que vous avez joué pour ce combat et ajouté une copie à votre main ([#EFC851]*[#FFFFFF]). Purge.",
+		"DESCRIPTION": "Choisissez 1 carte que vous avez jouée pour ce combat et ajoutez une copie à votre main ([#EFC851]*[#FFFFFF]). Purge.",
 		"EXTENDED_DESCRIPTION": ["* Note", "Vous ne pouvez choisir une copie de cette carte. Cela créerai un Paradox"],
 		"NAME": "Hououin Kyouma",
-		"UPGRADE_DESCRIPTION": "Choisissez 1 carte(s) que vous avez joué pour ce combat et ajouté une copie à votre main([#EFC851]*[#FFFFFF]), elle coûte 1 en moins ce tour. Purge."
+		"UPGRADE_DESCRIPTION": "Choisissez 1 carte que vous avez jouée pour ce combat et ajoutez une copie à votre main([#EFC851]*[#FFFFFF]), elle coûte 1 en moins ce tour. Purge."
 	},
 	"animator_Illya":
 	{
