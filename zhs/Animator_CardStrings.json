@@ -356,7 +356,7 @@
 		"DESCRIPTION": "穿越者 。 每个敌人使你获得获得 !B! 点 格挡 。 撤回 : 将此卡退还给您并选择其他表格 。",
 		"EXTENDED_DESCRIPTION":
 		[
-			"穿越者 。 抽 1 张牌 。",
+			"穿越者 。 获得 !B! 点 格挡 。",
 			"穿越者 。 造成 !D! 点伤害 2 次 。 获得 2 点 金属化 。 撤回 : 获得 !M! 点 金属化 。",
 			"穿越者 。 造成 !D! 点 伤害 。 给予 1 层 虚弱 。 给予 !M! 层 易伤 。"
 		],
@@ -888,6 +888,16 @@
 	{
 		"DESCRIPTION": "获得 !M! 层 [#EFC851]临时生命[] 。 NL 移除你身上的所有负面效果 。 NL 消耗 。",
 		"NAME": "剑之圣女"
+	},
+	"animator_TanyaDegurechaff":
+	{
+		"DESCRIPTION": "Deal !D! damage. NL Discard ALL [#EFC851]Skills and gain !M! Block for each of them. Legacy: Obtain [#EFC851]Type [#EFC851]95.",
+		"NAME": "Tanya Degurechaff"
+	},
+	"animator_TanyaDegurechaff_Type95":
+	{
+		"DESCRIPTION": "Cycle 2 cards. Retain ALL [#EFC851]Attacks. Next turn, your [#EFC851]Attacks will deal double damage. Exhaust.",
+		"NAME": "Type 95"
 	},
 	"animator_Tet":
 	{
