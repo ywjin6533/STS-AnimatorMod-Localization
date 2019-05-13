@@ -779,7 +779,7 @@
 	},
 	"animator_Shizu":
 	{
-		"DESCRIPTION": "Deal !D! Damage. Gain Flaming_Weapon. NL If this kills an enemy, NL heal for its Burning amount.",
+		"DESCRIPTION": "Deal !D! Damage. Gain Flaming_Weapon. NL If this kills an enemy, NL heal for twice its Burning amount.",
 		"NAME": "Shizu"
 	},
 	"animator_Shuna":
@@ -790,7 +790,7 @@
 	"animator_Sloth":
 	{
 		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable. NL Apply !M! Lock-On. NL Gain !B! Block. NL [#EFC851]Sloth.",
-		"EXTENDED_DESCRIPTION": ["Sloth", "This card cannot be used while its damage is lower than 10. At the start of each turn, increase this card's #yBlock and damage by 1 for each Orb you have. Reset this card's stats after use."],
+		"EXTENDED_DESCRIPTION": ["Sloth", "At the start of each turn, increase this card's #yBlock and damage by 1 for each Orb you have. On use, halve this card's stats."],
 		"NAME": "Sloth"
 	},
 	"animator_Sora":
@@ -936,7 +936,7 @@
 	},
 	"animator_Urushihara":
 	{
-		"DESCRIPTION": "Lazy. NL [#EFC851]Channel[] 1 Dark and deal !D! damage to ALL enemies.",
+		"DESCRIPTION": "Lazy. NL Channel 1 Dark and deal !D! damage to ALL enemies.",
 		"NAME": "Urushihara"
 	},
 	"animator_Vanir":
@@ -993,7 +993,7 @@
 	"animator_Yuuichirou":
 	{
 		"DESCRIPTION": "Deal !D! damage. NL Gain !M! Temporary Dexterity. Legacy: Obtain [#EFC851]Asuramaru.",
-		"EXTENDED_DESCRIPTION": ["Asuramaru", "A special 1-Cost #yAttack."],
+		"EXTENDED_DESCRIPTION": ["Asuramaru", "A special 2-Cost #yAttack."],
 		"NAME": "Yuuichirou",
 		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Gain !M! Temporary Dexterity. Legacy: Obtain [#EFC851]Asuramaru+."
 	},
