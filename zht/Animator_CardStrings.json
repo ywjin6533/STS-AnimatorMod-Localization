@@ -87,7 +87,7 @@
 	},
 	"animator_Berserker":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 如果這張牌殺死了敵人要么打破目標 格擋 ， 獲得 !B! 點 格擋 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 如果這張牌殺死了敵人或者打破目標 格擋 ， 獲得 !B! 點 格擋 。",
 		"NAME": "Berserker"
 	},
 	"animator_Biyorigo":

@@ -18,9 +18,9 @@
 	},
 	"animator_Add":
 	{
-		"DESCRIPTION": "Gagnez 1 emplacement d'Orbe. NL Épuisez 1 carte dans votre pioche. Remplacez-la par un Noyau_d'orbe. NL Éthérée. Épuisement.",
+		"DESCRIPTION": "Gagnez !M! d'Armure_Enchantée. NL Épuisez 1 carte dans votre pioche. Remplacez-la par un Noyau_d'orbe. NL Éthérée. Épuisement.",
 		"NAME": "Add",
-		"UPGRADE_DESCRIPTION": "Gagnez 1 emplacement d'Orbe. NL Épuise 1 carte dans votre pioche. Remplacez-le par un Noyau_d'orbe. NL Éthérée."
+		"UPGRADE_DESCRIPTION": "Gagnez !M! d'Armure_Enchantée. NL Épuise 1 carte dans votre pioche. Remplacez-le par un Noyau_d'orbe. NL Éthérée."
 	},
 	"animator_Ain":
 	{
@@ -35,7 +35,7 @@
 	},
 	"animator_Aisha":
 	{
-		"DESCRIPTION": "Défaussez 1 carte. NL Cherchez une [#EFC851]Compétence de votre pioche, elle coûte !M! de moins ce tour.",
+		"DESCRIPTION": "Jeteuse de Sorts. NL Infligez !D! dégât(s) pour chaque Orbe que vous avez. Boost !SV! : Gagnez 1 emplacement d'Orbe.",
 		"NAME": "Aisha"
 	},
 	"animator_Albedo":
@@ -135,7 +135,7 @@
 	},
 	"animator_Chung":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Cooldown !SV! : NL Infligez !D! dégât(s) à TOUS les ennemis.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Cooldown !SV! : NL Canalisez 1 Plasma.",
 		"NAME": "Chung"
 	},
 	"animator_Cocytus":
@@ -555,9 +555,9 @@
 	},
 	"animator_Lelouch":
 	{
-		"DESCRIPTION": "Épuise toutes les [#EFC851]Attaques dans votre main. Ce tour, l'ennemi va s'attaquer. NL Purge.",
-		"NAME": "Lelouch",
-		"UPGRADE_DESCRIPTION": "Épuise toutes les [#EFC851]Attaques dans votre main. Ce tour, tous les ennemis s’attaqueront. NL Purge."
+		"DESCRIPTION": "Épuisez toutes les [#EFC851]Attaques dans votre main. Ce tour, tous les ennemis s'attaqueront eux-mêmes. NL Purge.",
+		"EXTENDED_DESCRIPTION": ["* Note", "Les enemis qui ne planifient pas d'attaquer seront étourdis à la place."],
+		"NAME": "Lelouch"
 	},
 	"animator_LimeBell":
 	{
@@ -610,9 +610,9 @@
 	},
 	"animator_MumenRider":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Piochez 1 carte. NL Purge. Au prochain tour, ajouté cette carte sur le haut de votre pioche.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Piochez 1 carte. NL Purge. Cette carte retourne dans votre main dans 2 tours.",
 		"NAME": "Mumen Rider",
-		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) avec style. Piochez 1 carte. NL Purge. Au prochain tour, ajouté cette carte sur le haut de votre pioche."
+		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) avec style. Piochez 1 carte. NL Purge. Cette carte retourne dans votre main dans 2 tours."
 	},
 	"animator_Nanami":
 	{
@@ -829,7 +829,7 @@
 	},
 	"animator_Strike_FullmetalAlchemist":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Cooldown !SV!: NL [#EFC851]Canalisez 1 Foudre.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Cooldown !SV!: NL Canalisez 1 Foudre.",
 		"NAME": "Frappe Amélioré"
 	},
 	"animator_Strike_GATE":
@@ -889,12 +889,12 @@
 	},
 	"animator_TanyaDegurechaff":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Discard ALL [#EFC851]Skills and gain !M! Block for each of them. Legacy: Obtain [#EFC851]Type [#EFC851]95.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Défaussez TOUTES les [#EFC851]Compétences and gagnez !M! d'Armure pour chacune d'elles. Héritage: Obtenez [#EFC851]Type [#EFC851]95.",
 		"NAME": "Tanya Degurechaff"
 	},
 	"animator_TanyaDegurechaff_Type95":
 	{
-		"DESCRIPTION": "Cycle 2 cards. Retain ALL [#EFC851]Attacks. Next turn, your [#EFC851]Attacks will deal double damage. Exhaust.",
+		"DESCRIPTION": "Recyclez 2 cartes. Conservez TOUTES les [#EFC851]Attaques. Au prochain tour, vos [#EFC851]Attaques will causeront le double des dégâts. Épuisement.",
 		"NAME": "Type 95"
 	},
 	"animator_Tet":
@@ -1039,7 +1039,7 @@
 	},
 	"animator_JeanneDArc":
 	{
-		"DESCRIPTION": "Infligez !D! dégat(s). NL Gagnez !M! Temp._HP. NL Épuisez une Malédiction ou Status aléatoire.",
+		"DESCRIPTION": "Infligez !D! dégat(s). NL Gagnez !M! Temp._HP. NL Gagnez !SV! d'Armure_Enchantée. NL Épuisez une Malédiction ou Status aléatoire.",
 		"NAME": "Jeanne D'Arc"
 	},
 	"animator_Hero":
