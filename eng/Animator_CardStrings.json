@@ -1010,8 +1010,9 @@
 	},
 	"animator_Azriel":
 	{
-		"DESCRIPTION": "Gain 2 Flight. NL Whenever you apply a debuff to an enemy, gain !M! Strength.",
-		"NAME": "Azriel"
+		"DESCRIPTION": "Gain 2 Flight. NL Whenever you apply a debuff to an enemy, gain !M! Strength. NL Ethereal.",
+		"NAME": "Azriel",
+		"UPGRADE_DESCRIPTION": "Gain 2 Flight. NL Whenever you apply a debuff to an enemy, gain !M! Strength."
 	},
 	"animator_Giselle":
 	{

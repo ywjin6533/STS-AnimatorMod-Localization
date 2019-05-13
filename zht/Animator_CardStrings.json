@@ -1009,8 +1009,9 @@
 	},
 	"animator_Azriel":
 	{
-		"DESCRIPTION": "獲得兩 2 層 飛行 。 NL 每當給予敵人負面效果時, 獲得 !M! 點 力量 。",
-		"NAME": "Azriel"
+		"DESCRIPTION": "獲得兩 2 層 飛行 。 NL 每當給予敵人負面效果時, 獲得 !M! 點 力量 。 虛無 。",
+		"NAME": "Azriel",
+		"UPGRADE_DESCRIPTION": "獲得兩 2 層 飛行 。 NL 每當給予敵人負面效果時, 獲得 !M! 點 力量 。"
 	},
 	"animator_Giselle":
 	{

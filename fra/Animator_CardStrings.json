@@ -1009,8 +1009,9 @@
 	},
 	"animator_Azriel":
 	{
-		"DESCRIPTION": "Gagne 2 Vol. NL Quand vous infligez un debuff à un ennemi, gagnez !M! Force.",
-		"NAME": "Azriel"
+		"DESCRIPTION": "Gagne 2 Vol. NL Quand vous infligez un debuff à un ennemi, gagnez !M! Force. Éthérée.",
+		"NAME": "Azriel",
+		"UPGRADE_DESCRIPTION": "Gagne 2 Vol. NL Quand vous infligez un debuff à un ennemi, gagnez !M! Force."
 	},
 	"animator_Giselle":
 	{
