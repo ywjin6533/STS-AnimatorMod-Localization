@@ -35,8 +35,8 @@
 	},
 	"animator_Aisha":
 	{
-	"DESCRIPTION": "施法者。 為每一個你擁有的充能球造成 !D! 傷害。 鼓舞 !M! : 獲得一個充能球槽位",
-	"NAME": "愛莎‧藍塔"
+		"DESCRIPTION": "施法者。 為每一個你擁有的充能球造成 !D! 傷害。 鼓舞 !M! : 獲得一個充能球槽位",
+		"NAME": "愛莎‧藍塔"
 	},
 	"animator_Albedo":
 	{
@@ -135,8 +135,8 @@
 	},
 	"animator_Chung":
 	{
-	"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 預熱 !SV! : 獲得一個等離子球。",
-	"NAME": "澄"
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 預熱 !SV! : 獲得一個等離子球。",
+		"NAME": "澄"
 	},
 	"animator_Cocytus":
 	{
@@ -558,7 +558,7 @@
 		"DESCRIPTION": "消耗 你手中的所有攻擊卡。 這一輪 ， 所有敵人都會攻擊自己 。 NL 抹除 。 [#EFC851]*[]",
 		"EXTENDED_DESCRIPTION": ["* 注", "若有敵人未有打算攻擊，擊暈它們"],
 		"NAME": "Lelouch"
-		},
+	},
 	"animator_LimeBell":
 	{
 		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 重新裝填 : 下一輪 ， 回復 !M! 點 生命 。 NL 消耗 。",
@@ -789,9 +789,9 @@
 	},
 	"animator_Sloth":
 	{
-	"DESCRIPTION": "造成 !D! 點 傷害 。 NL 給予 !M! 層 易傷 。 NL 給予 !M! 層 跟踪鎖定 。 獲得 !B! 格擋 。 [#EFC851]懶惰[]",
-	"EXTENDED_DESCRIPTION": ["懶惰", "每輪開始時，將這張牌的 #y格擋 與傷害為每一個您擁有的充能球增加1 。 每次使用後， 將這張牌的 #y格擋 與傷害減半。 "],
-	"NAME": "斯洛斯"
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 給予 !M! 層 易傷 。 NL 給予 !M! 層 跟踪鎖定 。 獲得 !B! 格擋 。 [#EFC851]懶惰[]",
+		"EXTENDED_DESCRIPTION": ["懶惰", "每輪開始時，將這張牌的 #y格擋 與傷害為每一個您擁有的充能球增加1 。 每次使用後， 將這張牌的 #y格擋 與傷害減半。 "],
+		"NAME": "斯洛斯"
 	},
 	"animator_Sora":
 	{
@@ -890,8 +890,8 @@
 	},
 	"animator_TanyaDegurechaff":
 	{
-	"DESCRIPTION": "造成 !D! 傷害。 NL 丟棄所有 [#EFC851]技能[] 並且為每一個技能獲得 !M! 格擋。 遺贈: 獲得 [#EFC851]95號兵器[] 。",
-	"NAME": "Tanya Degurechaff"
+		"DESCRIPTION": "造成 !D! 傷害。 NL 丟棄所有 [#EFC851]技能[] 並且為每一個技能獲得 !M! 格擋。 遺贈: 獲得 [#EFC851]95號兵器[] 。",
+		"NAME": "Tanya Degurechaff"
 	},
 	"animator_TanyaDegurechaff_Type95":
 	{
@@ -1039,7 +1039,7 @@
 	},
 	"animator_JeanneDArc":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 獲得 !M! 點 臨時生命 。 NL 隨機消耗一個狀態牌或詛咒牌 。",
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 獲得 !M! 點 臨時生命 。 NL 獲得 !M! 點 魔法護甲 。 NL 隨機消耗一個狀態牌或詛咒牌 。",
 		"NAME": "Jeanne D'Arc"
 	},
 	"animator_Hero":

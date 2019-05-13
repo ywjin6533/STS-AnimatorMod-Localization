@@ -72,7 +72,13 @@
 		"FLAVOR": "震惊的真相！",
 		"NAME": "旧棺材"
 	},
-	"Animator_PurgingStone":
+	"Animator_PurgingStone_Cards":
+	{
+		"DESCRIPTIONS": ["You may banish cards from appearing in future #ynormal rewards and shops. Gain #b2 more uses at the end of each combat, can store up to #b10 uses."],
+		"FLAVOR": "人类无法对抗诅咒，但可以利用它.",
+		"NAME": "解咒石"
+	},
+	"Animator_PurgingStone_Series":
 	{
 		"DESCRIPTIONS": ["你可以 放逐 掉某些牌系列使它们不再出现. 击败boss后获得额外使用次数.", "去除:"],
 		"FLAVOR": "人类无法对抗诅咒，但可以利用它.",

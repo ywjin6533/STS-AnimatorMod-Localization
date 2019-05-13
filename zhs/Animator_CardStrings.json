@@ -1041,7 +1041,7 @@
 	},
 	"animator_JeanneDArc":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害 。 NL 获得 !M! 点 临时生命 。 NL 获得 !SV! 魔法护甲 。 随机消耗一个状态牌或诅咒牌 。",
+		"DESCRIPTION": "造成 !D! 点伤害 。 NL 获得 !M! 点 临时生命 。 NL 获得 !M! 魔法护甲 。 随机消耗一个状态牌或诅咒牌 。",
 		"NAME": "Jeanne D'Arc"
 	},
 	"animator_Hero":
