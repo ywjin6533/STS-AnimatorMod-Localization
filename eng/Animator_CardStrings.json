@@ -790,7 +790,7 @@
 	"animator_Sloth":
 	{
 		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable. NL Apply !M! Lock-On. NL Gain !B! Block. NL [#EFC851]Sloth.",
-		"EXTENDED_DESCRIPTION": ["Sloth", "At the start of each turn, increase this card's #yBlock and damage by 1 for each Orb you have. On use, halve this card's stats."],
+		"EXTENDED_DESCRIPTION": ["Sloth", "At the start of each turn, increase this card's #yBlock and damage by 1 for each Orb you have. On use, halve this card's damage and block value."],
 		"NAME": "Sloth"
 	},
 	"animator_Sora":

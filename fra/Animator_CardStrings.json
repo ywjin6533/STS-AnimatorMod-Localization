@@ -20,7 +20,7 @@
 	{
 		"DESCRIPTION": "Gagnez !M! d'Armure_Enchantée. NL Épuisez 1 carte dans votre pioche. Remplacez-la par un Noyau_d'orbe. NL Éthérée. Épuisement.",
 		"NAME": "Add",
-		"UPGRADE_DESCRIPTION": "Gagnez !M! d'Armure_Enchantée. NL Épuise 1 carte dans votre pioche. Remplacez-le par un Noyau_d'orbe. NL Éthérée."
+		"UPGRADE_DESCRIPTION": "Gagnez !M! d'Armure_Ench. NL Épuise 1 carte dans votre pioche. Remplacez-le par un Noyau_d'orbe. NL Éthérée."
 	},
 	"animator_Ain":
 	{
@@ -555,7 +555,7 @@
 	},
 	"animator_Lelouch":
 	{
-		"DESCRIPTION": "Épuisez toutes les [#EFC851]Attaques dans votre main. Ce tour, tous les ennemis s'attaqueront eux-mêmes. NL Purge.",
+		"DESCRIPTION": "Épuisez toutes les [#EFC851]Attaques dans votre main. Ce tour, tous les ennemis s'attaqueront eux-mêmes. NL Purge. ([#EFC851]*[])",
 		"EXTENDED_DESCRIPTION": ["* Note", "Les enemis qui ne planifient pas d'attaquer seront étourdis à la place."],
 		"NAME": "Lelouch"
 	},
@@ -778,7 +778,7 @@
 	},
 	"animator_Shizu":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez Arme_Enflammée. NL Si cela tue l'ennemi, soigne 1 point pour chaque Brûlure.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez Arme_Enflammée. NL Si cela tue l'ennemi, soigne le double du montant de Brûlure.",
 		"NAME": "Shizu"
 	},
 	"animator_Shuna":
@@ -788,7 +788,8 @@
 	},
 	"animator_Sloth":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). Au début de chaque tour, augmentez les dégât(s) de cet carte de !M! pour chaque orbe unique.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Vulnérable. NL Appliquez !M! de Ciblage. NL Gagnez !B! d'Armure. NL [#EFC851]Paresse.",
+		"EXTENDED_DESCRIPTION": ["Paresse", "Au début de chaque tour, augmentez le montant #yd'Armure and de dégâts par 1 pour chaque Orbe que vous avez. Après l'utilisation, diminuez les dégâts et le montant #y d'Armure de cette carte de moitié."],
 		"NAME": "Paresse"
 	},
 	"animator_Sora":
@@ -1039,7 +1040,7 @@
 	},
 	"animator_JeanneDArc":
 	{
-		"DESCRIPTION": "Infligez !D! dégat(s). NL Gagnez !M! Temp._HP. NL Gagnez !SV! d'Armure_Enchantée. NL Épuisez une Malédiction ou Status aléatoire.",
+		"DESCRIPTION": "Infligez !D! dégat(s). NL Gagnez !M! Temp._HP. NL Gagnez !SV! d'Armure_Ench. NL Épuisez une Malédiction ou Status aléatoire.",
 		"NAME": "Jeanne D'Arc"
 	},
 	"animator_Hero":
