@@ -74,7 +74,7 @@
 	},
 	"Animator_PurgingStone_Cards":
 	{
-		"DESCRIPTIONS": ["You may banish cards from appearing in future #ynormal rewards and shops. Gain #b2 more uses at the end of each combat, can store up to #b10 uses."],
+		"DESCRIPTIONS": ["You may banish cards from appearing in future #ynormal rewards and shops. Gain #b1 more use at the end of each combat, can store up to #b10 uses."],
 		"FLAVOR": "人类无法对抗诅咒，但可以利用它.",
 		"NAME": "解咒石"
 	},
