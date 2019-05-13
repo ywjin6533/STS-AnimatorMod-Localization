@@ -557,7 +557,7 @@
 	{
 		"DESCRIPTION": "消耗 你手中的所有攻擊卡。 這一輪 ， 所有敵人都會攻擊自己 。 NL 抹除 。 [#EFC851]*[]",
 		"EXTENDED_DESCRIPTION": ["* 注", "若有敵人未有打算攻擊，擊暈它們"],
-		"NAME": "Lelouch"
+		"NAME": "魯路修"
 	},
 	"animator_LimeBell":
 	{
@@ -891,12 +891,12 @@
 	"animator_TanyaDegurechaff":
 	{
 		"DESCRIPTION": "造成 !D! 傷害。 NL 丟棄所有 [#EFC851]技能[] 並且為每一個技能獲得 !M! 格擋。 遺贈: 獲得 [#EFC851]95號兵器[] 。",
-		"NAME": "Tanya Degurechaff"
+		"NAME": "譚雅·提古雷查夫"
 	},
 	"animator_TanyaDegurechaff_Type95":
 	{
-		"DESCRIPTION": "Cycle 2 cards. Retain ALL [#EFC851]Attacks. Next turn, your [#EFC851]Attacks will deal double damage. Exhaust.",
-		"NAME": "Type 95"
+		"DESCRIPTION": "循環2張牌。 保留 所有 [#EFC851]攻擊[] 。 下一輪，你的所有 [#EFC851]攻擊[] 將會造成雙倍傷害。 消耗。",
+		"NAME": "95號兵器"
 	},
 	"animator_Tet":
 	{
