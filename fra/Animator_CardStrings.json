@@ -567,7 +567,7 @@
 	},
 	"animator_LizardPriest":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure.NL Met l'Armure d'un ennemi à !M!. NL Synergie: Conservez votre main ce tour.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Met l'Armure d'un ennemi à !M!. NL Synergie: Conservez votre main ce tour.",
 		"NAME": "'Prêtre Lézard'"
 	},
 	"animator_MaesHughes":
@@ -1026,7 +1026,7 @@
 	},
 	"animator_SirTouchMe":
 	{
-		"DESCRIPTION": "Gagnez !M! Juggernaut. NL Ingligez !D! dégat(s). NL Gagnez !B! d'Armure.",
+		"DESCRIPTION": "Ingligez !D! dégat(s). NL Gagnez !M! Juggernaut. NL Gagnez !B! d'Armure. NL Gagnez !SV! d'Armure_Plaquée.",
 		"NAME": "Sir Touch Me"
 	},
 	"animator_ShikizakiKiki":

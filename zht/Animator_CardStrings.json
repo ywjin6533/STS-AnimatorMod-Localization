@@ -1025,7 +1025,7 @@
 	},
 	"animator_SirTouchMe":
 	{
-		"DESCRIPTION": "獲得 !M! 勢不可當 。 NL 造成 !D! 點傷害 。 NL 獲得 !B! 點 格擋 。",
+		"DESCRIPTION": "獲得 !M! 勢不可當 。 NL 造成 !D! 點傷害 。 NL 獲得 !SV! 層 多層護甲 。 NL 獲得 !B! 點 格擋 。",
 		"NAME": "Sir Touch Me"
 	},
 	"animator_ShikizakiKiki":
