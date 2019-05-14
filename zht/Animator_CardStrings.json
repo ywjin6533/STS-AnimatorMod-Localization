@@ -45,7 +45,7 @@
 	},
 	"animator_Alexander":
 	{
-		"DESCRIPTION": "對一名敵人造成 !D! 傷害 然後對其他的敵人造成 !SV! 點傷害 。 遺產 : 獲得 !M! 層 多層護甲 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 對所有敵人造成 !D! 傷害 。 遺產 : 獲得 !M! 層 多層護甲 。",
 		"NAME": "亞歷山大大帝"
 	},
 	"animator_Aqua":

@@ -46,7 +46,7 @@
 	},
 	"animator_Alexander":
 	{
-		"DESCRIPTION": "Deal !D! damage to an enemy and !SV! damage to every other enemy. Legacy: Gain !M! Plated_Armor.",
+		"DESCRIPTION": "Deal !D! damage. NL Deal !D! damage to ALL enemies. Legacy: Gain !M! Plated_Armor.",
 		"NAME": "Alexander"
 	},
 	"animator_Aqua":

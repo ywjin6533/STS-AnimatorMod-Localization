@@ -45,7 +45,7 @@
 	},
 	"animator_Alexander":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) à un ennemi et !SV! dégât(s) aux autres ennemis. Héritage: Gagnez !M! d'Armure_Plaquée.",
+		"DESCRIPTION": "Infligez !D! dégât(s). Infligez !D! dégât(s) à TOUS les ennemis. Héritage: Gagnez !M! d'Armure_Plaquée.",
 		"NAME": "Alexander"
 	},
 	"animator_Aqua":
