@@ -598,7 +598,7 @@
 	},
 	"animator_Mitsuba":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 若目標生命值比你高 ， 獲得 !B! 點 格擋 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 若目標生命值比你高 ， 獲得 !B! 點 格擋 。 遺產 : 抽 !M! 張牌 。",
 		"NAME": "三宮三葉"
 	},
 	"animator_Mitsurugi":

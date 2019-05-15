@@ -599,7 +599,7 @@
 	},
 	"animator_Mitsuba":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL If the enemy had more health than you, gain !B! Block.",
+		"DESCRIPTION": "Deal !D! damage. If the enemy had more health than you, NL gain !B! Block. Legacy: Draw !M! Cards.",
 		"NAME": "Mitsuba"
 	},
 	"animator_Mitsurugi":

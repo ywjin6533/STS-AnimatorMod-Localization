@@ -598,7 +598,7 @@
 	},
 	"animator_Mitsuba":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Si l'ennemi a de PV que vous, Gagnez !B! d'Armure.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Si l'ennemi a de PV que vous, Gagnez !B! d'Armure. Héritage: Piochez !M! Cartes.",
 		"NAME": "Mitsuba"
 	},
 	"animator_Mitsurugi":

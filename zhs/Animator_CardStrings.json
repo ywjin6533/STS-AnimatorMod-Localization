@@ -600,7 +600,7 @@
 	},
 	"animator_Mitsuba":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 若目标生命值比你高 ， 获得 !B! 点 格挡 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 若目标生命值比你高 ， 获得 !B! 点 格挡 。 遗赠 : 抽 !M! 张牌 。",
 		"NAME": "三宫三叶"
 	},
 	"animator_Mitsurugi":
