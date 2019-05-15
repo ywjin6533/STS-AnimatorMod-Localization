@@ -528,10 +528,9 @@
 	},
 	"animator_Kuroyukihime":
 	{
-		"DESCRIPTION": "丢弃 !M! 张牌 。 将 [#EFC851]黑莲花[] 加入到你的抽牌堆中 。 消耗 。",
+		"DESCRIPTION": "丢弃 !M! 张牌 。 将 [#EFC851]黑莲花[] 加入到你的手牌中 。 消耗 。",
 		"EXTENDED_DESCRIPTION": ["黑莲花", "特殊的1耗 #y攻击牌 。"],
-		"NAME": "黑雪公主",
-		"UPGRADE_DESCRIPTION": "丢弃 !M! 张牌 。 将 [#EFC851]黑莲花+[] 加入到你的手牌中 。 消耗 。"
+		"NAME": "黑雪公主"
 	},
 	"animator_Kyubey":
 	{

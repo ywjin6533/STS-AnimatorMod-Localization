@@ -527,10 +527,9 @@
 	},
 	"animator_Kuroyukihime":
 	{
-		"DESCRIPTION": "Discard !M! cards. Add [#EFC851]Black [#EFC851]Lotus to your draw pile. Exhaust.",
+		"DESCRIPTION": "Discard !M! cards. Add [#EFC851]Black [#EFC851]Lotus to your hand. Exhaust.",
 		"EXTENDED_DESCRIPTION": ["Black Lotus", "A special 1-cost #yAttack."],
-		"NAME": "Kuroyukihime",
-		"UPGRADE_DESCRIPTION": "Discard !M! cards. Add [#EFC851]Black [#EFC851]Lotus+ to your hand. Exhaust."
+		"NAME": "Kuroyukihime"
 	},
 	"animator_Kyubey":
 	{

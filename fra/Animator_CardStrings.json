@@ -526,10 +526,9 @@
 	},
 	"animator_Kuroyukihime":
 	{
-		"DESCRIPTION": "Défausser !M! carte(s). Ajouter [#EFC851]Black [#EFC851]Lotus à votre pioche. Épuisement.",
+		"DESCRIPTION": "Défausser !M! carte(s). Ajouter [#EFC851]Black [#EFC851]Lotus à votre main. Épuisement.",
 		"EXTENDED_DESCRIPTION": ["Black Lotus", "Une carte #yAttaque spéciale qui coute 1."],
-		"NAME": "Kuroyukihime",
-		"UPGRADE_DESCRIPTION": "Défausser !M! carte(s). Ajouter [#EFC851]Black [#EFC851]Lotus+ à votre main. Épuisement."
+		"NAME": "Kuroyukihime"
 	},
 	"animator_Kyubey":
 	{
