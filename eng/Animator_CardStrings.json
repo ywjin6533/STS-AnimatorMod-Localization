@@ -426,7 +426,7 @@
 	},
 	"animator_Guren":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Exhaust a random [#EFC851]Attack in your draw pile. Turn its damage to Support_Damage.",
+		"DESCRIPTION": "Gain !B! Block. NL Exhaust a random [#EFC851]Attack in your hand. Turn its damage to Support_Damage.",
 		"NAME": "Guren"
 	},
 	"animator_Guy":

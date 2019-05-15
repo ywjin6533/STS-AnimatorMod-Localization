@@ -423,7 +423,7 @@
 	},
 	"animator_Guren":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。 从抽牌堆随机 消耗 一张 [#EFC851]攻击[] 牌 。 将其伤害预存到 支援 中 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 从手牌随机 消耗 一张 [#EFC851]攻击[] 牌 。 将其伤害预存到 支援 中 。",
 		"NAME": "红莲"
 	},
 	"animator_Guy":

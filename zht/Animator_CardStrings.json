@@ -423,7 +423,7 @@
 	},
 	"animator_Guren":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 從抽牌堆隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將傷害轉換到 支援 中 。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 從手牌隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將傷害轉換到 支援 中 。",
 		"NAME": "紅蓮"
 	},
 	"animator_Guy":

@@ -425,7 +425,7 @@
 	},
 	"animator_Guren":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Épuisé un [#EFC851]Attaque aléatoire de votre pioche. Transformé ces dégât(s) en Support_Damage.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Épuisez une [#EFC851]Attaque aléatoire de votre main. Transformé ces dégât(s) en Support_Damage.",
 		"NAME": "Guren"
 	},
 	"animator_Guy":
