@@ -1019,9 +1019,9 @@
 	},
 	"animator_HiiragiTenri":
 	{
-		"DESCRIPTION": "Gagnez !M! Temp._HP. NL Jouez et Épuisez NL TOUTES les cartes de votre Défausse.",
-
-		"NAME": "Tenri Hiiragi"
+		"DESCRIPTION": "Gagnez !M! Temp._HP. NL Jouez et Épuisez NL TOUTES les cartes de votre Défausse. Épuisement.",
+		"NAME": "Tenri Hiiragi",
+		"UPGRADE_DESCRIPTION": "Gagnez !M! Temp._HP. NL Jouez et Épuisez NL TOUTES les cartes de votre Défausse."
 	},
 	"animator_SirTouchMe":
 	{

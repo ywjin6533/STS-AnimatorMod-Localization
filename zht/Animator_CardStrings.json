@@ -1020,7 +1020,8 @@
 	"animator_HiiragiTenri":
 	{
 		"DESCRIPTION": "獲得 !M! 點 臨時生命 。 NL 打出並 消耗 棄牌堆中所有牌 。",
-		"NAME": "Tenri Hiiragi"
+		"NAME": "Tenri Hiiragi",
+		"UPGRADE_DESCRIPTION": "獲得 !M! 點 臨時生命 。 NL 打出並 消耗 棄牌堆中所有牌 。 消耗 。"
 	},
 	"animator_SirTouchMe":
 	{

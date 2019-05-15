@@ -1021,8 +1021,9 @@
 	},
 	"animator_HiiragiTenri":
 	{
-		"DESCRIPTION": "获得 !M! 点 临时生命 。 NL 打出并 消耗 弃牌堆中所有牌 。",
-		"NAME": "柊天利"
+		"DESCRIPTION": "获得 !M! 点 临时生命 。 NL 打出并 消耗 弃牌堆中所有牌 。 消耗 。",
+		"NAME": "柊天利",
+		"UPGRADE_DESCRIPTION": "获得 !M! 点 临时生命 。 NL 打出并 消耗 弃牌堆中所有牌 。"
 	},
 	"animator_SirTouchMe":
 	{
