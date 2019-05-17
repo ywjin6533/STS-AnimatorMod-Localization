@@ -480,7 +480,8 @@
 	{
 		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 給予 1 層 虛弱 。 NL [#EFC851]血液破壞[] 。",
 		"EXTENDED_DESCRIPTION": ["血液破壞", "當你的HP低於25％時， 這張卡將成為一個特殊的0耗能 #攻擊牌 。", "造成 !D! 點 傷害 兩次 。 NL 回復 !M! 點 生命 。"],
-		"NAME": "初賴伊剛"
+		"NAME": "初賴伊剛",
+		"UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 NL 給予 1 層 虛弱 。 NL [#EFC851]血液破壞+[] 。"
 	},
 	"animator_Jibril":
 	{

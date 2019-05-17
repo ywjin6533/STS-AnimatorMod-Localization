@@ -485,7 +485,8 @@
 	{
 		"DESCRIPTION": "Gain !B! Block. NL Apply 1 Weak. NL [#EFC851]Blood [#EFC851]Destruction.",
 		"EXTENDED_DESCRIPTION": ["Blood Destruction", "While you are below 25% max HP, this card will turn into a special 0-cost #yAttack.", "Deal !D! damage twice. NL Heal !M! HP."],
-		"NAME": "Izuna Hatsuse"
+		"NAME": "Izuna Hatsuse",
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL Apply 1 Weak. NL [#EFC851]Blood [#EFC851]Destruction+."
 	},
 	"animator_Jibril":
 	{

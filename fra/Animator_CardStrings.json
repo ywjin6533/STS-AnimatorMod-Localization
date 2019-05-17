@@ -484,7 +484,8 @@
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez 1 Faiblesse. NL [#EFC851]Blood [#EFC851]Destruction.",
 		"EXTENDED_DESCRIPTION": ["Blood Destruction", "Tant que vous êtes en dessous de 25% max PV, cette carte deviendra une carte #yAttaque qui coûte 0.", "Infligez !D! dégât(s) deux fois. NL Soignez !M! PV."],
-		"NAME": "Izuna Hatsuse"
+		"NAME": "Izuna Hatsuse",
+		"UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez 1 Faiblesse. NL [#EFC851]Blood [#EFC851]Destruction+."
 	},
 	"animator_Jibril":
 	{
