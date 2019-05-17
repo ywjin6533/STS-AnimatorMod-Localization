@@ -239,7 +239,7 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "Gain [E] [E]. NL Take !M! damage at the end of this turn. NL Legacy and Recall: Gain [E].",
+		"DESCRIPTION": "Gain [E] [E]. NL Take !M! damage at the end of this turn. NL Legacy: Gain [E] [E].",
 		"NAME": "Demiurge"
 	},
 	"animator_DolaCouronne":
@@ -249,7 +249,7 @@
 	},
 	"animator_DolaRiku":
 	{
-		"DESCRIPTION": "Exhaust a card in your hand, choose and obtain 1 of !M! cards of the same rarity, it costs 1 less.",
+		"DESCRIPTION": "Exhaust a card in your hand, choose and obtain 1 of !M! cards of the same rarity, NL it costs 1 less.",
 		"NAME": "Riku"
 	},
 	"animator_DolaSchwi":
@@ -349,10 +349,10 @@
 	},
 	"animator_FeridBathory":
 	{
-		"DESCRIPTION": "Once per turn, NL when a card is Exhausted, gain 1 Strength and Heal 2 HP ([#EFC851]*[]).",
+		"DESCRIPTION": "Once per turn, NL when a card is Exhausted, gain 1 Strength and NL Heal 2 HP ([#EFC851]*[]).",
 		"EXTENDED_DESCRIPTION": ["*Note", "If you are at Max HP, the healing is converted to #yTemp. #yHP."],
 		"NAME": "Ferid Bathory",
-		"UPGRADE_DESCRIPTION": "Twice per turn, NL when a card is Exhausted, gain 1 Strength and Heal 2 HP ([#EFC851]*[])."
+		"UPGRADE_DESCRIPTION": "Twice per turn, NL when a card is Exhausted, gain 1 Strength and NL Heal 2 HP ([#EFC851]*[])."
 	},
 	"animator_Fredrika":
 	{
@@ -404,7 +404,7 @@
 	},
 	"animator_GoblinSlayer":
 	{
-		"DESCRIPTION": "[#EFC851]Goblin [#EFC851]Slayer. NL Deal !D! damage. NL Gain !B! Block. NL Retain.",
+		"DESCRIPTION": "[#EFC851]Goblin [#EFC851]Slayer. NL Gain !B! Block. NL Deal !D! damage. NL Retain.",
 		"EXTENDED_DESCRIPTION": ["Goblin Slayer", "Exhaust every Status and Curse in your hand and discard pile. Deal 3 extra damage for every card in your exhaust pile. NL #yWARNING: Goblins will start invading your deck."],
 		"NAME": "Goblin Slayer"
 	},
@@ -567,7 +567,7 @@
 	},
 	"animator_LizardPriest":
 	{
-		"DESCRIPTION": "Gain !B! Block. Set the Block of the enemy to !M!. Synergy: Retain your hand this turn.",
+		"DESCRIPTION": "Gain !B! Block. NL Set the Block of the enemy to !M!. NL Synergy: Retain your hand this turn.",
 		"NAME": "'Lizard Priest'"
 	},
 	"animator_MaesHughes":
@@ -582,7 +582,7 @@
 	},
 	"animator_Mikaela":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Poison. NL Exhaust a card in your discard pile.",
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Poison. NL Choose and Exhaust NL a card in your NL discard pile.",
 		"NAME": "Mikaela"
 	},
 	"animator_Millim":
@@ -693,7 +693,7 @@
 	},
 	"animator_Rena":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Apply !M! Vulnerable. NL Synergy: Reduce the cost of a random card by 1 this turn.",
+		"DESCRIPTION": "Gain !B! Block. NL Apply !M! Vulnerable. NL Recall: Reduce the cost of a random card by 1 this turn.",
 		"NAME": "Rena"
 	},
 	"animator_Rimuru":
@@ -788,7 +788,8 @@
 	},
 	"animator_Sloth":
 	{
-		"DESCRIPTION": "Lazy. NL Deal !D! damage. NL Apply !M! Vulnerable. NL Apply !M! Lock-On. NL Gain !B! Block.",
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable. NL Apply !M! Weak. NL Gain !B! Block. NL [#EFC851]Sloth.",
+		"EXTENDED_DESCRIPTION": ["Sloth", "At the start of each turn, increase this card's #yBlock and damage by 1 for each Orb you have. On use, halve this card's damage and #yBlock value."],
 		"NAME": "Sloth"
 	},
 	"animator_Sora":

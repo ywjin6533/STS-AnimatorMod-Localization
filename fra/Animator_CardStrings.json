@@ -238,7 +238,7 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "Gagnez [E] [E]. NL Prendre !M! dégâts à la fin de votre tour. NL Héritage et Rappel: Gagnez [E].",
+		"DESCRIPTION": "Gagnez [E] [E]. NL Prendre !M! dégâts à la fin de votre tour. NL Héritage: Gagnez [E] [E].",
 		"NAME": "Demiurge"
 	},
 	"animator_DolaCouronne":
@@ -692,7 +692,7 @@
 	},
 	"animator_Rena":
 	{
-		"DESCRIPTION": "Appliquez !M! Vulnérabilité. NL Gagnez !B! d'Armure. NL Synergie: Réduisez le coût d'une carte aléatoire de votre main par 1 ce tour",
+		"DESCRIPTION": "Appliquez !M! Vulnérabilité. NL Gagnez !B! d'Armure. NL Rappel: Réduisez le coût d'une carte aléatoire de votre main par 1 ce tour",
 		"NAME": "Rena"
 	},
 	"animator_Rimuru":
@@ -787,7 +787,8 @@
 	},
 	"animator_Sloth":
 	{
-		"DESCRIPTION": "Paresse. NL Infligez !D! dégât(s). NL Appliquez !M! de Vulnérable. NL Appliquez !M! de Ciblage. NL Gagnez !B! d'Armure.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Vulnérable. NL Appliquez !M! de Faiblesse. NL Gagnez !B! d'Armure. NL [#EFC851]Paresse.",
+		"EXTENDED_DESCRIPTION": ["Paresse", "Au début de chaque tour, augmentez le montant #yd'Armure and de dégâts par 1 pour chaque Orbe que vous avez. Après l'utilisation, diminuez les dégâts et le montant #y d'Armure de cette carte de moitié."],
 		"NAME": "Paresse"
 	},
 	"animator_Sora":

@@ -237,7 +237,7 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "獲得 [E] [E] 。 在本回合結束時 ， 受到 !M! 點 傷害 。 遺產 ， 撤回 : 獲得 [E]",
+		"DESCRIPTION": "獲得 [E] [E] 。 在本回合結束時 ， 受到 !M! 點 傷害 。 遺產 : 獲得 [E] [E]",
 		"NAME": "迪米烏哥斯"
 	},
 	"animator_DolaCouronne":
@@ -692,7 +692,7 @@
 	},
 	"animator_Rena":
 	{
-		"DESCRIPTION": "給予一層 易傷 效果， 獲得 !B! 點 格擋 。 同調 ： 在此輪， 將隨機1張手牌的能耗減1。",
+		"DESCRIPTION": "給予一層 易傷 效果， 獲得 !B! 點 格擋 。 撤回 ： 在此輪， 將隨機1張手牌的能耗減1。",
 		"NAME": "蕾娜‧艾蘭黛"
 	},
 	"animator_Rimuru":
@@ -787,7 +787,8 @@
 	},
 	"animator_Sloth":
 	{
-		"DESCRIPTION": "懶惰 。 NL 造成 !D! 點 傷害 。 NL 給予 !M! 層 易傷 。 NL 給予 !M! 層 跟踪鎖定 。 NL 獲得 !B! 格擋 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 給予 !M! 層 易傷 。 NL 給予 !M! 層 虛弱 。 獲得 !B! 格擋 。 [#EFC851]懶惰[]",
+		"EXTENDED_DESCRIPTION": ["懶惰", "每輪開始時，將這張牌的 #y格擋 與傷害為每一個您擁有的充能球增加1 。 每次使用後， 將這張牌的 #y格擋 與傷害減半。"],
 		"NAME": "斯洛斯"
 	},
 	"animator_Sora":
