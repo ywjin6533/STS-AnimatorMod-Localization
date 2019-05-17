@@ -475,7 +475,7 @@
 	},
 	"animator_ItamiYouji":
 	{
-		"DESCRIPTION": "抽 !M! 张牌 。 同调 : 再抽一张卡片 。 每抽一张牌造成 !D! 点 伤害 。",
+		"DESCRIPTION": "抽 !M! 张牌 。 同调 : 再抽一张牌 。 每抽一张牌造成 !D! 点 伤害 。",
 		"NAME": "伊丹耀司"
 	},
 	"animator_IzunaHatsuse":
@@ -486,7 +486,7 @@
 	},
 	"animator_Jibril":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 为每一种不同的充能球抽1张牌。NL 同调 ：获得 !SV! 点临时 集中",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 为每一种不同的充能球抽1张牌。NL 同调 ：获得 !SV! 点临时 集中",
 		"NAME": "吉普莉尔"
 	},
 	"animator_Kaijin":
@@ -749,7 +749,7 @@
 	"animator_Shichika":
 	{
 		"DESCRIPTION": "获得 !B! 点 格挡 1 点 力量 。 NL 同调 : 增加 [#EFC851]虚刀流[] 到你的手牌 。",
-		"EXTENDED_DESCRIPTION": ["虚刀流", "特殊的1能耗多次 攻击，消耗."],
+		"EXTENDED_DESCRIPTION": ["虚刀流", "特殊的 1 耗 攻击牌，消耗."],
 		"NAME": "鑢七花"
 	},
 	"animator_ShichikaKyotouryuu":
