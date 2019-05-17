@@ -102,7 +102,7 @@
 	},
 	"animator_Bozes":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) à l'ennemi avec le moins de PV. A votre prochaine !M! Synergie ce tour, Gagnez 1 d'Armure_Plaquée.",
+		"DESCRIPTION": "Infligez !D! dégât(s) à l'ennemi avec le moins de PV. A votre prochaine !M! Synergie ce tour, piochez une carte.",
 		"NAME": "Bozes"
 	},
 	"animator_Caster":
@@ -985,9 +985,8 @@
 	},
 	"animator_Yusarin":
 	{
-		"DESCRIPTION": "Au prochain tour, Gagnez [E] et piochez !M! carte(s). NL Après !SV! utilisations, se transforme en [#EFC851]Misa [#EFC851]Kurobane.",
-		"NAME": "Yusarin",
-		"UPGRADE_DESCRIPTION": "Au prochain tour, Gagnez [E] et piochez !M! carte(s). NL Après !SV! utilisations, se transforme en  [#EFC851]Misa [#EFC851]Kurobane+."
+		"DESCRIPTION": "Gagnez [E]. NL Piochez !M! carte(s). NL Épuisement.",
+		"NAME": "Yusarin"
 	},
 	"animator_Yuuichirou":
 	{
