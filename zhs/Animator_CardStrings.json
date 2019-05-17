@@ -237,7 +237,7 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "获得 [E] [E] ， 在本轮结束时 ， 受到 !M! 点 伤害 。 遗赠 ， 撤回 : 获得 [E]",
+		"DESCRIPTION": "获得 [E] [E] ， 在本轮结束时 ， 受到 !M! 点 伤害 。 遗赠 : 获得 [E] [E]",
 		"NAME": "迪米乌哥斯"
 	},
 	"animator_DolaCouronne":
@@ -694,7 +694,7 @@
 	},
 	"animator_Rena":
 	{
-		"DESCRIPTION": "给予一层 易伤 效果， 获得 !B! 点 格挡 。 同调 ： 在此轮， 将随机1张手牌的能耗减1。",
+		"DESCRIPTION": "给予一层 易伤 效果， 获得 !B! 点 格挡 。 撤回 ： 在此轮， 将随机1张手牌的能耗减1。",
 		"NAME": "蕾娜‧艾兰黛"
 	},
 	"animator_Rimuru":
@@ -789,7 +789,8 @@
 	},
 	"animator_Sloth":
 	{
-		"DESCRIPTION": "懒惰 。 NL 造成 !D! 点 伤害 。 NL 给予 !M! 层 易伤 。 NL 给予 !M! 层 跟踪锁定 。 NL 获得 !B! 格挡 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 给予 !M! 层 易伤 。 NL 给予 !M! 层 虚弱 。 获得 !B! 格挡 。 [#EFC851]懒惰[]。",
+		"EXTENDED_DESCRIPTION": ["懒惰", "每轮开始时，将这张牌的 #y格挡 与 伤害为每一个您拥有的充能球增加1 。 每次使用后， 将这张牌的 #y格挡 与伤害减半。"],
 		"NAME": "懒惰"
 	},
 	"animator_Sora":
