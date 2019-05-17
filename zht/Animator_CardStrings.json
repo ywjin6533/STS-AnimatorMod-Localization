@@ -567,7 +567,7 @@
 	},
 	"animator_LizardPriest":
 	{
-		"DESCRIPTION": "使一個敵人的 格擋 值變為 !M! ， 獲得 !B! 點 格擋 。 同調 : 保留 本回合的手牌 。",
+		"DESCRIPTION": "使一個敵人的 格擋 值變為 !M! ， 獲得 !B! 點 格擋 。 同調 : 保留 !SV! 張牌 。",
 		"NAME": "蜥蜴僧侶"
 	},
 	"animator_MaesHughes":

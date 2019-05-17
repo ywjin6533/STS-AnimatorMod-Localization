@@ -568,7 +568,7 @@
 	},
 	"animator_LizardPriest":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Set the Block of the enemy to !M!. NL Synergy: Retain your hand this turn.",
+		"DESCRIPTION": "Gain !B! Block. NL Set the Block of the enemy to !M!. Synergy: Retain !SV! Cards.",
 		"NAME": "'Lizard Priest'"
 	},
 	"animator_MaesHughes":
