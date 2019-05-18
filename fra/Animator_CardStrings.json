@@ -946,9 +946,29 @@
 	},
 	"animator_Vesta":
 	{
-		"DESCRIPTION": "Choisissez une carte de votre Défausse, après !M! tours, ajouté une copie Amélioré de cette carte à votre main. Purge.",
-		"EXTENDED_DESCRIPTION": ["Choisissez une carte, après # tours, ajouté une copie Amélioré de cette carte à votre main."],
+		"DESCRIPTION": "Recherchez un [#EFC851]Élixir, il sera complété dans !M! tours. Épuisement.",
+		"EXTENDED_DESCRIPTION": ["Élixir", "#yCompétence qui coûte 0 ayant des effets variés."],
 		"NAME": "Vesta"
+	},
+	"animator_Vesta_Elixir_0":
+	{
+		"DESCRIPTION": "Gagnez !M! Concentration. NL Gagnez 2 Orb slots. NL Gagnez !SV! Ench._Armor. NL Épuisement.",
+		"NAME": "Elixir"
+	},
+	"animator_Vesta_Elixir_1":
+	{
+		"DESCRIPTION": "Gagnez !M! Force. NL Gagnez !SV! Dextérité. NL Gagnez 8 Temp._PV. NL Épuisement.",
+		"NAME": "Elixir"
+	},
+	"animator_Vesta_Elixir_2":
+	{
+		"DESCRIPTION": "Epuisé !M! cartes. NL Gagnez [E] [E] [E]. NL Piochez !SV! cartes. NL Épuisement.",
+		"NAME": "Elixir"
+	},
+	"animator_Vesta_Elixir_3":
+	{
+		"DESCRIPTION": "Piochez !M! cartes. NL Défaussez 2 cartes. NL Gagnez !SV! Métalisation. NL Épuisement.",
+		"NAME": "Elixir"
 	},
 	"animator_Viivi":
 	{
