@@ -359,7 +359,7 @@
 		"EXTENDED_DESCRIPTION":
 		[
 			"Changeforme. NL Gagnez !B! d'Armure.",
-			"Changeforme. NL Infligez !D! dégât(s) deux fois. Gagnez 2 Métalisation.",
+			"Changeforme. NL Infligez !D! dégât(s) deux fois. Gagnez 2 de Métallisation.",
 			"Changeforme. NL Infligez !D! dégât(s). NL Appliquez 1 Vulnérabilité. NL Appliquez 1 Faiblesse."
 		],
 		"NAME": "Fredrika"
@@ -414,7 +414,7 @@
 	},
 	"animator_Greed":
 	{
-		"DESCRIPTION": "Gagnez !SV! d'Armure_Plaquée. NL Gagnez !M! Métalisation. NL Gagnez 3 Malleable. NL [#EFC851]Greed[].",
+		"DESCRIPTION": "Gagnez !SV! d'Armure_Plaquée. NL Gagnez !M! de Métallisation. NL Gagnez 3 Malleable. NL [#EFC851]Greed[].",
 		"EXTENDED_DESCRIPTION": ["Greed", "Si cette carte est dans votre deck au début du combat, Gagnez #b8 #yOr quand joué. Cette carte coute 1 d'énergie en moins pour chaque #b100 #yOr que vous avez."],
 		"NAME": "Greed"
 	},
@@ -952,23 +952,23 @@
 	},
 	"animator_Vesta_Elixir_0":
 	{
-		"DESCRIPTION": "Gagnez !M! Concentration. NL Gagnez 2 Orb slots. NL Gagnez !SV! Ench._Armor. NL Épuisement.",
-		"NAME": "Elixir"
+		"DESCRIPTION": "Gagnez !M! de Concentration. NL Gagnez 2 emplacements d'Orbe. NL Gagnez !SV! d'Armure_ench. NL Épuisement.",
+		"NAME": "Élixir"
 	},
 	"animator_Vesta_Elixir_1":
 	{
-		"DESCRIPTION": "Gagnez !M! Force. NL Gagnez !SV! Dextérité. NL Gagnez 8 Temp._PV. NL Épuisement.",
-		"NAME": "Elixir"
+		"DESCRIPTION": "Gagnez !M! de Force. NL Gagnez !SV! de Dextérité. NL Gagnez 8 de Temp._PV. NL Épuisement.",
+		"NAME": "Élixir"
 	},
 	"animator_Vesta_Elixir_2":
 	{
-		"DESCRIPTION": "Epuisé !M! cartes. NL Gagnez [E] [E] [E]. NL Piochez !SV! cartes. NL Épuisement.",
-		"NAME": "Elixir"
+		"DESCRIPTION": "Epuisez !M! cartes. NL Gagnez [E] [E] [E]. NL Piochez !SV! cartes. NL Épuisement.",
+		"NAME": "Élixir"
 	},
 	"animator_Vesta_Elixir_3":
 	{
-		"DESCRIPTION": "Piochez !M! cartes. NL Défaussez 2 cartes. NL Gagnez !SV! Métalisation. NL Épuisement.",
-		"NAME": "Elixir"
+		"DESCRIPTION": "Piochez !M! cartes. NL Défaussez 2 cartes. NL Gagnez !SV! de Métallisation. NL Épuisement.",
+		"NAME": "Élixir"
 	},
 	"animator_Viivi":
 	{
