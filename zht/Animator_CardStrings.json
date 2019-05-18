@@ -485,7 +485,7 @@
 	},
 	"animator_Jibril":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! ％ 的額外傷害 ， 乘以敵人的減益效果數 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 為每一種不同的充能球抽 1 張牌 。 NL 同調 ： 獲得 !SV! 點 臨時 集中 。",
 		"NAME": "吉普莉爾"
 	},
 	"animator_Kaijin":
@@ -787,8 +787,8 @@
 	},
 	"animator_Sloth":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 給予 !M! 層 易傷 。 NL 給予 !M! 層 虛弱 。 獲得 !B! 格擋 。 [#EFC851]懶惰[]",
-		"EXTENDED_DESCRIPTION": ["懶惰", "每輪開始時，將這張牌的 #y格擋 與傷害為每一個您擁有的充能球增加1 。 每次使用後， 將這張牌的 #y格擋 與傷害減半。"],
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 給予 !M! 層 易傷 。 NL 獲得 !B! 格擋 。 [#EFC851]懶惰[]",
+		"EXTENDED_DESCRIPTION": ["懶惰", "每輪開始時， 將此卡的格擋和傷害提高 #b2 點 ， 並為​​每個不同的充能球增加 #b1 點 。 每次使用後， 將這張牌的 #y格擋 與傷害減半。"],
 		"NAME": "斯洛斯"
 	},
 	"animator_Sora":

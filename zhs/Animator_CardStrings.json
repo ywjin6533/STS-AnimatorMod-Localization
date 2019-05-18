@@ -487,7 +487,7 @@
 	},
 	"animator_Jibril":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 为每一种不同的充能球抽1张牌。NL 同调 ：获得 !SV! 点临时 集中",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 为每一种不同的充能球抽 1 张牌 。 NL 同调 ： 获得 !SV! 点临时 集中 。",
 		"NAME": "吉普莉尔"
 	},
 	"animator_Kaijin":
@@ -789,8 +789,8 @@
 	},
 	"animator_Sloth":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 给予 !M! 层 易伤 。 NL 给予 !M! 层 虚弱 。 获得 !B! 格挡 。 [#EFC851]懒惰[]。",
-		"EXTENDED_DESCRIPTION": ["懒惰", "每轮开始时，将这张牌的 #y格挡 与 伤害为每一个您拥有的充能球增加1 。 每次使用后， 将这张牌的 #y格挡 与伤害减半。"],
+		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 给予 !M! 层 易伤 。 NL 获得 !B! 格挡 。 [#EFC851]懒惰[]。",
+		"EXTENDED_DESCRIPTION": ["懒惰", "每轮开始时， 将此卡的格挡和伤害提高 #b2 点 ， 并为​​每个不同的充能球增加 #b1 点 。 每次使用后， 将这张牌的 #y格挡 与伤害减半。"],
 		"NAME": "懒惰"
 	},
 	"animator_Sora":

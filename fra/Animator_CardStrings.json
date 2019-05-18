@@ -788,8 +788,8 @@
 	},
 	"animator_Sloth":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Vulnérable. NL Appliquez !M! de Faiblesse. NL Gagnez !B! d'Armure. NL [#EFC851]Paresse.",
-		"EXTENDED_DESCRIPTION": ["Paresse", "Au début de chaque tour, augmentez le montant #yd'Armure and de dégâts par 1 pour chaque Orbe que vous avez. Après l'utilisation, diminuez les dégâts et le montant #y d'Armure de cette carte de moitié."],
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégât(s). NL Appliquez !M! de Vulnérable. NL [#EFC851]Paresse.",
+		"EXTENDED_DESCRIPTION": ["Paresse", "Au début de chaque tour, augmentez le montant #yd'Armure and de dégâts par 2, et par 1 pour chaque unique Orbe que vous avez. Après l'utilisation, diminuez les dégâts et le montant #y d'Armure de cette carte de moitié."],
 		"NAME": "Paresse"
 	},
 	"animator_Sora":
