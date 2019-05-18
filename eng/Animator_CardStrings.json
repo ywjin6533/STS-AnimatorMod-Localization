@@ -947,9 +947,29 @@
 	},
 	"animator_Vesta":
 	{
-		"DESCRIPTION": "Choose a card in your Discard pile. After !M! turns, add an Upgraded copy of it to your hand. Purge.",
-		"EXTENDED_DESCRIPTION": ["Select a card, after # turns, add an Upgraded copy of it to your hand."],
+		"DESCRIPTION": "Research an [#EFC851]Elixir, it will be completed after !M! turns. Purge.",
+		"EXTENDED_DESCRIPTION": ["0-cost #ySkill with a custom effect."],
 		"NAME": "Vesta"
+	},
+	"animator_Vesta_Elixir_0":
+	{
+		"DESCRIPTION": "Gain 1 Focus. NL Gain 2 Orb slots. NL Draw 1 card.",
+		"NAME": "Elixir"
+	},
+	"animator_Vesta_Elixir_1":
+	{
+		"DESCRIPTION": "Gain 2 Strength. NL Gain 1 Dexterity. NL Gain 8 Temp._HP.",
+		"NAME": "Elixir"
+	},
+	"animator_Vesta_Elixir_2":
+	{
+		"DESCRIPTION": "Exhaust a card. NL Gain [E][E]. NL Draw 3 cards.",
+		"NAME": "Elixir"
+	},
+	"animator_Vesta_Elixir_3":
+	{
+		"DESCRIPTION": "Discard 2 cards. NL Draw 3 cards. NL Gain 4 Metallicize.",
+		"NAME": "Elixir"
 	},
 	"animator_Viivi":
 	{
@@ -1055,8 +1075,7 @@
 	{
 		"DESCRIPTION": "Gain 1 Focus. NL Gain 2 Energy. NL Draw 3 cards. NL Gain 4 Strength. NL [#EFC851]Truth.",
 		"NAME": "Truth",
-		"EXTENDED_DESCRIPTION": ["Truth", "If you have at least 3 unique orbs, remove all your orbs, otherwise choose and permanently replace a card in your deck with a #yWound."],
-		"UPGRADE_DESCRIPTION": "Gain 2 Focus. NL Gain 3 Energy. NL Draw 4 cards. NL Gain 5 Strength. NL [#EFC851]Truth."
+		"EXTENDED_DESCRIPTION": ["Truth", "If you have at least 3 unique orbs, remove all your orbs, otherwise choose and permanently replace a card in your deck with a #yWound."]
 	},
 	"animator_Rose":
 	{
