@@ -947,7 +947,7 @@
 	},
 	"animator_Vesta":
 	{
-		"DESCRIPTION": "Research an [#EFC851]Elixir, NL it will be completed after !M! turns. NL Exhaust.",
+		"DESCRIPTION": "Draw 1 card. NL Research an [#EFC851]Elixir, NL it will be completed after !M! turns. NL Exhaust.",
 		"EXTENDED_DESCRIPTION": ["Elixir", "0-cost #ySkill with a variety of different effects."],
 		"NAME": "Vesta"
 	},

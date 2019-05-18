@@ -946,7 +946,7 @@
 	},
 	"animator_Vesta":
 	{
-		"DESCRIPTION": "Recherchez un [#EFC851]Élixir, il sera complété dans !M! tours. Épuisement.",
+		"DESCRIPTION": "Piochez 1 carte. NL Recherchez un [#EFC851]Élixir, il sera complété dans !M! tours. Épuisement.",
 		"EXTENDED_DESCRIPTION": ["Élixir", "#yCompétence qui coûte 0 ayant des effets variés."],
 		"NAME": "Vesta"
 	},

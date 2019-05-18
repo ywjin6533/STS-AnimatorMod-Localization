@@ -944,7 +944,7 @@
 	},
 	"animator_Vesta":
 	{
-		"DESCRIPTION": "研究1瓶 [#EFC851]靈藥[] ， NL !M! 輪後獲得此研究成果 。 消耗 。",
+		"DESCRIPTION": "抽 1 張牌 。 研究1瓶 [#EFC851]靈藥[] ， NL !M! 輪後獲得此研究成果 。 消耗 。",
 		"EXTENDED_DESCRIPTION": ["靈藥", "0 能耗 #y技能 ， 擁有不同的特殊功效。 "],
 		"NAME": "該部"
 	},

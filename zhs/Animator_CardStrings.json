@@ -947,7 +947,7 @@
 	},
 	"animator_Vesta":
 	{
-		"DESCRIPTION": "研究1瓶 [#EFC851]灵药[] ， NL !M! 轮后获得此研究成果 。 消耗 。",
+		"DESCRIPTION": "抽 1 张牌 。 研究1瓶 [#EFC851]灵药[] ， NL !M! 轮后获得此研究成果 。 消耗 。",
 		"EXTENDED_DESCRIPTION": ["灵药", "0 能耗 #y技能 ， 拥有不同的特殊功效 。"],
 		"NAME": "大臣"
 	},
