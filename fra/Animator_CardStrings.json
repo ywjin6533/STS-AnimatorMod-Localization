@@ -610,9 +610,9 @@
 	},
 	"animator_MumenRider":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Piochez 1 carte. NL Purge. Cette carte retourne dans votre main dans 2 tours.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Piochez 1 carte. Purge. Cette carte retourne dans votre main dans 2 tours.",
 		"NAME": "Mumen Rider",
-		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) avec style. Piochez 1 carte. NL Purge. Cette carte retourne dans votre main dans 2 tours."
+		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) avec style. Piochez 1 carte. Purge. Cette carte retourne dans votre main dans 2 tours."
 	},
 	"animator_Nanami":
 	{
@@ -952,7 +952,7 @@
 	},
 	"animator_Vesta_Elixir_0":
 	{
-		"DESCRIPTION": "Gagnez !M! de Concentration. NL Gagnez 2 emplacements d'Orbe. NL Gagnez !SV! d'Armure_ench. NL Épuisement.",
+		"DESCRIPTION": "Gagnez !M! de Concentration. NL Gagnez 2 emplacements d'Orbe. NL Gagnez !SV! de Flou. NL Épuisement.",
 		"NAME": "Élixir"
 	},
 	"animator_Vesta_Elixir_1":
