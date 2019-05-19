@@ -104,8 +104,7 @@
 	"animator_Bozes":
 	{
 		"DESCRIPTION": "Deal !D! damage to the lowest health enemy. Draw !M! card. When you Synergize this turn, gain !SV! Block.",
-		"NAME": "Bozes",
-		"UPGRADE_DESCRIPTION": "Deal !D! damage to the lowest health enemy. Draw !M! cards. When you Synergize this turn, gain !SV! Block."
+		"NAME": "Bozes"
 	},
 	"animator_Caster":
 	{
