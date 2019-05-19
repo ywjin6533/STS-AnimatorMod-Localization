@@ -103,8 +103,9 @@
 	},
 	"animator_Bozes":
 	{
-		"DESCRIPTION": "Deal !D! damage to the lowest health enemy. On your next !M! Synergies this turn, draw 1 card.",
-		"NAME": "Bozes"
+		"DESCRIPTION": "Deal !D! damage to the lowest health enemy. Draw !M! card. When you Synergize this turn, gain !SV! Block.",
+		"NAME": "Bozes",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage to the lowest health enemy. Draw !M! cards. When you Synergize this turn, gain !SV! Block."
 	},
 	"animator_Caster":
 	{
@@ -507,8 +508,8 @@
 	},
 	"animator_Kira":
 	{
-		"DESCRIPTION": "Ethereal. Kill the enemy after a certain number of turns ([#EFC851]*[]). NL Gain !SV! Vulnerable. NL Exhaust.",
-		"EXTENDED_DESCRIPTION": ["* Note", "This card's text will change while targeting an enemy, enemies with more health will survive longer. Ignores Artifact.", "Ethereal. The enemy will die in # turns. NL Gain !SV! Vulnerable. NL Exhaust."],
+		"DESCRIPTION": "Ethereal. Give the enemy !SV! Strength and kill it after a certain number of turns ([#EFC851]*[]). NL Exhaust.",
+		"EXTENDED_DESCRIPTION": ["* Note", "This card's text will change while targeting an enemy, enemies with more health will survive longer. Ignores Artifact.", "Ethereal. The enemy will die in @ turn(s). NL Exhaust."],
 		"NAME": "Light Yagami"
 	},
 	"animator_Konayuki":
@@ -790,7 +791,7 @@
 	},
 	"animator_Sloth":
 	{
-		"DESCRIPTION": "[#EFC851]Sloth. NL Deal !D! damage. NL Gain !B! Block. NL Apply !M! Vulnerable.",
+		"DESCRIPTION": "[#EFC851]Sloth. NL Gain !B! Block. NL Deal !D! damage. NL Apply !M! Vulnerable.",
 		"EXTENDED_DESCRIPTION": ["Sloth", "At the start of each turn, increase this card's #yBlock and damage by 2, gain an additional 1 for each unique Orb you have. On use, halve this card's damage and #yBlock."],
 		"NAME": "Sloth"
 	},

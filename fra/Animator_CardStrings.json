@@ -102,7 +102,7 @@
 	},
 	"animator_Bozes":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) à l'ennemi avec le moins de PV. A votre prochaine !M! Synergie ce tour, piochez une carte.",
+		"DESCRIPTION": "Infligez !D! dégât(s) à l'ennemi avec le moins de PV. Piochez !M! carte(s). Quand vous effectuez une Synergie ce tour, gagnez !SV! d'Armure.",
 		"NAME": "Bozes"
 	},
 	"animator_Caster":
@@ -506,8 +506,8 @@
 	},
 	"animator_Kira":
 	{
-		"DESCRIPTION": "Éthérée. Tue l'ennemi après un certain nombre de tour ([#EFC851]*[]). NL Gagnez !SV! Vulnérabilité. NL Épuisement.",
-		"EXTENDED_DESCRIPTION": ["* Note", "Cet carte change en fonction de l'ennemi, les ennemis avec plus de vie survive plus longtemps. Ignore Artéfact.", "Éthérée. L'ennemi va mourir dans # tours. NL Gagnez !SV! Vulnérabilité. NL Épuisement."],
+		"DESCRIPTION": "Éthérée. Tue l'ennemi après un certain nombre de tour ([#EFC851]*[]) et donnez-lui !SV! de Force. NL Épuisement.",
+		"EXTENDED_DESCRIPTION": ["* Note", "Cet carte change en fonction de l'ennemi, les ennemis avec plus de vie survive plus longtemps. Ignore Artéfact.", "Éthérée. L'ennemi va mourir dans @ tour(s). NL Épuisement."],
 		"NAME": "Light Yagami"
 	},
 	"animator_Konayuki":
