@@ -239,8 +239,9 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "Gain [E] [E]. NL Take !M! damage at the end of this turn. NL Legacy: Gain [E] [E].",
-		"NAME": "Demiurge"
+		"DESCRIPTION": "Gain [E]. NL Take !M! damage at the end of this turn. NL Legacy: Gain [E].",
+		"NAME": "Demiurge",
+		"UPGRADE_DESCRIPTION": "Gain [E] [E]. NL Take !M! damage at the end of this turn. NL Legacy: Gain [E] [E]."
 	},
 	"animator_DolaCouronne":
 	{

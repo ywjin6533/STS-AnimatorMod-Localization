@@ -237,8 +237,9 @@
 	},
 	"animator_Demiurge":
 	{
-		"DESCRIPTION": "獲得 [E] [E] 。 在本回合結束時 ， 受到 !M! 點 傷害 。 遺產 : 獲得 [E] [E]",
-		"NAME": "迪米烏哥斯"
+		"DESCRIPTION": "獲得 [E] 。 在本回合結束時 ， 受到 !M! 點 傷害 。 遺產 : 獲得 [E]",
+		"NAME": "迪米烏哥斯",
+		"UPGRADE_DESCRIPTION": "獲得 [E] [E] 。 在本回合結束時 ， 受到 !M! 點 傷害 。 遺產 : 獲得 [E] [E]"
 	},
 	"animator_DolaCouronne":
 	{
