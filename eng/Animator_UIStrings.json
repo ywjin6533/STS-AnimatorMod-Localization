@@ -107,6 +107,23 @@
 		]
 	},
 	
+	"Animator_TheUnnamed":
+	{
+		"TEXT": 
+		[
+			"How dare you challenge me!",
+			"I don't even need to attack you...",
+			"You'd better run away while you can.",
+			"You call that a deck?",
+			"It will all end soon...",
+			"How did you even get this far?",
+			"You know... You should deal some damage to progress...",
+			"Gilgamesh will not save you.",
+			"Megumin is overrated.",
+			"You are cheating, I see that Ainz is in your deck..."
+		]
+	},
+	
 	"Animator_Rewards":
 	{
 		"TEXT": 
