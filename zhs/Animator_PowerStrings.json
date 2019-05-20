@@ -110,6 +110,22 @@
 		"DESCRIPTIONS": ["在你的回合开始时获得随机 #y积极影响, 从你的牌库中选择并 消耗", " 张牌。"],
 		"NAME": "否定姫"
 	},
+	"animator_InfinitePower":
+	{
+		"DESCRIPTIONS": 
+		[
+			"- Before taking unblocked damage: Gain that much #yEnchanted #yArmor. NL - When receiving a debuff: Gain that much #yRegeneration. NL - When the enemy receives a buff: Gain that much #yStrength. NL NL These stats will be halved at the end of each turn."
+		],
+		"NAME": "无尽之力"
+	},
+	"animator_UnnamedDollPower":
+	{
+		"DESCRIPTIONS": 
+		[
+			"On death, ALL characters gain #b", " #yStrength."
+		],
+		"NAME": "无名"
+	},
 	"animator_KaijinPower":
 	{
 		"DESCRIPTIONS": ["每回合结束时 ， 随机选择一张抽牌堆中的牌 ， 在本场战斗中使其造成的伤害与获得的格挡量提高#b", "点."],

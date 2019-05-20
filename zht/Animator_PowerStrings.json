@@ -110,6 +110,16 @@
 		"DESCRIPTIONS": ["在你的回合開始時獲得隨機 #y積極影響, 選擇並且消耗", " 張隨機牌 。"],
 		"NAME": "否定姫"
 	},
+	"animator_InfinitePower":
+	{
+		"DESCRIPTIONS": ["- 受到未被格擋的傷害前: 獲得此數量的#y魔法護甲. NL - 受到負面效果時: 獲得此數量的#y再生. NL - 當敵人獲得積極影響時: 獲得此數量的# y力量. NL NL 這些加成會在每回合結束時減半."],
+		"NAME": "無盡之力"
+	},
+	"animator_UnnamedDollPower":
+	{
+		"DESCRIPTIONS": ["死亡時，所有角色獲得 #b", " #y力量 "],
+		"NAME": "無名傀儡"
+	},
 	"animator_KaijinPower":
 	{
 		"DESCRIPTIONS": ["每回合結束時 ， 隨機選擇一張抽牌堆中的牌 ， 在本場戰鬥中使其造成的傷害與獲得的格擋量提高 #b", " 點。"],
