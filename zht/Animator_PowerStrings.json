@@ -112,7 +112,7 @@
 	},
 	"animator_InfinitePower":
 	{
-		"DESCRIPTIONS": ["- 受到未被格擋的傷害前: 獲得此數量的#y魔法護甲. NL - 受到負面效果時: 獲得此數量的#y再生. NL - 當敵人獲得積極影響時: 獲得此數量的# y力量. NL NL 這些加成會在每回合結束時減半."],
+		"DESCRIPTIONS": ["- 受到未被格擋的傷害前: 獲得此數量的 #y魔法護甲 . NL - 受到 負面效果 時: 獲得此數量的 #y再生 . NL - 當敵人獲得 積極影響 時: 獲得此數量的 #y力量 . NL NL 這些加成會在每回合結束時減半."],
 		"NAME": "無盡之力"
 	},
 	"animator_UnnamedDollPower":
