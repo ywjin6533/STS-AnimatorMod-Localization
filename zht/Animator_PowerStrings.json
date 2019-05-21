@@ -57,7 +57,7 @@
 	},
 	"animator_EnchantedArmorPower":
 	{
-		"DESCRIPTIONS": ["所有敵人減少 #b", "% 傷害。"],
+		"DESCRIPTIONS": ["受到的所有傷害減少 #b", "% 。"],
 		"NAME": "魔法盔甲"
 	},
 	"animator_EntouJyuuPower":

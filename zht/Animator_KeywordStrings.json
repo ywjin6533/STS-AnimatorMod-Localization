@@ -137,7 +137,7 @@
 	{
 		"PROPER_NAME": "魔法護甲",
 		"NAMES": ["魔法護甲"],
-		"DESCRIPTION": "受到敵人更少的傷害，效果被層數影響 。"
+		"DESCRIPTION": "減少受到的所有傷害，效果被層數影響 。"
 	},
 	{
 		"PROPER_NAME": "武術家",
