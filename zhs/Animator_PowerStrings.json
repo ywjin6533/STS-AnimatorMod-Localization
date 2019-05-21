@@ -114,7 +114,7 @@
 	{
 		"DESCRIPTIONS": 
 		[
-			"- Before taking unblocked damage: Gain that much #yEnchanted #yArmor. NL - When receiving a debuff: Gain that much #yRegeneration. NL - When the enemy receives a buff: Gain that much #yStrength. NL NL These stats will be halved at the end of each turn."
+			"- 受到未被格挡的伤害前: 获得此数量的 #y魔法护甲 . NL - 受到 负面效果 时: 获得此数量的 #y再生 . NL - 当敌人获得 积极影响 时: 获得此数量的 #y力量 . NL NL 这些加成会在每回合结束时减半."
 		],
 		"NAME": "无尽之力"
 	},
@@ -122,9 +122,9 @@
 	{
 		"DESCRIPTIONS": 
 		[
-			"On death, ALL characters gain #b", " #yStrength."
+			"死亡时，所有角色获得 #b", " #y力量 "
 		],
-		"NAME": "无名"
+		"NAME": "无名傀儡"
 	},
 	"animator_KaijinPower":
 	{
