@@ -416,7 +416,7 @@
 	"animator_Greed":
 	{
 		"DESCRIPTION": "Gagnez !SV! d'Armure_Plaquée. NL Gagnez !M! de Métallisation. NL Gagnez 3 Malleable. NL [#EFC851]Greed[].",
-		"EXTENDED_DESCRIPTION": ["Greed", "Si cette carte est dans votre deck au début du combat, Gagnez #b8 #yOr quand joué. Cette carte coute 1 d'énergie en moins pour chaque #b100 #yOr que vous avez."],
+		"EXTENDED_DESCRIPTION": ["Greed", "Si cette carte est dans votre deck au début du combat, gagnez #b8 #yOr quand joué. Cette carte coute 1 d'énergie en moins pour chaque #b100 #yOr que vous avez."],
 		"NAME": "Greed"
 	},
 	"animator_GuildGirl":

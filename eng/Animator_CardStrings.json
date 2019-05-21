@@ -417,7 +417,7 @@
 	"animator_Greed":
 	{
 		"DESCRIPTION": "Gain !SV! Plated_Armor. NL Gain !M! Metallicize. NL Gain 3 Malleable. NL [#EFC851]Greed[].",
-		"EXTENDED_DESCRIPTION": ["Greed", "If this card was in your initial deck, gain #b8 #yGold when played. This card costs 1 less energy for every #b100 #yGold you have."],
+		"EXTENDED_DESCRIPTION": ["Greed", "If this card was not generated during combat, gain #b8 #yGold when played. This card costs 1 less energy for every #b100 #yGold you have."],
 		"NAME": "Greed"
 	},
 	"animator_GuildGirl":
