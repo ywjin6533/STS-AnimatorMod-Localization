@@ -57,7 +57,7 @@
 	},
 	"animator_EnchantedArmorPower":
 	{
-		"DESCRIPTIONS": ["ALL enemies deal #b", "% less damage."],
+		"DESCRIPTIONS": ["Take #b", "% less damage."],
 		"NAME": "Enchanted Armor"
 	},
 	"animator_EntouJyuuPower":
