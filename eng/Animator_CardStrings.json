@@ -20,8 +20,7 @@
 	"animator_Add":
 	{
 		"DESCRIPTION": "Gain !M! Ench._Armor. NL Exhaust 1 card in your draw pile. Replace it with an Orb_Core. NL Ethereal. Exhaust.",
-		"NAME": "Add",
-		"UPGRADE_DESCRIPTION": "Gain !M! Ench._Armor. NL Exhaust 1 card in your draw pile. Replace it with an Orb_Core. NL Ethereal."
+		"NAME": "Add"
 	},
 	"animator_Ain":
 	{

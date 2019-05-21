@@ -19,8 +19,7 @@
 	"animator_Add":
 	{
 		"DESCRIPTION": "获得 !M! 魔法护甲 。 在你的抽牌堆中 消耗 1 张牌 。 加入一张 充能球核心 到抽牌堆。 虚无 。 消耗 。",
-		"NAME": "艾迪",
-		"UPGRADE_DESCRIPTION": "获得 !M! 魔法护甲 。 在你的抽牌堆中 消耗 1 张牌 。 加入一张 充能球核心 到抽牌堆。 虚无 。"
+		"NAME": "艾迪"
 	},
 	"animator_Ain":
 	{
@@ -790,7 +789,7 @@
 	},
 	"animator_Sloth":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 给予 !M! 层 易伤 。 NL 获得 !B! 格挡 。 [#EFC851]懒惰[]。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 给予 !M! 层 易伤 。 NL 获得 !B! 格挡 。 [#EFC851]懒惰[] 。",
 		"EXTENDED_DESCRIPTION": ["懒惰", "每轮开始时， 将此卡的格挡和伤害提高 #b2 点 ， 并为​​每个不同的充能球增加 #b1 点 。 每次使用后， 将这张牌的 #y格挡 与伤害减半。"],
 		"NAME": "懒惰"
 	},
