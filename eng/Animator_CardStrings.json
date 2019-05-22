@@ -35,7 +35,7 @@
 	},
 	"animator_Aisha":
 	{
-		"DESCRIPTION": "Spellcaster. Deal !D! damage for each Orb you have. Boost !SV!: Gain 1 Orb Slot.",
+		"DESCRIPTION": "Spellcaster. Deal !D! damage for each Orb you have. Boost !SV!: NL Gain 1 Orb Slot.",
 		"NAME": "Aisha"
 	},
 	"animator_Albedo":
@@ -151,7 +151,7 @@
 	},
 	"animator_CrowleyEusford":
 	{
-		"DESCRIPTION": "Deal !D! damage to a random enemy. NL This card costs 0 NL if you Exhausted a card this turn.",
+		"DESCRIPTION": "Deal !D! damage to a random enemy. NL This card costs 0 NL if you Exhausted NL a card this turn.",
 		"NAME": "Crowley Eusford"
 	},
 	"animator_Darkness":
@@ -562,9 +562,9 @@
 	},
 	"animator_LimeBell":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Reload: Next turn, Heal !M! HP. NL Exhaust.",
+		"DESCRIPTION": "Gain !B! Block. NL Reload: Next turn, NL Heal !M! HP. NL Exhaust.",
 		"NAME": "Lime Bell",
-		"UPGRADE_DESCRIPTION": "Draw 1 card. NL Gain !B! Block. NL Reload: Next turn, Heal !M! HP. NL Exhaust."
+		"UPGRADE_DESCRIPTION": "Draw 1 card. NL Gain !B! Block. NL Reload: Next turn, NL Heal !M! HP. NL Exhaust."
 	},
 	"animator_LizardPriest":
 	{
@@ -937,7 +937,8 @@
 	"animator_Urushihara":
 	{
 		"DESCRIPTION": "Lazy. NL Channel 1 Dark. NL Deal !D! damage NL to ALL enemies.",
-		"NAME": "Urushihara"
+		"NAME": "Urushihara",
+		"UPGRADE_DESCRIPTION": "Slightly less Lazy. NL Channel 1 Dark. NL Deal !D! damage NL to ALL enemies."
 	},
 	"animator_Vanir":
 	{
