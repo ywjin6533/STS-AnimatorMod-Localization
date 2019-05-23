@@ -108,9 +108,15 @@
 		"FLAVOR": "What is this thing?",
 		"NAME": "The Missing Piece"
 	},
+	"Animator_TheAncientMedallion":
+	{
+		"DESCRIPTIONS": ["Upon pickup, gain #b", " Max HP. At the start of each combat, Heal #b", " HP."],
+		"FLAVOR": "...",
+		"NAME": "Ancient Medallion"
+	},
 	"Animator_TheEgnaroPiece":
 	{
-		"DESCRIPTIONS": ["Gain [E] and draw 1 card at the start of each turn. Heal #b", " HP at the start of each combat, overheal is turned to #yTemporary #yHP."],
+		"DESCRIPTIONS": ["Gain [E] and draw 1 card at the start of each turn. At the end of each turn, gain #b", " #yTemporary #yHP, then increase this number by #b1."],
 		"FLAVOR": "What is this thing?",
 		"NAME": "The Egnaro Piece"
 	},

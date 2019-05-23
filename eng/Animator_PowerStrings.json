@@ -131,7 +131,7 @@
 		"NAME": "Unnamed Doll"
 	},
 	
-	"animator_UltimateCubePower"
+	"animator_UltimateCubePower":
 	{
 		"DESCRIPTIONS": 
 		[
@@ -139,7 +139,7 @@
 		],
 		"NAME": "Ultimate Cube"
 	},
-	"animator_UltimateCrystalPower"
+	"animator_UltimateCrystalPower":
 	{
 		"DESCRIPTIONS": 
 		[
@@ -147,7 +147,7 @@
 		],
 		"NAME": "Ultimate Crystal"
 	},
-	"animator_UltimateWispPower"
+	"animator_UltimateWispPower":
 	{
 		"DESCRIPTIONS": 
 		[
