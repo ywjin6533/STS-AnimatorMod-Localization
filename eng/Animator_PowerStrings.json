@@ -131,6 +131,31 @@
 		"NAME": "Unnamed Doll"
 	},
 	
+	"animator_UltimateCubePower"
+	{
+		"DESCRIPTIONS": 
+		[
+			"On death, summon 4 random cubes."
+		],
+		"NAME": "Ultimate Cube"
+	},
+	"animator_UltimateCrystalPower"
+	{
+		"DESCRIPTIONS": 
+		[
+			"On death, summon 4 random crystals."
+		],
+		"NAME": "Ultimate Crystal"
+	},
+	"animator_UltimateWispPower"
+	{
+		"DESCRIPTIONS": 
+		[
+			"On death, summon 4 random wisps."
+		],
+		"NAME": "Ultimate Wisp"
+	},
+	
 	"animator_DarkCubePower":
 	{
 		"DESCRIPTIONS": 
