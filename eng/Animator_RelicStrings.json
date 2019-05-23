@@ -116,19 +116,19 @@
 	},
 	"Animator_TheEgnaroPiece":
 	{
-		"DESCRIPTIONS": ["Gain [E] and draw 1 card at the start of each turn. At the end of each turn, gain #b", " #yTemporary #yHP, then increase this number by #b1."],
+		"DESCRIPTIONS": ["Gain [E] and draw 1 card at the start of each turn. NL Gain #b", " #yTemporary #yHP at the end of each turn, then increase this number by #b1."],
 		"FLAVOR": "What is this thing?",
 		"NAME": "The Egnaro Piece"
 	},
 	"Animator_TheWolleyCore":
 	{
-		"DESCRIPTIONS": ["Draw #b"," cards at the start of each turn. Whenever you play a card, gain #b", " #yBlock."],
+		"DESCRIPTIONS": ["Draw #b"," cards at the start of each turn. NL Whenever you play a card, gain #b", " #yBlock."],
 		"FLAVOR": "What is this thing?",
 		"NAME": "The Wolley Core"
 	},
 	"Animator_TheEruzaStone":
 	{
-		"DESCRIPTIONS": ["Gain [E] [E] at the start of each turn. Whenever you play a #yPower, draw 1 card."],
+		"DESCRIPTIONS": ["Gain [E] [E] at the start of each turn. NL Whenever you play a #yPower, draw 1 card."],
 		"FLAVOR": "What is this thing?",
 		"NAME": "The Eruza Stone"
 	},
