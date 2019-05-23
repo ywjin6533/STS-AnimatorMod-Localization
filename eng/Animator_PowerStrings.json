@@ -135,7 +135,7 @@
 	{
 		"DESCRIPTIONS": 
 		[
-			"On death, summon 4 random cubes."
+			"On death, summon #b", " random cubes."
 		],
 		"NAME": "Ultimate Cube"
 	},
@@ -143,7 +143,7 @@
 	{
 		"DESCRIPTIONS": 
 		[
-			"On death, summon 4 random crystals."
+			"On death, summon #b", " random crystals."
 		],
 		"NAME": "Ultimate Crystal"
 	},
@@ -151,7 +151,7 @@
 	{
 		"DESCRIPTIONS": 
 		[
-			"On death, summon 4 random wisps."
+			"On death, summon #b", " random wisps."
 		],
 		"NAME": "Ultimate Wisp"
 	},
@@ -160,7 +160,7 @@
 	{
 		"DESCRIPTIONS": 
 		[
-			"At the start of each turn, ALL allies gain #b", " #yEnchanted #yArmor."
+			"At the end of each turn, ALL allies gain #b", " #yEnchanted #yArmor."
 		],
 		"NAME": "Dark Cube"
 	},
@@ -185,7 +185,7 @@
 	{
 		"DESCRIPTIONS": 
 		[
-			"At the start of each turn, deal #b", " #yPiercing damage to the enemy."
+			"At the end of each turn, deal #b", " #yPiercing damage to the enemy."
 		],
 		"NAME": "Lightning Cube"
 	},
@@ -210,7 +210,7 @@
 	{
 		"DESCRIPTIONS": 
 		[
-			"At the start of each turn, ALL allies heal #b", " HP."
+			"At the end of each turn, ALL allies heal #b", " HP."
 		],
 		"NAME": "Healing Cube"
 	},
@@ -235,7 +235,7 @@
 	{
 		"DESCRIPTIONS": 
 		[
-			"At the start of each turn, ALL allies gain #b", " #yPlated #yArmor."
+			"At the end of each turn, ALL allies gain #b", " #yPlated #yArmor."
 		],
 		"NAME": "Frost Cube"
 	},
@@ -260,7 +260,7 @@
 	{
 		"DESCRIPTIONS": 
 		[
-			"At the start of each turn, ALL allies gain #b", " #yStrength."
+			"At the end of each turn, ALL allies gain #b", " #yStrength."
 		],
 		"NAME": "Fire Cube"
 	},
