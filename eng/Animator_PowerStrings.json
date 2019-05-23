@@ -122,10 +122,140 @@
 	{
 		"DESCRIPTIONS": 
 		[
-			"On death, ALL characters gain #b", " #yStrength."
+			"On death, ALL characters gain #b",
+			" #yStrength, #b",
+			" #yEnchanted #yArmor, #b", 
+			" #yPlated #yArmor, and heal #b",
+			" HP."
 		],
 		"NAME": "Unnamed Doll"
 	},
+	
+	"animator_DarkCubePower":
+	{
+		"DESCRIPTIONS": 
+		[
+			"At the start of each turn, ALL allies gain #b", " #yEnchanted #yArmor."
+		],
+		"NAME": "Dark Cube"
+	},
+	"animator_DarkCrystalPower":
+	{
+		"DESCRIPTIONS": 
+		[
+			"Upon being attacked, a random character gains #b", " #yEnchanted #yArmor."
+		],
+		"NAME": "Dark Crystal"
+	},
+	"animator_DarkWispPower":
+	{
+		"DESCRIPTIONS": 
+		[
+			"On death, ALL characters gain #b", " #yEnchanted #yArmor."
+		],
+		"NAME": "Dark Wisp"
+	},
+	
+	"animator_LightningCubePower":
+	{
+		"DESCRIPTIONS": 
+		[
+			"At the start of each turn, deal #b", " #yPiercing damage to the enemy."
+		],
+		"NAME": "Lightning Cube"
+	},
+	"animator_LightningCrystalPower":
+	{
+		"DESCRIPTIONS": 
+		[
+			"Upon being attacked, a random character takes #b", " #yPiercing damage."
+		],
+		"NAME": "Lightning Crystal"
+	},
+	"animator_LightningWispPower":
+	{
+		"DESCRIPTIONS": 
+		[
+			"On death, ALL characters take #b", " #yPiercing damage."
+		],
+		"NAME": "Lightning Wisp"
+	},
+	
+	"animator_HealingCubePower":
+	{
+		"DESCRIPTIONS": 
+		[
+			"At the start of each turn, ALL allies heal #b", " HP."
+		],
+		"NAME": "Healing Cube"
+	},
+	"animator_HealingCrystalPower":
+	{
+		"DESCRIPTIONS": 
+		[
+			"Upon being attacked, a random character heals #b", " HP."
+		],
+		"NAME": "Healing Crystal"
+	},
+	"animator_LightningWispPower":
+	{
+		"DESCRIPTIONS": 
+		[
+			"On death, ALL characters heal #b", " HP."
+		],
+		"NAME": "Healing Wisp"
+	},
+	
+	"animator_FrostCubePower":
+	{
+		"DESCRIPTIONS": 
+		[
+			"At the start of each turn, ALL allies gain #b", " #yPlated #yArmor."
+		],
+		"NAME": "Frost Cube"
+	},
+	"animator_FrostCrystalPower":
+	{
+		"DESCRIPTIONS": 
+		[
+			"Upon being attacked, a random character gains #b", " #yPlated #yArmor."
+		],
+		"NAME": "Frost Crystal"
+	},
+	"animator_FrostWispPower":
+	{
+		"DESCRIPTIONS": 
+		[
+			"On death, ALL characters gain #b", " #yPlated #yArmor."
+		],
+		"NAME": "Frost Wisp"
+	},
+	
+	"animator_FireCubePower":
+	{
+		"DESCRIPTIONS": 
+		[
+			"At the start of each turn, ALL allies gain #b", " #yStrength."
+		],
+		"NAME": "Fire Cube"
+	},
+	"animator_FireCrystalPower":
+	{
+		"DESCRIPTIONS": 
+		[
+			"Upon being attacked, a random character gains #b", " #yStrength."
+		],
+		"NAME": "Fire Crystal"
+	},
+	"animator_FireWispPower":
+	{
+		"DESCRIPTIONS": 
+		[
+			"On death, ALL characters gain #b", " #yStrength."
+		],
+		"NAME": "Fire Wisp"
+	},
+	
 	"animator_KaijinPower":
 	{
 		"DESCRIPTIONS": ["At the end of your turn, increase the #yBlock and damage of a random card in your draw pile by #b", "."],
