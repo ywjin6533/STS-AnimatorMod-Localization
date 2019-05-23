@@ -290,7 +290,7 @@
 		"MOVES": [],
 		"NAME": "Ultimate Cube",
 		"DIALOG": [""]
-	}
+	},
 	"Animator_Ultimate_Wisp_3":
 	{
 		"MOVES": [],
@@ -324,5 +324,5 @@
 			"Megumin is overrated.",
 			"You are cheating, I see that Ainz is in your deck..."
 		]
-	},
+	}
 }
