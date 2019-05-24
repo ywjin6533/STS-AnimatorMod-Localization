@@ -124,7 +124,7 @@
 		[
 			"On death, ALL characters gain #b",
 			" #yStrength, #b",
-			" #yEnchanted #yArmor, #b", 
+			" #yVulnerable, #b",
 			" #yPlated #yArmor, and heal #b",
 			" HP."
 		],
