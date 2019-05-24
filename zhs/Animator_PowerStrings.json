@@ -289,7 +289,7 @@
 		"DESCRIPTIONS": ["本回合中，你接下来第 #b", " 次触发 #y同调 后 , 抽 #b", " 张牌, 然后 丢 #b1 张牌."],
 		"NAME": "黑暗核心"
 	},
-	"animator_OrbCore_Eart生命值ower":
+	"animator_OrbCore_EarthPower":
 	{
 		"DESCRIPTIONS": ["本回合中，你接下来第 #b", " 次触发 #y同调 后 , 获得 #b", " 点 临时 #y荆棘."],
 		"NAME": "土素核心"

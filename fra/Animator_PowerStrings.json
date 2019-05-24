@@ -289,14 +289,14 @@
 	"animator_OrbCore_ChaosPower":
 	{
 		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, #yDécouvre #b", " cartes."],
-		"NAME": "Noyau Chaotique"
+		"NAME": "Noyau de Chaos"
 	},
 	"animator_OrbCore_DarkPower":
 	{
 		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, piochez #b", " carte, puis défaussé #b1 carte."],
-		"NAME": "Noyau Tenébreux"
+		"NAME": "Noyau de Tenèbre"
 	},
-	"animator_OrbCore_EartPVower":
+	"animator_OrbCore_EarthPower":
 	{
 		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, gagnez #b", " #yEpine temporaire."],
 		"NAME": "Noyau de Terre"
