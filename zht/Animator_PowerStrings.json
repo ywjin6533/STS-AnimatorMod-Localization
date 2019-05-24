@@ -120,6 +120,81 @@
 		"DESCRIPTIONS": ["死亡時，所有角色獲得 #b", " #y力量 "],
 		"NAME": "無名傀儡"
 	},
+	"animator_DarkCubePower":
+	{
+		"DESCRIPTIONS": ["每輪結束時, 所有盟友獲得 #b", " 層 #y魔法護甲."],
+		"NAME": "暗黑之方"
+	},
+	"animator_DarkCrystalPower":
+	{
+		"DESCRIPTIONS": ["受到攻擊時, 一名隨機角色獲得 #b", " 層 #y魔法護甲."],
+		"NAME": "暗黑之晶"
+	},
+	"animator_DarkWispPower":
+	{
+		"DESCRIPTIONS": ["死亡時, 所有角色獲得 #b", " 層 #y魔法護甲."],
+		"NAME": "暗黑之縷"
+	},
+	"animator_LightningCubePower":
+	{
+		"DESCRIPTIONS": ["每輪結束時, 對敵人造成 #b", " 點 #y穿刺 傷害."],
+		"NAME": "雷電之方"
+	},
+	"animator_LightningCrystalPower":
+	{
+		"DESCRIPTIONS": ["受到攻擊時, 一名隨機角色承受 #b", " 點 #y穿刺 傷害."],
+		"NAME": "雷電之晶"
+	},
+	"animator_LightningWispPower":
+	{
+		"DESCRIPTIONS": ["死亡時, 所有角色承受 #b", " 點 #y穿刺 傷害."],
+		"NAME": "雷電之縷"
+	},
+	"animator_HealingCubePower":
+	{
+		"DESCRIPTIONS": ["每輪結束時, 所有盟友修復 #b", " 點生命值."],
+		"NAME": "治愈之方"
+	},
+	"animator_HealingCrystalPower":
+	{
+		"DESCRIPTIONS": ["受到攻擊時, 一名隨機角色修復 #b", " 點生命值."],
+		"NAME": "治愈之晶"
+	},
+	"animator_HealingWispPower":
+	{
+		"DESCRIPTIONS": ["死亡時, 所有角色修復 #b", " 點生命值."],
+		"NAME": "治愈之縷"
+	},
+	"animator_FrostCubePower":
+	{
+		"DESCRIPTIONS": ["每輪結束時, 所有盟友獲得 #b", " 層 #y多層護甲."],
+		"NAME": "冰霜之方"
+	},
+	"animator_FrostCrystalPower":
+	{
+		"DESCRIPTIONS": ["受到攻擊時, 一名隨機角色獲得 #b", " 層 #y多層護甲."],
+		"NAME": "冰霜之晶"
+	},
+	"animator_FrostWispPower":
+	{
+		"DESCRIPTIONS": ["死亡時, 所有角色獲得 #b", " 層 #y多層護甲."],
+		"NAME": "冰霜之縷"
+	},
+	"animator_FireCubePower":
+	{
+		"DESCRIPTIONS": ["每輪結束時, 所有盟友獲得 #b", " #y力量."],
+		"NAME": "火焰之方"
+	},
+	"animator_FireCrystalPower":
+	{
+		"DESCRIPTIONS": ["受到攻擊時, 一名隨機角色獲得s #b", " #y力量."],
+		"NAME": "火焰之晶"
+	},
+	"animator_FireWispPower":
+	{
+		"DESCRIPTIONS": ["死亡時, 所有角色獲得 #b", " #y力量."],
+		"NAME": "火焰之縷"
+	},
 	"animator_KaijinPower":
 	{
 		"DESCRIPTIONS": ["每回合結束時 ， 隨機選擇一張抽牌堆中的牌 ， 在本場戰鬥中使其造成的傷害與獲得的格擋量提高 #b", " 點。"],
