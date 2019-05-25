@@ -134,6 +134,14 @@
 			"Whenever it deals unblocked damage, add 1 #yPain and 1 #yWound to your draw pile."
 		]
 	},
+	"animator_UnnamedCultist":
+	{
+		"NAME": "Cursed Stabs",
+		"DESCRIPTIONS":
+		[
+			"While there are other allies alive, gain 30 Enchanted Armor for each."
+		]
+	},
 
 	"animator_UltimateCubePower":
 	{
@@ -239,7 +247,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"At the end of each turn, apply #b", " #yWeak to the enemy."
+			"At the end of each turn, All allies gain #b", " #yPlated #yArmor."
 		],
 		"NAME": "Frost Cube"
 	},
@@ -247,7 +255,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"Upon losing its #yBlock, apply #b", " #yWeak to ALL other charactes."
+			"Upon losing its #yBlock, All other characters gain #b", " #yPlated #yArmor."
 		],
 		"NAME": "Frost Crystal"
 	},
@@ -255,7 +263,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"On death, apply #b", " #yWeak to ALL charactes."
+			"On death, All characters gain #b", " #yPlated #yArmor."
 		],
 		"NAME": "Frost Wisp"
 	},

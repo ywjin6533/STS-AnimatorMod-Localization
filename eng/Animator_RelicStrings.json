@@ -122,7 +122,7 @@
 	},
 	"Animator_TheWolleyCore":
 	{
-		"DESCRIPTIONS": ["Draw #b"," cards at the start of each turn. NL Whenever you play a card, gain #b", " #yBlock."],
+		"DESCRIPTIONS": ["Draw #b", " cards at the start of each turn. NL Whenever you play a card, deal #b", " damage to ALL enemies and gain #b", " #yBlock."],
 		"FLAVOR": "What is this thing?",
 		"NAME": "The Wolley Core"
 	},
