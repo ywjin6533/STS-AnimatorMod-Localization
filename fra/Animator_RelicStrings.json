@@ -16,7 +16,7 @@
 	{
 		"DESCRIPTIONS": ["Une fois par tour, quand vous piochez 3 cartes ou plus, gagnez #b", " #yd'Armure et #b", " #yDexterity jusqu'à la fin du tour."],
 		"FLAVOR": "Pour ce qu'il en est de la vitesse, je suis le meilleur, rapide comme le vent de l'île",
-		"NAME": "Buoy"
+		"NAME": "Bouée"
 	},
 	"Animator_CerealBox":
 	{
@@ -32,7 +32,7 @@
 	},
 	"Animator_CursedGlyph":
 	{
-		"DESCRIPTIONS": ["Au ramassage, #rperdez #r", " #rPV Max, Tous les ennemis recoivent des PV Max suppémentaire."],
+		"DESCRIPTIONS": ["À l'obtention, #rperdez #r", " #rPV Max, Tous les ennemis recoivent des PV Max suppémentaire."],
 		"FLAVOR": "C'était une erreur...",
 		"NAME": "Glyphe Maudit"
 	},
@@ -72,7 +72,7 @@
 		"FLAVOR": "Une réalité déroutante!",
 		"NAME": "Vieux Cercueil"
 	},
-	"Animator_PurgingStone_Cards":
+	"Animator_PurgingStone_cartes":
 	{
 		"DESCRIPTIONS": ["Vous pouvez bannir des cartes, prévenant leur apparition dans les futurs récompenses #ynormales et magasins. Gagne #b1 usage de plus après chaque combat, peut contenir jusqu'à #b", " usages. NL NL #pClique #pDroite pour voir toutes les cartes bannies."],
 		"FLAVOR": "Les humain sont sans défenses contre les malédictions, et peuvent seulement redirigé leur effets.",
@@ -86,9 +86,9 @@
 	},
 	"Animator_RacePiece":
 	{
-		"DESCRIPTIONS": ["a l'obtention, choisissez #b1 carte, puis choisissez et #yTransformer #b3 cartes dans votre deck en #b3 cartes de la #ySeries de la carte sélectionné."],
-		"FLAVOR": "Vous l'avez vu venir Mr Le Telepath? Dans les dents.",
-		"NAME": "Race Piece"
+		"DESCRIPTIONS": ["À l'obtention, choisissez #b1 carte, puis choisissez et #yTransformer #b3 cartes dans votre deck en #b3 cartes de la #ySeries de la carte sélectionné."],
+		"FLAVOR": "Vous l'avez vu venir, M. Le Télépathique? Échec et mat.",
+		"NAME": "Pièce de Race"
 	},
 	"Animator_Rinne":
 	{
@@ -108,9 +108,33 @@
 		"FLAVOR": "Quelle est cette chose?",
 		"NAME": "La pièce manquante"
 	},
+	"Animator_TheAncientMedallion":
+	{
+		"DESCRIPTIONS": ["À l'obtention, améliorez 2 cartes aléatoires et une autre carte au choix. Au début de chaque combat, soignez #b", " PV."],
+		"FLAVOR": "...",
+		"NAME": "Médaillon Ancien"
+	},
+	"Animator_TheEgnaroPiece":
+	{
+		"DESCRIPTIONS": ["Gagnez [E] et piochez 1 carte au début de chaque tour. NL Gagnez #b", " de #yPV #yTemporaire à la fin de chaque tour, augmentez ensuite ce nombre de #b1."],
+		"FLAVOR": "Qu'est-ce que c'est?",
+		"NAME": "La Pièce Egnaro"
+	},
+	"Animator_TheWolleyCore":
+	{
+		"DESCRIPTIONS": ["Piochez #b"," cartes au début de chaque tour. NL Lorsque vous jouez une carte, Gagnez #b", " #yd'Armure."],
+		"FLAVOR": "Qu'est-ce que c'est?",
+		"NAME": "Le Noyau Trev"
+	},
+	"Animator_TheEruzaStone":
+	{
+		"DESCRIPTIONS": ["Gagnez [E] [E] au début de chaque tour. NL Lorsque vous jouez un #yPouvoir, piochez 1 carte."],
+		"FLAVOR": "Qu'est-ce que c'est?",
+		"NAME": "La Pierre Ezura"
+	},
 	"Animator_VividPicture":
 	{
-		"DESCRIPTIONS": ["Une fois par tour, quand une carte #ySynergizes, piochez #b1 card et gagnez [E]"],
+		"DESCRIPTIONS": ["Une fois par tour, quand une carte #ySynergizes, piochez #b1 carte et gagnez [E]"],
 		"FLAVOR": "Il ne vous lache pas du regard.",
 		"NAME": "Portrait Vivant"
 	},

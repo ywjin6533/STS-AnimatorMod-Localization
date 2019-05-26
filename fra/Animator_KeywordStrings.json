@@ -71,7 +71,7 @@
 	},
 	{
 		"DESCRIPTION": "Subit des dommages à chaque fin de tour.",
-		"NAMES": ["constricted"],
+		"NAMES": ["constricted", "constriction"],
 		"PROPERNAME": "Constriction"
 	},
 	{

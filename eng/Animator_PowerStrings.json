@@ -172,7 +172,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"Upon losing its #yBlock, apply #b", " #yConstricted to ALL other charactes."
+			"Upon losing its #yBlock, apply #b", " #yConstricted to ALL other characters."
 		],
 		"NAME": "Dark Crystal"
 	},
@@ -180,7 +180,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"On death, apply #b", " #yConstricted to ALL charactes."
+			"On death, apply #b", " #yConstricted to ALL characters."
 		],
 		"NAME": "Dark Wisp"
 	},
@@ -197,7 +197,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"Upon losing its #yBlock, ALL other charactes take #b", " #yPiercing damage."
+			"Upon losing its #yBlock, ALL other characters take #b", " #yPiercing damage."
 		],
 		"NAME": "Lightning Crystal"
 	},
@@ -222,7 +222,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"Upon losing its #yBlock, ALL other charactes heal #b", " HP."
+			"Upon losing its #yBlock, ALL other characters heal #b", " HP."
 		],
 		"NAME": "Healing Crystal"
 	},
@@ -247,7 +247,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"Upon losing its #yBlock, apply #b", " #yWeak to ALL other charactes."
+			"Upon losing its #yBlock, apply #b", " #yWeak to ALL other characters."
 		],
 		"NAME": "Frost Crystal"
 	},
@@ -255,7 +255,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"On death, apply #b", " #yWeak to ALL charactes."
+			"On death, apply #b", " #yWeak to ALL characters."
 		],
 		"NAME": "Frost Wisp"
 	},
@@ -272,7 +272,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"Upon losing its #yBlock, ALL other charactes gain #b", " #yStrength and #yBurning."
+			"Upon losing its #yBlock, ALL other characters gain #b", " #yStrength and #yBurning."
 		],
 		"NAME": "Fire Crystal"
 	},

@@ -668,7 +668,7 @@
 	},
 	"animator_Pride":
 	{
-		"DESCRIPTION": "Changeforme. [#EFC851]Fierté. NL [#EFC851]Canalisez !M! [#EFC851]Tenèbre NL Synergie: Appliquez !SV! Constricted.",
+		"DESCRIPTION": "Changeforme. [#EFC851]Fierté. NL [#EFC851]Canalisez !M! [#EFC851]Tenèbre NL Synergie: Appliquez !SV! de Constriction.",
 		"EXTENDED_DESCRIPTION": ["Fierté", "Jusqu'a votre prochain tour, quand vous subissez dégât(s) non bloqué, votre Orbe de #yTenèbre la plus à droite perd autant en dommage à la place."],
 		"NAME": "Fierté"
 	},
@@ -729,7 +729,7 @@
 	"animator_Scar":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s) Perçant. NL [#EFC851]Dragon's[] [#EFC851]Pulse[].",
-		"EXTENDED_DESCRIPTION": ["Dragon's Pulse", "Si cette carte tue un ennemi (non-minion), #yPurge cette carte et Améliore #yUpgraded de manière permanente une carte aléatoire de votre deck"],
+		"EXTENDED_DESCRIPTION": ["Dragon's Pulse", "Si cette carte tue un ennemi (non-minion), #ypurgez cette carte et #yaméliorez de manière permanente une carte aléatoire de votre deck"],
 		"NAME": "Scar"
 	},
 	"animator_Sebas":

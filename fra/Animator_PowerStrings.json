@@ -122,13 +122,23 @@
 	{
 		"DESCRIPTIONS": 
 		[
-			"À la mort, TOUS les autres personnages gagnent #b", " de #yForce."
+			"À la mort, TOUS les autres personnages reçoivent #b", " de #yForce."
 		],
 		"NAME": "Poupée Sans Nom"
 	},
+	"animator_CursedStabs":
+	{
+		
+		"DESCRIPTIONS":
+		[
+			"À chaque fois que cet ennemi inflige des dégâts non bloqués, ajoutez une #yDouleur et une #yPlaie dans votre pioche."
+		],
+		"NAME": "Poignards Maudits"
+	},
+
 	"animator_UltimateCubePower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
 			"À la mort, invoque #b", " cubes aléatoires."
 		],
@@ -136,7 +146,7 @@
 	},
 	"animator_UltimateCrystalPower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
 			"À la mort, invoque #b", " crystaux aléatoires."
 		],
@@ -144,7 +154,7 @@
 	},
 	"animator_UltimateWispPower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
 			"À la mort, invoque #b", " Fragments aléatoires."
 		],
@@ -153,32 +163,32 @@
 	
 	"animator_DarkCubePower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
-			"À la fin de chaque tour, TOUS les alliés gagnent #b", " #yd'Armure #yEnchantée."
+			"À la fin de chaque tour, applique #b", " de #yConstriction à l'ennemi."
 		],
 		"NAME": "Cube Tenébreux"
 	},
 	"animator_DarkCrystalPower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
-			"En recevant une attaque, un personnage aléatoire gagne #b", " #yd'Armure #yEnchantée."
+			"En perdant la totalité de son #yArmure, applique #b", " de #yConstriction à TOUS les autres personnages."
 		],
 		"NAME": "Crystal Tenébreux"
 	},
 	"animator_DarkWispPower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
-			"À la mort, TOUS les personnages gagnent #b", " #yd'Armure #yEnchantée."
+			"À la mort, applique #b", " de #yConstriction à TOUS les personnages."
 		],
 		"NAME": "Fragment Tenébreux"
 	},
 	
 	"animator_LightningCubePower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
 			"À la fin de chaque tour, inflige #b", " dégâts #yPerçants à l'ennemi."
 		],
@@ -186,15 +196,15 @@
 	},
 	"animator_LightningCrystalPower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
-			"En recevant une attaque, un personnage aléatoire reçoit #b", " dégâts #yPerçants."
+			"En perdant la totalité de son Armure, TOUS les autres personnages reçoivent #b", " dégâts #yPerçants."
 		],
 		"NAME": "Crystal Foudroyant"
 	},
 	"animator_LightningWispPower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
 			"À la mort, TOUS les personnages reçoivent #b", " dégâts #yPerçants."
 		],
@@ -203,79 +213,78 @@
 	
 	"animator_HealingCubePower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
-			"À la fin de chaque tour, TOUS les alliés gagnent #b", " PV."
+			"À la fin de chaque tour, TOUS les alliés reçoivent #b", " PV."
 		],
 		"NAME": "Cube Curatif"
 	},
 	"animator_HealingCrystalPower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
-			"En recevant une attaque, un personnage aléatoire gagne #b", " PV."
+			"En perdant la totalité de son Armure, TOUS les autres personnages gagne #b", " PV."
 		],
 		"NAME": "Crystal Curatif"
 	},
 	"animator_HealingWispPower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
-			"À la mort, TOUS les personnages gagnent #b", " PV."
+			"À la mort, TOUS les personnages reçoivent #b", " PV."
 		],
 		"NAME": "Fragment Curatif"
 	},
 	
 	"animator_FrostCubePower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
-			"À la fin de chaque tour, TOUS les alliés gagnent #b", " #yd'Armure #yPlaquée."
+			"À la fin de chaque tour, TOUS les alliés reçoivent #b", " #yd'Armure #yPlaquée."
 		],
 		"NAME": "Cube Glacial"
 	},
 	"animator_FrostCrystalPower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
-			"En recevant une attaque, un personnage aléatoire gagne #b", " #yd'Armure #yPlaquée."
+			"En perdant la totalité de son Armure, TOUS les autres personnages gagne #b", " #yd'Armure #yPlaquée."
 		],
 		"NAME": "Crystal Glacial"
 	},
 	"animator_FrostWispPower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
-			"À la mort, TOUS les personnages gagnent #b", " #yd'Armure #yPlaquée."
+			"À la mort, TOUS les personnages reçoivent #b", " #yd'Armure #yPlaquée."
 		],
 		"NAME": "Fragment Glacial"
 	},
 	
 	"animator_FireCubePower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
-			"À la fin de chaque tour, TOUS les alliés gagnent #b", " de #yForce."
+			"À la fin de chaque tour, TOUS les alliés reçoivent #b", " de #yForce et de #yBrûlure."
 		],
 		"NAME": "Cube Ardent"
 	},
 	"animator_FireCrystalPower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
-			"En recevant une attaque, un personnage aléatoire #b", " de #yForce."
+			"En perdant la totalité de son Armure, TOUS les autres personnages #b", " de #yForce et de #yBrûlure."
 		],
 		"NAME": "Crystal Ardent"
 	},
 	"animator_FireWispPower":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
-			"À la mort, TOUS les personnages gagnent #b", " de #yForce."
+			"À la mort, TOUS les personnages reçoivent #b", " de #yForce et de #yBrûlure."
 		],
 		"NAME": "Fragment Ardent"
 	},
-	
 	"animator_KaijinPower":
 	{
 		"DESCRIPTIONS": ["A la fin de votre tour, increase l'#yArmure et dégats d'une carte aléatoire de votre pioche #b", "."],
