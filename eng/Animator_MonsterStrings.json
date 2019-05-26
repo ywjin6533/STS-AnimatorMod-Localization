@@ -304,6 +304,25 @@
 		"DIALOG": [""]
 	},
 	
+	"Animator_TheUnnamedCultist":
+	{
+		"MOVES": [],
+		"NAME": "Cultist",
+		"DIALOG":
+		[
+			"BEHOLD! The Ultimate Crystal!",
+			"BEHOLD! The Ultimate Weapon!",
+			"BEHOLD! The Ultimate @!",
+			"BEHOLD! The Ultimate Gremlin!",
+			"BEHOLD! The Ultimate... Thingy!",
+			"I have a surprise, just give me some time to prepare...",
+			"Still not ready!",
+			"Wait a little longer!",
+			"Almost ready!",
+			"Here it is!",
+			"I am a cultist."			
+		]
+	},
 	"Animator_TheUnnamed":
 	{
 		"MOVES": [],

@@ -126,7 +126,7 @@
 		],
 		"NAME": "Unnamed Doll"
 	},
-	"animator_CursedStabs":
+	"animator_CursedStabsPower":
 	{
 		"NAME": "Cursed Stabs",
 		"DESCRIPTIONS":
@@ -134,12 +134,12 @@
 			"Whenever it deals unblocked damage, add 1 #yPain and 1 #yWound to your draw pile."
 		]
 	},
-	"animator_UnnamedCultist":
+	"animator_TheUnnamedCultistPower":
 	{
 		"NAME": "Cursed Stabs",
 		"DESCRIPTIONS":
 		[
-			"While there are other allies alive, gain 30 Enchanted Armor for each."
+			"While there are other allies alive, gain #b", " Enchanted Armor for each."
 		]
 	},
 

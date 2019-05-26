@@ -120,7 +120,7 @@
 		"DESCRIPTIONS": ["死亡时，所有角色获得 #b", " #y力量 "],
 		"NAME": "无名傀儡"
 	},
-	"animator_CursedStabs":
+	"animator_CursedStabsPower":
 	{
 		"NAME": "诅咒戳刺",
 		"DESCRIPTIONS":

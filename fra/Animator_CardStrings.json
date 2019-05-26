@@ -239,7 +239,7 @@
 	{
 		"DESCRIPTION": "Gagnez [E]. NL Prendre !M! dégâts à la fin de votre tour. NL Héritage: Gagnez [E].",
 		"NAME": "Demiurge",
-		"UPGRADE_DESCRIPTION": "Gagnez [E] [E]. NL Prendre !M! dégâts à la fin de votre tour. NL Héritage: Gagnez [E] [E]."
+		"UPGRADE_DESCRIPTION": "Gagnez [E] [E]. NL Prendre !SV! dégâts à la fin de votre tour. NL Héritage: Gagnez [E] [E]."
 	},
 	"animator_DolaCouronne":
 	{

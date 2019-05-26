@@ -120,7 +120,7 @@
 		"DESCRIPTIONS": ["死亡時，所有角色獲得 #b", " #y力量 "],
 		"NAME": "無名傀儡"
 	},
-	"animator_CursedStabs":
+	"animator_CursedStabsPower":
 	{
 		"NAME": "詛咒戳刺",
 		"DESCRIPTIONS": ["當這個敵人對你造成傷害時, 在你的抽牌堆裡添加1張 #y疼痛 和1張 #y傷口 。"]

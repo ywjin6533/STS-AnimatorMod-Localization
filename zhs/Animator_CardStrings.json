@@ -238,7 +238,7 @@
 	{
 		"DESCRIPTION": "获得 [E] ， 在本轮结束时 ， 受到 !M! 点 伤害 。 遗赠 : 获得 [E]",
 		"NAME": "迪米乌哥斯",
-		"UPGRADE_DESCRIPTION": "获得 [E] [E] ， 在本轮结束时 ， 受到 !M! 点 伤害 。 遗赠 : 获得 [E] [E]"
+		"UPGRADE_DESCRIPTION": "获得 [E] [E] ， 在本轮结束时 ， 受到 !SV! 点 伤害 。 遗赠 : 获得 [E] [E]"
 	},
 	"animator_DolaCouronne":
 	{
