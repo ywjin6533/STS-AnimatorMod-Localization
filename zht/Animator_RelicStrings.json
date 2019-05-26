@@ -122,7 +122,7 @@
 	},
 	"Animator_TheWolleyCore":
 	{
-		"DESCRIPTIONS": ["每輪開始時， 抽 #b"," 張牌。 NL 每當你打出1張牌, 獲得 #b", " 點 #y格擋 。"],
+		"DESCRIPTIONS": ["每輪開始時， 抽 #b"," 張牌。 NL 每當你打出1張牌, 對所有敵人造成 #b"," 點傷害並且獲得 #b", " 點 #y格擋 。"],
 		"FLAVOR": "這是什麼?",
 		"NAME": "心核色綠"
 	},
