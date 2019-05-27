@@ -180,7 +180,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"Upon losing its #yBlock, apply #b", " #yConstricted to ALL other characters."
+			"When a card targets this character, apply #b", " #yConstricted to ALL other characters."
 		],
 		"NAME": "Dark Crystal"
 	},
@@ -205,7 +205,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"Upon losing its #yBlock, ALL other characters take #b", " #yPiercing damage."
+			"When a card targets this character, ALL other characters take #b", " #yPiercing damage."
 		],
 		"NAME": "Lightning Crystal"
 	},
@@ -230,7 +230,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"Upon losing its #yBlock, ALL other characters heal #b", " HP."
+			"When a card targets this character, ALL other characters heal #b", " HP."
 		],
 		"NAME": "Healing Crystal"
 	},
@@ -255,7 +255,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"Upon losing its #yBlock, All other characters gain #b", " #yPlated #yArmor."
+			"When a card targets this character, All other characters gain #b", " #yPlated #yArmor."
 		],
 		"NAME": "Frost Crystal"
 	},
@@ -280,7 +280,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"Upon losing its #yBlock, ALL other characters gain #b", " #yStrength and #yBurning."
+			"When a card targets this character, ALL other characters gain #b", " #yStrength and #yBurning."
 		],
 		"NAME": "Fire Crystal"
 	},

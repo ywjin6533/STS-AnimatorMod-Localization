@@ -304,6 +304,19 @@
 		"DIALOG": [""]
 	},
 	
+	"Animator_KrulTepes":
+	{
+		"MOVES": [],
+		"NAME": "Krul Tepes",
+		"DIALOG": [""]
+	},
+	"Animator_TheUnnamed_Doll":
+	{
+		"MOVES": [],
+		"NAME": "",
+		"DIALOG": [""]
+	},
+	
 	"Animator_TheUnnamedCultist":
 	{
 		"MOVES": [],
