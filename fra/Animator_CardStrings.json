@@ -751,7 +751,7 @@
 	},
 	"animator_ShichikaKyotouryuu":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) !M! fois. Si vous avez au moins 3 Dextérité, piochez 1 carte et Gagnez [E]. Éthérée. Épuisement.",
+		"DESCRIPTION": "Infligez !D! dégât(s) 4 fois. Si vous avez au moins 3 Dextérité, piochez 1 carte et Gagnez [E]. Éthérée. Épuisement.",
 		"NAME": "Kyotouryuu"
 	},
 	"animator_Shigure":

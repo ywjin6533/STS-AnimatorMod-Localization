@@ -2,7 +2,7 @@
 {
 	"animator_AcuraAkari":
 	{
-		"DESCRIPTION": "Discard 1 card. Add !SV! Throwing-Knives to your hand. NL Gain !M! Envenom until end of turn.",
+		"DESCRIPTION": "Discard 1 card. Add !SV! Throwing-Knives NL to your hand. NL Gain !M! Envenom until end of turn.",
 		"NAME": "Akari"
 	},
 	"animator_AcuraShin":
@@ -746,7 +746,7 @@
 	},
 	"animator_Shichika":
 	{
-		"DESCRIPTION": "Gain !B! Block and 1 Strength. Synergy: Add [#EFC851]Kyotouryuu[] to your hand.",
+		"DESCRIPTION": "Gain !B! Block. NL Gain 1 Strength. NL Synergy: NL Add [#EFC851]Kyotouryuu[] to your hand.",
 		"EXTENDED_DESCRIPTION": ["Kyotouryuu", "A special 1-cost #yAttack that hits multiple times and #yExhausts."],
 		"NAME": "Shichika"
 	},
