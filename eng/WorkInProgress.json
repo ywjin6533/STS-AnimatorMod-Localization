@@ -1,4 +1,8 @@
 
 {
-
+	"animator_Genos":
+	{
+		"DESCRIPTION": "Exhaust a card. NL Gain [E] [E]. NL Energy is not lost at the end of this turn.",
+		"NAME": "Genos"
+	},
 }
