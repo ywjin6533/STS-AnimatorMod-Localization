@@ -147,7 +147,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"At the end of each turn, gains #b", " random Buffs. Explodes after #b", " turns, dealing #b", " damage."
+			"At the end of each turn, gains #b", " random Buff. NL NL Explodes after #b", " turns, dealing #b", " damage."
 		],
 		"NAME": "Ultimate Cube"
 	},
@@ -155,7 +155,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"Whenever a card is played, gains #b", " #yStrength. When losing #b", " or more HP in a turn, the opponent gains #b", " #yPlated #yArmor."
+			"Whenever a card is played, gains #b", " #yStrength. NL NL When losing #b", " or more HP in a turn, the opponent gains #b", " #yPlated #yArmor."
 		],
 		"NAME": "Ultimate Crystal"
 	},
