@@ -560,8 +560,7 @@
 	"animator_LimeBell":
 	{
 		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 重新裝填 : 下一輪 ， 回復 !M! 點 生命 。 NL 消耗 。",
-		"NAME": "Lime Bell",
-		"UPGRADE_DESCRIPTION": "抽 1 張牌 。 NL 獲得 !B! 點 格擋 。 NL 重新裝填 : 下一輪 ， 回復 !M! 點 生命 。 NL 消耗 。"
+		"NAME": "Lime Bell"
 	},
 	"animator_LizardPriest":
 	{

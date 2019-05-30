@@ -560,8 +560,7 @@
 	"animator_LimeBell":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Rechargement: Au prochain tour, Soignez !M! PV. NL Épuisement.",
-		"NAME": "Lime Bell",
-		"UPGRADE_DESCRIPTION": "Piochez 1 carte. NL Gagnez !B! d'Armure. NL Rechargement: Au prochain tour, Soignez !M! PV. NL Épuisement."
+		"NAME": "Lime Bell"
 	},
 	"animator_LizardPriest":
 	{

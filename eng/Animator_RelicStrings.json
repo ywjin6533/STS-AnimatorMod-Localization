@@ -108,7 +108,7 @@
 		"FLAVOR": "What is this thing?",
 		"NAME": "The Missing Piece"
 	},
-	"Animator_TheAncientMedallion":
+	"Animator_AncientMedallion":
 	{
 		"DESCRIPTIONS": ["Upon pickup, Upgrade 2 random cards and a card of your choice. At the start of each combat, Heal #b", " HP."],
 		"FLAVOR": "...",
@@ -140,7 +140,7 @@
 	},
 	"Animator_WizardHat":
 	{
-		"DESCRIPTIONS": ["At the end of your turn, consume your remaining Energy and decrease this counter by that amount. If this counter reaches #g0, deal #b", " damage to ALL enemies."],
+		"DESCRIPTIONS": ["At the end of each turn, consume #b1 of your unspent Energy. Every time this consumes a total of #b", " Energy, deal #b", " damage to ALL enemies."],
 		"FLAVOR": "Explosion magic is the strongest magic. But that also means it takes time to prepare.",
 		"NAME": "Wizard Hat"
 	},

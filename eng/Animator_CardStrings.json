@@ -424,7 +424,7 @@
 	},
 	"animator_Guren":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Exhaust a random [#EFC851]Attack in your hand. Turn its damage to Support_Damage.",
+		"DESCRIPTION": "Play the top 3 cards of your draw pile. Exhaust ALL [#EFC851]Attacks played and gain !M! Support_Damage NL for each of them.",
 		"NAME": "Guren"
 	},
 	"animator_Guy":
@@ -561,8 +561,7 @@
 	"animator_LimeBell":
 	{
 		"DESCRIPTION": "Gain !B! Block. NL Reload: Next turn, NL Heal !M! HP. NL Exhaust.",
-		"NAME": "Lime Bell",
-		"UPGRADE_DESCRIPTION": "Draw 1 card. NL Gain !B! Block. NL Reload: Next turn, NL Heal !M! HP. NL Exhaust."
+		"NAME": "Lime Bell"
 	},
 	"animator_LizardPriest":
 	{
@@ -606,12 +605,6 @@
 		"DESCRIPTION": "Deal !D! damage, can only be used if the enemy intends to attack. Legacy: Gain !M! Strength.",
 		"EXTENDED_DESCRIPTION": ["The enemy does not intend to attack."],
 		"NAME": "Mitsurugi"
-	},
-	"animator_MumenRider":
-	{
-		"DESCRIPTION": "Deal !D! damage. NL Draw 1 card. NL Purge. Returns to your hand after 2 turns.",
-		"NAME": "Mumen Rider",
-		"UPGRADE_DESCRIPTION": "Deal !D! damage with Style. Draw 1 card. NL Purge. Returns to your hand after 2 turns."
 	},
 	"animator_Nanami":
 	{
@@ -721,11 +714,6 @@
 		"DESCRIPTION": "Loyal. Deal !D! damage. If this Synergizes !M! times, Purge and obtain [#EFC851]Excalibur.",
 		"NAME": "Saber",
 		"UPGRADE_DESCRIPTION": "Loyal. Deal !D! damage. If this Synergizes !M! times, Purge and obtain [#EFC851]Excalibur+."
-	},
-	"animator_Saitama":
-	{
-		"DESCRIPTION": "Deal !D! Damage. NL Spend ALL energy, deal [#EFC851]increasingly more damage based on the amount spent.",
-		"NAME": "Saitama"
 	},
 	"animator_Scar":
 	{
@@ -1027,6 +1015,46 @@
 		"NAME": "Zero",
 		"UPGRADE_DESCRIPTION": "Play a random [#EFC851]Skill from your draw pile."
 	},
+	
+	"animator_TheHaunt":
+	{
+		"DESCRIPTION": "Gain !M! [#EFC851]Gold. NL Ethereal. Exhaust.",
+		"NAME": "The Haunt"
+	},
+	
+	"animator_MumenRider":
+	{
+		"DESCRIPTION": "Deal !D! damage. NL Purge. Returns to your hand after a random number of turns.",
+		"NAME": "Mumen Rider",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw 1 card. Purge. Returns to your hand after a random number of turns."
+	},
+	"animator_Genos":
+	{
+		"DESCRIPTION": "Deal !D! Damage. NL Apply !M! Burning. NL Synergy: Energy is conserved this turn.",
+		"NAME": "Genos"
+	},
+	"animator_Saitama":
+	{
+		"DESCRIPTION": "Deal !D! Damage. NL [#EFC851]Drawn[]: Gain !B! Block. NL This card always NL costs 5 Energy.",
+		"NAME": "Saitama"
+	},
+	"animator_Tatsumaki":
+	{
+		"DESCRIPTION": "Channel 1 Air. NL Draw !M! cards. NL Discard !SV! random cards.",
+		"NAME": "Tatsumaki"
+	},
+	"animator_MetalKnight":
+	{
+		"DESCRIPTION": "Deal !D! Damage. NL Channel 1 Plasma. NL Boost !SV! : Gain !M! Metallicize.",
+		"NAME": "Metal Knight"
+	},
+	"animator_SeriousSaitama":
+	{
+		"DESCRIPTION": "Double your Strength. NL Apply 99 Vulnerable to ALL enemies. Exhaust.",
+		"NAME": "Serious Saitama",
+		"UPGRADE_DESCRIPTION": "Triple your Strength. NL Apply 99 Vulnerable to ALL enemies. Exhaust."
+	},
+	
 	"animator_Azriel":
 	{
 		"DESCRIPTION": "Gain 2 Flight. NL Whenever you apply a debuff to an enemy, gain !M! Strength. NL Ethereal.",
