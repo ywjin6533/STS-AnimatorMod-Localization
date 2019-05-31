@@ -1033,6 +1033,12 @@
 		"DESCRIPTION": "Deal !D! Damage. NL Apply !M! Burning. NL Synergy: Energy is conserved this turn.",
 		"NAME": "Genos"
 	},
+	"animator_Geryuganshoop":
+	{
+		"DESCRIPTION": "Cycle !SV! Cards. NL Purge up to !M! cards in your Exhaust pile, gain [E] for each.",
+		"NAME": "Geryuganshoop",
+		"EXTENDED_DESCRIPTION": ["Choose @ cards to Purge, gain 1 Energy for each."]
+	},
 	"animator_Saitama":
 	{
 		"DESCRIPTION": "Deal !D! Damage. NL [#EFC851]Drawn[]: Gain !B! Block. NL This card always NL costs 5 Energy.",
@@ -1050,9 +1056,9 @@
 	},
 	"animator_SeriousSaitama":
 	{
-		"DESCRIPTION": "Double your Strength. NL Apply 99 Vulnerable to ALL enemies. Exhaust.",
+		"DESCRIPTION": "Gain !M! Strength. NL Double your Strength. NL Apply 99 Vulnerable to ALL enemies.",
 		"NAME": "Serious Saitama",
-		"UPGRADE_DESCRIPTION": "Triple your Strength. NL Apply 99 Vulnerable to ALL enemies. Exhaust."
+		"UPGRADE_DESCRIPTION": "Gain !M! Strength. NL Double your Strength. NL Apply 99 Vulnerable to ALL enemies."
 	},
 	
 	"animator_Azriel":

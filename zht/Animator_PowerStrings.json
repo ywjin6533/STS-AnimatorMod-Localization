@@ -125,6 +125,38 @@
 		"NAME": "詛咒戳刺",
 		"DESCRIPTIONS": ["當這個敵人對你造成傷害時, 在你的抽牌堆裡添加1張 #y疼痛 和1張 #y傷口 。"]
 	},
+	"animator_TheUnnamedCultistPower":
+	{
+		"NAME": "Unnamed Cultist",
+		"DESCRIPTIONS":
+		[
+			"While there are other allies alive, gains #b", " Enchanted Armor for each."
+		]
+	},
+	"animator_UltimateCubePower":
+	{
+		"DESCRIPTIONS":
+		[
+			"At the end of each turn, gains #b", " random Buff. NL NL Explodes after #b", " turns, dealing #b", " damage."
+		],
+		"NAME": "Ultimate Cube"
+	},
+	"animator_UltimateCrystalPower":
+	{
+		"DESCRIPTIONS":
+		[
+			"Whenever a card is played, gains #b", " #yStrength. NL NL When losing #b", " or more HP in a turn, the opponent gains #b", " #yPlated #yArmor."
+		],
+		"NAME": "Ultimate Crystal"
+	},
+	"animator_UltimateWispPower":
+	{
+		"DESCRIPTIONS":
+		[
+			"Whenever it deals unblocked damage, add #b1 #yBurn to your discard pile. NL NL The first card played each turn is #yExhausted."
+		],
+		"NAME": "Ultimate Wisp"
+	},
 	"animator_DarkCubePower":
 	{
 		"DESCRIPTIONS":["每輪結束時, 敵人承受 #b", " 層 #y纏繞 ."],

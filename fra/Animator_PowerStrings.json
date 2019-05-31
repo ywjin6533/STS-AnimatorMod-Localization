@@ -135,7 +135,15 @@
 		],
 		"NAME": "Poignards Maudits"
 	},
-
+	"animator_TheUnnamedCultistPower":
+	{
+		"NAME": "Unnamed Cultist",
+		"DESCRIPTIONS":
+		[
+			"While there are other allies alive, gains #b", " Enchanted Armor for each."
+		]
+	},
+	
 	"animator_UltimateCubePower":
 	{
 		"DESCRIPTIONS":

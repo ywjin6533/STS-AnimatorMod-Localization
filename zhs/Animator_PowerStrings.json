@@ -128,6 +128,14 @@
 			"当这个敌人对你造成伤害时, 在你的抽牌堆里添加1张 #y疼痛 和1张 #y伤口 。"
 		]
 	},
+	"animator_TheUnnamedCultistPower":
+	{
+		"NAME": "Unnamed Cultist",
+		"DESCRIPTIONS":
+		[
+			"While there are other allies alive, gains #b", " Enchanted Armor for each."
+		]
+	},
 	"animator_UltimateCubePower":
 	{
 		"DESCRIPTIONS": 
