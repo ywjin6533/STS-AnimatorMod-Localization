@@ -122,9 +122,9 @@
 	},
 	"animator_ChlammyZell":
 	{
-		"DESCRIPTION": "當你交替打出不同類型的牌時 ， 循環 1 張牌 並 對所有敵人造成 !M! 點 傷害 。",
+		"DESCRIPTION": "當你交替打出不同類型的牌時 ， 循環 1 張牌 並 對所有敵人造成 !M! 點 傷害 。 消耗 。",
 		"NAME": "克拉米·傑爾",
-		"UPGRADE_DESCRIPTION": "固有 。 當你交替打出不同類型的牌時 ， 循環 1 張牌 並 對所有敵人造成 !M! 點 傷害 。"
+		"UPGRADE_DESCRIPTION": "固有 。 當你交替打出不同類型的牌時 ， 循環 1 張牌 並 對所有敵人造成 !M! 點 傷害 。 消耗 。"
 	},
 	"animator_Chris":
 	{
@@ -449,8 +449,7 @@
 	"animator_HiiragiShinya":
 	{
 		"DESCRIPTION": "造成 !D! 點傷害 。 如果這是你本回合第一次攻擊 ， 給予目標一個隨機的 [#EFC851]負面效果[] 。",
-		"NAME": "柊深夜",
-		"UPGRADE_DESCRIPTION": "造成 !D! 點傷害 。 如果這是你本回合第一次攻擊 ， 給予目標一個隨機的強力 [#EFC851]負面效果[] 。"
+		"NAME": "柊深夜"
 	},
 	"animator_Hitei":
 	{
@@ -900,17 +899,17 @@
 	},
 	"animator_ThrowingKnife_0":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! 層 虛弱 。 NL 消耗 。 撤回 : 打這張牌。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! 層 虛弱 。 NL 抹除 。 撤回 : 打這張牌。",
 		"NAME": "飛刃"
 	},
 	"animator_ThrowingKnife_1":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! 層 易傷 。 NL 消耗 。 撤回 : 打這張牌。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! 層 易傷 。 NL 抹除 。 撤回 : 打這張牌。",
 		"NAME": "飛刃"
 	},
 	"animator_ThrowingKnife_2":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! 層 中毒 。 NL 消耗 。 撤回 : 打這張牌。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! 層 中毒 。 NL 抹除 。 撤回 : 打這張牌。",
 		"NAME": "飛刃"
 	},
 	"animator_Togame":

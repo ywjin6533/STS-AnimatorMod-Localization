@@ -123,9 +123,9 @@
 	},
 	"animator_ChlammyZell":
 	{
-		"DESCRIPTION": "When you play alternating card types this turn, Cycle 1 card and deal !M! damage to ALL enemies.",
+		"DESCRIPTION": "When you play alternating card types this turn, Cycle 1 card and deal !M! damage to ALL enemies. Exhaust.",
 		"NAME": "Kurami",
-		"UPGRADE_DESCRIPTION": "Innate. When you play alternating card types this turn, Cycle 1 card and deal !M! damage to ALL enemies."
+		"UPGRADE_DESCRIPTION": "Innate. When you play alternating card types this turn, Cycle 1 card and deal !M! damage to ALL enemies. Exhaust."
 	},
 	"animator_Chris":
 	{
@@ -370,8 +370,12 @@
 	},
 	"animator_Gilgamesh":
 	{
-		"DESCRIPTION": "Augmentable. NL Deal !D! damage to an enemy 3 times. NL [#EFC851]Gate [#EFC851]of [#EFC851]Babylon.",
-		"EXTENDED_DESCRIPTION": ["Gate of Babylon", "Whenever you obtain a relic, #yUpgrade this card and gain #b", " #yGold. Does not activate when purchasing relics or with some event relics."],
+		"DESCRIPTION": "[#EFC851]Unique. NL Deal !D! damage to an enemy 3 times. NL [#EFC851]Gate [#EFC851]of [#EFC851]Babylon.",
+		"EXTENDED_DESCRIPTION": 
+		[
+			"Gate of Babylon", "Whenever you obtain a relic, #yUpgrade this card and gain #b", " #yGold. Does not activate when purchasing relics or with some event relics.",
+			"Unique", "Can be upgraded any number of times. You can only have 1 copy of this card in your deck, additional copies will #yUpgrade this card instead."
+		],
 		"NAME": "Gilgamesh"
 	},
 	"animator_Gillette":
@@ -454,8 +458,7 @@
 	"animator_HiiragiShinya":
 	{
 		"DESCRIPTION": "Deal !D! damage. NL If this is your first [#EFC851]Attack this turn, apply a random [#EFC851]Debuff.",
-		"NAME": "Shinya Hiiragi",
-		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL If this is your first [#EFC851]Attack this turn, apply a random Upgraded [#EFC851]Debuff."
+		"NAME": "Shinya Hiiragi"
 	},
 	"animator_Hitei":
 	{
@@ -585,8 +588,8 @@
 	},
 	"animator_Millim":
 	{
-		"DESCRIPTION": "Augmentable. [#EFC851]Unique. NL Deal !D! damage. NL Draw !M! cards. NL Synergy: Gain [E].",
-		"EXTENDED_DESCRIPTION": ["Unique", "You can only have 1 copy of this card in your deck, additional copies will #yUpgrade this card instead."],
+		"DESCRIPTION": "[#EFC851]Unique. NL Deal !D! damage. NL Draw !M! cards. NL Synergy: Gain [E].",
+		"EXTENDED_DESCRIPTION": ["Unique", "Can be upgraded any number of times. You can only have 1 copy of this card in your deck, additional copies will #yUpgrade this card instead."],
 		"NAME": "Millim"
 	},
 	"animator_MisaKurobane":
@@ -892,17 +895,17 @@
 	},
 	"animator_ThrowingKnife_0":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. NL Exhaust. Recall: Play this card.",
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. NL Purge. Recall: Play this card.",
 		"NAME": "Throwing-Knife"
 	},
 	"animator_ThrowingKnife_1":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable. NL Exhaust. Recall: Play this card.",
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable. NL Purge. Recall: Play this card.",
 		"NAME": "Throwing-Knife"
 	},
 	"animator_ThrowingKnife_2":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Poison. NL Exhaust. Recall: Play this card.",
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Poison. NL Purge. Recall: Play this card.",
 		"NAME": "Throwing-Knife"
 	},
 	"animator_Togame":
@@ -1024,25 +1027,25 @@
 	
 	"animator_MumenRider":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Purge. Returns to your hand after a random number of turns.",
+		"DESCRIPTION": "Deal !D! damage. NL Exhaust. Returns to your hand after a random number of turns.",
 		"NAME": "Mumen Rider",
-		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw 1 card. Purge. Returns to your hand after a random number of turns."
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw 1 card. Exhaust. Returns to your hand after a random number of turns."
 	},
 	"animator_Genos":
 	{
 		"DESCRIPTION": "Deal !D! Damage. NL Apply !M! Burning. NL Synergy: Energy is conserved this turn.",
 		"NAME": "Genos"
 	},
+	"animator_SilverFang":
+	{
+		"DESCRIPTION": "Martial_Artist. NL Gain !B! Block. NL Deal !D! Damage. NL Next turn, gain !M! Temporary Dexterity.",
+		"NAME": "Silver Fang"
+	},
 	"animator_Geryuganshoop":
 	{
 		"DESCRIPTION": "Cycle !SV! Cards. NL Purge up to !M! cards in your Exhaust pile, gain [E] for each.",
 		"NAME": "Geryuganshoop",
 		"EXTENDED_DESCRIPTION": ["Choose @ cards to Purge, gain 1 Energy for each."]
-	},
-	"animator_Saitama":
-	{
-		"DESCRIPTION": "Deal !D! Damage. NL [#EFC851]Drawn[]: Gain !B! Block. NL This card always NL costs 5 Energy.",
-		"NAME": "Saitama"
 	},
 	"animator_Tatsumaki":
 	{
@@ -1054,11 +1057,16 @@
 		"DESCRIPTION": "Deal !D! Damage. NL Channel 1 Plasma. NL Boost !SV! : Gain !M! Metallicize.",
 		"NAME": "Metal Knight"
 	},
+	"animator_Saitama":
+	{
+		"DESCRIPTION": "Deal !D! Damage. NL [#EFC851]Drawn[]: Gain !B! Block. NL This card always NL costs 5 Energy.",
+		"NAME": "Saitama"
+	},
 	"animator_SeriousSaitama":
 	{
-		"DESCRIPTION": "Gain !M! Strength. NL Double your Strength. NL Apply 99 Vulnerable to ALL enemies.",
+		"DESCRIPTION": "Stun ALL enemies. A random enemy will flee from combat. Exhaust.",
 		"NAME": "Serious Saitama",
-		"UPGRADE_DESCRIPTION": "Gain !M! Strength. NL Double your Strength. NL Apply 99 Vulnerable to ALL enemies."
+		"UPGRADE_DESCRIPTION": "Innate. Stun ALL enemies. A random enemy will flee from combat. Exhaust."
 	},
 	
 	"animator_Azriel":
