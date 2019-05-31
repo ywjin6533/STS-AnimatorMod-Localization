@@ -1038,14 +1038,30 @@
 	},
 	"animator_SilverFang":
 	{
-		"DESCRIPTION": "Martial_Artist. NL Gain !B! Block. NL Deal !D! Damage. NL Next turn, gain !M! Temporary Dexterity.",
+		"DESCRIPTION": "Martial_Artist. NL Deal !D! Damage. NL Gain !B! Block. NL Next turn, gain !M! Temporary Dexterity.",
 		"NAME": "Silver Fang"
 	},
 	"animator_Geryuganshoop":
 	{
-		"DESCRIPTION": "Cycle !SV! Cards. NL Purge up to !M! cards in your Exhaust pile, gain [E] for each.",
+		"DESCRIPTION": "Cycle !SV! Cards. NL Purge up to !M! cards in your Exhaust pile, gain that much [E].",
 		"NAME": "Geryuganshoop",
-		"EXTENDED_DESCRIPTION": ["Choose @ cards to Purge, gain 1 Energy for each."]
+		"EXTENDED_DESCRIPTION": ["Choose @ cards to Purge, gain that much Energy."]
+	},
+	"animator_Melzalgald":
+	{
+		"DESCRIPTION": "Shapeshifter. NL Deal !D! Damage. NL [#c6be6f]This [#c6be6f]text [#c6be6f]will [#c6be6f]change [#c6be6f]at [#c6be6f]the [#c6be6f]start [#c6be6f]of [#c6be6f]each [#c6be6f]turn.",
+		"NAME": "Melzalgald",
+		"EXTENDED_DESCRIPTION": 
+		[
+			"Shapeshifter. NL Deal !D! Damage. NL",
+			"Apply !M! Vulnerable.",
+			"Apply !M! Weak.",
+			"Gain @ Strength.",
+			"Gain @ Dexterity.",
+			"Gain [E].",
+			"Gain !B! Block.",
+			"Gain !SV! Regeneration."
+		]
 	},
 	"animator_Tatsumaki":
 	{
