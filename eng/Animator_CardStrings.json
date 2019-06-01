@@ -1021,15 +1021,15 @@
 	
 	"animator_TheHaunt":
 	{
-		"DESCRIPTION": "Gain !M! [#EFC851]Gold. NL Ethereal. Exhaust.",
+		"DESCRIPTION": "Gain !M! [#EFC851]Gold. NL Become more haunted. NL Ethereal. Exhaust.",
 		"NAME": "The Haunt"
 	},
-	
 	"animator_Hibiki":
 	{
 		"DESCRIPTION": "Deal !D! damage. NL Draw !M! cards.",
 		"NAME": "Hibiki"
 	},
+	
 	"animator_MumenRider":
 	{
 		"DESCRIPTION": "Deal !D! damage. NL Exhaust. Returns to your hand after a random number of turns.",
