@@ -1026,7 +1026,7 @@
 	},
 	"animator_Hibiki":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Draw !M! cards.",
+		"DESCRIPTION": "Deal !D! damage !M! times. Increase this card's hit count by 1 this combat.",
 		"NAME": "Hibiki"
 	},
 	
