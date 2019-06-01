@@ -10,7 +10,7 @@
       "[Commercer] #gAméliorez #gtoutes #gles Frappes #get Défenses. #rPerdez #r", " #rOr.",
       "[Partir]",
 	  "[Bloqué] Pas de carte à Vendre.",
-	  "[Bloqué] Pas assez d'or."
+	  "[Bloqué] Pas assez Or."
     ]
   },
   "Animator_TheMaskedTraveler2":{
@@ -31,15 +31,15 @@
 	{
 		"NAME": "Le Voyageur Masqué (Partie 3)",
 		"DESCRIPTIONS": [
-			"\"Salut mon ami, quelle belle soirée! Comment suis-je ici? Aucune importance. Nous avions simplement besoin d'un autre évènement pour cet acte! Échangez 1 médaillon ou #b150 #yd'Or pour une carte rare, votre choix. Ou bien... vous pouvez aussi partir\"",
+			"\"Salut mon ami, quelle belle soirée! Comment suis-je ici? Aucune importance. Nous avions simplement besoin d'un autre évènement pour cet acte! Échangez 1 médaillon ou #b150 #yOr pour une carte rare, votre choix. Ou bien... vous pouvez aussi partir\"",
 			"\"Merci! Maintenant vous pouvez cliquer sur 'Partir'.\""
 		],
 		"OPTIONS": [
 			"[Échanger] #rPerdre #yMédaillon #yAncient. Obtenez une carte rare améliorée.",
-			"[Échanger] #rPerdre #r150 #rd'Or. Obtain an Upgraded rare cards.",
+			"[Échanger] #rPerdre #r150 #rOr. Obtain an Upgraded rare cards.",
 			"[Partir]",
 			"[Bloqué] Pas de #yMédaillon #yAncient à échanger.",
-			"[Bloqué] Pas assez d'Or."
+			"[Bloqué] Pas assez Or."
 		]
 	}, 
 	"Animator_TheDomVedeloper1": {
@@ -73,14 +73,14 @@
 		"DESCRIPTIONS": 
 		[
 			"#yToute #ychose #yà #ycette #yplace #yparaît #yd'être #yfait #yen #yor. #yTout #yle #ypaysage #ya #ychangé... ",
-			"#yMontagnes #yd'or #yscintillant #ysont #ypartout. #yUne #yrivière #yd'or #yfondu #yles #ytraverse. #yPourquoi #yvous #yne #yl'avez #ypas #yremarqué #yplus #ytôt? NL NL ",
+			"#yDes #ymontagnes #yen or #yscintillant #ysont #ypartout. #yUne #yrivière #yen #yor #yfondu #yles #ytraverse. #yPourquoi #yvous #yne #yl'avez #ypas #yremarqué #yplus #ytôt? NL NL ",
 			"#yPeu #yimporte, #ytu #yte #ysens #yattiré #yà #ypartir #yavec #yune #ypartie #yde #ycette #yrichesse, NL ",
 			"#yTu #r@DOIT@ #yprendre #yune #ypartie #yde #yce #ytrésor. #yJuste #yquelques #ycailloux #ydorés. NL NL ",
 			"#y... #yqu'est-ce #yqui #ypourrait #ytourner #ymal?",
 			"NL NL NL NL NL NL NL #yQuelque #ychose #yrit #yà #ydistance."
 		],
 		"OPTIONS": [
-			"#y[Prendre #yde #yl'Or] #yGagnez #y", " #yd'Or.",
+			"#y[Prendre #yde #yl'Or] #yGagnez #y", " #yOr.",
 			"#r[Partir]"," #rGagnez #r", " #rPV"
 		]
 	},
@@ -95,12 +95,12 @@
 			"\"Bon marché... Bon marché\""
 		],
 		"OPTIONS": [
-			"[Vendre] #rPerdez #Médaillon #yAncien. #gGagnez #g", " #gd'Or.",
-			"[Acheter] #gObtain #Médaillon #yAncien. #rPerdez #r", " #rd'Or.",
+			"[Vendre] #rPerdez #Médaillon #yAncien. #gGagnez #g", " #gOr.",
+			"[Acheter] #gObtain #Médaillon #yAncien. #rPerdez #r", " #rOr.",
 			"[Marchander] #g50%: #gMeilleur #gprix. #r50%: #rPire #rprix.",
 			"[Partir]",
 			"[Bloqué] Pas de #Médaillon #yAncien à vendre.",
-			"[Bloqué] Pas assez d'Or."
+			"[Bloqué] Pas assez Or."
 		]
 	},
 	"Animator_TheAbandonedCabin":

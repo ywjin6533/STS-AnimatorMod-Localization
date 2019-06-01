@@ -133,7 +133,7 @@
 		"NAME": "Unnamed Cultist",
 		"DESCRIPTIONS":
 		[
-			"While there are other allies alive, gains #b", " Enchanted Armor for each."
+			"场上还存在盟友时, 为每1名获得 #b", " 层 魔法护甲 。"
 		]
 	},
 	"animator_UltimateCubePower":
@@ -156,7 +156,7 @@
 	{
 		"DESCRIPTIONS": 
 		[
-			"当这个敌人对你造成伤害时, 在你的弃牌堆里添加1张 #y烧伤 。 每轮击出的第一张牌将 #y消耗 。"
+			"当这个敌人对你造成伤害时, 在你的弃牌堆里添加1张 #y灼伤 。 每轮击出的第一张牌将 #y消耗 。"
 		],
 		"NAME": "终极之缕"
 	},

@@ -1021,8 +1021,8 @@
 	
 	"animator_TheHaunt":
 	{
-		"DESCRIPTION": "Gain !M! [#EFC851]Gold. NL Ethereal. Exhaust.",
-		"NAME": "The Haunt"
+	"DESCRIPTION": "Gain !M! [#EFC851]Gold. NL Become more haunted. NL Ethereal. Exhaust.",
+	"NAME": "The Haunt"
 	},
 	
 	"animator_Hibiki":

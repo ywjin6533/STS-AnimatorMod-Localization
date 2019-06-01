@@ -26,7 +26,7 @@
 	},
 	{
 		"DESCRIPTION": "Ignore l'Armure et les Epines.",
-		"NAMES": ["perçant", "percant"],
+		"NAMES": ["perçant", "perçant(s)"],
 		"PROPERNAME": "Perçant"
 	},
 	{
@@ -41,7 +41,7 @@
 	},
 	{
 		"DESCRIPTION": "Ne peut agir pour #b1 tour.",
-		"NAMES": ["stun", "stunned", "stslib:stunned", "assome", "assomé", "assomer"],
+		"NAMES": ["stun", "stunned", "stslib:stunned", "assome", "assomé", "assomer","assomez","assomés"],
 		"PROPERNAME": "Stun"
 	},
 	{
@@ -201,7 +201,7 @@
 	},
 	{
 		"PROPER_NAME": "Support Damage",
-		"NAMES": ["support damage", "support_damage"],
+		"NAMES": ["support damage", "support_damage", "Dégât de Soutien", "Dégât_de_Soutien"],
 		"DESCRIPTION": "Inflige des dégats à l'ennemi avec le moins de PV."
 	}
 ]

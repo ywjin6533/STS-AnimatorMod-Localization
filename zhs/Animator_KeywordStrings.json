@@ -140,8 +140,8 @@
 		"DESCRIPTION": "减少受到的所有伤害，效果由层数决定 。"
 	},
 	{
-		"PROPER_NAME": "剑圣",
-		"NAMES": ["剑圣"],
+		"PROPER_NAME": "武术家",
+		"NAMES": ["剑圣","忍者","拳师"],
 		"DESCRIPTION": "此牌造成的伤害受敏捷影响"
 	},
 	{

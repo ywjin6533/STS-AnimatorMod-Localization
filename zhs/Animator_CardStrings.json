@@ -134,7 +134,7 @@
 	},
 	"animator_Chung":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 预热 !SV! : 获得一个等离子球。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 预热 !SV! : 获得一个等离子 充能球。",
 		"NAME": "澄"
 	},
 	"animator_Cocytus":
@@ -555,7 +555,7 @@
 	"animator_Lelouch":
 	{
 		"DESCRIPTION": "消耗 你手中的所有攻击卡。 这一轮 ， 所有敌人都会攻击自己 。 NL 抹除 。 [#EFC851]*[]",
-		"EXTENDED_DESCRIPTION": ["* 注", "若有敌人未有打算攻击，击晕它们"],
+		"EXTENDED_DESCRIPTION": ["* 注", "若有敌人未有打算攻击，眩晕它们"],
 		"NAME": "鲁路修"
 	},
 	"animator_LimeBell":
@@ -605,12 +605,6 @@
 		"EXTENDED_DESCRIPTION": ["敌人不打算攻击"],
 		"NAME": "御剑响夜"
 	},
-	"animator_MumenRider":
-	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 抽 1 张牌 。 NL 抹除 。 这张牌会在2回合后回到你的手里 。",
-		"NAME": "无证骑士",
-		"UPGRADE_DESCRIPTION": "造成 !D! 点 伤害 。 NL 抽 !M! 张牌 。 NL 抹除 。 这张牌会在2回合后回到你的手里 。"
-	},
 	"animator_Nanami":
 	{
 		"DESCRIPTION": "根据敌人的意图激活 [#EFC851]效果[] 。 NL [#c6be6f]选择目标时[] ， [#c6be6f]这段文本会变为效果文本[] 。",
@@ -627,32 +621,32 @@
 	"animator_OrbCore_Chaos":
 	{
 		"DESCRIPTION": "生成 1 个随机充能球 。 NL 每回合第二次同调时 ， 发现 1 张牌 。",
-		"NAME": "Chaos 核心"
+		"NAME": "混沌核心"
 	},
 	"animator_OrbCore_Dark":
 	{
 		"DESCRIPTION": "生成 1 个 黑暗 充能球 。 NL 每回合第二次同调时 ， 抽 !M! 张牌 ， 然后丢弃 1 张牌 。",
-		"NAME": "黑暗 核心"
+		"NAME": "黑暗核心"
 	},
 	"animator_OrbCore_Fire":
 	{
 		"DESCRIPTION": "生成 1 个 火素 充能球 。  NL 每回合第二次同调时 ， 对所有敌人造成 !M! 层 燃烧 。",
-		"NAME": "火素 核心"
+		"NAME": "火素核心"
 	},
 	"animator_OrbCore_Frost":
 	{
 		"DESCRIPTION": "生成 1 个 冰霜 充能球 。 NL 每回合第二次同调时 ， 获得 !B! 点 格挡 。",
-		"NAME": "冰霜 核心"
+		"NAME": "冰霜核心"
 	},
 	"animator_OrbCore_Lightning":
 	{
 		"DESCRIPTION": "生成 1 个 闪电 充能球 。 NL 每回合第二次同调时 ， 对所有敌人造成 !M! 点 伤害 。",
-		"NAME": "闪电 核心"
+		"NAME": "闪电核心"
 	},
 	"animator_OrbCore_Plasma":
 	{
-		"DESCRIPTION": "生成 1 个 等离子球 。 NL 每回合第二次同调时 ， 获得 [E] 。",
-		"NAME": "等离子 核心"
+		"DESCRIPTION": "生成 1 个 等离子 充能球 。 NL 每回合第二次同调时 ， 获得 [E] 。",
+		"NAME": "等离子核心"
 	},
 	"animator_PandorasActor":
 	{
@@ -719,11 +713,6 @@
 		"DESCRIPTION": "忠诚 。 造成 !D! 点伤害 ， 当这张牌触发 !M! 次同调效果后 ， 抹除 并获得 [#EFC851]誓约胜利之剑[] 。",
 		"NAME": "Saber",
 		"UPGRADE_DESCRIPTION": "忠诚 。 造成 !D! 点伤害 ， 当这张牌触发 !M! 次同调效果后 ， 抹除 并获得 [#EFC851]誓约胜利之剑+[] 。"
-	},
-	"animator_Saitama":
-	{
-		"DESCRIPTION": "造成 !D! 点伤害 。 NL 花費所有能量，每點能量增加此牌更多傷害 。",
-		"NAME": "秃头披风侠"
 	},
 	"animator_Scar":
 	{
@@ -897,7 +886,7 @@
 	},
 	"animator_Tet":
 	{
-		"DESCRIPTION": "在你的抽牌堆中选择 !M! 张牌 。 抽 2 张牌 。 鼓舞 !SV! : 获得 [E]",
+		"DESCRIPTION": "在你的抽牌堆中选择 !M! 张牌，丢弃它们。 抽 2 张牌 。 鼓舞 !SV! : 获得 [E]",
 		"NAME": "特图"
 	},
 	"animator_ThrowingKnife_0":
@@ -1024,6 +1013,88 @@
 		"NAME": "零",
 		"UPGRADE_DESCRIPTION": "从你的抽牌堆中打出一张随机的 [#EFC851]技能牌[] 。"
 	},
+	
+	"animator_TheHaunt":
+	{
+	"DESCRIPTION": "获得 !M! [#EFC851]金币. NL 鬼更加作祟. NL 虚无 . 消耗 .",
+	"NAME": "鬼出没"
+	},
+	
+	"animator_Hibiki":
+	{
+		"DESCRIPTION": "造成 !D! 点 伤害。 NL Draw !M! 张牌.",
+		"NAME": "Hibiki"
+	},
+	"animator_MumenRider":
+	{
+		"DESCRIPTION": "造成 !D! 点 伤害。 NL 消耗 。 这张牌会在随机回合后回到你的手里 。",
+		"NAME": "无证骑士",
+		"UPGRADE_DESCRIPTION": "造成 !D! 点 伤害 。 NL 抽1张牌 。 NL 消耗 。 这张牌会在随机回合后回到你的手里 。"
+	},
+	"animator_Genos":
+	{
+		"DESCRIPTION": "造成 !D! 点 伤害。 NL 给予 !M! 层 烧伤. NL 同调: 此轮，保存你的剩余能量。",
+		"NAME": "Genos"
+	},
+	"animator_Sonic":
+	{
+		"DESCRIPTION": "忍者 . 造成 !D! 点 穿刺 伤害。 同调: 获得1张 飞刃 。",
+		"NAME": "Sonic"
+	},
+	"animator_SilverFang":
+	{
+		"DESCRIPTION": "拳师 。 NL 造成 !D! 点 伤害。 NL 获得 !B! 层 格挡 。 NL 下一轮, 获得 !M! 层 临时 敏捷 。",
+		"NAME": "Silver Fang"
+	},
+	"animator_Geryuganshoop":
+	{
+		"DESCRIPTION": "循环 !SV! 张牌。 NL 抹除最多 !M! 张已 消耗 的牌, 获得同样数量的 [E].",
+		"NAME": "Geryuganshoop",
+		"EXTENDED_DESCRIPTION": ["选择 @ 张牌抹除, 获得同等的能量."]
+	},
+	"animator_Melzalgald":
+	{
+		"DESCRIPTION": "穿越者 。 NL 造成 !D! 点 伤害。 NL 分裂成3张不同的 [#EFC851]攻击 。 消耗 。",
+		"NAME": "Melzalgald",
+		"UPGRADE_DESCRIPTION": "穿越者 。 NL 造成 !D! 点 伤害。 NL 分裂成3张不同的升级 [#EFC851]攻击 。 消耗 。"
+	},
+	"animator_MelzalgaldAlt_1":
+	{
+		"DESCRIPTION": "穿越者 。 NL 造成 !D! 点 伤害。 NL 获得 !M! 层 力量 。 NL 消耗 。",
+		"NAME": "Melzalgald"
+	},
+	"animator_MelzalgaldAlt_2":
+	{
+		"DESCRIPTION": "穿越者 。 NL 造成 !D! 点 伤害。 NL 获得 !M! 层 敏捷 。 NL 消耗 。",
+		"NAME": "Melzalgald"
+	},
+	"animator_MelzalgaldAlt_3":
+	{
+		"DESCRIPTION": "穿越者 。 NL 造成 !D! 点 伤害。 NL 获得 !M! 层 再生 。 NL 消耗 。",
+		"NAME": "Melzalgald"
+	},
+	"animator_Tatsumaki":
+	{
+		"DESCRIPTION": "获得1个 风素 充能球。 NL 抽 !M! 张牌。 NL 随机丢弃 !SV! 张牌.",
+		"NAME": "Tatsumaki"
+	},
+	"animator_MetalKnight":
+	{
+		"DESCRIPTION": "造成 !D! 点 伤害。 NL 获得 1 等离子 充能球. NL Boost !SV! : 获得 !M! 层 金属化 。",
+		"NAME": "Metal Knight"
+	},
+	"animator_Saitama":
+	{
+		"DESCRIPTION": "造成 !D! 点 伤害。 NL [#EFC851]被抽到时[]: 获得 !B! 层 格挡 。 NL This card always NL costs 5 Energy.",
+		"NAME": "Saitama"
+	},
+	"animator_SeriousSaitama":
+	{
+		"DESCRIPTION": "眩晕 所有敌人。一名随机敌人将逃离战斗（复数敌人战斗）。 消耗 。",
+		"NAME": "Serious Saitama",
+		"UPGRADE_DESCRIPTION": "固有 。 眩晕 所有敌人。一名随机敌人将逃离战斗（复数敌人战斗）。消耗 。"
+	},
+	
 	"animator_Azriel":
 	{
 		"DESCRIPTION": "获得两 2 层 飞行 。 NL 每当给予敌人负面效果时, 获得 !M! 点 力量 。 虚无 。",

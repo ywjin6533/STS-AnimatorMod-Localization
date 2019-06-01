@@ -369,8 +369,12 @@
 	},
 	"animator_Gilgamesh":
 	{
-		"DESCRIPTION": "Augmentable. NL Infligez !D! dégât(s) à un ennemi 3 fois. NL [#EFC851]Gate [#EFC851]of [#EFC851]Babylon.",
-		"EXTENDED_DESCRIPTION": ["Gate of Babylon", "Quand vous obtenez une relique, #yAmélioré cette carte et Gagnez #b", " #yOr. Ne s'active pas à l'achat de relique et dans certains events."],
+		"DESCRIPTION": "[#EFC851]Unique. NL Infligez !D! dégât(s) à un ennemi 3 fois. NL [#EFC851]Gate [#EFC851]of [#EFC851]Babylon.",
+		"EXTENDED_DESCRIPTION":
+		[
+			"Gate of Babylon", "Quand vous obtenez une relique, #yAméliorez cette carte et Gagnez #b", " #yOr. Ne s'active pas à l'achat de relique et dans certains évènements.",
+			"Unique", "Peut s'améliorer un nombre infini de fois. Vous ne pouvez avoir qu'une copie de cette carte, les copies additionnelles #yAmélioreront cette carte à la place."
+		],
 		"NAME": "Gilgamesh"
 	},
 	"animator_Gillette":
@@ -423,7 +427,7 @@
 	},
 	"animator_Guren":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Épuisez une [#EFC851]Attaque aléatoire de votre main. Transformé ces dégât(s) en Support_Damage.",
+		"DESCRIPTION": "Jouez les 3 premières cartes de votre pioche. Épuisez TOUTES les [#EFC851]Attaques jouées et gagnez !M! de Dégât_de_Soutien pour chacune.",
 		"NAME": "Guren"
 	},
 	"animator_Guy":
@@ -434,7 +438,7 @@
 	},
 	"animator_Hakurou":
 	{
-		"DESCRIPTION": "Artiste_martial. Infligez !D! dégât(s) !M! fois. NL [#EFC851]Pioché: Gagnez !SV! Dextérité Temporaire.",
+		"DESCRIPTION": "Artiste_martial. Infligez !D! dégât(s) !M! fois. NL [#EFC851]Pioché[]: Gagnez !SV! Dextérité Temporaire.",
 		"NAME": "Hakurou",
 		"UPGRADE_DESCRIPTION": "Artiste_martial. Infligez !D! dégât(s) !M! fois. Piochez et améliorez une carte. [#EFC851]Pioché: Gagnez !SV! Dextérité Temporaire."
 	},
@@ -553,7 +557,7 @@
 	"animator_Lelouch":
 	{
 		"DESCRIPTION": "Épuisez toutes les [#EFC851]Attaques dans votre main. Ce tour, tous les ennemis s'attaqueront eux-mêmes. NL Purge. ([#EFC851]*[])",
-		"EXTENDED_DESCRIPTION": ["* Note", "Les enemis qui ne planifient pas d'attaquer seront étourdis à la place."],
+		"EXTENDED_DESCRIPTION": ["* Note", "Les enemis qui ne planifient pas d'attaquer seront assomés à la place."],
 		"NAME": "Lelouch"
 	},
 	"animator_LimeBell":
@@ -583,8 +587,8 @@
 	},
 	"animator_Millim":
 	{
-		"DESCRIPTION": "Augmentable. [#EFC851]Unique. NL Infligez !D! dégât(s). NL Piochez !M! Cartes. NL Synergie: Gagnez [E].",
-		"EXTENDED_DESCRIPTION": ["Unique", "Vous ne pouvez avoir qu'une copie de cettte carte, les autre copie #yUpgraded cet carte à la place."],
+		"DESCRIPTION": "[#EFC851]Unique. NL Infligez !D! dégât(s). NL Piochez !M! Cartes. NL Synergie: Gagnez [E].",
+		"EXTENDED_DESCRIPTION": ["Unique", "Peut s'améliorer un nombre infini de fois. Vous ne pouvez avoir qu'une copie de cette carte, les copies additionnalles #yAmélioreront cette carte à la place."],
 		"NAME": "Millim"
 	},
 	"animator_MisaKurobane":
@@ -603,12 +607,6 @@
 		"DESCRIPTION": "Infligez !D! dégât(s), peut seulement être utilisé si l'ennemi va attaquer. Héritage: Gagnez !M! Force.",
 		"EXTENDED_DESCRIPTION": ["L'ennemi ne prévois pas d'attaquer."],
 		"NAME": "Mitsurugi"
-	},
-	"animator_MumenRider":
-	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Piochez 1 carte. Purge. Cette carte retourne dans votre main dans 2 tours.",
-		"NAME": "Mumen Rider",
-		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) avec style. Piochez 1 carte. Purge. Cette carte retourne dans votre main dans 2 tours."
 	},
 	"animator_Nanami":
 	{
@@ -705,7 +703,7 @@
 	},
 	"animator_RoryMercury":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire 2 fois. NL [#EFC851]Drawn[]: Gagnez !M! de Force temporaire.",
+		"DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire 2 fois. NL [#EFC851]Piochée[]: Gagnez !M! de Force temporaire.",
 		"NAME": "Rory Mercury"
 	},
 	"animator_RoyMustang":
@@ -718,11 +716,6 @@
 		"DESCRIPTION": "Loyale. Infligez !D! dégât(s). Si ca Synergize !M! fois, Purge et obtenez [#EFC851]Excalibur.",
 		"NAME": "Saber",
 		"UPGRADE_DESCRIPTION": "Loyale. Infligez !D! dégât(s). Si ca Synergizes !M! fois, Purge et obtenez [#EFC851]Excalibur+."
-	},
-	"animator_Saitama":
-	{
-		"DESCRIPTION": "Infligez !D! dégât(s). Utilise TOUTE votre energie, cette carte inflige de plus en plus dégats supplémentaire pour chaque point utilisé.",
-		"NAME": "Saitama"
 	},
 	"animator_Scar":
 	{
@@ -754,7 +747,7 @@
 	},
 	"animator_Shigure":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Synergie et Héritage: Gagnez !M! Support_Damage.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Synergie et Héritage: Gagnez !M! de Dégât_de_Soutien pour chacune.",
 		"NAME": "Shigure"
 	},
 	"animator_Shimakaze":
@@ -1022,6 +1015,86 @@
 		"DESCRIPTION": "Joue une [#EFC851]Compétence aléatoire de votre pioche. Épuisement.",
 		"NAME": "Zero",
 		"UPGRADE_DESCRIPTION": "Joue une [#EFC851]Compétence aléatoire de votre pioche."
+	},
+	"animator_TheHaunt":
+	{
+	"DESCRIPTION": "Gagnez !M! [#EFC851]Or. NL Devient encore plus hantée. NL Éthérée. Épuisement.",
+	"NAME": "La hantise"
+	},
+
+	"animator_Hibiki":
+	{
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Piochez !M! cartes.",
+		"NAME": "Hibiki"
+	},
+	"animator_MumenRider":
+	{
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Épuisement. Cette carte retourne dans votre main dans un nombre aléatoire de tours.",
+		"NAME": "Mumen Rider",
+		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s). NL Piochez 1 carte. Purge. Cette carte retourne dans votre main dans un nombre aléatoire de tours."
+	},
+	"animator_Genos":
+	{
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Brulûre. NL Synergie: L'énergie est conservée ce tour.",
+		"NAME": "Genos"
+	},
+	"animator_Sonic":
+	{
+		"DESCRIPTION": "Artiste_Martial. Infligez !D! dégât(s) perçant(s). Synergie: Ajoutez un Couteau_de_Jet dans votre main.",
+		"NAME": "Sonic"
+	},
+	"animator_SilverFang":
+	{
+		"DESCRIPTION": "Artiste_Martial. NL Infligez !D! dégât(s). NL Gagnez !B! d'Armure. NL Au prochain tour, gagnez !M! de Dextérité Temporaire.",
+		"NAME": "Silver Fang"
+	},
+	"animator_Geryuganshoop":
+	{
+		"DESCRIPTION": "Recyclez !SV! cartes. NL Purgez jusqu'à !M! cartes épuisées, gagnez autant de [E].",
+		"NAME": "Geryuganshoop",
+		"EXTENDED_DESCRIPTION": ["Choisissez @ cartes à purger, gagnez autant d'Énergie."]
+	},
+	"animator_Melzalgald":
+	{
+		"DESCRIPTION": "Changeforme. NL Infligez !D! dégât(s). NL Se divise en 3 [#EFC851]Attaques. Épuisement.",
+		"NAME": "Melzalgald",
+		"UPGRADE_DESCRIPTION": "Changeforme. NL Infligez !D! dégât(s) perçant(s). NL Se divise en 3 [#EFC851]Attaques Améliorées. Épuisement."
+	},
+	"animator_MelzalgaldAlt_1":
+	{
+		"DESCRIPTION": "Changeforme. NL Infligez !D! dégât(s). NL Gagnez !M! de Force. NL Épuisement.",
+		"NAME": "Melzalgald"
+	},
+	"animator_MelzalgaldAlt_2":
+	{
+		"DESCRIPTION": "Changeforme. NL Infligez !D! dégât(s). NL Gagnez !M! de Dextérité. NL Épuisement.",
+		"NAME": "Melzalgald"
+	},
+	"animator_MelzalgaldAlt_3":
+	{
+		"DESCRIPTION": "Changeforme. NL Infligez !D! dégât(s). NL Gagnez !M! de Régénération. NL Épuisement.",
+		"NAME": "Melzalgald"
+	},
+	"animator_Tatsumaki":
+	{
+		"DESCRIPTION": "Canalisez 1 Air. NL Piochez !M! cartes. NL Défaussez !SV! cartes aléatoires.",
+		"NAME": "Tatsumaki"
+	},
+	"animator_MetalKnight":
+	{
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Canalisez 1 Plasma. NL Boost !SV! : gagnez !M! de Métallisation.",
+		"NAME": "Metal Knight"
+	},
+	"animator_Saitama":
+	{
+		"DESCRIPTION": "Infligez !D! dégât(s). NL [#EFC851]Pioché[]: gagnez !B! d'Armure. NL Cette carte coûte NL toujours 5 Énergies.",
+		"NAME": "Saitama"
+	},
+	"animator_SeriousSaitama":
+	{
+		"DESCRIPTION": "Assomez TOUS les ennemies. NL Un ennemie aléatoire fuira (dans un combat à ennemis multiples). Épuisement.",
+		"NAME": "Saitama Sérieux",
+		"UPGRADE_DESCRIPTION": "Innée. Assomez TOUS les ennemies. NL Un ennemie aléatoire fuira (dans un combat à ennemis multiples). Épuisement."
 	},
 	"animator_Azriel":
 	{
