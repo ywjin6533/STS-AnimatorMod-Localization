@@ -141,6 +141,14 @@
 		"DESCRIPTIONS": ["當這個敵人對你造成傷害時, 在你的棄牌堆裡添加1張 #y燒傷 。 每輪擊出的第一張牌將 #y消耗 。"],
 		"NAME": "終極之縷"
 	},
+	"animator_TheUnnamedCultistPower":
+	{
+		"NAME": "Unnamed Cultist",
+		"DESCRIPTIONS":
+		[
+			"While there are other allies alive, gains #b", " Enchanted Armor for each."
+		]
+	},
 	"animator_DarkCubePower":
 	{
 		"DESCRIPTIONS":["每輪結束時, 敵人承受 #b", " 層 #y纏繞 ."],
