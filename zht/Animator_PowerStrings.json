@@ -125,6 +125,22 @@
 		"NAME": "詛咒戳刺",
 		"DESCRIPTIONS": ["當這個敵人對你造成傷害時, 在你的抽牌堆裡添加1張 #y疼痛 和1張 #y傷口 。"]
 	},
+	
+	"animator_UltimateCubePower":
+	{
+		"DESCRIPTIONS": ["回合結束時, 獲得 #b", " 層隨機的積極影響。 NL NL #b", " 輪後爆炸，造成 #b", " 點傷害。"],
+		"NAME": "終極之方"
+	},
+	"animator_UltimateCrystalPower":
+	{
+		"DESCRIPTIONS": ["擊出卡牌時, 獲得#b", " 層#y力量。 NL NL 在一輪失去#b", " 點或更多的生命值時，對手獲得#b", " 層#y多層護甲。"],
+		"NAME": "終極之晶"
+	},
+	"animator_UltimateWispPower":
+	{
+		"DESCRIPTIONS": ["當這個敵人對你造成傷害時, 在你的棄牌堆裡添加1張 #y燒傷 。 每輪擊出的第一張牌將 #y消耗 。"],
+		"NAME": "終極之縷"
+	},
 	"animator_DarkCubePower":
 	{
 		"DESCRIPTIONS":["每輪結束時, 敵人承受 #b", " 層 #y纏繞 ."],
@@ -132,7 +148,7 @@
 	},
 	"animator_DarkCrystalPower":
 	{
-		"DESCRIPTIONS":["失去所有格擋時, 所有其他角色承受 #b", " 層 #y纏繞 ."],
+		"DESCRIPTIONS":["被牌指定時, 所有其他角色承受 #b", " 層 #y纏繞 ."],
 		"NAME": "暗黑之晶"
 	},
 	"animator_DarkWispPower":
@@ -147,7 +163,7 @@
 	},
 	"animator_LightningCrystalPower":
 	{
-		"DESCRIPTIONS": ["受到攻擊時, 一名隨機角色承受 #b", " 點 #y穿刺 傷害."],
+		"DESCRIPTIONS": ["被牌指定時, 一名隨機角色承受 #b", " 點 #y穿刺 傷害."],
 		"NAME": "雷電之晶"
 	},
 	"animator_LightningWispPower":
@@ -162,7 +178,7 @@
 	},
 	"animator_HealingCrystalPower":
 	{
-		"DESCRIPTIONS": ["受到攻擊時, 一名隨機角色修復 #b", " 點生命值."],
+		"DESCRIPTIONS": ["被牌指定時, 一名隨機角色修復 #b", " 點生命值."],
 		"NAME": "治愈之晶"
 	},
 	"animator_HealingWispPower":
@@ -177,7 +193,7 @@
 	},
 	"animator_FrostCrystalPower":
 	{
-		"DESCRIPTIONS": ["受到攻擊時, 一名隨機角色獲得 #b", " 層 #y多層護甲."],
+		"DESCRIPTIONS": ["被牌指定時, 一名隨機角色獲得 #b", " 層 #y多層護甲."],
 		"NAME": "冰霜之晶"
 	},
 	"animator_FrostWispPower":
@@ -192,7 +208,7 @@
 	},
 	"animator_FireCrystalPower":
 	{
-		"DESCRIPTIONS": ["受到攻擊時, 一名隨機角色獲得s #b", " #y力量 和 #y燃燒 ."],
+		"DESCRIPTIONS": ["被牌指定時, 一名隨機角色獲得s #b", " #y力量 和 #y燃燒 ."],
 		"NAME": "火焰之晶"
 	},
 	"animator_FireWispPower":

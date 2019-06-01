@@ -745,7 +745,7 @@
 	"animator_Shichika":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez 1 Force. NL Synergie: Ajoutez [#EFC851]Kyotouryuu[] à votre main.",
-		"EXTENDED_DESCRIPTION": ["Kyotouryuu", "A special 1-cost attack that hits multiple times and Exhaust."],
+		"EXTENDED_DESCRIPTION": ["Kyotouryuu", "Une attaque spéciale à 1 coût qui frappe plusieurs fois et épuise"],
 		"NAME": "Shichika"
 	},
 	"animator_ShichikaKyotouryuu":
