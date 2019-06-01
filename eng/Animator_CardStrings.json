@@ -1080,7 +1080,7 @@
 	},
 	"animator_Tatsumaki":
 	{
-		"DESCRIPTION": "Channel 1 Air. NL Draw !M! cards. NL Discard !SV! random cards.",
+		"DESCRIPTION": "Channel 1 Air. NL Gain !M! Temporary Focus. Synergy: NL ALL enemies lose !SV! Strength this turn.",
 		"NAME": "Tatsumaki"
 	},
 	"animator_MetalKnight":
@@ -1088,9 +1088,14 @@
 		"DESCRIPTION": "Deal !D! Damage. NL Channel 1 Plasma. NL Boost !SV! : Gain !M! Metallicize.",
 		"NAME": "Metal Knight"
 	},
+	"animator_Boros":
+	{
+		"DESCRIPTION": "All powers are played twice. At the start of each turn, gain !M! Strength and !SV! Enchanted_Armor.",
+		"NAME": "Boros"
+	},
 	"animator_Saitama":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL [#EFC851]Drawn[]: Gain !B! Block. NL This card always NL costs 5 Energy.",
+		"DESCRIPTION": "Deal !D! Damage. NL Spend 3 additional energy to play this card. [#EFC851]Drawn[]: NL Gain !B! Block.",
 		"NAME": "Saitama"
 	},
 	"animator_SeriousSaitama":

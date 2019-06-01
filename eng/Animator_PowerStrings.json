@@ -20,6 +20,11 @@
 		"DESCRIPTIONS": ["Every 4 #yAttacks played, gain #b", " Strength and #b", " Dexterity."],
 		"NAME": "Bito Kanzashi"
 	},
+	"animator_BorosPower":
+	{
+		"DESCRIPTIONS": ["All powers are played twice. At the start of each turn, gain #b", " #yStrength and #b", " #yEnchanted #yArmor."],
+		"NAME": "Boros"
+	},
 	"animator_BozesPower":
 	{
 		"DESCRIPTIONS": ["When a card #ySynergizes, gain #b", " Block."],
