@@ -22,7 +22,7 @@
 	},
 	"animator_BorosPower":
 	{
-		"DESCRIPTIONS": ["All powers are played twice. At the start of each turn, gain #b", " #yStrength and #b", " #yEnchanted #yArmor."],
+		"DESCRIPTIONS": ["All #yPowers are played twice."],
 		"NAME": "Boros"
 	},
 	"animator_BozesPower":

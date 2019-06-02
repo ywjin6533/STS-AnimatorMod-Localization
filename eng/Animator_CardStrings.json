@@ -211,6 +211,11 @@
 		"DESCRIPTION": "Gain !B! Block. NL Gain !M! temporary [#EFC851]Thorns.",
 		"NAME": "Improved Defend"
 	},
+	"animator_Defend_OnePunchMan":
+	{
+		"DESCRIPTION": "Gain !B! Block. NL Boost !SV! : Next turn, gain [E].",
+		"NAME": "Improved Defend"
+	},
 	"animator_Defend_Konosuba":
 	{
 		"DESCRIPTION": "Gain !B! Block. NL Boost !SV! : Heal !M! HP.",
@@ -491,7 +496,7 @@
 	},
 	"animator_Jibril":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Draw 1 card for each unique Orb you have. NL Synergy: Gain !M! temporary Focus.",
+		"DESCRIPTION": "Deal !D! damage. NL Draw 1 card for each unique Orb you have. NL Synergy: Deal !M! additional damage.",
 		"NAME": "Jibril"
 	},
 	"animator_Kaijin":
@@ -665,7 +670,7 @@
 	},
 	"animator_Pride":
 	{
-		"DESCRIPTION": "Shapeshifter. [#EFC851]Pride. NL [#EFC851]Channel !M! [#EFC851]Dark NL Synergy: Apply !SV! Constricted.",
+		"DESCRIPTION": "Shapeshifter. [#EFC851]Pride. NL [#EFC851]Channel !M! [#EFC851]Dark. NL Apply !SV! Constricted. Exhaust.",
 		"EXTENDED_DESCRIPTION": ["Pride", "Until your next turn, when you would take unblocked damage, your rightmost #yDark Orb loses that much damage instead."],
 		"NAME": "Pride"
 	},
@@ -811,6 +816,11 @@
 	"animator_Strike_Elsword":
 	{
 		"DESCRIPTION": "Deal !D! damage. NL Gain !M! Strength until end of turn.",
+		"NAME": "Improved Strike"
+	},
+	"animator_Strike_OnePunchMan":
+	{
+		"DESCRIPTION": "Deal !D! damage. NL Gain !M! Dexterity until end of turn.",
 		"NAME": "Improved Strike"
 	},
 	"animator_Strike_Fate":
@@ -1090,12 +1100,12 @@
 	},
 	"animator_Boros":
 	{
-		"DESCRIPTION": "All powers are played twice. At the start of each turn, gain !M! Strength and !SV! Enchanted_Armor.",
+		"DESCRIPTION": "Gain !M! Strength, Dexterity and Focus. NL All [#EFC851]Powers[] are NL played twice.",
 		"NAME": "Boros"
 	},
 	"animator_Saitama":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL Spend 3 additional energy to play this card. [#EFC851]Drawn[]: NL Gain !B! Block.",
+		"DESCRIPTION": "Deal !D! Piercing Damage. Increase this card's damage by !M! this combat, scaling with Strength.",
 		"NAME": "Saitama"
 	},
 	"animator_SeriousSaitama":

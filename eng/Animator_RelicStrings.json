@@ -8,7 +8,7 @@
 	},
 	"Animator_AncientMedallion":
 	{
-		"DESCRIPTIONS": ["Upon pickup, Upgrade 2 random cards and a card of your choice. At the start of each combat, Heal #b", " HP."],
+		"DESCRIPTIONS": ["Upon pickup, #yUpgrade 2 random cards and a card of your choice. At the start of each combat, Heal #b", " HP."],
 		"FLAVOR": "...",
 		"NAME": "Ancient Medallion"
 	},
