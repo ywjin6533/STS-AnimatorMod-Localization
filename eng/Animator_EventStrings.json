@@ -20,7 +20,7 @@
 		"NAME": "The Masked Traveler (Part 2)",
 		"DESCRIPTIONS": [
 			"\"It's you! Are you on your way to defeat the @Heart@ of the Spire?\" NL NL \"Why don't you help me with another menace instead? You see, The Unnamed has returned, but don't you worry! It's nothing you can't defeat!\"",
-			"\"Well, there is a small detail... To fight the Unnamed you will have to renounce to ALL your relics and Potions, as well as card upgrades...\" NL NL \"But most importantly, you will be able to choose 1 of these special relics!\"",
+			"\"Well, there is a small detail... To fight the Unnamed you will have to renounce to ALL your relics and Potions, as well as card upgrades...\" NL NL \"But most importantly, you will be able to choose one of these special relics!\"",
 			"\"Perfect! just go ahead and you shall find him, I'm counting on you!\" NL NL \"Oh wait! I almost forgot, you will find a lot of these in there. Here, have one.\""
 		],
 		"OPTIONS": 
@@ -85,8 +85,9 @@
 			"NL NL NL NL NL NL NL #ySomething #yis #ylaughing #yin #ythe #yfar #ydistance."
 		],
 		"OPTIONS": [
-			"#y[Take #ythe #yGold] #yGain #y", " #yGold.",
-			"#r[Leave]"," #rHeal #r", " #rHP"
+			"#y[Take #ythe #yGold] #yGain #y{0} #yGold.",
+			"#r[Leave] #rHeal #r{0} #rHP",
+			"#r[Leave]"
 		]
 	},
 	"Animator_TheUnnamedMerchant":
@@ -100,8 +101,8 @@
 			"\"Good Deal... Good Deal\""
 		],
 		"OPTIONS": [
-			"[Sell] #rLose #yAncient #yMedallion. #gGain #g", " #gGold.",
-			"[Buy] #gObtain #yAncient #yMedallion. #rLose #r", " #rGold.",
+			"[Sell] #rLose #yAncient #yMedallion. #gGain #g{0} #gGold.",
+			"[Buy] #gObtain #yAncient #yMedallion. #rLose #r{0} #rGold.",
 			"[Haggle] #g50%: #gBetter #gDeal. #r50%: #rWorse #rDeal.",
 			"[Leave]",
 			"[Locked] No #yAncient #yMedallion to sell.",
@@ -113,7 +114,7 @@
 		"NAME": "The Abandoned Cabin",
 		"DESCRIPTIONS": [
 			"You stumble across a small and seemingly abandoned cabin. NL NL Tired and hungry, you decide to go against your better instincts and enter it. NL NL After checking for possible inhabitants, you soon fall asleep...",
-			"You are awakened by a @loud@ knocking noise. NL NL The room is almost #pcompletely #pdark, NL but you perceive a @creature@ standing in front of you.",
+			"You are awakened by a loud knocking noise. NL NL The room is almost #pcompletely #pdark, NL but you perceive a @creature@ standing in front of you.",
 			"\"Hunger... need #rblood... trade?\" NL NL The @creature@ extends his arm towards you, revealing an #yAncient #yMedallion, you wonder if accepting would be a good idea...",
 			"You ran towards the door as fast as you could, NL and then as far away from the cabin as possible.",
 			"You try to grab the medallion when suddenly the @creature@ #rbites your arm with great force. Nonetheless, it lets you take the relic.",
@@ -124,9 +125,10 @@
 		"OPTIONS":
 		[
 			"[Continue]",
-			"[Accept] #Lose #r"," #rHP. #gObtain #yAncient #yMedallion",
+			"[Accept] #rLose #r{0} #rHP. #gObtain #gRelic",
 			"[Run]",
-			"[Try to Run] #r50% #rchance #rto #rlose #r", " #rHP"
+			"[Try to Run] #r50% #rchance #rto #rlose #r{0} #rHP",
+			"[Leave]"
 		]
 	}
 }
