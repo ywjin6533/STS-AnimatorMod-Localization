@@ -20,6 +20,11 @@
 		"DESCRIPTIONS": ["Toutes 4 #yAttaques joué, gagnez #b", " Force et #b", " Dextérité."],
 		"NAME": "Bito Kanzashi"
 	},
+		"animator_BorosPower":
+	{
+		"DESCRIPTIONS": ["TOUS les #yPouvoirs seront joués deux fois."],
+		"NAME": "Boros"
+	},
 	"animator_BozesPower":
 	{
 		"DESCRIPTIONS": ["Quand une carte #ySynergizes, gagnez #b", " d'Armure."],

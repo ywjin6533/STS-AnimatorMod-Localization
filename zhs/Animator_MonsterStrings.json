@@ -3,311 +3,311 @@
 	"Animator_Dark_Cube_0":
 	{
 		"MOVES": [],
-		"NAME": "Dark Cube (S)",
+		"NAME": "暗黑之方 (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Dark_Cube_1":
 	{
 		"MOVES": [],
-		"NAME": "Dark Cube (M)",
+		"NAME": "暗黑之方 (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Dark_Cube_2":
 	{
 		"MOVES": [],
-		"NAME": "Dark Cube (L)",
+		"NAME": "暗黑之方 (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Lightning_Cube_0":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Cube (S)",
+		"NAME": "雷电之方 (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Lightning_Cube_1":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Cube (M)",
+		"NAME": "雷电之方 (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Lightning_Cube_2":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Cube (L)",
+		"NAME": "雷电之方 (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Frost_Cube_0":
 	{
 		"MOVES": [],
-		"NAME": "Frost Cube (S)",
+		"NAME": "冰霜之方 (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Frost_Cube_1":
 	{
 		"MOVES": [],
-		"NAME": "Frost Cube (M)",
+		"NAME": "冰霜之方 (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Frost_Cube_2":
 	{
 		"MOVES": [],
-		"NAME": "Frost Cube (L)",
+		"NAME": "冰霜之方 (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Fire_Cube_0":
 	{
 		"MOVES": [],
-		"NAME": "Fire Cube (S)",
+		"NAME": "火焰之方 (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Fire_Cube_1":
 	{
 		"MOVES": [],
-		"NAME": "Fire Cube (M)",
+		"NAME": "火焰之方 (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Fire_Cube_2":
 	{
 		"MOVES": [],
-		"NAME": "Fire Cube (L)",
+		"NAME": "火焰之方 (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Healing_Cube_0":
 	{
 		"MOVES": [],
-		"NAME": "Healing Cube (S)",
+		"NAME": "治愈之方 (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Healing_Cube_1":
 	{
 		"MOVES": [],
-		"NAME": "Healing Cube (M)",
+		"NAME": "治愈之方 (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Healing_Cube_2":
 	{
 		"MOVES": [],
-		"NAME": "Healing Cube (L)",
+		"NAME": "治愈之方 (L)",
 		"DIALOG": [""]
 	},
 	
 	"Animator_Dark_Crystal_0":
 	{
 		"MOVES": [],
-		"NAME": "Dark Crystal (S)",
+		"NAME": "暗黑之晶 (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Dark_Crystal_1":
 	{
 		"MOVES": [],
-		"NAME": "Dark Crystal (M)",
+		"NAME": "暗黑之晶 (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Dark_Crystal_2":
 	{
 		"MOVES": [],
-		"NAME": "Dark Crystal (L)",
+		"NAME": "暗黑之晶 (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Lightning_Crystal_0":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Crystal (S)",
+		"NAME": "雷电之晶 (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Lightning_Crystal_1":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Crystal (M)",
+		"NAME": "雷电之晶 (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Lightning_Crystal_2":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Crystal (L)",
+		"NAME": "雷电之晶 (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Frost_Crystal_0":
 	{
 		"MOVES": [],
-		"NAME": "Frost Crystal (S)",
+		"NAME": "冰霜之晶 (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Frost_Crystal_1":
 	{
 		"MOVES": [],
-		"NAME": "Frost Crystal (M)",
+		"NAME": "冰霜之晶 (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Frost_Crystal_2":
 	{
 		"MOVES": [],
-		"NAME": "Frost Crystal (L)",
+		"NAME": "冰霜之晶 (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Fire_Crystal_0":
 	{
 		"MOVES": [],
-		"NAME": "Fire Crystal (S)",
+		"NAME": "火焰之晶 (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Fire_Crystal_1":
 	{
 		"MOVES": [],
-		"NAME": "Fire Crystal (M)",
+		"NAME": "火焰之晶 (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Fire_Crystal_2":
 	{
 		"MOVES": [],
-		"NAME": "Fire Crystal (L)",
+		"NAME": "火焰之晶 (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Healing_Crystal_0":
 	{
 		"MOVES": [],
-		"NAME": "Healing Crystal (S)",
+		"NAME": "治愈之晶 (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Healing_Crystal_1":
 	{
 		"MOVES": [],
-		"NAME": "Healing Crystal (M)",
+		"NAME": "治愈之晶 (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Healing_Crystal_2":
 	{
 		"MOVES": [],
-		"NAME": "Healing Crystal (L)",
+		"NAME": "治愈之晶 (L)",
 		"DIALOG": [""]
 	},
 	
 	"Animator_Dark_Wisp_0":
 	{
 		"MOVES": [],
-		"NAME": "Dark Wisp (S)",
+		"NAME": "暗黑之缕 (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Dark_Wisp_1":
 	{
 		"MOVES": [],
-		"NAME": "Dark Wisp (M)",
+		"NAME": "暗黑之缕 (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Dark_Wisp_2":
 	{
 		"MOVES": [],
-		"NAME": "Dark Wisp (L)",
+		"NAME": "暗黑之缕 (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Lightning_Wisp_0":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Wisp (S)",
+		"NAME": "雷电之缕 (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Lightning_Wisp_1":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Wisp (M)",
+		"NAME": "雷电之缕 (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Lightning_Wisp_2":
 	{
 		"MOVES": [],
-		"NAME": "Lightning Wisp (L)",
+		"NAME": "雷电之缕 (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Frost_Wisp_0":
 	{
 		"MOVES": [],
-		"NAME": "Frost Wisp (S)",
+		"NAME": "冰霜之缕 (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Frost_Wisp_1":
 	{
 		"MOVES": [],
-		"NAME": "Frost Wisp (M)",
+		"NAME": "冰霜之缕 (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Frost_Wisp_2":
 	{
 		"MOVES": [],
-		"NAME": "Frost Wisp (L)",
+		"NAME": "冰霜之缕 (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Fire_Wisp_0":
 	{
 		"MOVES": [],
-		"NAME": "Fire Wisp (S)",
+		"NAME": "火焰之缕 (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Fire_Wisp_1":
 	{
 		"MOVES": [],
-		"NAME": "Fire Wisp (M)",
+		"NAME": "火焰之缕 (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Fire_Wisp_2":
 	{
 		"MOVES": [],
-		"NAME": "Fire Wisp (L)",
+		"NAME": "火焰之缕 (L)",
 		"DIALOG": [""]
 	},
 
 	"Animator_Healing_Wisp_0":
 	{
 		"MOVES": [],
-		"NAME": "Healing Wisp (S)",
+		"NAME": "治愈之缕 (S)",
 		"DIALOG": [""]
 	},
 	"Animator_Healing_Wisp_1":
 	{
 		"MOVES": [],
-		"NAME": "Healing Wisp (M)",
+		"NAME": "治愈之缕 (M)",
 		"DIALOG": [""]
 	},
 	"Animator_Healing_Wisp_2":
 	{
 		"MOVES": [],
-		"NAME": "Healing Wisp (L)",
+		"NAME": "治愈之缕 (L)",
 		"DIALOG": [""]
 	},
 	
 	"Animator_Ultimate_Cube_3":
 	{
 		"MOVES": [],
-		"NAME": "Ultimate Cube",
+		"NAME": "终极之方",
 		"DIALOG": [""]
 	},
 	"Animator_Ultimate_Wisp_3":
 	{
 		"MOVES": [],
-		"NAME": "Ultimate Wisp",
+		"NAME": "终极之缕",
 		"DIALOG": [""]
 	},
 	"Animator_Ultimate_Crystal_3":
 	{
 		"MOVES": [],
-		"NAME": "Ultimate Crystal",
+		"NAME": "终极之晶",
 		"DIALOG": [""]
 	},
 	
 	"Animator_KrulTepes":
 	{
 		"MOVES": [],
-		"NAME": "Krul Tepes",
+		"NAME": "克鲁鲁·采佩西",
 		"DIALOG": [""]
 	},
 	"Animator_TheUnnamed_Doll":
@@ -320,41 +320,42 @@
 	"Animator_TheUnnamedCultist":
 	{
 		"MOVES": [],
-		"NAME": "Cultist",
+		"NAME": "教徒",
 		"DIALOG":
 		[
-			"BEHOLD! The Ultimate Crystal!",
-			"BEHOLD! The Ultimate Weapon!",
-			"BEHOLD! The Ultimate @!",
-			"BEHOLD! The Ultimate Gremlin!",
-			"BEHOLD! The Ultimate... Thingy!",
-			"I have a surprise, just give me some time to prepare...",
-			"Still not ready!",
-			"Wait a little longer!",
-			"Almost ready!",
-			"Here it is!",
-			"I am a cultist."			
+			"凝视它并在恐惧中颤抖吧! 终极之晶!",
+			"凝视它并在恐惧中颤抖吧! 终极武器!",
+			"凝视它并在恐惧中颤抖吧! 终极之 @!",
+			"凝视它并在恐惧中颤抖吧! 终极之地精!",
+			"凝视它并在恐惧中颤抖吧! 终极之... 东西!",
+			"我有个惊喜给你, 留给我一些时间准备...",
+			"还没好呢!",
+			"再等等!",
+			"就快了!",
+			"来了!",
+			"我是名教徒."			
 		]
 	},
 	"Animator_TheUnnamed":
 	{
 		"MOVES": [],
-		"NAME": "The Unnamed",
+		"NAME": "无名",
 		"DIALOG": 
 		[
-			"What is this? I am the one with infinite power here!",
-			"The Death Note will not work on me! I have no name, remember?",
-			"You are annoying me, I think your turn will end soon...",
-			"How dare you challenge me!",
-			"I don't even need to attack you...",
-			"You'd better run away while you can.",
-			"You call that a deck?",
-			"It will all end soon...",
-			"How did you even get this far?",
-			"You know... You should deal some damage to progress...",
-			"Gilgamesh will not save you.",
-			"Megumin is overrated.",
-			"You are cheating, I see that Ainz is in your deck..."
+			"够了! 你的命运已被我封杀了..."
+			"这是什么? 我是这里唯一可以拥有无尽之力的人!",
+			"死亡笔记对我没用! 你难道忘了我没有名字了吗?",
+			"你有点打扰到我了, 我认为你的回合马上就该结束了吧...",
+			"你竟然敢挑战我!",
+			"我根本不用攻击你...",
+			"在你还可以逃跑时放弃吧.",
+			"你管这东西叫牌组?",
+			"马上就结束了...",
+			"你怎么走到这么远的?",
+			"你要知道... 你得多造成点伤害，如果你想赢的话...",
+			"吉尔伽美什 不会拯救你的.",
+			"惠惠 被你高估了",
+			"你作弊, 我能看见 安兹·乌尔·恭 在你的牌组里..."
 		]
 	}
 }

@@ -20,6 +20,10 @@
 		"DESCRIPTIONS": ["每當打出 4 #y次攻擊牌 ， 獲得 #b", " 力量 和 #b", " 敏捷。"],
 		"NAME": "微刀．釵"
 	},
+	"animator_BorosPower": {
+        "DESCRIPTIONS": ["所有 #y能力 將會被打出兩次。"],
+        "NAME": "波羅斯"
+    },
 	"animator_BozesPower":
 	{
 		"DESCRIPTIONS": ["每當一張牌在本回合中觸發同調， 獲得 #b", " 點 格擋 。"],

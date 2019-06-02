@@ -110,7 +110,7 @@
 	},
 	"Animator_TheAncientMedallion":
 	{
-		"DESCRIPTIONS": ["获得时, 升级2张随机的牌并且升级1张你选择的牌。 每轮开始时, 回复 #b", " 生命值。"],
+		"DESCRIPTIONS": ["获得时, #y升级 2张随机的牌并且升级1张你选择的牌。 每轮开始时, 回复 #b", " 生命值。"],
 		"FLAVOR": "...",
 		"NAME": "上古挂坠"
 	},

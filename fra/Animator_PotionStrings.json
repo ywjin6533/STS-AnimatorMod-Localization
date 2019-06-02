@@ -1,10 +1,10 @@
 {
   "Animator_FalseLifePotion": 
   {
-    "NAME": "False Life Potion",
+    "NAME": "Potion de Fausse Vie",
     "DESCRIPTIONS": 
 	[ 
-      "Gain #b"," #yTemporary #yHP."
+      "Gagnez #b"," #yPV #Temporaires 。"
     ]
   }
 }

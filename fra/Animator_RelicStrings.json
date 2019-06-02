@@ -110,7 +110,7 @@
 	},
 	"Animator_TheAncientMedallion":
 	{
-		"DESCRIPTIONS": ["À l'obtention, améliorez 2 cartes aléatoires et une autre carte au choix. Au début de chaque combat, soignez #b", " PV."],
+		"DESCRIPTIONS": ["À l'obtention, #yAméliorez 2 cartes aléatoires et une autre carte au choix. Au début de chaque combat, soignez #b", " PV."],
 		"FLAVOR": "...",
 		"NAME": "Médaillon Ancien"
 	},
