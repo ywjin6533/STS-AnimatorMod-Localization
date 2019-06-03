@@ -280,9 +280,9 @@
 	},
 	"animator_ElricAlphonse":
 	{
-		"DESCRIPTION": "[#EFC851]Ethereal. Gain !M! Temporary Focus. NL Legacy: Obtain [#EFC851]Armored [#EFC851]Alphonse.",
+		"DESCRIPTION": "[#EFC851]Ethereal. Gain !M! Temporary Focus. Gain !B! Block. NL Legacy: Obtain [#EFC851]Armored [#EFC851]Alphonse.",
 		"NAME": "Alphonse Elric",
-		"UPGRADE_DESCRIPTION": "[#EFC851]Ethereal. Gain !M! Temporary Focus. NL Legacy: Obtain [#EFC851]Armored [#EFC851]Alphonse+."
+		"UPGRADE_DESCRIPTION": "[#EFC851]Ethereal. Gain !M! Temporary Focus. Gain !B! Block. NL Legacy: Obtain [#EFC851]Armored [#EFC851]Alphonse+."
 	},
 	"animator_ElricAlphonseAlt":
 	{

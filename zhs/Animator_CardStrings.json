@@ -278,9 +278,9 @@
 	},
 	"animator_ElricAlphonse":
 	{
-		"DESCRIPTION": "虚无 。 获得 !M! 点 临时 集中 。 NL 遗赠 : 获得 [#EFC851]阿尔冯斯护甲[] 。",
+		"DESCRIPTION": "虚无 。 获得 !M! 点 临时 集中 。 获得 !B! 点 格挡 。 NL 遗赠 : 获得 [#EFC851]阿尔冯斯护甲[] 。",
 		"NAME": "阿尔冯斯",
-		"UPGRADE_DESCRIPTION": "虚无 。 获得 !M! 点 临时 集中 。 NL 遗赠 : 获得 [#EFC851]阿尔冯斯护甲+[] 。"
+		"UPGRADE_DESCRIPTION": "虚无 。 获得 !M! 点 临时 集中 。 获得 !B! 点 格挡 。 NL 遗赠 : 获得 [#EFC851]阿尔冯斯护甲+[] 。"
 	},
 	"animator_ElricAlphonseAlt":
 	{

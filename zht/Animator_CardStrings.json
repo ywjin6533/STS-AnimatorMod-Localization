@@ -293,9 +293,9 @@
 	},
 	"animator_ElricAlphonse":
 	{
-		"DESCRIPTION": "虛無 。 獲得 !M! 點 臨時 集中 。 NL 遺產 : 獲得 [#EFC851]裝甲阿爾馮斯[] 。",
+		"DESCRIPTION": "虛無 。 獲得 !M! 點 臨時 集中 。 獲得 !B! 點 格擋 。 NL 遺產 : 獲得 [#EFC851]裝甲阿爾馮斯[] 。",
 		"NAME": "阿爾馮斯·艾力克",
-		"UPGRADE_DESCRIPTION": "虛無 。 獲得 !M! 點 臨時 集中 。 NL 遺產 : 獲得 [#EFC851]裝甲阿爾馮斯+[] 。"
+		"UPGRADE_DESCRIPTION": "虛無 。 獲得 !M! 點 臨時 集中 。 獲得 !B! 點 格擋 。 NL 遺產 : 獲得 [#EFC851]裝甲阿爾馮斯+[] 。"
 	},
 	"animator_ElricAlphonseAlt":
 	{
