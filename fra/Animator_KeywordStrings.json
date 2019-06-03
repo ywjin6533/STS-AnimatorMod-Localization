@@ -90,6 +90,11 @@
 		"PROPERNAME": "Boost"
 	},
 	{
+		"NAMES": ["air", "air+"],
+		"DESCRIPTION": "Orbe: Inflige dégâts #yPerçants à TOUS les ennemies.",
+		"PROPERNAME": "Air"
+	},
+	{
 		"NAMES": ["terre", "terre+"],
 		"DESCRIPTION": "Orbe: Gagne #yEpine quand #yCanalisé. Automatiquement #yEvoqué après 3 tour et inflige des dégats réparti entre les ennemis.",
 		"PROPERNAME": "Terre"
@@ -201,7 +206,7 @@
 	},
 	{
 		"PROPER_NAME": "Support Damage",
-		"NAMES": ["support damage", "support_damage", "Dégât de Soutien", "Dégât_de_Soutien"],
+		"NAMES": ["support damage", "support_damage", "dégât de soutien", "dégât_de_soutien"],
 		"DESCRIPTION": "Inflige des dégats à l'ennemi avec le moins de PV."
 	}
 ]

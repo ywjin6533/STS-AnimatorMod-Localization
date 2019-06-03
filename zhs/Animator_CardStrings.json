@@ -1036,7 +1036,7 @@
 
 	"animator_Hibiki":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害 !M! 次。 每次使用后，这张牌的攻击次数加1。",
+		"DESCRIPTION": "造成 !D! 点伤害 !M! 次 。 每次使用后 ， 这张牌的攻击次数加1。",
 		"NAME": "响"
 	},
 	"animator_MumenRider":
@@ -1047,30 +1047,30 @@
 	},
 	"animator_Genos":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害。 NL 给予 !M! 层 烧伤. NL 同调: 此轮，保存你的剩余能量。",
+		"DESCRIPTION": "造成 !D! 点 伤害。 NL 给予 !M! 层 烧伤 。 NL 同调 : 此轮，保存你的剩余能量。",
 		"NAME": "杰诺斯"
 	},
 	"animator_Sonic":
 	{
-		"DESCRIPTION": "忍者 . 造成 !D! 点 穿刺 伤害。 同调: 获得1张 飞刃 。",
+		"DESCRIPTION": "忍者 . 造成 !D! 点 穿刺 伤害。 同调 : 获得1张 飞刃 。",
 		"NAME": "音速索尼克"
 	},
 	"animator_SilverFang":
 	{
-		"DESCRIPTION": "拳师 。 NL 造成 !D! 点 伤害。 NL 获得 !B! 层 格挡 。 NL 下一轮, 获得 !M! 层 临时 敏捷 。",
+		"DESCRIPTION": "拳师 。 NL 造成 !D! 点 伤害 。 NL 获得 !B! 层 格挡 。 NL 下一轮 ， 获得 !M! 层 临时 敏捷 。",
 		"NAME": "银色獠牙"
 	},
 	"animator_Geryuganshoop":
 	{
-		"DESCRIPTION": "循环 !SV! 张牌。 NL 抹除最多 !M! 张已 消耗 的牌, 获得同样数量的 [E].",
+		"DESCRIPTION": "循环 !SV! 张牌 。 NL 抹除最多 !M! 张已 消耗 的牌 ， 获得同样数量的 [E].",
 		"NAME": "戈留干修普",
 		"EXTENDED_DESCRIPTION": ["选择 @ 张牌抹除, 获得同等的能量."]
 	},
 	"animator_Melzalgald":
 	{
-		"DESCRIPTION": "穿越者 。 NL 造成 !D! 点 伤害。 NL 分裂成3张不同的 [#EFC851]攻击 。 消耗 。",
+		"DESCRIPTION": "穿越者 。 NL 造成 !D! 点 伤害 。 NL 分裂成3张不同的 [#EFC851]攻击 。 消耗 。",
 		"NAME": "梅鲁扎嘎鲁多",
-		"UPGRADE_DESCRIPTION": "穿越者 。 NL 造成 !D! 点 伤害。 NL 分裂成3张不同的升级 [#EFC851]攻击 。 消耗 。"
+		"UPGRADE_DESCRIPTION": "穿越者 。 NL 造成 !D! 点 伤害 。 NL 分裂成3张不同的升级 [#EFC851]攻击 。 消耗 。"
 	},
 	"animator_MelzalgaldAlt_1":
 	{
@@ -1089,36 +1089,36 @@
 	},
 	"animator_Tatsumaki":
 	{
-		"DESCRIPTION": "获得1个 空氣 充能球。 NL 获得 !M! 点临时 集中 。 NL 同调 ：此轮，所有敌人失去 !SV! 点 力量 。",
+		"DESCRIPTION": "生成 1 个 空氣 充能球 。 NL 获得 !M! 点临时 集中 。 NL 同调 ： 此轮，所有敌人失去 !SV! 点 力量 。",
 		"NAME": "龙卷"
 	},
 	"animator_MetalKnight":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害。 NL 获得 1 等离子 充能球. NL 鼓舞 !SV! : 获得 !M! 层 金属化 。",
+		"DESCRIPTION": "造成 !D! 点 伤害。 NL 生成 1 等离子 充能球 。 NL 鼓舞 !SV! : 获得 !M! 层 金属化 。",
 		"NAME": "金属骑士"
 	},
 	"animator_Boros":
 	{
-		"DESCRIPTION": "获得 !M! 点 力量, 敏捷 和 集中 。 NL 所有 [#EFC851]能力[] 将会被 NL 打出两次。",
+		"DESCRIPTION": "获得 !M! 点 力量 ， 敏捷 和 集中 。 NL 所有 [#EFC851]能力[] 将会被 NL 打出两次 。",
 		"NAME": "波罗斯"
 	},
 	"animator_Saitama":
 	{
-		"DESCRIPTION": "造成 !D! 点 穿刺 伤害。NL 每次你打出这张牌，此牌伤害在本战斗增加 !M! 点，此效果受 力量 影响。",
+		"DESCRIPTION": "造成 !D! 点 穿刺 伤害 。 NL 每次你打出这张牌 ， 此牌伤害在本战斗增加 !M! 点 ， 此效果受 力量 影响 。",
 		"NAME": "埼玉"
 	},
 	"animator_SeriousSaitama":
 	{
-		"DESCRIPTION": "眩晕 所有敌人。一名随机敌人将逃离战斗（复数敌人战斗）。 消耗 。",
+		"DESCRIPTION": "眩晕 所有敌人 。 一名随机敌人将逃离战斗（复数敌人战斗）。 消耗 。",
 		"NAME": "认真的埼玉",
-		"UPGRADE_DESCRIPTION": "固有 。 眩晕 所有敌人。一名随机敌人将逃离战斗（复数敌人战斗）。消耗 。"
+		"UPGRADE_DESCRIPTION": "固有 。 眩晕 所有敌人 。 一名随机敌人将逃离战斗（复数敌人战斗） 。 消耗 。"
 	},
 
 	"animator_Azriel":
 	{
-		"DESCRIPTION": "获得两 2 层 飞行 。 NL 每当给予敌人负面效果时, 获得 !M! 点 力量 。 虚无 。",
+		"DESCRIPTION": "获得两 2 层 飞行 。 NL 每当给予敌人负面效果时 ， 获得 !M! 点 力量 。 虚无 。",
 		"NAME": "阿兹列尔",
-		"UPGRADE_DESCRIPTION": "获得两 2 层 飞行 。 NL 每当给予敌人负面效果时, 获得 !M! 点 力量 。"
+		"UPGRADE_DESCRIPTION": "获得两 2 层 飞行 。 NL 每当给予敌人负面效果时 ， 获得 !M! 点 力量 。"
 	},
 	"animator_Giselle":
 	{

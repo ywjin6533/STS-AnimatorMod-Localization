@@ -27,7 +27,7 @@
 		[
 			"[Partir]",
 			"[Se renseigner]",
-			"[Accepter] #yObtenez #une #Relique"
+			"[Accepter] #gObtenez #gune #gRelique"
 		]
 	},
 	"Animator_TheMaskedTraveler3":
@@ -101,10 +101,10 @@
 		],
 		"OPTIONS": [
 			"[Vendre] #rPerdez un #rMédaillon #rAncien. #gGagnez #g{0} #gOr.",
-			"[Acheter] #gObtenez un #gMédaillon #gAncien. #rPerdez #r{0} #rOr.",
+			"[Acheter] #rPerdez #r{0} #rOr. #gObtenez un #gMédaillon #gAncien.",
 			"[Marchander] #g50%: #gMeilleur #gprix. #r50%: #rPire #rprix.",
 			"[Partir]",
-			"[Bloqué] Pas de #Médaillon #yAncien à vendre.",
+			"[Bloqué] Pas de #yMédaillon #yAncien à vendre.",
 			"[Bloqué] Pas assez Or.",
 			"[Continuer]"
 		]
@@ -125,7 +125,7 @@
 		"OPTIONS":
 		[
 			"[Continuer]",
-			"[Accepter] #Perdez #r{0} #rPV. #gObtenez un #Médaillon #yAncien",
+			"[Accepter] #rPerdez #r{0} #rPV. #gObtenez #gune #gRelique",
 			"[Fuir]",
 			"[Essayer de fuir] #r50% #rde #rrisque #rde #rperdre #r{0} #rPV",
 			"[Partir]"
