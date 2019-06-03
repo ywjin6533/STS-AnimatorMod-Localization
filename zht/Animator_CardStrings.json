@@ -168,6 +168,10 @@
         "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 獲得 !M! 層  [＃EFC851]臨時荊棘[] 。",
         "NAME": "優越防禦"
     },
+    "animator_Defend_OnePunchMan": {
+        "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 鼓舞 !SV! : 下一輪，獲得 [E]。",
+        "NAME": "優越防禦"
+    },
     "animator_Defend_Konosuba": {
         "DESCRIPTION": "獲得 !B! 點 格擋 。 NL 增強 !SV! : 回復 !M! 點 生命 。",
         "NAME": "優越防禦"
@@ -391,7 +395,7 @@
         "UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 NL 給予 1 層 虛弱 。 NL [#EFC851]血液破壞+[] 。"
     },
     "animator_Jibril": {
-        "DESCRIPTION": "造成 !D! 點 傷害 。 NL 為每一種不同的充能球抽 1 張牌 。 NL 同調 ： 獲得 !SV! 點 臨時 集中 。",
+        "DESCRIPTION": "造成 !D! 點 傷害 。 NL 為每一種不同的充能球抽 1 張牌 。 NL 同調 ： 造成 !M! 點 額外傷害。",
         "NAME": "吉普莉爾"
     },
     "animator_Kaijin": {
@@ -665,6 +669,10 @@
         "DESCRIPTION": "造成 !D! 點傷害 。 獲得 !M! 點 臨時 力量 。",
         "NAME": "優越打擊"
     },
+    "animator_Strike_OnePunchMan": {
+        "DESCRIPTION": "造成 !D! 點傷害。 NL 獲得 !M! 點臨時 敏捷 。",
+        "NAME": "優越打擊"
+    },
     "animator_Strike_Fate": {
         "DESCRIPTION": "造成 !D! 點 穿刺 傷害 。",
         "NAME": "優越打擊"
@@ -835,66 +843,84 @@
         "DESCRIPTION": "獲得 !M! [#EFC851]金幣。 NL 鬼更加作祟。 NL 虛無 。 消耗 。",
         "NAME": "鬼出沒"
     },
-	"animator_Hibiki": {
-        "DESCRIPTION": "造成 !D! 點傷害 !M! 次。 每次使用後，這張牌的攻擊次數加1。",
-        "NAME": "響"
-    },
-    "animator_MumenRider": {
-        "DESCRIPTION": "造成 !D! 點 傷害。 NL 消耗 。 這張牌會在隨機回合後回到你的手裡 。",
-        "NAME": "無證騎士",
-        "UPGRADE_DESCRIPTION": "造成 !D! 點 傷害 。 NL 抽1張牌 。 NL 消耗 。 這張牌會在隨機回合後回到你的手裡 。"
-    },
-    "animator_Genos": {
-        "DESCRIPTION": "造成 !D! 點 傷害。 NL 給予 !M! 層 燒傷. NL 同調: 此輪，保存你的剩餘能量。",
-        "NAME": "杰諾斯"
-    },
-    "animator_Sonic": {
-        "DESCRIPTION": "忍者 . 造成 !D! 點 穿刺 傷害。 同調: 獲得1張 飛刃 。",
-        "NAME": "音速索尼克"
-    },
-    "animator_SilverFang": {
-        "DESCRIPTION": "拳師 。 NL 造成 !D! 點 傷害。 NL 獲得 !B! 層 格擋 。 NL 下一輪, 獲得 !M! 層 臨時 敏捷 。",
-        "NAME": "銀色獠牙"
-    },
-	"animator_Geryuganshoop": {
-        "DESCRIPTION": "循環 !SV! 張牌。 NL 抹除最多 !M! 張已 消耗 的牌, 獲得同樣數量的 [E].",
-        "NAME": "戈留幹修普",
-        "EXTENDED_DESCRIPTION": ["選擇 @ 張牌抹除, 獲得同等的能量."]
-    },
-    "animator_Melzalgald": {
-        "DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害。 NL 分裂成3張不同的 [#EFC851]攻擊 。 消耗 。",
-        "NAME": "梅魯扎嘎魯多",
-        "UPGRADE_DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害。 NL 分裂成3張不同的升級 [#EFC851]攻擊 。 消耗 。"
-    },
-    "animator_MelzalgaldAlt_1": {
-        "DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害。 NL 獲得 !M! 層 力量 。 NL 消耗 。",
-        "NAME": "梅魯扎嘎魯多"
-    },
-    "animator_MelzalgaldAlt_2": {
-        "DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害。 NL 獲得 !M! 層 敏捷 。 NL 消耗 。",
-        "NAME": "梅魯扎嘎魯多"
-    },
-    "animator_MelzalgaldAlt_3": {
-        "DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害。 NL 獲得 !M! 層 再生 。 NL 消耗 。",
-        "NAME": "梅魯扎嘎魯多"
-    },
-	"animator_Tatsumaki": {
-        "DESCRIPTION": "獲得1個 風素 充能球。 NL 抽 !M! 張牌。 NL 隨機丟棄 !SV! 張牌.",
-        "NAME": "龍捲"
-    },
-    "animator_MetalKnight": {
-        "DESCRIPTION": "造成 !D! 點 傷害。 NL 獲得 1 等離子 充能球. NL Boost !SV! : 獲得 !M! 層 金屬化 。",
-        "NAME": "金屬騎士"
-    },
-    "animator_Saitama": {
-        "DESCRIPTION": "造成 !D! 點 傷害。NL 打出這張牌需多花費3點能量。 NL [#EFC851]被抽到時[]: 獲得 !B! 層 格擋 。",
-        "NAME": "埼玉"
-    },
-    "animator_SeriousSaitama": {
-        "DESCRIPTION": "眩暈 所有敵人。一名隨機敵人將逃離戰鬥（複數敵人戰鬥）。 消耗 。",
-        "NAME": "認真的埼玉",
-        "UPGRADE_DESCRIPTION": "固有 。 眩暈 所有敵人。一名隨機敵人將逃離戰鬥（複數敵人戰鬥）。消耗 。"
-    },
+    "animator_Hibiki": {
+                 "DESCRIPTION": "造成 !D! 點傷害 !M! 次。 每次使用後，這張牌的攻擊次數加1。",
+                 "NAME": "響"
+            
+    },
+         "animator_MumenRider": {
+                 "DESCRIPTION": "造成 !D! 點 傷害。 NL 消耗 。 這張牌會在隨機回合後回到你的手裡 。",
+                 "NAME": "無證騎士",
+                 "UPGRADE_DESCRIPTION": "造成 !D! 點 傷害 。 NL 抽1張牌 。 NL 消耗 。 這張牌會在隨機回合後回到你的手裡 。"
+            
+    },
+         "animator_Genos": {
+                 "DESCRIPTION": "造成 !D! 點 傷害。 NL 給予 !M! 層 燒傷. NL 同調: 此輪，保存你的剩餘能量。",
+                 "NAME": "杰諾斯"
+            
+    },
+         "animator_Sonic": {
+                 "DESCRIPTION": "忍者 . 造成 !D! 點 穿刺 傷害。 同調: 獲得1張 飛刃 。",
+                 "NAME": "音速索尼克"
+            
+    },
+         "animator_SilverFang": {
+                 "DESCRIPTION": "拳師 。 NL 造成 !D! 點 傷害。 NL 獲得 !B! 層 格擋 。 NL 下一輪, 獲得 !M! 層 臨時 敏捷 。",
+                 "NAME": "銀色獠牙"
+            
+    },
+    "animator_Geryuganshoop": {
+                 "DESCRIPTION": "循環 !SV! 張牌。 NL 抹除最多 !M! 張已 消耗 的牌, 獲得同樣數量的 [E].",
+                 "NAME": "戈留幹修普",
+                 "EXTENDED_DESCRIPTION": ["選擇 @ 張牌抹除, 獲得同等的能量."]
+            
+    },
+         "animator_Melzalgald": {
+                 "DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害。 NL 分裂成3張不同的 [#EFC851]攻擊 。 消耗 。",
+                 "NAME": "梅魯扎嘎魯多",
+                 "UPGRADE_DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害。 NL 分裂成3張不同的升級 [#EFC851]攻擊 。 消耗 。"
+            
+    },
+         "animator_MelzalgaldAlt_1": {
+                 "DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害。 NL 獲得 !M! 層 力量 。 NL 消耗 。",
+                 "NAME": "梅魯扎嘎魯多"
+            
+    },
+         "animator_MelzalgaldAlt_2": {
+                 "DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害。 NL 獲得 !M! 層 敏捷 。 NL 消耗 。",
+                 "NAME": "梅魯扎嘎魯多"
+            
+    },
+         "animator_MelzalgaldAlt_3": {
+                 "DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害。 NL 獲得 !M! 層 再生 。 NL 消耗 。",
+                 "NAME": "梅魯扎嘎魯多"
+            
+    },
+    "animator_Tatsumaki": {
+                 "DESCRIPTION": "獲得1個 空氣 充能球。 NL 抽 !M! 張牌。 NL 隨機丟棄 !SV! 張牌.",
+                 "NAME": "龍捲"
+            
+    },
+         "animator_MetalKnight": {
+                 "DESCRIPTION": "造成 !D! 點 傷害。 NL 獲得 1 等離子 充能球。 NL 鼓舞 !SV! : 獲得 !M! 層 金屬化 。",
+                 "NAME": "金屬騎士"
+            
+    },
+    "animator_Boros": {
+        "DESCRIPTION": "獲得 !M! 點 力量, 敏捷 和 集中 。 NL 所有 [#EFC851]能力[] 將會被 NL 打出兩次。",
+        "NAME": "波羅斯"
+    },
+    "animator_Saitama": {
+                 "DESCRIPTION": "造成 !D! 點 穿刺 傷害。NL 每次你打出這張牌，此牌傷害在本戰鬥增加 !M! 點，此效果受 力量 影響。",
+                 "NAME": "埼玉"
+            
+    },
+         "animator_SeriousSaitama": {
+                 "DESCRIPTION": "眩暈 所有敵人。一名隨機敵人將逃離戰鬥（複數敵人戰鬥）。 消耗 。",
+                 "NAME": "認真的埼玉",
+                 "UPGRADE_DESCRIPTION": "固有 。 眩暈 所有敵人。一名隨機敵人將逃離戰鬥（複數敵人戰鬥）。消耗 。"
+            
+    },
     "animator_Azriel": {
         "DESCRIPTION": "獲得兩 2 層 飛行 。 NL 每當給予敵人負面效果時, 獲得 !M! 點 力量 。 虛無 。",
         "NAME": "阿茲列爾",

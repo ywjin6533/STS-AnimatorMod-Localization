@@ -135,15 +135,15 @@
     },
     "animator_Defend_AccelWorld": {
         "DESCRIPTION": "Gagnez !B! d'Armure. NL Rappel: Gagnez !M! d'Armure.",
-        "NAME": "Défense Amélioré"
+        "NAME": "Défense Améliorée"
     },
     "animator_Defend_Elsword": {
         "DESCRIPTION": "Gagnez !B! d'Armure. NL Au prochain tour, Gagnez !M! d'Armure.",
-        "NAME": "Défense Amélioré"
+        "NAME": "Défense Améliorée"
     },
     "animator_Defend_Fate": {
         "DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez !M! d'Armure supplémentaire pour chaque ennemi.",
-        "NAME": "Défense Amélioré"
+        "NAME": "Défense Améliorée"
     },
     "animator_Defend_FullmetalAlchemist": {
         "DESCRIPTION": "Gagnez !B! d'Armure. NL Cooldown !SV!: NL [#EFC851]Canalisez 1 Givre.",
@@ -151,43 +151,48 @@
     },
     "animator_Defend_GATE": {
         "DESCRIPTION": "Gagnez !B! d'Armure. NL Conservez.",
-        "NAME": "Défense Amélioré"
+        "NAME": "Défense Améliorée"
     },
     "animator_Defend_GoblinSlayer": {
         "DESCRIPTION": "Gagnez !B! d'Armure. NL Épuisement.",
-        "NAME": "Défense Amélioré"
+        "NAME": "Défense Améliorée"
     },
     "animator_Defend_HitsugiNoChaika": {
         "DESCRIPTION": "Gagnez !B! d'Armure. NL Recyclez 1 carte.",
-        "NAME": "Défense Amélioré"
+        "NAME": "Défense Améliorée"
     },
     "animator_Defend_Kancolle": {
         "DESCRIPTION": "Gagnez !B! d'Armure. NL Boost !SV! : Gagnez !M! [#EFC851]Or.",
-        "NAME": "Défense Amélioré"
+        "NAME": "Défense Améliorée"
     },
     "animator_Defend_Katanagatari": {
         "DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez !M! [#EFC851]Épines temporaire.",
-        "NAME": "Défense Amélioré"
+        "NAME": "Défense Améliorée"
     },
+		"animator_Defend_OnePunchMan":
+	{
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Boost !SV! : Au prochain tour, gagnez [E].",
+		"NAME": "Défense Améliorée"
+	},
     "animator_Defend_Konosuba": {
         "DESCRIPTION": "Gagnez !B! d'Armure. NL Boost !SV! : Soignez !M! PV.",
-        "NAME": "Défense Amélioré"
+        "NAME": "Défense Améliorée"
     },
     "animator_Defend_NoGameNoLife": {
         "DESCRIPTION": "Gagnez !B! d'Armure. NL Conservez votre carte jouable la plus à gauche.",
-        "NAME": "Défense Amélioré"
+        "NAME": "Défense Améliorée"
     },
     "animator_Defend_Overlord": {
         "DESCRIPTION": "Gagnez !B! d'Armure. NL Augmentez l'Armure de cettte carte de !M! pour ce combat.",
-        "NAME": "Défense Amélioré"
+        "NAME": "Défense Améliorée"
     },
     "animator_Defend_OwariNoSeraph": {
         "DESCRIPTION": "Gagnez !B! d'Armure. NL Héritage: Appliquez !M! Faiblesse à TOUS les ennemis.",
-        "NAME": "Défense Amélioré"
+        "NAME": "Défense Améliorée"
     },
     "animator_Defend_TenSura": {
         "DESCRIPTION": "Gagnez !B! d'Armure deux fois.",
-        "NAME": "Défense Amélioré"
+        "NAME": "Défense Améliorée"
     },
     "animator_Demiurge": {
         "DESCRIPTION": "Gagnez [E]. NL Prendre !M! dégâts à la fin de votre tour. NL Héritage: Gagnez [E].",
@@ -399,7 +404,7 @@
         "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez 1 Faiblesse. NL [#EFC851]Blood [#EFC851]Destruction+."
     },
     "animator_Jibril": {
-        "DESCRIPTION": "Infligez !D! dégât(s). NL Piochez une carte pour chaque Orbe unique que vous avez. NL Synergie: Gagnez !M! de Concentration temporaire",
+        "DESCRIPTION": "Infligez !D! dégât(s). NL Piochez une carte pour chaque Orbe unique que vous avez. NL Synergie: Infligez !M! de dégâts addtionnels",
         "NAME": "Jibril"
     },
     "animator_Kaijin": {
@@ -541,13 +546,13 @@
         "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL La première carte [#EFC851]0-Cost que vous jouez chaque tour est jouée deux fois."
     },
     "animator_Pride": {
-        "DESCRIPTION": "Changeforme. [#EFC851]Fierté. NL [#EFC851]Canalisez !M! [#EFC851]Tenèbre NL Synergie: Appliquez !SV! de Constriction.",
-        "EXTENDED_DESCRIPTION": ["Fierté", "Jusqu'a votre prochain tour, quand vous subissez dégât(s) non bloqué, votre Orbe de #yTenèbre la plus à droite perd autant en dommage à la place."],
-        "NAME": "Fierté"
+        "DESCRIPTION": "Changeforme. [#EFC851]Orgueil. NL [#EFC851]Canalisez !M! [#EFC851]Tenèbre NL Synergie: Appliquez !SV! de Constriction. Épuisement.",
+        "EXTENDED_DESCRIPTION": ["Orgueil", "Jusqu'à votre prochain tour, quand vous subissez des dégâts non bloqués, votre Orbe de #yTenèbre la plus à droite perd autant de charges à la place."],
+        "NAME": "Orgueil"
     },
     "animator_Priestess": {
         "DESCRIPTION": "Gagnez !B! Temp._PV ([#EFC851]*[]). Synergie: Gagnez !M! [#EFC851]Regeneration[], peut s'activer !SV! fois.",
-        "EXTENDED_DESCRIPTION": ["* Note", "Affecté par les modifieurs d'Armure."],
+        "EXTENDED_DESCRIPTION": ["* Note", "Affecté par les modificateurs d'Armure."],
         "NAME": "'Prêtresse'"
     },
     "animator_QuestionMark": {
@@ -656,59 +661,64 @@
     },
     "animator_Strike_AccelWorld": {
         "DESCRIPTION": "Infligez !D! dégât(s). NL Rappel: Infligez !M! dégât(s) to un ennemi aléatoire.",
-        "NAME": "Frappe Amélioré"
+        "NAME": "Frappe Améliorée"
     },
     "animator_Strike_Elsword": {
         "DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! Force jusqu'a la fin du tour.",
         "NAME": "Frappe Amélioré"
     },
+		"animator_Strike_OnePunchMan":
+	{
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! de Dextérité jusqu'à la fin du tour.",
+		"NAME": "Frappe Améliorée"
+	},
     "animator_Strike_Fate": {
         "DESCRIPTION": "Infligez !D! dégât(s) Perçant.",
-        "NAME": "Frappe Amélioré"
+        "NAME": "Frappe Améliorée"
     },
     "animator_Strike_FullmetalAlchemist": {
         "DESCRIPTION": "Infligez !D! dégât(s). NL Cooldown !SV!: NL Canalisez 1 Foudre.",
-        "NAME": "Frappe Amélioré"
+        "NAME": "Frappe Améliorée"
     },
     "animator_Strike_GATE": {
         "DESCRIPTION": "Infligez !D! dégât(s). NL Au prochain tour, piochez une carte.",
-        "NAME": "Frappe Amélioré"
+        "NAME": "Frappe Améliorée"
     },
     "animator_Strike_GoblinSlayer": {
         "DESCRIPTION": "Infligez !D! dégât(s). NL Épuisement.",
-        "NAME": "Frappe Amélioré"
+        "NAME": "Frappe Améliorée"
     },
     "animator_Strike_HitsugiNoChaika": {
         "DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! Poison.",
-        "NAME": "Frappe Amélioré"
+        "NAME": "Frappe Améliorée"
     },
     "animator_Strike_Kancolle": {
         "DESCRIPTION": "Infligez !D! dégât(s). NL Boost !SV! : Gagnez !M! [#EFC851]Or.",
-        "NAME": "Frappe Amélioré"
+        "NAME": "Frappe Améliorée"
     },
     "animator_Strike_Katanagatari": {
         "DESCRIPTION": "Infligez !D! dégât(s). NL Si vous avez moins de 3 cartes dans votre main, NL Gagnez [E].",
-        "NAME": "Frappe Amélioré"
+        "NAME": "Frappe Améliorée"
     },
     "animator_Strike_Konosuba": {
         "DESCRIPTION": "Infligez !D! dégât(s). NL Boost !SV! : Soignez !M! PV.",
-        "NAME": "Frappe Amélioré"
+        "NAME": "Frappe Améliorée"
     },
     "animator_Strike_NoGameNoLife": {
         "DESCRIPTION": "Infligez !D! dégât(s). NL Conservez votre carte jouable la plus à droite.",
-        "NAME": "Frappe Amélioré"
+        "NAME": "Frappe Améliorée"
     },
     "animator_Strike_Overlord": {
         "DESCRIPTION": "Infligez !D! dégât(s). NL Augmentez les dégâts de cette carte de !M! pour ce combat.",
-        "NAME": "Frappe Amélioré"
+        "NAME": "Frappe Améliorée"
     },
     "animator_Strike_OwariNoSeraph": {
         "DESCRIPTION": "Infligez !D! dégât(s). NL Héritage: Appliquez !M! Vulnérabilité à TOUS les ennemis.",
-        "NAME": "Frappe Amélioré"
+        "NAME": "Frappe Améliorée"
     },
     "animator_Strike_TenSura": {
         "DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !M! Temp._PV.",
-        "NAME": "Frappe Amélioré"
+        "NAME": "Frappe Améliorée"
     },
     "animator_SwordMaiden": {
         "DESCRIPTION": "Gagnez !M! Temp._PV. NL Enlève TOUS vos Debuff. Épuisement.",
@@ -876,17 +886,23 @@
         "NAME": "Melzalgald"
     },
     "animator_Tatsumaki": {
-        "DESCRIPTION": "Canalisez 1 Air. NL Piochez !M! cartes. NL Défaussez !SV! cartes aléatoires.",
+        "DESCRIPTION": "Canalisez 1 Air. NL Gagnez !M! de Concentration temporaire. Synergie: NL TOUS les ennemies perdent !SV! de Force pendant ce tour.",
         "NAME": "Tatsumaki"
     },
     "animator_MetalKnight": {
         "DESCRIPTION": "Infligez !D! dégât(s). NL Canalisez 1 Plasma. NL Boost !SV! : gagnez !M! de Métallisation.",
         "NAME": "Metal Knight"
     },
-    "animator_Saitama": {
-        "DESCRIPTION": "Infligez !D! dégât(s). NL Dépensez 3 Énergies de plus pour jouer cette carte. NL [#EFC851]Pioché[]: gagnez !B! d'Armure.",
-        "NAME": "Saitama"
-    },
+		"animator_Boros":
+	{
+		"DESCRIPTION": "Gagnez !M! de Force, de Dextérité et de Concentration. NL TOUS les [#EFC851]Pouvoirs[] seront NL joués deux fois.",
+		"NAME": "Boros"
+	},
+	"animator_Saitama":
+	{
+		"DESCRIPTION": "Infligez !D! dégât(s) perçant(s). Augmentez les dégâts de cette carte par !M! ce combat, NL cet effect est affecté par la Force.",
+		"NAME": "Saitama"
+	},
     "animator_SeriousSaitama": {
         "DESCRIPTION": "Assomez TOUS les ennemies. NL Un ennemie aléatoire fuira (dans un combat à ennemis multiples). Épuisement.",
         "NAME": "Saitama Sérieux",
