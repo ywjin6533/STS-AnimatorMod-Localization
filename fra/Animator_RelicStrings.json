@@ -140,7 +140,7 @@
 	},
 	"Animator_WizardHat":
 	{
-		"DESCRIPTIONS": ["À la fin de votre tour, dépensez votre énergie restante et réduisez ce compteur du même montant. Si ce compteur atteint #g0, infligez #b", " dégâts à TOUS les ennemis."],
+		"DESCRIPTIONS": ["À la fin de votre tour, consomme #1 de votre énergie restante. Chaque fois que cette relique consomme un total de #b", " Énergies, infligez #b", " dégâts à TOUS les ennemis."],
 		"FLAVOR": "La magie d'explosion est la plus puissantes. Mais elle demande un temps de préparation.",
 		"NAME": "Chapeau de Sorcier"
 	},
