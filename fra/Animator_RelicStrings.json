@@ -60,6 +60,12 @@
 		"FLAVOR": "Regner sur la mort, c'est regner sur la vie. La mort est l'apothéose de la vie. Pour une belle mort, tu dois honorer la vie.",
 		"NAME": "Hallebarde Lourde"
 	},
+		"Animator_Hoodie":
+	{
+		"DESCRIPTIONS": ["Si vous finissez un combat sans prendre de dégât, gagnez #b", " #yPV #ymax."],
+		"FLAVOR": "Avec cela, vous seriez peut-être admis à l'Association des Héros.",
+		"NAME": "Coton Ouaté"
+	},
 	"Animator_LivingPicture":
 	{
 		"DESCRIPTIONS": ["Une fois par tour, quand une carte #ySynergizes, piochez #b1 carte."],
@@ -108,7 +114,7 @@
 		"FLAVOR": "Quelle est cette chose?",
 		"NAME": "La pièce manquante"
 	},
-	"Animator_TheAncientMedallion":
+	"Animator_AncientMedallion":
 	{
 		"DESCRIPTIONS": ["À l'obtention, #yAméliorez 2 cartes aléatoires et une autre carte au choix. Au début de chaque combat, soignez #b", " PV."],
 		"FLAVOR": "...",

@@ -60,6 +60,12 @@
 		"FLAVOR": "统治死亡即统治生命，死即生之巅峰, 崇敬生命吧.",
 		"NAME": "重戟"
 	},
+		"Animator_Hoodie":
+	{
+		"DESCRIPTIONS": ["如果你在一场战斗没有受到伤害, 获得 #b", " #y生命上限 。"],
+		"FLAVOR": "有了这个, 你说不定可以被英雄协会承认.",
+		"NAME": "帽衫"
+	},
 	"Animator_LivingPicture":
 	{
 		"DESCRIPTIONS": ["每回合一次每当协 #y同生 效时抽1张牌."],
@@ -108,7 +114,7 @@
 		"FLAVOR": "这是什么?",
 		"NAME": "遗失残片"
 	},
-	"Animator_TheAncientMedallion":
+	"Animator_AncientMedallion":
 	{
 		"DESCRIPTIONS": ["获得时, #y升级 2张随机的牌并且升级1张你选择的牌。 每轮开始时, 回复 #b", " 生命值。"],
 		"FLAVOR": "...",
