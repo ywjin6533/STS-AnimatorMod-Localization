@@ -1,32 +1,35 @@
+
 {
-  "Animator_TheMaskedTraveler1": {
-    "NAME": "Le Voyageur Masqué",
-    "DESCRIPTIONS": [
-      "En longeant ces paysages d'un jeu vidéo #yclairement pas #yréutilisés, un individu masqué équipé d'un sac à dos géant vous approche. NL \"Mes salutations, mon ami, êtes-vous, par chance, en possession de quelques armements @'spéciaux'@ ?\" NL ... NL \"Avez-vous l'intention de faire quelques profits?\" NL \"Ou peut-être préférez-vous d'acheter quelques bijoux de ma ... #ycollection ?\"",
-      "\"A-t-il vraiment accepté?\" NL ... NL NL \"Ahem... Je suis @reconnaissant@ pour le #ytroc , prenez soin de vous dans votre quête.\" NL NL Ceci étant dit, il est disparu de votre vue."
-    ],
-    "OPTIONS": [
-      "[Vendre] #gEnlevez ", ". #gGagnez #g", " #gOr.",
-      "[Commercer] #gAméliorez #gtoutes #gles Frappes #get Défenses. #rPerdez #r", " #rOr.",
-      "[Partir]",
-	  "[Bloqué] Pas de carte à Vendre.",
-	  "[Bloqué] Pas assez Or."
-    ]
-  },
-  "Animator_TheMaskedTraveler2":{
+	"Animator_TheMaskedTraveler1":
+	{
+		"NAME": "Le Voyageur Masqué",
+		"DESCRIPTIONS": [
+			"En longeant ces paysages d'un jeu vidéo #yclairement pas #yréutilisés, un individu masqué équipé d'un sac à dos géant vous approche. NL \"Mes salutations, mon ami, êtes-vous, par chance, en possession de quelques armements @'spéciaux'@ ?\" NL ... NL \"Avez-vous l'intention de faire quelques profits?\" NL \"Ou peut-être préférez-vous d'acheter quelques bijoux de ma ... #ycollection ?\"",
+			"\"A-t-il vraiment accepté?\" NL ... NL NL \"Ahem... Je suis @reconnaissant@ pour le #ytroc , prenez soin de vous dans votre quête.\" NL NL Ceci étant dit, il est disparu de votre vue."
+		],
+		"OPTIONS": [
+			"[Vendre] #gEnlevez ", ". #gGagnez #g", " #gOr.",
+			"[Commercer] #gAméliorez #gtoutes #gles Frappes #get Défenses. #rPerdez #r", " #rOr.",
+			"[Partir]",
+			"[Bloqué] Pas de carte à Vendre.",
+			"[Bloqué] Pas assez Or."
+		]
+	},
+	"Animator_TheMaskedTraveler2":
+	{
 		"NAME": "Le Voyageur Masqué (Partie 2)",
 		"DESCRIPTIONS": [
 			"\"C'est vous! Sur le chemin de battre le @Cœur@ de cette tour?\" NL NL \"Pourquoi ne pas m'aider à débarasser d'une autre menace à la place? Vous voyez, le Sans-Nom est de retour, mais ne vous en faites pas! Il n'est point invincible pour vous!\"",
 			"Oh, voici un détail mineur... Pour combattre le Sans-Nom, vous devrez renoncer à TOUTES vos reliques, vos potions, et vos améliorations sur les cartes. Toutefois, il est important de savoir que vous pouvez choisir une de ces reliques puissantes!",
 			"\"Formidable! Allez tout droit et vous devriez le voir, je compte sur vous!\" NL NL \"Attendez! J'avais presque oublié, vous allez rencontré souvent ces petits bijoux, voilà un pour vous! \" NL NL [ #yREMARQUE #yIMPORTANTE: Cet acte contiendra ses propres musiques et elles seront complétées pendant les mises à jour futures. ]"
 		],
-		"OPTIONS": 
+		"OPTIONS":
 		[
 			"[Partir]",
 			"[Se renseigner]",
 			"[Accepter] #yObtenez #une #Relique"
 		]
-	}, 
+	},
 	"Animator_TheMaskedTraveler3":
 	{
 		"NAME": "Le Voyageur Masqué (Partie 3)",
@@ -41,36 +44,37 @@
 			"[Bloqué] Pas de #yMédaillon #yAncient à échanger.",
 			"[Bloqué] Pas assez Or."
 		]
-	}, 
-	"Animator_TheDomVedeloper1": {
-    "NAME": "Le Dom Vedeloper",
-    "DESCRIPTIONS": [
-      "Vous entendez des cris à distance: NL NL \" Rinne devrait agir plus @imprévisiblement@! \" NL \" #yGilgamesh mérite probablement un buff! \" NL \" The #bexplosion girl might be a tad too strong... \" NL NL Vous êtes légèrement intrigué par ces propos... NL Décidez-vous de vous approchez?",
-	  "\"Oh salut bonjour! Ce sont des cartes #pintéressantes, puis-je les examiner un peu?\" NL NL  Sans attendre votre réponse, il a pris toutes vos cartes et les ont classées rapidement. NL NL \"Passionnant... Écoutez, mon ami, que diriez-vous de prendre une place dans notre #ySondage? Bien sûr, vous serez #yrécompensé.\"",
-	  "\"Merveilleux! Merveilleux! Voilà, dites-moi, que pensez-vous de cette carte?\"",
-	  "\"Bien, quant à celle-là?\"",
-	  "\"Fascinant, et cette carte?\"",
-	  "\"Je vois... Finalement, quelle est votre opinion sur celle copie là?\"",
-	  "\"Merci ami, votre récompense telle que promis\" NL NL Vous avez reçu #b100 #yOr. NL NL \"Une dernière chose, acceptez-vous de #gsigner cette feuille?\" NL NL (Si vous acceptez, vos réponses seront envoyées au développeur)",
-	  "\"Merci beaucoup, bonne journée à vous!\" NL NL \"... Alors... la prochaine série pourrait être...\""
-    ],
-    "OPTIONS": [
-	  "[Partir]",
-      "[Accepter] Répondre 4 questions. #gGagnez #g100 #gOr.",
-	  "[1] C'est absolument trop fort...",
-      "[2] C'est une carte très forte!",
-	  "[3] C'est une bonne carte dans beaucoup d'occasions.",
-	  "[4] Ça peut être utile parfois.",
-	  "[5] Quoi? Ne me montrez plus jamais cette chose.",
-	  "[Signer le papier]",
-	  "[Continuer]"
-    ]
 	},
-		
+	"Animator_TheDomVedeloper1":
+	{
+		"NAME": "Le Dom Vedeloper",
+		"DESCRIPTIONS": [
+			"Vous entendez des cris à distance: NL NL \" Rinne devrait agir plus @imprévisiblement@! \" NL \" #yGilgamesh mérite probablement un buff! \" NL \" The #bexplosion girl might be a tad too strong... \" NL NL Vous êtes légèrement intrigué par ces propos... NL Décidez-vous de vous approchez?",
+			"\"Oh salut bonjour! Ce sont des cartes #pintéressantes, puis-je les examiner un peu?\" NL NL  Sans attendre votre réponse, il a pris toutes vos cartes et les ont classées rapidement. NL NL \"Passionnant... Écoutez, mon ami, que diriez-vous de prendre une place dans notre #ySondage? Bien sûr, vous serez #yrécompensé.\"",
+			"\"Merveilleux! Merveilleux! Voilà, dites-moi, que pensez-vous de cette carte?\"",
+			"\"Bien, quant à celle-là?\"",
+			"\"Fascinant, et cette carte?\"",
+			"\"Je vois... Finalement, quelle est votre opinion sur celle copie là?\"",
+			"\"Merci ami, votre récompense telle que promis\" NL NL Vous avez reçu #b100 #yOr. NL NL \"Une dernière chose, acceptez-vous de #gsigner cette feuille?\" NL NL (Si vous acceptez, vos réponses seront envoyées au développeur)",
+			"\"Merci beaucoup, bonne journée à vous!\" NL NL \"... Alors... la prochaine série pourrait être...\""
+		],
+		"OPTIONS": [
+			"[Partir]",
+			"[Accepter] Répondre 4 questions. #gGagnez #g100 #gOr.",
+			"[1] C'est absolument trop fort...",
+			"[2] C'est une carte très forte!",
+			"[3] C'est une bonne carte dans beaucoup d'occasions.",
+			"[4] Ça peut être utile parfois.",
+			"[5] Quoi? Ne me montrez plus jamais cette chose.",
+			"[Signer le papier]",
+			"[Continuer]"
+		]
+	},
+
 	"Animator_TheHaunt":
 	{
-		"NAME": "Le Repaire Hanté",
-		"DESCRIPTIONS": 
+		"NAME": "La Hantise",
+		"DESCRIPTIONS":
 		[
 			"#yToute #ychose #yà #ycette #yplace #yparaît #yd'être #yfait #yen #yor. #yTout #yle #ypaysage #ya #ychangé... ",
 			"#yDes #ymontagnes #yen or #yscintillant #ysont #ypartout. #yUne #yrivière #yen #yor #yfondu #yles #ytraverse. #yPourquoi #yvous #yne #yl'avez #ypas #yremarqué #yplus #ytôt? NL NL ",
@@ -80,8 +84,9 @@
 			"NL NL NL NL NL NL NL #yQuelque #ychose #yrit #yà #ydistance."
 		],
 		"OPTIONS": [
-			"#y[Prendre #yde #yl'Or] #yGagnez #y", " #yOr.",
-			"#r[Partir]"," #rGagnez #r", " #rPV"
+			"#y[Prendre #yde #yl'Or] #yGagnez #y{0} #yOr.",
+			"#r[Partir] #rGagnez #r{0} #rPV",
+			"#r[Partir]"
 		]
 	},
 	"Animator_TheUnnamedMerchant":
@@ -95,12 +100,12 @@
 			"\"Bon marché... Bon marché\""
 		],
 		"OPTIONS": [
-			"[Vendre] #rPerdez un #rMédaillon #rAncien. #gGagnez #g", " #gOr.",
-			"[Acheter] #gObtenez un #gMédaillon #gAncien. #rPerdez #r", " #rOr.",
+			"[Vendre] #rPerdez un #rMédaillon #rAncien. #gGagnez #g{0} #gOr.",
+			"[Acheter] #gObtenez un #gMédaillon #gAncien. #rPerdez #r{0} #rOr.",
 			"[Marchander] #g50%: #gMeilleur #gprix. #r50%: #rPire #rprix.",
 			"[Partir]",
 			"[Bloqué] Pas de #Médaillon #yAncien à vendre.",
-			"[Bloqué] Pas assez Or."
+			"[Bloqué] Pas assez Or.",
 			"[Continuer]"
 		]
 	},
@@ -120,9 +125,10 @@
 		"OPTIONS":
 		[
 			"[Continuer]",
-			"[Accepter] #Perdez #r"," #rPV. #gObtenez un #Médaillon #yAncien",
+			"[Accepter] #Perdez #r{0} #rPV. #gObtenez un #Médaillon #yAncien",
 			"[Fuir]",
-			"[Essayer de fuir] #r50% #rde #rrisque #rde #rperdre #r", " #rPV"
+			"[Essayer de fuir] #r50% #rde #rrisque #rde #rperdre #r{0} #rPV",
+			"[Partir]"
 		]
 	}
 }

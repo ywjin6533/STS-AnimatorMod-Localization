@@ -57,13 +57,15 @@
 		  "將 # 張卡片放入你的抽牌堆"
 		]
 	},
-	"TheUnnamedReign":
+	
+	"Animator_TheUnnamedReign":
 	{
 		"TEXT":
 		[
 			"無名領域"
 		]
 	},
+	
 	"Animator_SpecialEffects":
 	{
 		"TEXT": 
