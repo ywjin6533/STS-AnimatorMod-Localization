@@ -1029,8 +1029,8 @@
 
 	"animator_Crystallize":
 	{
-		"DESCRIPTION": "Lose !SV! HP. NL Gain !M! Metallicize. NL Exhaust.",
-		"NAME": "Crystallize"
+		"DESCRIPTION": "失去 !SV! 点生命值。 NL 获得 !M! 层 金属化 。 消耗 。",
+		"NAME": "晶体化"
 	},
 	"animator_TheHaunt":
 	{
