@@ -28,9 +28,8 @@
 	},
 	"animator_Ainz":
 	{
-		"DESCRIPTION": "每回合减少一点耗能. 在你的回合开始时, 从四个 [#EFC851]特殊效果[] 中选一个.",
-		"NAME": "安兹·乌尔·恭",
-		"UPGRADE_DESCRIPTION": "每回合减少一点耗能. 在你的回合开始时, 从四个更强力的 [#EFC851]特殊效果[] 中选一个."
+		"DESCRIPTION": "每回合减少一点耗能. 在你的回合开始时, 从 !M! 个 [#EFC851]特殊效果[] 中选一个.",
+		"NAME": "安兹·乌尔·恭"
 	},
 	"animator_Aisha":
 	{
@@ -1028,17 +1027,22 @@
 		"UPGRADE_DESCRIPTION": "从你的抽牌堆中打出一张随机的 [#EFC851]技能牌[] 。"
 	},
 
+	"animator_Crystallize":
+	{
+		"DESCRIPTION": "Lose !SV! HP. NL Gain !M! Metallicize. NL Exhaust.",
+		"NAME": "Crystallize"
+	},
 	"animator_TheHaunt":
 	{
 		"DESCRIPTION": "获得 !M! [#EFC851]金币。 NL 鬼更加作祟。 NL 虚无 。 消耗 。",
 		"NAME": "鬼出没"
 	},
-
 	"animator_Hibiki":
 	{
 		"DESCRIPTION": "造成 !D! 点伤害 !M! 次 。 每次使用后 ， 这张牌的攻击次数加1。",
 		"NAME": "响"
 	},
+	
 	"animator_MumenRider":
 	{
 		"DESCRIPTION": "造成 !D! 点 伤害。 NL 消耗 。 这张牌会在随机回合后回到你的手里 。",

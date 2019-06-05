@@ -28,9 +28,8 @@
 	},
 	"animator_Ainz":
 	{
-		"DESCRIPTION": "Coûte 1 en moins chaque tour. Au début de chaque tour, choisissez 1 des 4  [#EFC851]Effets aléatoires.",
-		"NAME": "Ainz Ooal Gown",
-		"UPGRADE_DESCRIPTION": "Coûte 1 en moins chaque tour. Au début de chaque tour, choisissez 1 des 4  [#EFC851]Effets [#EFC851]Améliorés aléatoires."
+		"DESCRIPTION": "Coûte 1 en moins chaque tour. Au début de chaque tour, choisissez 1 des !M! [#EFC851]Effets aléatoires.",
+		"NAME": "Ainz Ooal Gown"
 	},
 	"animator_Aisha":
 	{
@@ -1026,17 +1025,23 @@
 		"NAME": "Zero",
 		"UPGRADE_DESCRIPTION": "Joue une [#EFC851]Compétence aléatoire de votre pioche."
 	},
+	
+	"animator_Crystallize":
+	{
+		"DESCRIPTION": "Lose !SV! HP. NL Gain !M! Metallicize. NL Exhaust.",
+		"NAME": "Crystallize"
+	},
 	"animator_TheHaunt":
 	{
 		"DESCRIPTION": "Gagnez !M! [#EFC851]Or. NL Devient encore plus hantée. NL Éthérée. Épuisement.",
 		"NAME": "La Hantise"
 	},
-
 	"animator_Hibiki":
 	{
 		"DESCRIPTION": "Infligez !D! dégâts !M! fois. Augmentez le nombre d'attaques de cette carte par 1 ce combat.",
 		"NAME": "Hibiki"
 	},
+	
 	"animator_MumenRider":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Épuisement. Cette carte retourne dans votre main dans un nombre aléatoire de tours.",

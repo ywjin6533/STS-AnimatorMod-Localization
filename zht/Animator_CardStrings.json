@@ -31,9 +31,8 @@
 	},
 	"animator_Ainz":
 	{
-		"DESCRIPTION": "每回合減少 1 點耗能。在你的回合開始時， 從四個 [#EFC851]特殊效果[] 中選擇一個。",
-		"NAME": "安茲·烏爾·恭",
-		"UPGRADE_DESCRIPTION": "每回合減少 1 點耗能。在你的回合開始時， 從四個強化的 [#EFC851]特殊效果[] 中選擇一個。"
+		"DESCRIPTION": "每回合減少 1 點耗能。在你的回合開始時， 從 !M! 個 [#EFC851]特殊效果[] 中選擇一個。",
+		"NAME": "安茲·烏爾·恭"
 	},
 	"animator_Aisha":
 	{
@@ -1143,6 +1142,12 @@
 		"NAME": "零",
 		"UPGRADE_DESCRIPTION": "從你的抽牌堆中打出一張隨機的 [#EFC851]技能牌[] 。 "
 	},
+	
+	"animator_Crystallize":
+	{
+		"DESCRIPTION": "Lose !SV! Max HP. NL Gain !M! Metallicize. NL Exhaust.",
+		"NAME": "Crystallize"
+	},
 	"animator_TheHaunt":
 	{
 		"DESCRIPTION": "獲得 !M! [#EFC851]金幣。 NL 鬼更加作祟。 NL 虛無 。 消耗 。",
@@ -1153,6 +1158,7 @@
 		"DESCRIPTION": "造成 !D! 點傷害 !M! 次 。 每次使用後 ， 這張牌的攻擊次數加1。",
 		"NAME": "響"
 	},
+	
 	"animator_Genos":
 	{
 		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 給予 !M! 層 燃燒 。 NL 同調 : 此輪 ， 保存你的剩餘能量 。",
