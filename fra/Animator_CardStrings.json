@@ -23,7 +23,7 @@
     },
     "animator_Ainz": {
         "DESCRIPTION": "Coûte 1 en moins chaque tour. Au début de chaque tour, choisissez 1 des !M! [#EFC851]Effets aléatoires.",
-        "NAME": "Ainz Ooal Gown",
+        "NAME": "Ainz Ooal Gown"
     },
     "animator_Aisha": {
         "DESCRIPTION": "Jeteuse_de_Sorts. NL Infligez !D! dégât(s) pour chaque Orbe que vous avez. Boost !SV! : Gagnez 1 emplacement d'Orbe.",
