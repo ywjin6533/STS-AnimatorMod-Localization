@@ -21,9 +21,9 @@
 		"DESCRIPTIONS": [
 			"\"It's you! Are you on your way to defeat the @Heart@ of the Spire?\" NL NL \"Why don't you help me with another menace instead? You see, The Unnamed has returned, but don't you worry! It's nothing you can't defeat!\"",
 			"\"Well, there is a small detail... To fight the Unnamed you will have to renounce to ALL your relics and Potions, as well as card upgrades...\" NL NL \"But most importantly, you will be able to choose one of these special relics!\"",
-			"\"Perfect! just go ahead and you shall find him, I'm counting on you!\" NL NL \"Oh wait! I almost forgot, you will find a lot of these in there. Here, have one.\" NL NL [ #yPLEASE #yNOTICE: This act will include custom music and will be more polished in a future update. ]"
+			"\"Perfect! just go ahead and you shall find him, I'm counting on you!\" NL NL \"Oh wait! I almost forgot, you will find a lot of these in there. Here, have one.\" NL NL [ #yPLEASE #yNOTICE: This act has been released earlier than intended since it's already fully playable. It will include custom music and will be more polished in a future update. ]"
 		],
-		"OPTIONS": 
+		"OPTIONS":
 		[
 			"[Leave]",
 			"[Inquire]",
@@ -45,7 +45,7 @@
 			"[Locked] Not enough Gold."
 		]
 	},
-	
+
 	"Animator_TheDomVedeloper1":
 	{
 		"NAME": "The Dom Vedeloper",
@@ -71,11 +71,11 @@
 			"[Continue]"
 		]
 	},
-	
+
 	"Animator_TheHaunt":
 	{
 		"NAME": "The Haunt",
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
 			"#yEverything #yin #ythis #yplace #yseems #yto #ybe #ymade #yof #ygold. #yIt #yseems #ythe #ywhole #ylandscape #yhas #ychanged... ",
 			"#yMountains #yof #yglimmering #yGold #yeverywhere. #yA #yriver #yof #ymolten #ygold #ycourses #ythrough #yit. #yWhy #ydid #yyou #ynot #ynotice #yit #yearlier? NL NL ",

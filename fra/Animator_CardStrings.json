@@ -1,3 +1,4 @@
+
 {
     "animator_AcuraAkari": {
         "DESCRIPTION": "Défaussez 1 carte. NL Ajoutez !SV! Couteaux_de_Jet à votre main. NL Gagnez !M! d'Envenimer jusqu'à la fin du tour.",
@@ -903,60 +904,73 @@
 		"DESCRIPTION": "Infligez !D! dégât(s) perçant(s). Augmentez les dégâts de cette carte par !M! ce combat, NL cet effect est affecté par la Force.",
 		"NAME": "Saitama"
 	},
-    "animator_SeriousSaitama": {
-        "DESCRIPTION": "Assomez TOUS les ennemies. NL Un ennemie aléatoire fuira (dans un combat à ennemis multiples). Épuisement.",
-        "NAME": "Saitama Sérieux",
-        "UPGRADE_DESCRIPTION": "Innée. Assomez TOUS les ennemies. NL Un ennemie aléatoire fuira (dans un combat à ennemis multiples). Épuisement."
-    },
-    "animator_Azriel": {
-        "DESCRIPTION": "Gagne 2 Vol. NL Quand vous infligez un debuff à un ennemi, gagnez !M! Force. Éthérée.",
-        "NAME": "Azriel",
-        "UPGRADE_DESCRIPTION": "Gagne 2 Vol. NL Quand vous infligez un debuff à un ennemi, gagnez !M! Force."
-    },
-    "animator_Giselle": {
-        "DESCRIPTION": "Ingligez !D! dégat(s). NL Infligez !M! Brûlure. NL Dégats triplé sur les ennemis qui ont moins de !SV! HP.",
-        "NAME": "Giselle"
-    },
-    "animator_HiiragiTenri": {
-        "DESCRIPTION": "Gagnez !M! Temp._HP. NL Jouez et Épuisez NL TOUTES les cartes de votre Défausse. Épuisement.",
-        "NAME": "Tenri Hiiragi",
-        "UPGRADE_DESCRIPTION": "Gagnez !M! Temp._HP. NL Jouez et Épuisez NL TOUTES les cartes de votre Défausse."
-    },
-    "animator_SirTouchMe": {
-        "DESCRIPTION": "Ingligez !D! dégat(s). NL Gagnez !M! Juggernaut. NL Gagnez !B! d'Armure. NL Gagnez !SV! d'Armure_Plaquée.",
-        "NAME": "Sir Touch Me"
-    },
-    "animator_ShikizakiKiki": {
-        "DESCRIPTION": "Piochez !M! carte(s). NL Améliorez toutes les cartes de votre main et doublez leurs dégâts pour le restant du combat.",
-        "NAME": "Shikizaki Kiki"
-    },
-    "animator_Chomusuke": {
-        "DESCRIPTION": "Conservez. Gagnez [E] et piochez !M! carte(s) pour chaque carte Épuisé ce tour( !SV! ). Ne peut être utilisé qu'une fois par tour.",
-        "NAME": "Chomusuke"
-    },
-    "animator_JeanneDArc": {
-        "DESCRIPTION": "Infligez !D! dégat(s). NL Gagnez !M! Temp._HP. NL Gagnez !M! d'Armure_Enchantée. NL Épuisez une Malédiction ou Status aléatoire.",
-        "NAME": "Jeanne D'Arc"
-    },
-    "animator_Hero": {
-        "DESCRIPTION": "Infligez !D! dégat(s). NL Piochez !M! carte(s). NL Tant que présent dans votre deck, augmente les chances [#EFC851]Reliques [#EFC851]Bonus.",
-        "NAME": "'Hero'"
-    },
-    "animator_Truth": {
-        "DESCRIPTION": "Gagnez 1 Concentration. NL Gagnez 2 Energie. NL Piochez 3 cartes. NL Gagnez 4 Force. NL [#EFC851]Vérité[].",
-        "NAME": "Vérité",
-        "EXTENDED_DESCRIPTION": ["Vérité", " Si vous avez au moins 3 Orbes uniques, supprimez toutes vos Orbes. Sinon, remplacez de manière permanente une carte au choix de votre deck par une #yPlaie."]
-    },
-    "animator_Rose": {
-        "DESCRIPTION": "Piochez !M! carte(s). NL Rechargement: Infligez !D! dégats Perçant. Si ca tue un ennemi, infligez !SV! dégats à TOUS les ennemis.",
-        "NAME": "Rose"
-    },
-    "animator_Veldora": {
-        "DESCRIPTION": "Gagnez !SV! Concentration. NL Active TOUTES les orbes, !M! fois. [#EFC851]Pioché: Canalisez 2 orbes aléatoires.",
-        "NAME": "Veldora"
-    },
-    "animator_NivaLada": {
-        "DESCRIPTION": "Cooldown !SV! : NL Infligez 300 dégats. NL Quand vous Épuisez ou Défaussez une carte, réduit le Cooldown de 1.",
-        "NAME": "Niva Lada"
-    }
+	"animator_SeriousSaitama":
+	{
+		"DESCRIPTION": "Assomez TOUS les ennemies. NL Un ennemie aléatoire fuira (dans un combat à ennemis multiples). Épuisement.",
+		"NAME": "Saitama Sérieux",
+		"UPGRADE_DESCRIPTION": "Innée. Assomez TOUS les ennemies. NL Un ennemie aléatoire fuira (dans un combat à ennemis multiples). Épuisement."
+	},
+	"animator_Azriel":
+	{
+		"DESCRIPTION": "Gagne 2 Vol. NL Quand vous infligez un debuff à un ennemi, gagnez !M! Force. Éthérée.",
+		"NAME": "Azriel",
+		"UPGRADE_DESCRIPTION": "Gagne 2 Vol. NL Quand vous infligez un debuff à un ennemi, gagnez !M! Force."
+	},
+	"animator_Giselle":
+	{
+		"DESCRIPTION": "Ingligez !D! dégat(s). NL Infligez !M! Brûlure. NL Dégats triplé sur les ennemis qui ont moins de !SV! HP.",
+		"NAME": "Giselle"
+	},
+	"animator_HiiragiTenri":
+	{
+		"DESCRIPTION": "Gagnez !M! Temp._HP. NL Jouez et Épuisez NL TOUTES les cartes de votre Défausse. Épuisement.",
+		"NAME": "Tenri Hiiragi",
+		"UPGRADE_DESCRIPTION": "Gagnez !M! Temp._HP. NL Jouez et Épuisez NL TOUTES les cartes de votre Défausse."
+	},
+	"animator_SirTouchMe":
+	{
+		"DESCRIPTION": "Ingligez !D! dégat(s). NL Gagnez !M! Juggernaut. NL Gagnez !B! d'Armure. NL Gagnez !SV! d'Armure_Plaquée.",
+		"NAME": "Sir Touch Me"
+	},
+	"animator_ShikizakiKiki":
+	{
+		"DESCRIPTION": "Piochez !M! carte(s). NL Améliorez toutes les cartes de votre main et doublez leurs dégâts pour le restant du combat.",
+		"NAME": "Shikizaki Kiki"
+	},
+	"animator_Chomusuke":
+	{
+		"DESCRIPTION": "Conservez. Gagnez [E] et piochez !M! carte(s) pour chaque carte Épuisé ce tour( !SV! ). Ne peut être utilisé qu'une fois par tour.",
+		"NAME": "Chomusuke"
+	},
+	"animator_JeanneDArc":
+	{
+		"DESCRIPTION": "Infligez !D! dégat(s). NL Gagnez !M! Temp._HP. NL Gagnez !M! d'Armure_Enchantée. NL Épuisez une Malédiction ou Status aléatoire.",
+		"NAME": "Jeanne D'Arc"
+	},
+	"animator_Hero":
+	{
+		"DESCRIPTION": "Infligez !D! dégat(s). NL Piochez !M! carte(s). NL Tant que présent dans votre deck, augmente les chances [#EFC851]Reliques [#EFC851]Bonus.",
+		"NAME": "'Hero'"
+	},
+	"animator_Truth":
+	{
+		"DESCRIPTION": "Gagnez 1 Concentration. NL Gagnez 2 Energie. NL Piochez 3 cartes. NL Gagnez 4 Force. NL [#EFC851]Vérité[].",
+		"NAME": "Vérité",
+		"EXTENDED_DESCRIPTION": ["Vérité", " Si vous avez au moins 3 Orbes uniques, supprimez toutes vos Orbes. Sinon, remplacez de manière permanente une carte au choix de votre deck par une #yPlaie."]
+	},
+	"animator_Rose":
+	{
+		"DESCRIPTION": "Piochez !M! carte(s). NL Rechargement: Infligez !D! dégats Perçant. Si ca tue un ennemi, infligez !SV! dégats à TOUS les ennemis.",
+		"NAME": "Rose"
+	},
+	"animator_Veldora":
+	{
+		"DESCRIPTION": "Gagnez !SV! Concentration. NL Active TOUTES les orbes, !M! fois. [#EFC851]Pioché: Canalisez 2 orbes aléatoires.",
+		"NAME": "Veldora"
+	},
+	"animator_NivaLada":
+	{
+		"DESCRIPTION": "Cooldown !SV! : NL Infligez 300 dégats. NL Quand vous Épuisez ou Défaussez une carte, réduit le Cooldown de 1.",
+		"NAME": "Niva Lada"
+	}
 }
