@@ -161,7 +161,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"Lorsqu'une carte est jouée, gagnez #b", " de #yForce. NL NL After #b", " turn(s), summons a copy of itself."
+			"Lorsqu'une carte est jouée, gagnez #b", " de #yForce. NL NL Après #b", " tour(s), invoque une copie de soi-même."
 		],
 		"NAME": "Crystal Ultime"
 	},

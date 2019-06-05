@@ -219,7 +219,7 @@
 	"animator_UltimateCrystalPower":
 	{
 		"DESCRIPTIONS": [
-			"擊出卡牌時, 獲得#b", " 層#y力量。 NL NL After #b", " turn(s), summons a copy of itself."
+			"擊出卡牌時, 獲得#b", " 層#y力量。 NL NL #b", " 回合後, 召喚一個自己的鏡像。"
 		],
 		"NAME": "終極之晶"
 	},
