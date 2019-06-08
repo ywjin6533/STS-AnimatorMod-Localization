@@ -323,7 +323,7 @@
 	},
 	"animator_Envy":
 	{
-		"DESCRIPTION": "穿越者 。 治愈 !M! ％ 的健康損失 。 NL 每回合打出的第一张牌都会触发自身的 同调 效果 。",
+		"DESCRIPTION": "穿越者 。 治愈失去生命值的 !M! ％  。 NL 每回合打出的第一张牌都会触发自身的 同调 效果 。",
 		"NAME": "嫉妒"
 	},
 	"animator_Eris":

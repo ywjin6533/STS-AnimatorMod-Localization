@@ -350,7 +350,7 @@
 	},
 	"animator_Envy":
 	{
-		"DESCRIPTION": "變形者 。 治愈 !M! ％ 的健康损失 。 NL 每回合打出的第一張牌出觸發自己的 同調 效果 。",
+		"DESCRIPTION": "變形者 。 治愈失去生命值的 !M! ％ 。 NL 每回合打出的第一張牌出觸發自己的 同調 效果 。",
 		"NAME": "恩維"
 	},
 	"animator_Eris":
