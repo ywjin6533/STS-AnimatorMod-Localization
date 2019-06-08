@@ -193,10 +193,7 @@
 	},
 	"animator_UnnamedDollPower":
 	{
-		"DESCRIPTIONS": [
-			"死亡時，所有角色獲得 #b",
-			" #y力量 "
-		],
+		"DESCRIPTIONS": [ "擊出卡牌時, 獲得#b", " 點 #y臨時生命。 NL NL 死亡時，所有角色獲得 #b", " #y力量 " ],
 		"NAME": "無名傀儡"
 	},
 	"animator_CursedStabsPower":
@@ -219,7 +216,7 @@
 	"animator_UltimateCrystalPower":
 	{
 		"DESCRIPTIONS": [
-			"擊出卡牌時, 獲得#b", " 層#y力量。 NL NL #b", " 回合後, 召喚一個自己的鏡像。"
+			"擊出卡牌時, 獲得#b", " 層 #y力量。 NL NL #b", " 回合後, 召喚一個自己的鏡像。"
 		],
 		"NAME": "終極之晶"
 	},

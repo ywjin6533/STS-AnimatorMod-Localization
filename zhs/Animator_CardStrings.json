@@ -70,7 +70,7 @@
 	},
 	"animator_Asuramaru":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害 。 获得 !B! 点 格挡 。 获得 !M! 层 力量 ， 敏捷 ， 集中 。 消耗 。",
+		"DESCRIPTION": "造成 !D! 点伤害 。 获得 !B! 点 格挡 。 获得 !M! 层 力量 ， 敏捷 。 消耗 。",
 		"NAME": "阿朱罗丸"
 	},
 	"animator_Azekura":
@@ -116,7 +116,7 @@
 	},
 	"animator_ChaikaTrabant":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。 下一回合 ， 造成 !D! 点 伤害 和 给予目标 !M! 个随机的 [#EFC851]负面效果[] 。",
+		"DESCRIPTION": "下一回合 ， 造成 !D! 点 伤害 和 给予目标 !M! 个随机的 [#EFC851]负面效果[] 。 撤回 : 对所有敌人造成 !M! 点 伤害 。",
 		"NAME": "嘉依卡·托勒庞特"
 	},
 	"animator_ChlammyZell":
@@ -323,7 +323,7 @@
 	},
 	"animator_Envy":
 	{
-		"DESCRIPTION": "穿越者 。 为每 !M! 点失去的生命值，回复 1 点生命值 。 NL 每回合打出的第一张牌都会触发自身的 同调 效果 。",
+		"DESCRIPTION": "穿越者 。 治愈 !M! ％ 的健康損失 。 NL 每回合打出的第一张牌都会触发自身的 同调 效果 。",
 		"NAME": "嫉妒"
 	},
 	"animator_Eris":
@@ -1113,9 +1113,8 @@
 	},
 	"animator_SeriousSaitama":
 	{
-		"DESCRIPTION": "眩晕 所有敌人 。 当与多个敌人战斗时，一个随即敌人将会逃跑。 消耗 。",
-		"NAME": "认真的埼玉",
-		"UPGRADE_DESCRIPTION": "固有 。 眩晕 所有敌人 。 当与多个敌人战斗时，一个随即敌人将会逃跑 。 消耗 。"
+		"DESCRIPTION": "眩晕 所有敌人 。 获得 !M! 点 力量 。 消耗 。",
+		"NAME": "认真的埼玉"
 	},
 
 	"animator_Azriel":

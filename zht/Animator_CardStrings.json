@@ -73,7 +73,7 @@
 	},
 	"animator_Asuramaru":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 獲得 !B! 點 格擋 。 獲得 !M! 層 力量 、 敏捷 、 集中 。 消耗 。",
+		"DESCRIPTION": "造成 !D! 點傷害 。 獲得 !B! 點 格擋 。 獲得 !M! 層 力量 、 敏捷 。 消耗 。",
 		"NAME": "阿修羅丸"
 	},
 	"animator_Azekura":
@@ -122,7 +122,7 @@
 	},
 	"animator_ChaikaTrabant":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 下一輪 ， 造成 !D! 點 傷害 並 給予目標 !M! 個隨機的 [#EFC851]負面效果[] 。",
+		"DESCRIPTION": "下一輪 ， 造成 !D! 點 傷害 並 給予目標 !M! 個隨機的 [#EFC851]負面效果[] 。 撤回 : 對所有敵人造成 !SV! 點 傷害 。",
 		"NAME": "嘉依卡·托勒龐特"
 	},
 	"animator_ChlammyZell":
@@ -350,7 +350,7 @@
 	},
 	"animator_Envy":
 	{
-		"DESCRIPTION": "變形者 。 為每 !M! 點失去的生命值，回复 1 點生命值 。 NL 每回合打出的第一張牌出觸發自己的 同調 效果 。 持續 4 輪 。",
+		"DESCRIPTION": "變形者 。 治愈 !M! ％ 的健康损失 。 NL 每回合打出的第一張牌出觸發自己的 同調 效果 。",
 		"NAME": "恩維"
 	},
 	"animator_Eris":
@@ -1220,9 +1220,8 @@
 	},
 	"animator_SeriousSaitama":
 	{
-		"DESCRIPTION": "眩暈 所有敵人 。 一名隨機敵人將逃離戰鬥（複數敵人戰鬥） 。 消耗 。",
-		"NAME": "認真的埼玉",
-		"UPGRADE_DESCRIPTION": "固有 。 眩暈 所有敵人 。 一名隨機敵人將逃離戰鬥（複數敵人戰鬥） 。 消耗 。"
+		"DESCRIPTION": "眩暈 所有敵人 。 獲得 !B! 點 力量 。 消耗 。",
+		"NAME": "認真的埼玉"
 	},
 	"animator_Azriel":
 	{
