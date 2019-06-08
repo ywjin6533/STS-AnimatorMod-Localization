@@ -122,7 +122,7 @@
 	},
 	"animator_UnnamedDollPower":
 	{
-		"DESCRIPTIONS": ["击出卡牌时, 获得 #b", " 点 #y临时生命 。 NL NL 死亡时，所有角色获得 #b", " #y力量 "],
+		"DESCRIPTIONS": ["击出卡牌时, 获得 #b", " 点 #y生命上限 。 NL NL 死亡时，所有角色获得 #b", " #y力量 "],
 		"NAME": "无名傀儡"
 	},
 	"animator_CursedStabsPower":
