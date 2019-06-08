@@ -474,7 +474,7 @@
 	},
 	"animator_Guy":
 	{
-		"DESCRIPTION": "抽 !M! 張牌 。 NL 丟棄 !M! 張牌 。 NL 如果你丟棄了 攻擊 牌，獲得 !SV! 點 護甲。",
+		"DESCRIPTION": "抽 !M! 張牌 。 NL 丟棄 !M! 張牌 。 NL 如果你丟棄了 攻擊 牌，獲得 !B! 點 護甲。",
 		"NAME": "奇伊"
 	},
 	"animator_Hakurou":
