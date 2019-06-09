@@ -28,7 +28,7 @@
 			"[Partir]",
 			"[Se renseigner]",
 			"[Accepter] #gObtenez #gune #gRelique",
-			"[Accepter] #gRetirez #b{0} #gcartes, #gObtenez #b{1} #gcartes #gAméliorées #galéatoires."
+			"[Accepter] #gRetirez #g{0} #gcartes, #gObtenez #g{1} #gcartes #gAméliorées #galéatoires."
 		]
 	},
 	"Animator_TheMaskedTraveler3":
@@ -86,7 +86,7 @@
 		],
 		"OPTIONS": [
 			"#y[Prendre #yde #yl'Or] #yGagnez #y{0} #yOr.",
-			"#r[Partir] #rGagnez #r{0} #rPV",
+			"#r[Partir] #gGagnez #g{0} #gPV",
 			"#r[Partir]"
 		]
 	},

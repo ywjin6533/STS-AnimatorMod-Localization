@@ -1012,9 +1012,8 @@
 	"animator_Yuuichirou":
 	{
 		"DESCRIPTION": "Deal !D! damage. NL Gain !M! Temporary Dexterity. Legacy: Obtain [#EFC851]Asuramaru.",
-		"EXTENDED_DESCRIPTION": ["Asuramaru", "A special 2-Cost #yAttack."],
-		"NAME": "Yuuichirou",
-		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Gain !M! Temporary Dexterity. Legacy: Obtain [#EFC851]Asuramaru+."
+		"EXTENDED_DESCRIPTION": ["Asuramaru", "A special 1-Cost #yAttack."],
+		"NAME": "Yuuichirou"
 	},
 	"animator_ZankiKiguchi":
 	{

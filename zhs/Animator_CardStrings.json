@@ -1012,8 +1012,7 @@
 	{
 		"DESCRIPTION": "造成 !D! 点 伤害 。 NL 获得 !M! 点 临时 敏捷 。 NL 遗赠 : 将一张 [#EFC851]阿修罗丸[] 放到你的弃牌堆 。",
 		"EXTENDED_DESCRIPTION": ["阿修罗丸", "特殊的1耗#y攻击牌 。"],
-		"NAME": "百夜优一郎",
-		"UPGRADE_DESCRIPTION": "造成!D!点伤害 。 NL 获得 !M! 点 临时 敏捷 。 NL 遗赠 : 将一张 [#EFC851]阿修罗丸+[] 放到你的弃牌堆 。"
+		"NAME": "百夜优一郎"
 	},
 	"animator_ZankiKiguchi":
 	{

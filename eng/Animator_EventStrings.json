@@ -28,7 +28,7 @@
 			"[Leave]",
 			"[Inquire]",
 			"[Accept] #gObtain #gRelic",
-			"[Accept] #gRemove #b{0} #gcards, #gobtain #b{1} #grandom #gUpgraded #gcards."
+			"[Accept] #gRemove #g{0} #gcards, #gobtain #g{1} #grandom #gUpgraded #gcards."
 		]
 	},
 	"Animator_TheMaskedTraveler3":
@@ -87,7 +87,7 @@
 		],
 		"OPTIONS": [
 			"#y[Take #ythe #yGold] #yGain #y{0} #yGold.",
-			"#r[Leave] #rHeal #r{0} #rHP",
+			"#r[Leave] #gHeal #g{0} #gHP",
 			"#r[Leave]"
 		]
 	},
