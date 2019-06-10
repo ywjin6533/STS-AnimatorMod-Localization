@@ -139,6 +139,14 @@
 			"Whenever it deals unblocked damage, add 1 #yPain and 1 #yWound to your draw pile."
 		]
 	},
+	"animator_TheUnnamedHatPower":
+	{
+		"NAME": "H4T",
+		"DESCRIPTIONS":
+		[
+			"At the start of each turn, heal #b", " HP for each other ally. NL NL On death, apply #yEntangle to the opponent."
+		]
+	},
 	"animator_TheUnnamedCultistPower":
 	{
 		"NAME": "Unnamed Cultist",
