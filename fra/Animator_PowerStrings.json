@@ -140,6 +140,14 @@
 		],
 		"NAME": "Poignards Maudits"
 	},
+	"animator_TheUnnamedHatPower":
+	{
+		"NAME": "H4T",
+		"DESCRIPTIONS":
+		[
+			"À le début de chaque tour, TOUS les alliés reçoivent #b", " PV. NL NL À la mort, appliquez #yEnchevêtré a l'ennemi."
+		]
+	},
 	"animator_TheUnnamedCultistPower":
 	{
 		"NAME": "Unnamed Cultist",

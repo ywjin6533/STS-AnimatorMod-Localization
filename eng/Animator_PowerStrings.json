@@ -144,7 +144,7 @@
 		"NAME": "H4T",
 		"DESCRIPTIONS":
 		[
-			"At the start of each turn, heal #b", " HP for each other ally. NL NL On death, apply #yEntangle to the opponent."
+			"At the start of each turn, all allies heal #b", " HP. NL NL On death, apply #yEntangle to the opponent."
 		]
 	},
 	"animator_TheUnnamedCultistPower":

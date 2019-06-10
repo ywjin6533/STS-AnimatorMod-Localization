@@ -323,10 +323,7 @@
 		"NAME": "H4T",
 		"DIALOG": 
 		[
-			"Intruder",
-			"Attack",
-			"Defend",
-			"Confuse"
+			"Intruder!"
 		]
 	},
 
