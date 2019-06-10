@@ -1111,8 +1111,9 @@
 	},
 	"animator_SeriousSaitama":
 	{
-		"DESCRIPTION": "Assomez TOUS les ennemis. Gagnez !M! de Force. Épuisement.",
-		"NAME": "Saitama Sérieux"
+		"DESCRIPTION": "Assomez TOUS les ennemis. Gagnez X de Force. Purge.",
+		"NAME": "Saitama Sérieux",
+		"UPGRADE_DESCRIPTION": "Assomez TOUS les ennemis. Gagnez X+1 de Force. Purge."
 	},
 	"animator_Azriel":
 	{

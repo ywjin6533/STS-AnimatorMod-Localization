@@ -1219,8 +1219,9 @@
 	},
 	"animator_SeriousSaitama":
 	{
-		"DESCRIPTION": "眩暈 所有敵人 。 獲得 !B! 點 力量 。 消耗 。",
-		"NAME": "認真的埼玉"
+		"DESCRIPTION": "眩暈 所有敵人 。 獲得 X 點 力量 。 抹除 。",
+		"NAME": "認真的埼玉",
+		"UPGRADE_DESCRIPTION": "眩暈 所有敵人 。 獲得 X+1 點 力量 。 抹除 。"
 	},
 	"animator_Azriel":
 	{

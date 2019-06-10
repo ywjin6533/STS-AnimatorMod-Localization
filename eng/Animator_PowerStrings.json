@@ -400,5 +400,10 @@
 	{
 		"DESCRIPTIONS": ["Reveal the top card of your draw pile, NL you may #pLeft-Click to draw it ( #b", " use/s ), or #pRight-Click to discard it ( #b", " use/s)."],
 		"NAME": "Yuko Shionji"
+	},
+	"animator_NextTurnDexterityPower":
+	{
+		"DESCRIPTIONS": ["Next turn, gain #b", " Temporary #yDexterity."],
+		"NAME": "Next Turn Dexterity"
 	}
 }

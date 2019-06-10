@@ -400,5 +400,10 @@
 	{
 		"DESCRIPTIONS": ["Révèle la carte au dessus de votre deck, NL #pClic-Gauche pour la piocher ( #b", " utilisations ), ou #pClic-Droit pour la défaussé ( #b", " utilisations)."],
 		"NAME": "Yuko Shionji"
+	},
+	"animator_NextTurnDexterityPower":
+	{
+		"DESCRIPTIONS": ["Au prochain tour, gagnez #b", " #yDextérité temporaire."],
+		"NAME": "Dextérité au prochain tour"
 	}
 }

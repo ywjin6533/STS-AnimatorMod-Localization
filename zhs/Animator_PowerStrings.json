@@ -392,5 +392,10 @@
 	{
 		"DESCRIPTIONS": ["查看抽牌堆顶部的牌, NL 鼠标 #p左击 将其拿进手牌 ( #b", " 次 ), 或 #p右击 将其丢弃 ( #b", " 次)."],
 		"NAME": "紫苑寺有子"
+	},
+	"animator_NextTurnDexterityPower":
+	{
+		"DESCRIPTIONS": ["下一回合 ， 获得 #b", " 层 临时 #y敏捷 。"],
+		"NAME": "下一回合 敏捷"
 	}
 }

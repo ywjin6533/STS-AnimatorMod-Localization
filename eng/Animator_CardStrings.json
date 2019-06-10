@@ -609,7 +609,7 @@
 	},
 	"animator_Mitsurugi":
 	{
-		"DESCRIPTION": "Deal !D! damage, can only be used if the enemy intends to attack. Legacy: Gain !M! Strength.",
+		"DESCRIPTION": "Deal !D! damage. Can only be used if the enemy intends to attack. Legacy: NL Gain !M! Strength.",
 		"EXTENDED_DESCRIPTION": ["The enemy does not intend to attack."],
 		"NAME": "Mitsurugi"
 	},
@@ -1113,8 +1113,9 @@
 	},
 	"animator_SeriousSaitama":
 	{
-		"DESCRIPTION": "Stun ALL enemies. NL Gain !M! Strength. NL Exhaust.",
-		"NAME": "Serious Saitama"
+		"DESCRIPTION": "Stun ALL enemies. NL Gain X Strength. NL Purge.",
+		"NAME": "Serious Saitama",
+		"UPGRADE_DESCRIPTION": "Stun ALL enemies. NL Gain X+1 Strength. NL Purge."
 	},
 	
 	"animator_Azriel":
