@@ -345,7 +345,7 @@
 	},
 	"animator_Excalibur":
 	{
-		"DESCRIPTION": "Conservez. Épuise TOUTES les [#EFC851]Attaques de votre main et Gagnez leurs dégât(s). Infligez !D! dégât(s) à TOUS les ennemis.",
+		"DESCRIPTION": "Conservez. Épuise TOUTES les autres [#EFC851]Attaques de votre main et Gagnez leurs dégât(s). Infligez !D! dégât(s) à TOUS les ennemis.",
 		"NAME": "Excalibur"
 	},
 	"animator_FeridBathory":
@@ -1101,7 +1101,7 @@
 	},
 	"animator_Boros":
 	{
-		"DESCRIPTION": "Gagnez !M! de Force, de Dextérité et de Concentration. NL TOUS les [#EFC851]Pouvoirs[] seront NL joués deux fois.",
+		"DESCRIPTION": "Gagnez !M! de Force. NL Gagnez !SV! de Temp._PV. NL TOUS les [#EFC851]Pouvoirs[] seront NL joués deux fois.",
 		"NAME": "Boros"
 	},
 	"animator_Saitama":
@@ -1129,8 +1129,7 @@
 	"animator_HiiragiTenri":
 	{
 		"DESCRIPTION": "Gagnez !M! Temp._HP. NL Jouez et Épuisez NL TOUTES les cartes de votre Défausse. Épuisement.",
-		"NAME": "Tenri Hiiragi",
-		"UPGRADE_DESCRIPTION": "Gagnez !M! Temp._HP. NL Jouez et Épuisez NL TOUTES les cartes de votre Défausse."
+		"NAME": "Tenri Hiiragi"
 	},
 	"animator_SirTouchMe":
 	{
@@ -1170,7 +1169,7 @@
 	},
 	"animator_Veldora":
 	{
-		"DESCRIPTION": "Gagnez !SV! Concentration. NL Active TOUTES les orbes, !M! fois. [#EFC851]Pioché: Canalisez 2 orbes aléatoires.",
+		"DESCRIPTION": "Gagnez !SV! Concentration. NL Active TOUTES les orbes, !M! fois. [#EFC851]Pioché:[] Canalisez 2 orbes aléatoires.",
 		"NAME": "Veldora"
 	},
 	"animator_NivaLada":

@@ -1214,7 +1214,7 @@
 	},
 	"animator_Boros":
 	{
-		"DESCRIPTION": "獲得 !M! 點 力量 ， 敏捷 和 集中 。 NL 所有 [#EFC851]能力[] 將會被 NL 打出兩次。",
+		"DESCRIPTION": "獲得 !M! 點 力量 。 獲得 !SV! 點 臨時生命 。 所有 [#EFC851]能力[] 將會被 NL 打出兩次 。",
 		"NAME": "波羅斯"
 	},
 	"animator_SeriousSaitama":
@@ -1237,8 +1237,7 @@
 	"animator_HiiragiTenri":
 	{
 		"DESCRIPTION": "獲得 !M! 點 臨時生命 。 NL 打出並 消耗 棄牌堆中所有牌 。 消耗 。",
-		"NAME": "柊天利",
-		"UPGRADE_DESCRIPTION": "獲得 !M! 點 臨時生命 。 NL 打出並 消耗 棄牌堆中所有牌 。"
+		"NAME": "柊天利"
 	},
 	"animator_SirTouchMe":
 	{

@@ -7,7 +7,7 @@
 	},
 	"animator_ArcherPower":
 	{
-		"DESCRIPTIONS": ["A la fin de votre tour, inflige #b", " dégat(s) à tous les ennemis avec un Debuff."],
+		"DESCRIPTIONS": ["A la fin de votre tour, inflige #b", " dégat(s) à tous les ennemis pour chaque Debuff qu'ils ont."],
 		"NAME": "Archer"
 	},
 	"animator_AzrielPower":
