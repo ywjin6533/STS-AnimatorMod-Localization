@@ -127,7 +127,7 @@
 	{
 		"DESCRIPTIONS":
 		[
-			"Lorsqu'une carte est jouée, gagnez #b", " de #yMax #yPV. NL NL À la mort, TOUS les autres personnages reçoivent #b", " de #yForce."
+			"Lorsqu'une carte qui ne cible pas seulement ce personnage est jouée, gagnez #b", " de #yMax #yPV. NL NL À la mort, TOUS les autres personnages reçoivent #b", " de #yForce."
 		],
 		"NAME": "Poupée Sans Nom"
 	},
