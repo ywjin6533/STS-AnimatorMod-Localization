@@ -225,7 +225,7 @@
 	},
 	"animator_Defend_OnePunchMan":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 鼓舞 !SV! : 下一輪，獲得 [E]。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 鼓舞 !SV! : 下一輪，獲得 [E] 。",
 		"NAME": "優越防禦"
 	},
 	"animator_Defend_Konosuba":
@@ -1165,7 +1165,7 @@
 	},
 	"animator_Sonic":
 	{
-		"DESCRIPTION": "忍者 。 造成 !D! 點 穿刺 傷害 。 同調: 獲得1張 飛刃 。",
+		"DESCRIPTION": "忍者 。 造成 !D! 點 穿刺 傷害 。 同調: 獲得 1 張 飛刃 。",
 		"NAME": "音速索尼克"
 	},
 	"animator_SilverFang":
@@ -1175,7 +1175,7 @@
 	},
 	"animator_Geryuganshoop":
 	{
-		"DESCRIPTION": "循環 !SV! 張牌 。 NL 抹除最多 !M! 張已 消耗 的牌 ， 獲得同樣數量的 [E].",
+		"DESCRIPTION": "循環 !SV! 張牌 。 NL 抹除最多 !M! 張已 消耗 的牌 ， 獲得同樣數量的 [E] 。",
 		"NAME": "戈留幹修普",
 		"EXTENDED_DESCRIPTION": [
 			"選擇 @ 張牌抹除 ， 獲得同等的能量."
