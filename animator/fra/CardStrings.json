@@ -54,7 +54,7 @@
 	},
 	"animator:Ara":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) deux fois. NL Si l'ennemi a un Debuff, piochez deux cartes, puis défaussez 1 carte.",
+		"DESCRIPTION": "Infligez !D! dégât(s) deux fois. NL Si l'ennemi a un Debuff, piochez 2 cartes, puis défaussez 1 carte.",
 		"NAME": "Ara"
 	},
 	"animator:Archer":
@@ -299,9 +299,9 @@
 	},
 	"animator:ElricAlphonse":
 	{
-		"DESCRIPTION": "[#EFC851]Éthérée. Gagnez !M! Concentration temporaire. NL Héritage: Obtain [#EFC851]Armored [#EFC851]Alphonse.",
+		"DESCRIPTION": "[#EFC851]Éthérée. Gagnez !B! d'Armure. Gagnez !M! Concentration temporaire. Héritage: Obtain [#EFC851]Armored [#EFC851]Alphonse.",
 		"NAME": "Alphonse Elric",
-		"UPGRADE_DESCRIPTION": "[#EFC851]Éthérée. Gagnez !M! Concentration temporaire. NL Héritage: Obtain [#EFC851]Armored [#EFC851]Alphonse+."
+		"UPGRADE_DESCRIPTION": "[#EFC851]Éthérée. Gagnez !B! d'Armure. Gagnez !M! Concentration temporaire. Héritage: Obtain [#EFC851]Armored [#EFC851]Alphonse+."
 	},
 	"animator:ElricAlphonseAlt":
 	{

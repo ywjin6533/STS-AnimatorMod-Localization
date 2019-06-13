@@ -116,10 +116,10 @@
 		"DESCRIPTIONS": [
 			"Vous tombez sur une petite cabane, apparemment abandonnée. NL NL Fatigué et affamé, vous renoncez à vos instincts primitifs et y pénétrez. NL NL Après d'avoir vérifié pour les habitants possibles, vous tombez dans un sommeil profond...",
 			"Vous êtes réveillé par un bruit @assourdissant@. NL NL La chambre était #ptotalement #psombre, NL mais vous apercevez une @créature@ debout proche de vous.",
-			"\"Faim... besoin #rsang... échanger?\" NL NL La @créature@ allonge ses bras vers vous, révélant un #Médaillon #yAncien, vous vous demandez si accepter serait une bonne idée...",
+			"\"Faim... besoin #rsang... échanger?\" NL NL La @créature@ allonge ses bras vers vous, révélant un #yMédaillon #yAncien, vous vous demandez si accepter serait une bonne idée...",
 			"Vous courrez vers la porte le plus vite que vous pouvez, NL et ensuite le plus loin de la cabane que vous pouvez possiblement atteindre.",
 			"Vous essayez d'attraper le médaillon lorsque la @créature@ #rmord votre bras avec une force immense. Toutefois, elle vous laisse prendre la relique.",
-			"\"Besoin plus... échanger... encore...\" NL NL La @créature@ vous montre un #Médaillon #yAncien. NL NL Vous êtes #rgravement #rblessé par l'échange précédent...",
+			"\"Besoin plus... échanger... encore...\" NL NL La @créature@ vous montre un #yMédaillon #yAncien. NL NL Vous êtes #rgravement #rblessé par l'échange précédent...",
 			"Vous fuyez la cabane, NL mais la créature vous blesse une fois encore.",
 			"Cela peine plus que la dernière fois. NL NL Mais la @créature@ semble satisfaite puisqu'elle se replie lentement de la cabane..."
 		],
