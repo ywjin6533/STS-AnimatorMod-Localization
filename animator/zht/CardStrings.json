@@ -516,9 +516,9 @@
 	},
 	"animator:Illya":
 	{
-		"DESCRIPTION": "獲得 1 層 易傷 。 NL 將抽牌堆中傷害最高的 [#EFC851]攻擊[] 牌 打出牌 。 消耗 。",
+		"DESCRIPTION": "獲得 1 層 易傷 。 NL 將抽牌堆中傷害最高的 [#EFC851]攻擊[] 牌 打出 。 消耗 。",
 		"NAME": "伊莉雅",
-		"UPGRADE_DESCRIPTION": "獲得 1 層 易傷 。 NL 將抽牌堆中傷害最高的 [#EFC851]攻擊[] 牌 打出牌 。 消耗 。"
+		"UPGRADE_DESCRIPTION": "獲得 1 層 易傷 。 NL 將抽牌堆中傷害最高的 [#EFC851]攻擊[] 牌 打出 。"
 	},
 	"animator:ItamiYouji":
 	{
