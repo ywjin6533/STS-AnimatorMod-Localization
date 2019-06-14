@@ -324,7 +324,7 @@
 	},
 	"animator:EmiyaShirou":
 	{
-		"DESCRIPTION": "Give a random NL enemy !M! Block and 1 Vulnerable. [#EFC851]Unlimited [#EFC851]Blade [#EFC851]Works.",
+		"DESCRIPTION": "Give a random NL enemy !M! Block and 1 Vulnerable. When an enemy loses its Block this turn, gain [E] and draw a random [#EFC851]Attack[].",
 		"EXTENDED_DESCRIPTION": ["Unlimited Blade Works", "Whenever an enemy loses its block this turn, gain 1 #yEnergy and draw a random #yAttack from your draw pile."],
 		"NAME": "Emiya Shirou"
 	},
@@ -368,7 +368,7 @@
 	},
 	"animator:Excalibur":
 	{
-		"DESCRIPTION": "Retain. Exhaust ALL other [#EFC851]Attacks in your hand and gain their damage. Deal !D! damage to ALL enemies.",
+		"DESCRIPTION": "Retain. NL Gain 1 Intangible. NL Deal !D! damage to ALL enemies. NL Exhaust.",
 		"NAME": "Excalibur"
 	},
 	"animator:FeridBathory":
@@ -402,7 +402,7 @@
 	},
 	"animator:Gilgamesh":
 	{
-		"DESCRIPTION": "[#EFC851]Unique. NL Deal !D! damage to an enemy 3 times. NL [#EFC851]Gate [#EFC851]of [#EFC851]Babylon.",
+		"DESCRIPTION": "[#EFC851]Unique. NL Deal !D! damage NL 3 times. NL [#EFC851]Gate [#EFC851]of [#EFC851]Babylon.",
 		"EXTENDED_DESCRIPTION": ["Gate of Babylon", "Whenever you obtain a relic, #yUpgrade this card and gain #b", " #yGold. Does not activate when purchasing relics or with some event relics.", "Unique", "Can be upgraded any number of times. You can only have 1 copy of this card in your deck, additional copies will #yUpgrade this card instead."],
 		"NAME": "Gilgamesh"
 	},
@@ -522,8 +522,9 @@
 	},
 	"animator:Illya":
 	{
-		"DESCRIPTION": "Draw your highest damage [#EFC851]Attack and increase its damage by !M! this combat. Synergy: Retain it.",
-		"NAME": "Illya"
+		"DESCRIPTION": "Gain 1 Vulnerable. NL Play the highest damage [#EFC851]Attack from your draw pile. Exhaust.",
+		"NAME": "Illya",
+		"UPGRADE_DESCRIPTION": "Gain 1 Vulnerable. NL Play the highest damage [#EFC851]Attack from your draw pile."
 	},
 	"animator:ItamiYouji":
 	{
@@ -810,8 +811,7 @@
 	"animator:Saber":
 	{
 		"DESCRIPTION": "Loyal. Deal !D! damage. If this Synergizes !M! times, Purge and obtain [#EFC851]Excalibur.",
-		"NAME": "Saber",
-		"UPGRADE_DESCRIPTION": "Loyal. Deal !D! damage. If this Synergizes !M! times, Purge and obtain [#EFC851]Excalibur+."
+		"NAME": "Saber"
 	},
 	"animator:Saitama":
 	{
@@ -941,7 +941,7 @@
 	},
 	"animator:Strike_Fate":
 	{
-		"DESCRIPTION": "Deal !D! Piercing damage.",
+		"DESCRIPTION": "Deal !D! damage. NL If you have less than 3 cards in hand, NL gain [E].",
 		"NAME": "Improved Strike"
 	},
 	"animator:Strike_FullmetalAlchemist":
@@ -971,7 +971,7 @@
 	},
 	"animator:Strike_Katanagatari":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL If you have less than 3 cards in hand, NL gain [E].",
+		"DESCRIPTION": "Deal !D! Piercing damage.",
 		"NAME": "Improved Strike"
 	},
 	"animator:Strike_Konosuba":

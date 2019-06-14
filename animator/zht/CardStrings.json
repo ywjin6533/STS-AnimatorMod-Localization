@@ -320,7 +320,7 @@
 	},
 	"animator:EmiyaShirou":
 	{
-		"DESCRIPTION": "給予一個隨機敵人 !M! 點 格擋 和 1 層 易傷 。 [#EFC851]無限劍制[] 。",
+		"DESCRIPTION": "給予一個隨機敵人 !M! 點 格擋 和 1 層 易傷 。 本回合， 本回合，打破格擋時獲得 1 點 #y能量 和抽一張 隨機 #y攻擊牌 。",
 		"EXTENDED_DESCRIPTION": ["無限劍制", "本回合， 本回合，打破格擋時獲得 1 點 #y能量 和抽一張 隨機 #y攻擊牌 。"],
 		"NAME": "衛宮四郎"
 	},
@@ -364,7 +364,7 @@
 	},
 	"animator:Excalibur":
 	{
-		"DESCRIPTION": "保留 。 對所有敵人造成 !D! 點傷害， 消耗 你手牌中所有的 [#EFC851]攻擊[] 並獲得它們的傷害數值。",
+		"DESCRIPTION": "保留 。 獲得 1 層 無實體 。 對所有敵人造成 !D! 點 傷害 。 消耗 。",
 		"NAME": "誓約勝利之劍"
 	},
 	"animator:FeridBathory":
@@ -516,8 +516,9 @@
 	},
 	"animator:Illya":
 	{
-		"DESCRIPTION": "將抽牌堆中傷害最高的 [#EFC851]攻擊[] 牌 加入手牌並在本次戰鬥中使其傷害提高 !M! 點 。 同調 : 保留它 。",
-		"NAME": "伊莉雅"
+		"DESCRIPTION": "獲得 1 層 易傷 。 NL 將抽牌堆中傷害最高的 [#EFC851]攻擊[] 牌 打出牌 。 消耗 。",
+		"NAME": "伊莉雅",
+		"UPGRADE_DESCRIPTION": "獲得 1 層 易傷 。 NL 將抽牌堆中傷害最高的 [#EFC851]攻擊[] 牌 打出牌 。 消耗 。"
 	},
 	"animator:ItamiYouji":
 	{
@@ -803,8 +804,7 @@
 	"animator:Saber":
 	{
 		"DESCRIPTION": "忠誠 。 造成 !D! 點傷害 ， 當這張牌觸發 !M! 次 同調 效果後 ， 抹除並獲得 [#EFC851]誓約勝利之劍[] 。",
-		"NAME": "Saber",
-		"UPGRADE_DESCRIPTION": "忠誠 。 造成 !D! 點傷害 ， 當這張牌觸發 !M! 次 同調 效果後 ， 抹除並獲得 [#EFC851]誓約勝利之劍+[] 。"
+		"NAME": "Saber"
 	},
 	"animator:Saitama":
 	{
@@ -933,7 +933,7 @@
 	},
 	"animator:Strike_Fate":
 	{
-		"DESCRIPTION": "造成 !D! 點 穿刺 傷害 。",
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 如果你手中的卡少於 3 張 ， 獲得 [E] 。",
 		"NAME": "優越打擊"
 	},
 	"animator:Strike_FullmetalAlchemist":
@@ -963,7 +963,7 @@
 	},
 	"animator:Strike_Katanagatari":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 如果你手中的卡少於 3 張 ， 獲得 [E] 。",
+		"DESCRIPTION": "造成 !D! 點 穿刺 傷害 。",
 		"NAME": "優越打擊"
 	},
 	"animator:Strike_Konosuba":
