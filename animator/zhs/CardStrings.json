@@ -49,8 +49,7 @@
 	"animator:Aqua":
 	{
 		"DESCRIPTION": "恢复 !M! 点 生命 。 在本次战斗中减少 !SV! 点 恢复量 。",
-		"NAME": "阿库娅",
-		"UPGRADE_DESCRIPTION": "恢复 !M! 点 生命 。 在本次战斗中减少 !SV! 点 恢复量 。"
+		"NAME": "阿库娅"
 	},
 	"animator:Ara":
 	{
@@ -879,7 +878,7 @@
 	},
 	"animator:Shuna":
 	{
-		"DESCRIPTION": "[#EFC851]被抽到时[] : 获得 !B! 点 格挡 。 NL 抽 2 张牌 。 NL 同调 : 获得 !M! 点 临时生命 。",
+		"DESCRIPTION": "抽 1 张牌 。 本次战斗中，这张牌的 格挡 提高 !M! 点 。 [#EFC851]被抽到时[] : 获得 !B! 点 格挡 。",
 		"NAME": "朱菜"
 	},
 	"animator:SilverFang":
@@ -1021,8 +1020,9 @@
 	},
 	"animator:Tet":
 	{
-		"DESCRIPTION": "在你的抽牌堆中选择 !M! 张牌，丢弃它们。 抽 2 张牌 。 鼓舞 !SV! : 获得 [E]",
-		"NAME": "特图"
+		"DESCRIPTION": "在你的抽牌堆中选择 2 张牌，丢弃它们。 抽 !M! 张牌 。",
+		"NAME": "特图",
+		"UPGRADE_DESCRIPTION": "在你的抽牌堆中选择 2 张牌，丢弃它们。 抽 !M! 张牌 。 鼓舞 !SV! : 获得 [E]"
 	},
 	"animator:TheHaunt":
 	{
@@ -1046,7 +1046,7 @@
 	},
 	"animator:Togame":
 	{
-		"DESCRIPTION": "抽 !M! 张牌 。 选择并消耗一张牌 ， 否则获得 [E] 并 消耗 这张牌 。 ",
+		"DESCRIPTION": "抽 !M! 张牌 。 您可以选择并消耗一张牌来再抽 1 张卡 ",
 		"NAME": "咎儿"
 	},
 	"animator:Truth":

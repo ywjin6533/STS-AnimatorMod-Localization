@@ -49,8 +49,7 @@
 	"animator:Aqua":
 	{
 		"DESCRIPTION": "Soignez !M! PV. NL Réduisez les soins de cette carte de !SV! ce combat.",
-		"NAME": "Aqua",
-		"UPGRADE_DESCRIPTION": "Soignez !M! PV. NL Réduisez les soins de cette carte de !SV! ce combat."
+		"NAME": "Aqua"
 	},
 	"animator:Ara":
 	{
@@ -882,7 +881,7 @@
 	},
 	"animator:Shuna":
 	{
-		"DESCRIPTION": "Piochez 2 carte(s). Synergie: NL Gagnez !M! Temp._PV. NL [#EFC851]Pioché: Gagnez !B! d'Armure.",
+		"DESCRIPTION": "Piochez 1 carte. Augmentez l'Armure de cette carte de !M! pour ce combat. [#EFC851]Pioché: Gagnez !B! d'Armure.",
 		"NAME": "Shuna"
 	},
 	"animator:SilverFang":
@@ -1024,8 +1023,9 @@
 	},
 	"animator:Tet":
 	{
-		"DESCRIPTION": "Défausser jusqu'a !M! carte(s) de votre pioche. NL Piochez 2 carte(s). NL Boost !SV! : Gagnez [E].",
-		"NAME": "Tet"
+		"DESCRIPTION": "Défausser jusqu'a 2 carte(s) de votre pioche. NL Piochez !M! carte(s).",
+		"NAME": "Tet",
+		"UPGRADE_DESCRIPTION": "Défausser jusqu'a 2 carte(s) de votre pioche. NL Piochez !M! carte(s). NL Boost !SV! : Gagnez [E]."
 	},
 	"animator:TheHaunt":
 	{
@@ -1049,7 +1049,7 @@
 	},
 	"animator:Togame":
 	{
-		"DESCRIPTION": "Piochez !M! carte(s). NL Vous pouvez Épuiser une carte, sinon Gagnez [E] et Épuisement.",
+		"DESCRIPTION": "Piochez !M! carte(s). NL Vous pouvez choisir et consommer une carte pour en piocher une autre.",
 		"NAME": "Togame"
 	},
 	"animator:Truth":

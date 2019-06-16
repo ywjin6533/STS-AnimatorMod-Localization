@@ -49,9 +49,8 @@
 	},
 	"animator:Aqua":
 	{
-		"DESCRIPTION": "Heal !M! HP. Reduce this card's healing by !SV! this combat.",
-		"NAME": "Aqua",
-		"UPGRADE_DESCRIPTION": "Heal !M! HP. Reduce this card's healing by !SV! this combat."
+		"DESCRIPTION": "Heal !M! HP. NL Reduce this card's healing by !SV! this combat.",
+		"NAME": "Aqua"
 	},
 	"animator:Ara":
 	{
@@ -303,7 +302,7 @@
 	{
 		"DESCRIPTION": "[#EFC851]Ethereal. Gain !M! Temporary Focus. NL Gain !B! Block. NL Legacy: Obtain [#EFC851]Armored [#EFC851]Alphonse.",
 		"NAME": "Alphonse Elric",
-		"UPGRADE_DESCRIPTION": "[#EFC851]Ethereal. Gain !M! Temporary Focus. Gain !B! Block. NL Legacy: Obtain [#EFC851]Armored [#EFC851]Alphonse+."
+		"UPGRADE_DESCRIPTION": "[#EFC851]Ethereal. Gain !M! Temporary Focus. NL Gain !B! Block. NL Legacy: Obtain [#EFC851]Armored [#EFC851]Alphonse+."
 	},
 	"animator:ElricAlphonseAlt":
 	{
@@ -353,7 +352,7 @@
 	},
 	"animator:Eris":
 	{
-		"DESCRIPTION": "Resurrect. NL Heal !M! HP. NL Exhaust.",
+		"DESCRIPTION": "Heal !M! HP. NL Exhaust. NL Resurrect.",
 		"NAME": "Eris"
 	},
 	"animator:Eve":
@@ -556,7 +555,7 @@
 	},
 	"animator:Kazuma":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Deal !D! damage. NL Synergy: Draw 1 card.",
+		"DESCRIPTION": "Gain !B! Block. NL Deal !D! damage. NL Synergy: NL Draw 1 card.",
 		"NAME": "Kazuma"
 	},
 	"animator:Kira":
@@ -884,7 +883,7 @@
 	},
 	"animator:Shuna":
 	{
-		"DESCRIPTION": "Draw 2 cards. NL Synergy: NL Gain !M! Temp._HP. NL [#EFC851]Drawn: Gain !B! Block.",
+		"DESCRIPTION": "Draw 1 card. Increase this card's Block by !M! this combat. [#EFC851]Drawn: Gain !B! Block twice.",
 		"NAME": "Shuna"
 	},
 	"animator:SilverFang":
@@ -1026,8 +1025,9 @@
 	},
 	"animator:Tet":
 	{
-		"DESCRIPTION": "Discard up to !M! cards from your draw pile. NL Draw 2 cards. NL Boost !SV! : gain [E].",
-		"NAME": "Tet"
+		"DESCRIPTION": "Discard up to 2 cards from your draw pile. NL Draw !M! cards.",
+		"NAME": "Tet",
+		"UPGRADE_DESCRIPTION": "Discard up to 2 cards from your draw pile. NL Draw !M! cards. NL Boost !SV! : gain [E]."
 	},
 	"animator:TheHaunt":
 	{
@@ -1051,7 +1051,7 @@
 	},
 	"animator:Togame":
 	{
-		"DESCRIPTION": "Draw !M! cards. NL You may Exhaust a card, otherwise gain [E] and Exhaust.",
+		"DESCRIPTION": "Draw !M! cards. NL You may Exhaust a card to draw 1 additional card.",
 		"NAME": "Togame"
 	},
 	"animator:Truth":
