@@ -19,7 +19,8 @@
 	"animator:Add":
 	{
 		"DESCRIPTION": "获得 !M! 魔法护甲 。 在你的抽牌堆中 消耗 1 张牌 。 加入一张 充能球核心 到抽牌堆。 虚无 。 消耗 。",
-		"NAME": "艾迪"
+		"NAME": "艾迪",
+		"UPGRADE_DESCRIPTION": "获得 !M! 魔法护甲 。 在你的抽牌堆中 消耗 1 张牌 。 加入一张 充能球核心 到抽牌堆。 虚无 。"
 	},
 	"animator:Ain":
 	{
@@ -148,7 +149,7 @@
 	},
 	"animator:Chung":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 预热 !SV! : 获得一个等离子 充能球。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 这张牌每被打出一次，它在本场战斗中的基础 格挡 下降 !M! 。 遗赠 : 获得 2 个冰霜充能球 。",
 		"NAME": "澄"
 	},
 	"animator:Cocytus":

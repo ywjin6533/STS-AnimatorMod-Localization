@@ -19,7 +19,8 @@
 	"animator:Add":
 	{
 		"DESCRIPTION": "Gagnez !M! d'Armure_Enchantée. NL Épuisez 1 carte dans votre pioche. Remplacez-la par un Noyau_d'orbe. NL Éthérée. Épuisement.",
-		"NAME": "Add"
+		"NAME": "Add",
+		"UPGRADE_DESCRIPTION": "Gagnez !M! d'Armure_Enchantée. NL Épuisez 1 carte dans votre pioche. Remplacez-la par un Noyau_d'orbe. NL Épuisement."
 	},
 	"animator:Ain":
 	{
@@ -148,7 +149,7 @@
 	},
 	"animator:Chung":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Cooldown !SV! : NL Canalisez 1 Orbe Plasmique.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL L'Armure de cette carte est diminuée de !M! pour le combat. Héritage: Canalisez 2 Orbes Glaciaires.",
 		"NAME": "Chung"
 	},
 	"animator:Cocytus":

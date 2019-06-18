@@ -20,7 +20,8 @@
 	"animator:Add":
 	{
 		"DESCRIPTION": "Gain !M! Ench._Armor. NL Exhaust 1 card in your draw pile. Replace it with an Orb_Core. NL Ethereal. Exhaust.",
-		"NAME": "Add"
+		"NAME": "Add",
+		"UPGRADE_DESCRIPTION": "Gain !M! Ench._Armor. NL Exhaust 1 card in your draw pile. Replace it with an Orb_Core. NL Exhaust."
 	},
 	"animator:Ain":
 	{
@@ -150,7 +151,7 @@
 	},
 	"animator:Chung":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Cooldown !SV! : NL Channel 1 Plasma.",
+		"DESCRIPTION": "Gain !B! Block. NL Decrease this card's Block by !M! this combat. Legacy : NL Channel 2 Frost.",
 		"NAME": "Chung"
 	},
 	"animator:Cocytus":
@@ -323,7 +324,7 @@
 	},
 	"animator:EmiyaShirou":
 	{
-		"DESCRIPTION": "Give a random NL enemy !M! Block and 1 Vulnerable. When an enemy loses its Block this turn, gain [E] and draw a random [#EFC851]Attack[].",
+		"DESCRIPTION": "Give a random NL enemy !M! Block and 1 Vulnerable. When an enemy loses its Block this turn, gain [E] and draw an [#EFC851]Attack[].",
 		"EXTENDED_DESCRIPTION": ["Unlimited Blade Works", "Whenever an enemy loses its block this turn, gain 1 #yEnergy and draw a random #yAttack from your draw pile."],
 		"NAME": "Emiya Shirou"
 	},
