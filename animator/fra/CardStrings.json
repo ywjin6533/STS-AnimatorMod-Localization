@@ -459,7 +459,7 @@
 	},
 	"animator:Guren":
 	{
-		"DESCRIPTION": "Jouez les 3 premières cartes de votre pioche. Épuisez TOUTES les [#EFC851]Attaques jouées et gagnez !M! de Dégât_de_Soutien pour chacune.",
+		"DESCRIPTION": "Jouez les 3 premières cartes de votre pioche. Épuisez TOUTES les [#EFC851]Attaques, [#EFC851]Malédictions et [#EFC851]Status jouées et gagnez !M! de Dégât_de_Soutien pour chacune.",
 		"NAME": "Guren"
 	},
 	"animator:Guy":
@@ -481,7 +481,7 @@
 	},
 	"animator:Hibiki":
 	{
-		"DESCRIPTION": "Infligez !D! dégâts !M! fois. Augmentez le nombre d'attaques de cette carte par 1 ce combat.",
+		"DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire !M! fois. Augmentez le nombre d'attaques de cette carte par !SV! ce combat.",
 		"NAME": "Hibiki"
 	},
 	"animator:HigakiRinne":
@@ -1088,7 +1088,7 @@
 	},
 	"animator:Vesta":
 	{
-		"DESCRIPTION": "Recherchez un [#EFC851]Élixir, il sera complété dans !M! tours. Épuisement.",
+		"DESCRIPTION": "Piochez 1 carte. NL Recherchez un [#EFC851]Élixir, il sera complété dans !M! tours. Épuisement.",
 		"EXTENDED_DESCRIPTION": ["Élixir", "#yCompétence qui coûte 0 ayant des effets variés."],
 		"NAME": "Vesta"
 	},

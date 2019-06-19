@@ -151,7 +151,7 @@
 	},
 	"animator:Chung":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Decrease this card's Block by !M! this combat. Legacy : NL Channel 2 Frost.",
+		"DESCRIPTION": "Gain !B! Block. NL Decrease this card's NL Block by !M! this NL combat. Legacy : NL Channel 2 Frost.",
 		"NAME": "Chung"
 	},
 	"animator:Cocytus":
@@ -461,7 +461,7 @@
 	},
 	"animator:Guren":
 	{
-		"DESCRIPTION": "Play the top 3 cards of your draw pile. Exhaust ALL [#EFC851]Attacks played and gain !M! Support_Damage NL for each of them.",
+		"DESCRIPTION": "Play the top 3 cards of your draw pile. Exhaust every [#EFC851]Attack, [#EFC851]Curse and [#EFC851]Status played, gain !M! Support_Damage for each of them.",
 		"NAME": "Guren"
 	},
 	"animator:Guy":
@@ -483,7 +483,7 @@
 	},
 	"animator:Hibiki":
 	{
-		"DESCRIPTION": "Deal !D! damage !M! times. Increase this card's hit count by 1 this combat.",
+		"DESCRIPTION": "Deal !D! damage to a random enemy !M! times. Increase this card's hit count by !SV! this combat.",
 		"NAME": "Hibiki"
 	},
 	"animator:HigakiRinne":
@@ -685,7 +685,7 @@
 	},
 	"animator:Mitsurugi":
 	{
-		"DESCRIPTION": "Deal !D! damage. Can only be used if the enemy intends to attack. Legacy: NL Gain !M! Strength.",
+		"DESCRIPTION": "If the enemy intends to attack, deal !D! damage. Legacy: NL Gain !M! Strength.",
 		"EXTENDED_DESCRIPTION": ["The enemy does not intend to attack."],
 		"NAME": "Mitsurugi"
 	},
@@ -1090,7 +1090,7 @@
 	},
 	"animator:Vesta":
 	{
-		"DESCRIPTION": "Research an [#EFC851]Elixir, NL it will be completed after !M! turns. NL Exhaust.",
+		"DESCRIPTION": "Draw 1 card. NL Research an [#EFC851]Elixir, NL it will be completed after !M! turns. NL Exhaust.",
 		"EXTENDED_DESCRIPTION": ["Elixir", "0-cost #ySkill with a variety of different effects."],
 		"NAME": "Vesta"
 	},

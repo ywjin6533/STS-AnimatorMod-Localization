@@ -457,7 +457,7 @@
 	},
 	"animator:Guren":
 	{
-		"DESCRIPTION": "打出抽牌堆顶部的三张牌，消耗其中的所有 [#EFC851]攻击[] 牌，每消耗一张牌，获得 !M! 点 支援伤害",
+		"DESCRIPTION": "打出抽牌堆顶部的三张牌， 消耗其中的所有 [#EFC851]攻击[] 牌， [#EFC851]的状态牌[] 和 [#EFC851]诅咒牌[]， 每消耗一张牌， 获得 !M! 点 支援伤害",
 		"NAME": "红莲"
 	},
 	"animator:Guy":
@@ -478,7 +478,7 @@
 	},
 	"animator:Hibiki":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害 !M! 次 。 每次使用后 ， 这张牌的攻击次数加1。",
+		"DESCRIPTION": "随机对敌人造成 !D! 点伤害 !M! 次 。 每次使用后 ， 这张牌的攻击次数加 !SV! 。",
 		"NAME": "响"
 	},
 	"animator:HigakiRinne":
@@ -1085,7 +1085,7 @@
 	},
 	"animator:Vesta":
 	{
-		"DESCRIPTION": "研究1瓶 [#EFC851]灵药[] ， NL !M! 回合后获得此研究成果 。 消耗 。",
+		"DESCRIPTION": "抽 1 张牌 。 研究1瓶 [#EFC851]灵药[] ， NL !M! 回合后获得此研究成果 。 消耗 。",
 		"EXTENDED_DESCRIPTION": ["灵药", "0 能耗 #y技能 ， 拥有不同的特殊功效 。"],
 		"NAME": "大臣"
 	},

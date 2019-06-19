@@ -457,7 +457,7 @@
 	},
 	"animator:Guren":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 從手牌隨機 消耗 一張 [#EFC851]攻擊[] 牌 。 將傷害轉換到 支援 中 。",
+		"DESCRIPTION": "打出抽牌堆頂部的三張牌， 消耗其中的所有 [#EFC851]攻擊[] 牌， [#EFC851]的狀態牌[] 和 [#EFC851]詛咒牌[]， 每消耗一張牌， 獲得 !M! 點 支援傷害 。",
 		"NAME": "紅蓮"
 	},
 	"animator:Guy":
@@ -478,7 +478,7 @@
 	},
 	"animator:Hibiki":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 !M! 次 。 每次使用後 ， 這張牌的攻擊次數加1。",
+		"DESCRIPTION": "隨機對敵人造成 !D! 點傷害 !M! 次 。 每次使用後 ， 這張牌的攻擊次數加 !SV! 。",
 		"NAME": "響"
 	},
 	"animator:HigakiRinne":
