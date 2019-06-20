@@ -205,8 +205,8 @@
 		"PROPERNAME": "殘影"
 	},
 	{
-		"PROPER_NAME": "激勵",
+		"PROPER_NAME": "激勵 <N>",
 		"NAMES": ["激勵"],
-		"DESCRIPTION": "隨機從手牌裡一張牌的能量消耗減1。重複 N 次。"
+		"DESCRIPTION": "隨機從手牌裡一張牌的能量消耗減1。 重複 <N> 次。"
 	}
 ]

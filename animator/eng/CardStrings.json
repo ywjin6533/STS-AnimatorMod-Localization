@@ -112,7 +112,7 @@
 	},
 	"animator:Bozes":
 	{
-		"DESCRIPTION": "Deal !D! damage NL to the lowest NL health enemy. NL Motivate !M!. NL Exhaust.",
+		"DESCRIPTION": "Deal !D! damage. NL When you Synergize NL this turn, gain !SV! NL Plated_Armor. NL Motivate !M!. Exhaust.",
 		"NAME": "Bozes"
 	},
 	"animator:Caster":
@@ -368,7 +368,7 @@
 	},
 	"animator:Excalibur":
 	{
-		"DESCRIPTION": "Retain. NL Gain 1 Intangible. NL Deal !D! damage to ALL enemies. NL Exhaust.",
+		"DESCRIPTION": "Retain. NL Gain 1 Intangible. NL Deal !D! damage to NL ALL enemies. NL Exhaust.",
 		"NAME": "Excalibur"
 	},
 	"animator:FeridBathory":
@@ -604,9 +604,9 @@
 	},
 	"animator:LeleiLaLalena":
 	{
-		"DESCRIPTION": "[#EFC851]Channel !M! Frost. NL Synergy: Apply !SV! Weak to ALL enemies.",
+		"DESCRIPTION": "[#EFC851]Channel !M! Frost. NL Synergy: Apply !SV! Weak to ALL NL enemies.",
 		"NAME": "Lelei La Lalena",
-		"UPGRADE_DESCRIPTION": "[#EFC851]Channel !M! Frost. NL Cycle 1 card. NL Synergy: Apply !SV! Weak to ALL enemies."
+		"UPGRADE_DESCRIPTION": "[#EFC851]Channel !M! Frost. NL Cycle 1 card. NL Synergy: Apply !SV! Weak to ALL NL enemies."
 	},
 	"animator:Lelouch":
 	{
@@ -778,7 +778,7 @@
 	},
 	"animator:Rena":
 	{
-		"DESCRIPTION": "Gain !M! Blur. NL Gain !B! Block. NL Synergy and Recall: NL Next turn, gain !B! Block.",
+		"DESCRIPTION": "Gain !M! Blur. NL Gain !B! Block. NL Synergy and Recall: NL Next turn, gain NL !B! Block.",
 		"NAME": "Rena"
 	},
 	"animator:Rimuru":
@@ -909,7 +909,7 @@
 	},
 	"animator:Sora":
 	{
-		"DESCRIPTION": "Choose and execute !M! custom Effects. Synergy: Choose 1 more Effect.",
+		"DESCRIPTION": "Choose and execute NL !M! custom Effects. NL Synergy: Choose 1 NL additional Effect.",
 		"NAME": "Sora"
 	},
 	"animator:Souei":
@@ -1062,7 +1062,7 @@
 	},
 	"animator:TukaLunaMarceau":
 	{
-		"DESCRIPTION": "Gain !B! Block. Next turn, gain !B! Block. Synergy: If you have not played a copy of this card this turn, Motivate !M!.",
+		"DESCRIPTION": "Gain !B! Block. Next NL turn, gain !B! Block. NL If this is your first Synergy this turn, Motivate !M!.",
 		"NAME": "Tuka"
 	},
 	"animator:Tyuule":

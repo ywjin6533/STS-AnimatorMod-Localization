@@ -111,7 +111,7 @@
 	},
 	"animator:Bozes":
 	{
-		"DESCRIPTION": "對生命值最低的敵人造成 !D! 點 傷害。 NL 激勵 1 。消耗 。",
+		"DESCRIPTION": "造成 !D! 點傷害 。 每當一張牌在本回合中觸發同調， 獲得 !SV! 層 多層護甲 。 NL 激勵 !M! 。 消耗 。",
 		"NAME": "波賽斯"
 	},
 	"animator:Caster":
@@ -149,7 +149,7 @@
 	},
 	"animator:Chung":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 這張牌每打出1次，在本場戰鬥中的其基礎 格擋 下降 !M! 點。 遺產 : 獲得 2 個冰霜充能球 。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 這張牌每打出1次，在本場戰鬥中的其基礎 格擋 下降 !M! 點。 遺產 : 獲得 2 個 冰霜 充能球 。",
 		"NAME": "澄"
 	},
 	"animator:Cocytus":
@@ -354,7 +354,7 @@
 	},
 	"animator:Eve":
 	{
-		"DESCRIPTION": "發揮 閃電充能球 。 每當觸發一次同調 ， 對隨機敵人造成 !M! 點 傷害並增加這張牌 1 點 傷害 。",
+		"DESCRIPTION": "發揮 充電球核心 。 每當觸發一次同調 ， 對隨機敵人造成 !M! 點 傷害並增加這張牌 1 點 傷害 。",
 		"NAME": "伊芙"
 	},
 	"animator:Evileye":
@@ -457,7 +457,7 @@
 	},
 	"animator:Guren":
 	{
-		"DESCRIPTION": "打出抽牌堆頂部的三張牌， 消耗其中的所有 [#EFC851]攻擊[] 牌， [#EFC851]的狀態牌[] 和 [#EFC851]詛咒牌[]， 每消耗一張牌， 獲得 !M! 點 支援傷害 。",
+		"DESCRIPTION": "打出抽牌堆頂部的三張牌， 消耗其中的所有 [#EFC851]攻擊[] 牌， [#EFC851]的狀態牌[] 和 [#EFC851]詛咒牌[] ， 每消耗一張牌， 獲得 !M! 點 支援傷害 。",
 		"NAME": "紅蓮"
 	},
 	"animator:Guy":
@@ -545,7 +545,7 @@
 	"animator:Kaijin":
 	{
 		"DESCRIPTION": "每當你抽一張牌時， 使其造成的傷害與獲得的格擋量在本場戰鬥中提高 !M! 點 。",
-		"NAME": "凱·金",
+		"NAME": "凱·金"
 	},
 	"animator:Kazuma":
 	{
@@ -630,9 +630,9 @@
 	},
 	"animator:Melzalgald":
 	{
-		"DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害 。 NL 分裂成3張不同的 [#EFC851]攻擊 。 消耗 。",
+		"DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害 。 NL 分裂成3張不同的 [#EFC851]攻擊[] 。 消耗 。",
 		"NAME": "梅魯扎嘎魯多",
-		"UPGRADE_DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害 。 NL 分裂成3張不同的升級 [#EFC851]攻擊 。 消耗 。"
+		"UPGRADE_DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害 。 NL 分裂成3張不同的升級 [#EFC851]攻擊[] 。 消耗 。"
 	},
 	"animator:MelzalgaldAlt_1":
 	{
@@ -1043,7 +1043,7 @@
 	},
 	"animator:Togame":
 	{
-		"DESCRIPTION": "抽 !M! 張牌 。 NL 您可以選擇並消耗一張牌來再抽 1 張卡 。",
+		"DESCRIPTION": "抽 !M! 張牌 。 NL 您可以選擇並 消耗 一張牌來再抽 1 張卡 。",
 		"NAME": "咎兒"
 	},
 	"animator:Truth":
@@ -1054,13 +1054,13 @@
 	},
 	"animator:TukaLunaMarceau":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。下一輪，獲得 !B! 點 格擋 。同調 ：如果你此回合沒有擊出與此牌同名的牌， 激勵 1。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。下一輪，獲得 !B! 點 格擋 。 如果這是本輪的第一次 同調 ， 激勵 1 。",
 		"NAME": "杜嘉"
 	},
 	"animator:Tyuule":
 	{
 		"DESCRIPTION": "給予所有敵人 !M! 層 中毒 和 1 層 易傷 。",
-		"NAME": "蒂尤蕾"
+		"NAME": "蒂尤蕾",
 		"UPGRADE_DESCRIPTION": "給予所有敵人 !M! 層 中毒 和 1 層 易傷 。 增強 !SV! : 獲得 [E]"
 	},
 	"animator:Urushihara":
