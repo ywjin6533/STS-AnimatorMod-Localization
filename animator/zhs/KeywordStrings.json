@@ -203,5 +203,10 @@
 		"DESCRIPTION": "下回合开始时格挡不会消失 。",
 		"NAMES": ["残影"],
 		"PROPERNAME": "残影"
+	},
+	{
+		"PROPER_NAME": "鼓励",
+		"NAMES": ["鼓励"],
+		"DESCRIPTION": "Reduce the cost of a certain number of random cards in your hand by 1 this turn."
 	}
 ]

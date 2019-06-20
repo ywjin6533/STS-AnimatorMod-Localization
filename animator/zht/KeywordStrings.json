@@ -203,5 +203,10 @@
 		"DESCRIPTION": "下回合開始時格擋不會消失 。",
 		"NAMES": ["殘影"],
 		"PROPERNAME": "殘影"
+	},
+	{
+		"PROPER_NAME": "Motivate",
+		"NAMES": ["motivate"],
+		"DESCRIPTION": "Reduce the cost of a certain number of random cards in your hand by 1 this turn."
 	}
 ]

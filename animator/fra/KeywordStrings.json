@@ -213,5 +213,10 @@
 		"PROPER_NAME": "Dégât de Soutien",
 		"NAMES": ["support damage", "support_damage", "dégât de soutien", "dégât_de_soutien"],
 		"DESCRIPTION": "Inflige des dégats à l'ennemi avec le moins de PV."
+	},
+	{
+		"PROPER_NAME": "Motivate",
+		"NAMES": ["motivate"],
+		"DESCRIPTION": "Reduce the cost of a certain number of random cards in your hand by 1 this turn."
 	}
 ]
