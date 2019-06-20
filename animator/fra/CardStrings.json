@@ -86,7 +86,7 @@
 	},
 	"animator:Benimaru":
 	{
-		"DESCRIPTION": "Canalisez 1 Orbe Incendiaire. NL Infligez !D! dégât(s) à TOUS les ennemis. Synergie: Appliquez !M! Brûlure.",
+		"DESCRIPTION": "Canalisez 1 Orbe Incendiaire. NL Infligez !D! dégât(s) à TOUS les ennemis. Gagnez !M! PV_Temp. pour chaque enemie avec Brûlure",
 		"NAME": "Benimaru"
 	},
 	"animator:Berserker":
@@ -111,7 +111,7 @@
 	},
 	"animator:Bozes":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) à l'ennemi avec le moins de PV. Piochez !M! carte(s). Quand vous effectuez une Synergie ce tour, gagnez !SV! d'Armure.",
+		"DESCRIPTION": "Infligez !D! dégât(s) à l'ennemi avec le moins de PV. NL Motiver de 1. NL Épuisement.",
 		"NAME": "Bozes"
 	},
 	"animator:Caster":
@@ -548,9 +548,8 @@
 	},
 	"animator:Kaijin":
 	{
-		"DESCRIPTION": "A la fin de chaque tour, donne à une carte aléatoire de votre pioche !M! dégâts et d'Armure supplémentaires pour ce combat.",
+		"DESCRIPTION": "Lorsque vous pigez une carte, augmentez sa quantité de dégâts et d'Armure par !M! pour ce combat.",
 		"NAME": "Kaijin",
-		"UPGRADE_DESCRIPTION": "Inné. A la fin de chaque tour, donne à une carte aléatoire de votre pioche !M! dégâts et d'Armure supplémentaires pour ce combat."
 	},
 	"animator:Kazuma":
 	{
@@ -1061,13 +1060,14 @@
 	},
 	"animator:TukaLunaMarceau":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. Augmentez l'Armure d'une carte aléatoire dans votre main de !M! pour ce combat.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. Au prochain tour, gagnez !B! d'Armure. NL Synergie: Si vous n'avez pas joué une autre copie de cette carte durant ce tour, Motiver de 1.",
 		"NAME": "Tuka"
 	},
 	"animator:Tyuule":
 	{
-		"DESCRIPTION": "Appliquez !M! Poison et 1 Vulnérabilité à TOUS les ennemis. NL Boost !SV! : Gagnez [E]",
-		"NAME": "Tyuule"
+		"DESCRIPTION": "Appliquez !M! Poison et 1 Vulnérabilité à TOUS les ennemis.",
+		"NAME": "Tyuule",
+		"UPGRADE_DESCRIPTION": "Appliquez !M! Poison et 1 Vulnérabilité à TOUS les ennemis. NL Boost !SV! : Gagnez [E]"
 	},
 	"animator:Urushihara":
 	{
@@ -1147,7 +1147,7 @@
 	},
 	"animator:Yusarin":
 	{
-		"DESCRIPTION": "Gagnez [E]. NL Piochez !M! carte(s). NL Épuisement.",
+		"DESCRIPTION": "Motiver de !SV!. NL Piochez !M! carte(s). NL Épuisement.",
 		"NAME": "Yusarin"
 	},
 	"animator:Yuuichirou":

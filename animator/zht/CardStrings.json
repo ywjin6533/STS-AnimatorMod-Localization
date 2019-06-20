@@ -86,7 +86,7 @@
 	},
 	"animator:Benimaru":
 	{
-		"DESCRIPTION": "生成 1 個 火焰 充能球 。 對所有敵人造成 !D! 點 傷害 。 NL 同調 : 造成 !M! 點 燃燒 。",
+		"DESCRIPTION": "生成 1 個 火焰 充能球 。 對所有敵人造成 !D! 點 傷害 。 NL 為每一名帶有 燃燒 的敵人，獲得 !M! 點 臨時生命 。。",
 		"NAME": "紅丸"
 	},
 	"animator:Berserker":
@@ -111,7 +111,7 @@
 	},
 	"animator:Bozes":
 	{
-		"DESCRIPTION": "對生命值最低的敵人造成 !D! 點 傷害 。 抽 !M! 張牌 。 每當一張牌在本回合中觸發同調， 獲得 !SV! 點 格擋 。",
+		"DESCRIPTION": "對生命值最低的敵人造成 !D! 點 傷害。 NL 激勵 1 。消耗 。",
 		"NAME": "波賽斯"
 	},
 	"animator:Caster":
@@ -544,9 +544,8 @@
 	},
 	"animator:Kaijin":
 	{
-		"DESCRIPTION": "每回合結束時 ， 隨機選擇一張抽牌堆中的牌 ， 在本場戰鬥中使其造成的傷害與獲得的格擋量提高 !M! 點 。",
+		"DESCRIPTION": "每當你抽一張牌時， 使其造成的傷害與獲得的格擋量在本場戰鬥中提高 !M! 點 。",
 		"NAME": "凱·金",
-		"UPGRADE_DESCRIPTION": "固有 。 每回合結束時 ， 隨機選擇一張抽牌堆中的牌 ， 在本場戰鬥中使其造成的傷害與獲得的格擋量提高 !M! 點 。"
 	},
 	"animator:Kazuma":
 	{
@@ -1055,13 +1054,14 @@
 	},
 	"animator:TukaLunaMarceau":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 這回合隨機提高手牌中的牌 !M! 點格擋。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。下一輪，獲得 !B! 點 格擋 。同調 ：如果你此回合沒有擊出與此牌同名的牌， 激勵 1。",
 		"NAME": "杜嘉"
 	},
 	"animator:Tyuule":
 	{
-		"DESCRIPTION": "給予所有敵人 !M! 層 中毒 和 1 層 易傷 。 增強 !SV! : 獲得 [E]",
+		"DESCRIPTION": "給予所有敵人 !M! 層 中毒 和 1 層 易傷 。",
 		"NAME": "蒂尤蕾"
+		"UPGRADE_DESCRIPTION": "給予所有敵人 !M! 層 中毒 和 1 層 易傷 。 增強 !SV! : 獲得 [E]"
 	},
 	"animator:Urushihara":
 	{
@@ -1141,7 +1141,7 @@
 	},
 	"animator:Yusarin":
 	{
-		"DESCRIPTION": "獲得 [E] 。 NL 抽 !M! 張牌。 NL 消耗 。",
+		"DESCRIPTION": "激勵 !SV! 。 NL 抽 !M! 張牌。 NL 消耗 。",
 		"NAME": "西森柚咲"
 	},
 	"animator:Yuuichirou":

@@ -205,8 +205,8 @@
 		"PROPERNAME": "殘影"
 	},
 	{
-		"PROPER_NAME": "Motivate",
-		"NAMES": ["motivate"],
-		"DESCRIPTION": "Reduce the cost of a certain number of random cards in your hand by 1 this turn."
+		"PROPER_NAME": "激勵",
+		"NAMES": ["激勵"],
+		"DESCRIPTION": "隨機從手牌裡一張牌的能量消耗減1。重複 N 次。"
 	}
 ]
