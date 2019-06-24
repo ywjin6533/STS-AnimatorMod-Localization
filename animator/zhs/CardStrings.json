@@ -410,7 +410,7 @@
 	"animator:Giselle":
 	{
 		"DESCRIPTION": "造成 !D! 点伤害 。 NL 给予 !M! 层 燃烧 。 NL 对生命值低于 !SV! 点 的敌人造成三倍伤害 。",
-		"NAME": "Giselle"
+		"NAME": "吉赛尔"
 	},
 	"animator:Gluttony":
 	{
@@ -518,9 +518,9 @@
 	},
 	"animator:Illya":
 	{
-		"DESCRIPTION": "获得 1 层 易伤 。 将抽牌堆中伤害最高的 [#EFC851]攻击[] 牌 打出 。 消耗 。",
+		"DESCRIPTION": "获得 1 层 易伤 。 打出抽牌堆中伤害最高的 [#EFC851]攻击[] 牌  。 消耗 。",
 		"NAME": "伊莉雅",
-		"UPGRADE_DESCRIPTION": "获得 1 层 易伤 。 将抽牌堆中伤害最高的 [#EFC851]攻击[] 牌 打出 。"
+		"UPGRADE_DESCRIPTION": "获得 1 层 易伤 。 打出抽牌堆中伤害最高的 [#EFC851]攻击[] 牌  。"
 	},
 	"animator:ItamiYouji":
 	{
@@ -585,7 +585,7 @@
 	"animator:Kyubey":
 	{
 		"DESCRIPTION": "获得 [E] [E] NL 抽 !M! 张牌 。 NL 在你的弃牌堆中添加 2 个随机诅咒 。",
-		"NAME": "Kyubey",
+		"NAME": "QB",
 		"UPGRADE_DESCRIPTION": "获得 [E] [E] [E] NL 抽 !M! 张牌 。 NL 在你的弃牌堆中添加 2 个随机诅咒 。"
 	},
 	"animator:Lancer":
