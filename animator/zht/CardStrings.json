@@ -116,7 +116,7 @@
 	},
 	"animator:Caster":
 	{
-		"DESCRIPTION": "[#EFC851]激發第[] 一個充能球 。 NL [#EFC851]獲得[] 1 顆 黑暗充能球 。 NL 增強 : 敵人失去 !M! 點 力量 。",
+		"DESCRIPTION": "獲得 1 顆 黑暗充能球 。 NL 本回合從敵人身上奪取 !M! 點 力量 。 NL 遺贈 : 激發所有暗充能球 。",
 		"NAME": "Caster"
 	},
 	"animator:ChaikaBohdan":
@@ -696,9 +696,9 @@
 	},
 	"animator:NarberalGamma":
 	{
-		"DESCRIPTION": "生成 !M! 個 閃電 充能球 。 NL 變形者 。",
+		"DESCRIPTION": "生成 !M! 個 閃電 充能球 。 抽1張牌 。 NL 變形者 。",
 		"NAME": "娜貝拉爾·伽瑪",
-		"UPGRADE_DESCRIPTION": "生成 !M! 個 閃電 充能球 。 NL 變形者 。 閃電 本回合擊中所有敵人。"
+		"UPGRADE_DESCRIPTION": "生成 !M! 個 閃電 充能球 。 抽1張牌 。 NL 變形者 。 閃電 本回合擊中所有敵人。"
 	},
 	"animator:NivaLada":
 	{
@@ -812,7 +812,7 @@
 	},
 	"animator:Scar":
 	{
-		"DESCRIPTION": "造成 !D! 點 穿刺 傷害 。 NL [#EFC851]龍之吐息[] 。",
+		"DESCRIPTION": "虛無 。 造成 !D! 點 穿刺 傷害 。 NL [#EFC851]龍之吐息[] 。",
 		"EXTENDED_DESCRIPTION": ["龍之吐息", "如果這張牌殺死非爪牙的敵人， 抹除這張牌並在牌庫永久升級1張隨機牌。"],
 		"NAME": "斯卡"
 	},

@@ -20,7 +20,7 @@
 	{
 		"DESCRIPTION": "获得 !M! 魔法护甲 。 在你的抽牌堆中 消耗 1 张牌 。 加入一张 充能球核心 到抽牌堆 。 虚无 。 消耗 。",
 		"NAME": "艾迪",
-		"UPGRADE_DESCRIPTION": "获得 !M! 魔法护甲 。 在你的抽牌堆中 消耗 1 张牌 。 加入一张 充能球核心 到抽牌堆 。 虚无 。"
+		"UPGRADE_DESCRIPTION": "获得 !M! 魔法护甲 。 在你的抽牌堆中 消耗 1 张牌 。 加入一张 充能球核心 到抽牌堆 。 消耗 。"
 	},
 	"animator:Ain":
 	{
@@ -116,7 +116,7 @@
 	},
 	"animator:Caster":
 	{
-		"DESCRIPTION": "激发 你最右侧的充能球 。 生成 1 个 黑暗 充能球 。 NL 鼓舞 !SV! : 使敌人失去 !M! 点 力量 。 ",
+		"DESCRIPTION": "生成 1 个 黑暗 充能球 。 本回合从敌人身上夺取 !M! 点 力量 。 NL 遗赠 : 激发所有暗充能球 。",
 		"NAME": "Caster"
 	},
 	"animator:ChaikaBohdan":
@@ -698,9 +698,9 @@
 	},
 	"animator:NarberalGamma":
 	{
-		"DESCRIPTION": "生成 !M! 个闪电 充能球 。 NL 穿越者 。",
+		"DESCRIPTION": "生成 !M! 个闪电 充能球 。 抽1张牌 。 NL 穿越者 。",
 		"NAME": "娜贝拉尔·伽玛",
-		"UPGRADE_DESCRIPTION": "生成 !M! 个闪电 充能球 。 NL 穿越者 。 本回合 闪电球 攻击全部敌人 。"
+		"UPGRADE_DESCRIPTION": "生成 !M! 个闪电 充能球 。 抽1张牌 。 NL 穿越者 。 本回合 闪电球 攻击全部敌人 。"
 	},
 	"animator:NivaLada":
 	{
@@ -814,7 +814,7 @@
 	},
 	"animator:Scar":
 	{
-		"DESCRIPTION": "造成 !D! 点 穿刺 伤害 。 NL [#EFC851]龙之吐息[] .",
+		"DESCRIPTION": "虚无。 造成 !D! 点 穿刺 伤害 。 NL [#EFC851]龙之吐息[] .",
 		"EXTENDED_DESCRIPTION": ["龙之吐息", "如果这张牌消灭了一个非爪牙的敌人 ， #y抹除 这张牌，在你的牌库中永久 #y升级 一张牌"],
 		"NAME": "斯卡"
 	},

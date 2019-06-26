@@ -117,7 +117,7 @@
 	},
 	"animator:Caster":
 	{
-		"DESCRIPTION": "[#EFC851]Evoke your first Orb. NL [#EFC851]Channel 1 Dark. NL Boost !SV! : The enemy loses !M! Strength.",
+		"DESCRIPTION": "[#EFC851]Channel 1 Dark. NL Steal !M! Strength until end of turn. Legacy: Evoke ALL Dark orbs.",
 		"NAME": "Caster"
 	},
 	"animator:ChaikaBohdan":
@@ -703,9 +703,9 @@
 	},
 	"animator:NarberalGamma":
 	{
-		"DESCRIPTION": "Shapeshifter. NL Channel !M! Lightning.",
+		"DESCRIPTION": "Shapeshifter. NL Channel !M! Lightning. NL Draw 1 card.",
 		"NAME": "Gamma Narberal",
-		"UPGRADE_DESCRIPTION": "Shapeshifter. NL Channel !M! Lightning. NL Lightning hits ALL enemies this turn."
+		"UPGRADE_DESCRIPTION": "Shapeshifter. NL Channel !M! Lightning. NL Lightning hits ALL enemies this turn. NL Draw 1 card."
 	},
 	"animator:NivaLada":
 	{
@@ -819,8 +819,8 @@
 	},
 	"animator:Scar":
 	{
-		"DESCRIPTION": "Deal !D! Piercing damage. NL [#EFC851]Dragon's[] [#EFC851]Pulse[].",
-		"EXTENDED_DESCRIPTION": ["Dragon's Pulse", "If this kills a non-minion enemy, #yPurge this card and permanently #yUpgrade a random card in your deck"],
+		"DESCRIPTION": "Ethereal. Deal !D! Piercing damage. NL [#EFC851]Dragon's[] [#EFC851]Pulse[].",
+		"EXTENDED_DESCRIPTION": ["Dragon's Pulse", "If this kills an enemy, #yPurge this card and permanently #yUpgrade a random card in your deck"],
 		"NAME": "Scar"
 	},
 	"animator:Sebas":

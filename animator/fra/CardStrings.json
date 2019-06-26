@@ -116,7 +116,7 @@
 	},
 	"animator:Caster":
 	{
-		"DESCRIPTION": "[#EFC851]Activez votre première Orbe. NL Canalisez 1 Orbe Obscure. NL Boost !SV! : L'ennemi perd !M! de Force.",
+		"DESCRIPTION": "Canalisez 1 Orbe Obscure. NL Volez !M! Force ce tour. NL Héritage: Activez votre Orbes Obscurs.",
 		"NAME": "Caster"
 	},
 	"animator:ChaikaBohdan":
@@ -701,9 +701,9 @@
 	},
 	"animator:NarberalGamma":
 	{
-		"DESCRIPTION": "Changeforme. NL Canalisez !M! Orbe Kéraunique.",
+		"DESCRIPTION": "Changeforme. NL Canalisez !M! Orbe Kéraunique. NL Piochez 1 carte.",
 		"NAME": "Gamma Narberal",
-		"UPGRADE_DESCRIPTION": "Changeforme. NL Canalisez !M! Orbe Kéraunique. NL Vos Orbes Kéraunique touchent TOUS les ennemiss ce tour."
+		"UPGRADE_DESCRIPTION": "Changeforme. NL Canalisez !M! Orbe Kéraunique. Vos Orbes Kéraunique touchent TOUS les ennemiss ce tour. Piochez 1 carte."
 	},
 	"animator:NivaLada":
 	{
@@ -817,7 +817,7 @@
 	},
 	"animator:Scar":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) Perçant. NL [#EFC851]Dragon's[] [#EFC851]Pulse[].",
+		"DESCRIPTION": "Éthérée. Infligez !D! dégât(s) Perçant. NL [#EFC851]Dragon's[] [#EFC851]Pulse[].",
 		"EXTENDED_DESCRIPTION": ["Dragon's Pulse", "Si cette carte tue un ennemi (non-minion), #ypurgez cette carte et #yaméliorez de manière permanente une carte aléatoire de votre deck"],
 		"NAME": "Scar"
 	},
