@@ -550,7 +550,7 @@
 	{
 		"DESCRIPTION": "Lorsque vous pigez une carte, augmentez sa quantité de dégâts et d'Armure par !M! pour ce combat.",
 		"NAME": "Kaijin",
-		"UPGRADE_DESCRIPTION": "Lorsque vous pigez une carte, augmentez sa quantité de dégâts et d'Armure par !M! pour ce combat. Piochez 2 cartes."
+		"UPGRADE_DESCRIPTION": "Lorsque vous pigez une carte, augmentez sa quantité de dégâts et d'Armure par !M! pour ce combat. Au prochain tour, piochez 2 cartes."
 	},
 	"animator:Kazuma":
 	{

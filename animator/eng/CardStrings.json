@@ -552,7 +552,7 @@
 	{
 		"DESCRIPTION": "Whenever you draw a card, increase its damage and Block by !M! this combat.",
 		"NAME": "Kaijin",
-		"UPGRADE_DESCRIPTION": "Whenever you draw a card, increase its damage and Block by !M! this combat. NL Draw !SV! cards."
+		"UPGRADE_DESCRIPTION": "Whenever you draw a card, increase its damage and Block by !M! this combat. Next turn, draw !SV! cards."
 	},
 	"animator:Kazuma":
 	{
