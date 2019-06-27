@@ -165,7 +165,7 @@
 	},
 	"animator:CrowleyEusford":
 	{
-		"DESCRIPTION": "对一个随机的敌人造成 !D! 点 伤害  。 NL 如果该回合你 消耗 了一张牌, 将此卡的消耗降低到0 。",
+		"DESCRIPTION": "对一个随机的敌人造成 !D! 点 伤害 !M! 次 。 NL 你在这个回合内每 消耗 一张牌， 耗能就减少 1 。",
 		"NAME": " 克劳利·尤斯福德 "
 	},
 	"animator:Crystallize":
@@ -547,7 +547,8 @@
 	"animator:Kaijin":
 	{
 		"DESCRIPTION": "每当你抽一张牌时，使其造成的伤害与获得的格挡量在本场战斗中提高 !M! 点 。",
-		"NAME": "凯·金"
+		"NAME": "凯·金",
+		"UPGRADE_DESCRIPTION": "每当你抽一张牌时，使其造成的伤害与获得的格挡量在本场战斗中提高 !M! 点 。 抽 2 张牌 。"
 	},
 	"animator:Kazuma":
 	{

@@ -167,7 +167,7 @@
 	},
 	"animator:CrowleyEusford":
 	{
-		"DESCRIPTION": "Deal !D! damage to a random enemy. NL This card costs 0 NL if you Exhausted NL a card this turn.",
+		"DESCRIPTION": "Deal !D! damage to a random enemy !M! times. Costs 1 less for each card Exhausted this turn.",
 		"NAME": "Crowley Eusford"
 	},
 	"animator:Crystallize":
@@ -551,7 +551,8 @@
 	"animator:Kaijin":
 	{
 		"DESCRIPTION": "Whenever you draw a card, increase its damage and Block by !M! this combat.",
-		"NAME": "Kaijin"
+		"NAME": "Kaijin",
+		"UPGRADE_DESCRIPTION": "Whenever you draw a card, increase its damage and Block by !M! this combat. NL Draw !SV! cards."
 	},
 	"animator:Kazuma":
 	{

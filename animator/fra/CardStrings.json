@@ -165,7 +165,7 @@
 	},
 	"animator:CrowleyEusford":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire. NL Cette carte coûte 0 NL si vous avez Épuisé une carte ce tour.",
+		"DESCRIPTION": "Infligez !D! dégât(s) à un ennemi aléatoire !M! fois. Coûte 1 en moins NL par carte Épuisé ce tour.",
 		"NAME": "Crowley Eusford"
 	},
 	"animator:Crystallize":
@@ -549,7 +549,8 @@
 	"animator:Kaijin":
 	{
 		"DESCRIPTION": "Lorsque vous pigez une carte, augmentez sa quantité de dégâts et d'Armure par !M! pour ce combat.",
-		"NAME": "Kaijin"
+		"NAME": "Kaijin",
+		"UPGRADE_DESCRIPTION": "Lorsque vous pigez une carte, augmentez sa quantité de dégâts et d'Armure par !M! pour ce combat. Piochez 2 cartes."
 	},
 	"animator:Kazuma":
 	{
