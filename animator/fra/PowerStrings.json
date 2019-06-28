@@ -42,7 +42,7 @@
 	},
 	"animator:CursedStabsPower":
 	{
-		"DESCRIPTIONS": ["À chaque fois que cet ennemi inflige des dégâts non bloqués, ajoutez une #yDouleur et une #yPlaie dans votre pioche."],
+		"DESCRIPTIONS": ["À chaque fois que cet ennemi inflige des dégâts non bloqués, ajoutez une #yDouleur dans votre pioche."],
 		"NAME": "Poignards Maudits"
 	},
 	"animator:DarkCrystalPower":

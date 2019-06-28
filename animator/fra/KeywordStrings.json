@@ -205,6 +205,11 @@
 		"DESCRIPTION": "Tout dégats non bloqué, inflige #b1 Brûlure par coup."
 	},
 	{
+		"PROPER_NAME": "Demon Form",
+		"NAMES": ["demon form", "demon_form"],
+		"DESCRIPTION": "Au début de chaque tour, gagnez 1 de #yForce."
+	},
+	{
 		"PROPER_NAME": "Juggernaut",
 		"NAMES": ["juggernaut"],
 		"DESCRIPTION": "Quand vous gagnez de #yl'Armure, infligé des dégats à un ennemi aléatoire."

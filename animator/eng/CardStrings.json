@@ -71,7 +71,7 @@
 	},
 	"animator:Asuramaru":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Deal !D! damage. NL Gain !M! Strength. NL Gain !M! Dexterity. NL Exhaust.",
+		"DESCRIPTION": "Gain !M! Demon_Form. NL Gain !M! Dexterity. NL Gain !B! Block. NL Deal !D! damage. NL Exhaust.",
 		"NAME": "Asuramaru"
 	},
 	"animator:Azekura":

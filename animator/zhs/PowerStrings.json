@@ -42,7 +42,7 @@
 	},
 	"animator:CursedStabsPower":
 	{
-		"DESCRIPTIONS": ["当这个敌人对你造成伤害时, 在你的抽牌堆里添加1张 #y疼痛 和1张 #y伤口 。"],
+		"DESCRIPTIONS": ["当这个敌人对你造成伤害时, 在你的抽牌堆里添加1张 #y疼痛 。"],
 		"NAME": "诅咒戳刺"
 	},
 	"animator:DarkCrystalPower":
