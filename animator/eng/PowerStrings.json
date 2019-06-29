@@ -237,7 +237,7 @@
 	},
 	"animator:OrbCore_FrostPower":
 	{
-		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, gain #b", " #yBlock."],
+		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, gain #b", " #yPlated #yArmor."],
 		"NAME": "Frost Core"
 	},
 	"animator:OrbCore_LightningPower":
@@ -247,7 +247,7 @@
 	},
 	"animator:OrbCore_PlasmaPower":
 	{
-		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, gain #b", " #yEnergy."],
+		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, gain #b", " #yTemporary #yHP."],
 		"NAME": "Plasma Core"
 	},
 	"animator:PinaCoLadaPower":

@@ -18,9 +18,9 @@
 	},
 	"animator:Add":
 	{
-		"DESCRIPTION": "Gagnez !M! d'Armure_Enchantée. NL Épuisez 1 carte dans votre pioche. Remplacez-la par un Noyau_d'orbe. NL Éthérée. Épuisement.",
+		"DESCRIPTION": "Gagnez !M! d'Armure_Enchantée. NL Épuisez 1 carte dans tout lieu. Remplacez-la par un Noyau_d'orbe. NL Éthérée. Épuisement.",
 		"NAME": "Add",
-		"UPGRADE_DESCRIPTION": "Gagnez !M! d'Armure_Enchantée. NL Épuisez 1 carte dans votre pioche. Remplacez-la par un Noyau_d'orbe. NL Épuisement."
+		"UPGRADE_DESCRIPTION": "Gagnez !M! d'Armure_Enchantée. NL Épuisez 1 carte dans tout lieu. Remplacez-la par un Noyau_d'orbe. NL Épuisement."
 	},
 	"animator:Ain":
 	{
@@ -356,8 +356,9 @@
 	},
 	"animator:Eve":
 	{
-		"DESCRIPTION": "Jouer un Noyau_d'orbe. NL Quand vous effectuez une Synergie, Infligez !M! dégât(s) à un ennemi et augmentez ces dégât(s) par 1.",
-		"NAME": "Eve"
+		"DESCRIPTION": "Jouez !SV! Noyau_d'orbe. NL Quand vous effectuez une Synergie, Infligez !M! dégât(s) à un ennemi et augmentez ces dégât(s) par 1.",
+		"NAME": "Eve",
+		"UPGRADE_DESCRIPTION": "Jouez !SV! Noyaux_d'orbe. NL Quand vous effectuez une Synergie, Infligez !M! dégât(s) à un ennemi et augmentez ces dégât(s) par 1."
 	},
 	"animator:Evileye":
 	{
@@ -498,7 +499,7 @@
 	},
 	"animator:HiiragiShinya":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Si c'est votre première [#EFC851]Attaque ce tour, appliquez un [#EFC851]Debuff aléatoire.",
+		"DESCRIPTION": "Gagnez !B! d'Armure et !M! de Dégât_de_Soutien. Chercher 1 carte de votre Défausse et Conservez-la, elle coûte 1 de plus ce tour.",
 		"NAME": "Shinya Hiiragi"
 	},
 	"animator:HiiragiTenri":
@@ -728,7 +729,7 @@
 	},
 	"animator:OrbCore_Frost":
 	{
-		"DESCRIPTION": "Canalisez !SV! Orbe Glaciale. NL À la seconde Synergie de chaque tour, NL Gagnez !M! d'Armure.",
+		"DESCRIPTION": "Canalisez !SV! Orbe Glaciale. NL À la seconde Synergie de chaque tour, NL Gagnez !M! d'Armure_Plaquée.",
 		"NAME": "Noyau Glacial"
 	},
 	"animator:OrbCore_Lightning":
@@ -738,7 +739,7 @@
 	},
 	"animator:OrbCore_Plasma":
 	{
-		"DESCRIPTION": "Canalisez !SV! Orbe Plasmique. NL À la seconde Synergie de chaque tour, NL Gagnez [E].",
+		"DESCRIPTION": "Canalisez !SV! Orbe Plasmique. NL À la seconde Synergie de chaque tour, NL Gagnez !M! de Temp._PV.",
 		"NAME": "Noyau Plasmique"
 	},
 	"animator:PandorasActor":

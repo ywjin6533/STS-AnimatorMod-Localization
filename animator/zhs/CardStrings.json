@@ -18,9 +18,9 @@
 	},
 	"animator:Add":
 	{
-		"DESCRIPTION": "获得 !M! 魔法护甲 。 在你的抽牌堆中 消耗 1 张牌 。 加入一张 充能球核心 到抽牌堆 。 虚无 。 消耗 。",
+		"DESCRIPTION": "获得 !M! 魔法护甲 。 任何地方中 消耗 1 张牌 。 加入一张 充能球核心 到抽牌堆 。 虚无 。 消耗 。",
 		"NAME": "艾迪",
-		"UPGRADE_DESCRIPTION": "获得 !M! 魔法护甲 。 在你的抽牌堆中 消耗 1 张牌 。 加入一张 充能球核心 到抽牌堆 。 消耗 。"
+		"UPGRADE_DESCRIPTION": "获得 !M! 魔法护甲 。 任何地方中 消耗 1 张牌 。 加入一张 充能球核心 到抽牌堆 。 消耗 。"
 	},
 	"animator:Ain":
 	{
@@ -354,7 +354,7 @@
 	},
 	"animator:Eve":
 	{
-		"DESCRIPTION": "激发 一个 充能球核心 。 每触发一次同调 ， 对随机敌人造成 !M! 点伤害并提高该能力 1 点 额外伤害 。",
+		"DESCRIPTION": "激发 !SV! 充能球核心 。 每触发一次同调 ， 对随机敌人造成 !M! 点伤害并提高该能力 1 点 额外伤害 。",
 		"NAME": "伊芙"
 	},
 	"animator:Evileye":
@@ -496,7 +496,7 @@
 	},
 	"animator:HiiragiShinya":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害 。 如果这是你本回合第一次进攻 ， 给予目标一个随机的 [#EFC851]负面效果[] 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 获得 !M! 点 支援伤害 。 从你的弃牌堆中取一张牌并保留它, 它本回合消耗1个额外的能量 。",
 		"NAME": "柊深夜"
 	},
 	"animator:HiiragiTenri":
@@ -725,7 +725,7 @@
 	},
 	"animator:OrbCore_Frost":
 	{
-		"DESCRIPTION": "生成 !SV! 个 冰霜 充能球 。 NL 每回合第二次同调时 ， 获得 !B! 点 格挡 。",
+		"DESCRIPTION": "生成 !SV! 个 冰霜 充能球 。 NL 每回合第二次同调时 ， 获得 !B! 点 多层护甲 。",
 		"NAME": "冰霜核心"
 	},
 	"animator:OrbCore_Lightning":
@@ -735,7 +735,7 @@
 	},
 	"animator:OrbCore_Plasma":
 	{
-		"DESCRIPTION": "生成 !SV! 个 等离子 充能球 。 NL 每回合第二次同调时 ， 获得 [E] 。",
+		"DESCRIPTION": "生成 !SV! 个 等离子 充能球 。 NL 每回合第二次同调时 ， 获得 !M! 点 临时生命",
 		"NAME": "等离子核心"
 	},
 	"animator:PandorasActor":
