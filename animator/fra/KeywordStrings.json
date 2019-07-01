@@ -222,6 +222,6 @@
 	{
 		"PROPER_NAME": "Motiver <N>",
 		"NAMES": ["motiver", "motivation"],
-		"DESCRIPTION": "Reduit le coût d'une carte aléatoire de votre main par 1 pendant ce tour. Répète <N> fois."
+		"DESCRIPTION": "Reduit le coût d'une carte aléatoire de votre main par 1 jusqu'à ce qu'il soit joué. Répète <N> fois."
 	}
 ]

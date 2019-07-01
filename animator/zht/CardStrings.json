@@ -75,7 +75,7 @@
 	},
 	"animator:Azekura":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 2 次 。 NL 同調 : 獲得 !M! 層 多層護甲 。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 2 次 。 獲得 !SV! 層 [＃EFC851]臨時荊棘[] 。 同調 : 獲得 !M! 層 多層護甲 。",
 		"NAME": "校倉必"
 	},
 	"animator:Azriel":
@@ -288,8 +288,9 @@
 	},
 	"animator:DwarfShaman":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 獲得 1 個 大地 充能球 。 同調 : 使用你最右側的1個充能球的被動能力 。",
-		"NAME": "矮人薩滿"
+		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 獲得 1 個 大地 充能球 。 同調 : 手中升級1張卡 。",
+		"NAME": "矮人薩滿",
+		"UPGRADE_DESCRIPTION": "造成 !D! 點 傷害 。 NL 獲得 1 個 大地 充能球 。 同調 : 手中升級1張卡 。"
 	},
 	"animator:Elesis":
 	{
@@ -315,7 +316,7 @@
 	},
 	"animator:Elsword":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 循環 !M! 張牌 。 撤回 : [#EFC851]生成[] 1 個 火焰 充能球 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 如果敌人有 燃烧， 激勵 !M! 。 冷卻 !SV! : [#EFC851]生成[] 1 個 火焰 充能球 。",
 		"NAME": "艾索德"
 	},
 	"animator:EmiyaShirou":
@@ -1055,7 +1056,7 @@
 	},
 	"animator:TukaLunaMarceau":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。下一輪，獲得 !B! 點 格擋 。 如果這是本輪的第一次 同調 ， 激勵 1 。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。下一輪，獲得 !B! 點 格擋 。 如果這是本輪的第一次 同調 ， 抽一張牌 。",
 		"NAME": "杜嘉"
 	},
 	"animator:Tyuule":

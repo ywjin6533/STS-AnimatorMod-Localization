@@ -75,7 +75,7 @@
 	},
 	"animator:Azekura":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 2 次 。 NL 同调 : 获得 !M! 点 多层护甲 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 2 次 。 获得 !SV! 层 [#EFC851]临时荆棘[] 。 同调 : 获得 !M! 点 多层护甲 。",
 		"NAME": "校仓必"
 	},
 	"animator:Azriel":
@@ -288,8 +288,9 @@
 	},
 	"animator:DwarfShaman":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害 。 获得 1 个 土地 充能球 。 同调 : 使用你最右侧的1个充能球的被动能力 。",
-		"NAME": "矮人萨满"
+		"DESCRIPTION": "造成 !D! 点伤害 。 获得 1 个 土地 充能球 。 同调 : 手中升级1张卡 。",
+		"NAME": "矮人萨满",
+		"UPGRADE_DESCRIPTION": "造成 !D! 点伤害 。 获得 1 个 土地 充能球 。 手中升级1张卡 。"
 	},
 	"animator:Elesis":
 	{
@@ -1058,7 +1059,7 @@
 	},
 	"animator:TukaLunaMarceau":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。下一轮，获得 !B! 点 格挡 。 如果这是本轮的第一次 同调， 激励 1 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。下一轮，获得 !B! 点 格挡 。 如果这是本轮的第一次 同调， 抽一张牌 。",
 		"NAME": "杜嘉"
 	},
 	"animator:Tyuule":
