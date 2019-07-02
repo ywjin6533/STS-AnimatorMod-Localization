@@ -288,9 +288,9 @@
 	},
 	"animator:DwarfShaman":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害 。 获得 1 个 土地 充能球 。 同调 : 手中升级1张卡 。",
+		"DESCRIPTION": "造成 !D! 点伤害 。 获得 1 个 土地 充能球 。 同调 : 升级1张手牌。",
 		"NAME": "矮人萨满",
-		"UPGRADE_DESCRIPTION": "造成 !D! 点伤害 。 获得 1 个 土地 充能球 。 手中升级1张卡 。"
+		"UPGRADE_DESCRIPTION": "造成 !D! 点伤害 。 获得 1 个 土地 充能球 。 升级1张手牌。"
 	},
 	"animator:Elesis":
 	{
@@ -316,7 +316,7 @@
 	},
 	"animator:Elsword":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害 。 循环 !M! 张牌 。 撤回 : [#EFC851]生成[] 1 个 火焰 充能球 。",
+		"DESCRIPTION": "造成 !D! 点 伤害 。 如果敌人带有 燃烧 ， 激励 1 。 预热 !SV! : [#EFC851]生成[] 1 个 火焰 充能球 。",
 		"NAME": "艾索德"
 	},
 	"animator:EmiyaShirou":
@@ -497,7 +497,7 @@
 	},
 	"animator:HiiragiShinya":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。 获得 !M! 点 支援伤害 。 从你的弃牌堆中取一张牌并保留它, 它本回合消耗1个额外的能量 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 获得 !M! 点 支援伤害 。 从你的弃牌堆中取一张牌并保留它, 此牌本轮能耗加1 。",
 		"NAME": "柊深夜"
 	},
 	"animator:HiiragiTenri":
