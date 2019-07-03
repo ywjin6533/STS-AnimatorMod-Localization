@@ -322,6 +322,12 @@
 		"DESCRIPTION": "Deal !D! damage. NL If the enemy has NL Burning, Motivate 1. NL Cooldown !SV! : NL [#EFC851]Channel 1 Fire.",
 		"NAME": "Elsword"
 	},
+	"animator:Emilia":
+	{
+		"DESCRIPTION": "Channel 1 Frost. NL Channel 1 Lightning NL for each Frost Orb NL you have. Exhaust.",
+		"NAME": "Emilia",
+		"UPGRADE_DESCRIPTION": "Channel 1 Frost. NL Channel 1 Lightning NL for each Frost Orb NL you have."
+	},
 	"animator:EmiyaShirou":
 	{
 		"DESCRIPTION": "Give a random NL enemy !M! Block and 1 Vulnerable. When an enemy loses its Block this turn, gain [E] and draw an [#EFC851]Attack[].",

@@ -320,6 +320,12 @@
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Si l'ennemi a Brûlure, Motiver de 1. Cooldown !SV!: [#EFC851]Canalisez[] 1 Orbe Incendiare.",
 		"NAME": "Elsword"
 	},
+	"animator:Emilia":
+	{
+		"DESCRIPTION": "Canalisez 1 Orbe Glaciale. Canalisez 1 Orbe Kéraunique pour chaque Orbe Glaciale. Épuisement.",
+		"NAME": "Emilia",
+		"UPGRADE_DESCRIPTION": "Canalisez 1 Orbe Glaciale. Canalisez 1 Orbe Kéraunique pour chaque Orbe Glaciale."
+	},
 	"animator:EmiyaShirou":
 	{
 		"DESCRIPTION": "Donnez à un ennemi aléatoire !M! d'Armure et 1 Vulnérabilité. Chaque fois qu'un ennemi perd son Armure ce tour, Gagnez 1 #yEnergy et piochez une #yAttack.",

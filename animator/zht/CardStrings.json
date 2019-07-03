@@ -319,6 +319,12 @@
 		"DESCRIPTION": "造成 !D! 點 傷害 。 如果敵人帶有 燃燒 ， 激勵 1 。 冷却 !SV! : [#EFC851]生成[] 1 個 火焰 充能球 。",
 		"NAME": "艾索德"
 	},
+	"animator:Emilia":
+	{
+		"DESCRIPTION": "獲得 1 個冰霜充能球 。為每一個 冰霜 充能球 生成 1 個 閃電 充能球 。 消耗 。",
+		"NAME": "Emilia",
+		"UPGRADE_DESCRIPTION": "獲得 1 個冰霜充能球 。為每一個 冰霜 充能球 生成 1 個 閃電 充能球 。"
+	},
 	"animator:EmiyaShirou":
 	{
 		"DESCRIPTION": "給予一個隨機敵人 !M! 點 格擋 和 1 層 易傷 。 本回合， 本回合，打破格擋時獲得 1 點 #y能量 和抽一張 隨機 #y攻擊牌 。",
