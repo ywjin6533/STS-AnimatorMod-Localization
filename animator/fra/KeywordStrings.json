@@ -105,7 +105,7 @@
 		"PROPERNAME": "Orbe Incendiare"
 	},
 	{
-		"NAMES": ["aérien", "aériens", "aérien(s)],
+		"NAMES": ["aérien", "aériens", "aérien(s)"],
 		"DESCRIPTION": "Orbe: Inflige des dégâts #yPerçants à tous les ennemis.",
 		"PROPERNAME": "Orbe Aérien"
 	},
