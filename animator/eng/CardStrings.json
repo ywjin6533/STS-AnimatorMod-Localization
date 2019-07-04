@@ -822,8 +822,17 @@
 	},
 	"animator:Saitama":
 	{
-		"DESCRIPTION": "Deal !D! Piercing Damage. Increase this card's damage by !M! this combat, scaling with Strength.",
-		"NAME": "Saitama"
+		"DESCRIPTION": "Whenever this card is played, increase its cost and change its effect for this combat.",
+		"EXTENDED_DESCRIPTION": 
+		[
+			"Draw !M! Cards. NL Gain !SV! Temporary Dexterity.",
+			"Prevent the next time you would lose HP.",
+			"Gain !M! Strength. NL Gain !B! Block.",
+			"Deal !D! damage NL !M! times.",
+			"Remove Intangible. NL Deal !D! NL Piercing damage."
+		],
+		"NAME": "Saitama",
+		"UPGRADE_DESCRIPTION": "Innate. Whenever this card is played, increase its cost and change its effect for this combat."
 	},
 	"animator:Scar":
 	{
