@@ -825,7 +825,7 @@
 		"DESCRIPTION": "Whenever this card is played, increase its cost and change its effect for this combat.",
 		"EXTENDED_DESCRIPTION": 
 		[
-			"Draw !M! Cards. NL Gain !SV! Temporary Dexterity.",
+			"Draw !M! cards. NL Gain !SV! Temporary Dexterity.",
 			"Prevent the next time you would lose HP.",
 			"Gain !M! Strength. NL Gain !B! Block.",
 			"Deal !D! damage NL !M! times.",
