@@ -634,7 +634,7 @@
 	},
 	"animator:MaesHughes":
 	{
-		"DESCRIPTION": "Draw 1 card and reduce its cost by !M! this turn. Legacy: Deal !D! Damage to ALL enemies.",
+		"DESCRIPTION": "Draw 1 card for every !M! cards in your draw pile. Motivate 1. Legacy: Apply !SV! Burning to ALL enemies.",
 		"NAME": "Maes Hughes"
 	},
 	"animator:Megumin":
@@ -1042,9 +1042,9 @@
 	},
 	"animator:Tet":
 	{
-		"DESCRIPTION": "Discard up to 2 cards from your draw pile. NL Draw !M! cards.",
+		"DESCRIPTION": "Discard up to 2 cards from your draw pile. Move 2 cards from your discard pile to your draw pile.",
 		"NAME": "Tet",
-		"UPGRADE_DESCRIPTION": "Discard up to 2 cards from your draw pile. NL Draw !M! cards. NL Boost !SV! : gain [E]."
+		"UPGRADE_DESCRIPTION": "Retain. Discard up to 2 cards from your draw pile. Move 2 cards from your discard pile to your draw pile."
 	},
 	"animator:TheHaunt":
 	{

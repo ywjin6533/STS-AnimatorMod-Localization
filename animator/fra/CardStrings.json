@@ -632,7 +632,7 @@
 	},
 	"animator:MaesHughes":
 	{
-		"DESCRIPTION": "Piochez 1 card et réduisez son coût de !M! ce tour. Héritage: Infligez !D! dégât(s) à TOUS les ennemis.",
+		"DESCRIPTION": "Piochez 1 carte pour chaque !M! cartes de votre pioche. Motiver de 1. Héritage: Appliquez !SV! Brûlure à TOUS les ennemies.",
 		"NAME": "Maes Hughes"
 	},
 	"animator:Megumin":
@@ -1040,9 +1040,9 @@
 	},
 	"animator:Tet":
 	{
-		"DESCRIPTION": "Défausser jusqu'a 2 carte(s) de votre pioche. NL Piochez !M! carte(s).",
+		"DESCRIPTION": "Défausser jusqu'a 2 carte(s) de votre pioche. Déplacez 2 cartes de votre défausse vers votre pioche.",
 		"NAME": "Tet",
-		"UPGRADE_DESCRIPTION": "Défausser jusqu'a 2 carte(s) de votre pioche. NL Piochez !M! carte(s). NL Boost !SV! : Gagnez [E]."
+		"UPGRADE_DESCRIPTION": "Conservez. Défausser jusqu'a 2 carte(s) de votre pioche. Déplacez 2 cartes de votre défausse vers votre pioche."
 	},
 	"animator:TheHaunt":
 	{
@@ -1136,7 +1136,7 @@
 	},
 	"animator:Witch":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Synergie: Appliquez !M! Brûlure. NL Héritage: Obtenez une Potion aléatoire.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez !M! Brûlure à TOUS les ennemies. Héritage: Obtenez une Potion aléatoire.",
 		"NAME": "'Sorcière'"
 	},
 	"animator:Wiz":

@@ -630,7 +630,7 @@
 	},
 	"animator:MaesHughes":
 	{
-		"DESCRIPTION": "抽 1 张牌 ， 在本回合中减少其 !M! 点 耗能 。 遗赠 : 对所有敌人造成 !D! 点 伤害 。",
+		"DESCRIPTION": "为您牌组中的每 !M! 张牌抽一张牌 。 激励 1 。 遗赠 : 给予所有敌人 !SV! 层 燃烧 。",
 		"NAME": "马斯·休斯"
 	},
 	"animator:Megumin":
@@ -1037,9 +1037,9 @@
 	},
 	"animator:Tet":
 	{
-		"DESCRIPTION": "在你的抽牌堆中选择 2 张牌，丢弃它们。 抽 !M! 张牌 。",
+		"DESCRIPTION": "在你的抽牌堆中选择 2 张牌，丢弃它们。 将 2 张牌从丢弃堆中移到您的抽签堆中 。",
 		"NAME": "特图",
-		"UPGRADE_DESCRIPTION": "在你的抽牌堆中选择 2 张牌，丢弃它们。 抽 !M! 张牌 。 鼓舞 !SV! : 获得 [E]"
+		"UPGRADE_DESCRIPTION": "保留 。 在你的抽牌堆中选择 2 张牌，丢弃它们。 将 2 张牌从丢弃堆中移到您的抽签堆中 。"
 	},
 	"animator:TheHaunt":
 	{

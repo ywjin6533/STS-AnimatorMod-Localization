@@ -628,7 +628,7 @@
 	},
 	"animator:MaesHughes":
 	{
-		"DESCRIPTION": "抽 1 張牌然後這回合減少 !M! 點耗能 。 遺產 : 對所有敵人造成 !D! 點傷害 。",
+		"DESCRIPTION": "為您牌組中的每 !M! 張牌抽一張牌 。 激勵 1 。 遺產 : 給予所有敵人 !SV! 層 燃燒 。",
 		"NAME": "馬斯休斯"
 	},
 	"animator:Megumin":
@@ -1034,9 +1034,9 @@
 	},
 	"animator:Tet":
 	{
-		"DESCRIPTION": "在你的抽牌堆中選擇 2 張牌 。 抽 !M! 張牌 。",
+		"DESCRIPTION": "在你的抽牌堆中選擇 2 張牌 。 將 2 張牌從丟棄堆中移到您的抽籤堆中 。",
 		"NAME": "特圖",
-		"UPGRADE_DESCRIPTION": "在你的抽牌堆中選擇 2 張牌 。 抽 !M! 張牌 。 增強 !SV! : 獲得 [E]"
+		"UPGRADE_DESCRIPTION": "保留 。 在你的抽牌堆中選擇 2 張牌 。 將 2 張牌從丟棄堆中移到您的抽籤堆中 。"
 	},
 	"animator:TheHaunt":
 	{
