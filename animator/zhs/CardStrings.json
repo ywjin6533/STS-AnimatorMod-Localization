@@ -822,13 +822,13 @@
 	},
 	"animator:Scar":
 	{
-		"DESCRIPTION": "虚无。 造成 !D! 点 穿刺 伤害 。 NL [#EFC851]龙之吐息[] .",
+		"DESCRIPTION": "虚无。 造成 !D! 点 穿刺 伤害 。 NL [#EFC851]龙之吐息[] 。",
 		"EXTENDED_DESCRIPTION": ["龙之吐息", "如果这张牌消灭了一个非爪牙的敌人 ， #y抹除 这张牌，在你的牌库中永久 #y升级 一张牌"],
 		"NAME": "斯卡"
 	},
 	"animator:Sebas":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 同调 : 在下一回合获得 !M! 点 格挡 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 获得相当于手牌总能耗数量的额外 格挡 。",
 		"NAME": "塞巴斯"
 	},
 	"animator:SeriousSaitama":
@@ -839,8 +839,8 @@
 	},
 	"animator:Shalltear":
 	{
-		"DESCRIPTION": "[#EFC851]嗜血[] 。 NL 造成 !D! 点伤害 。 NL 同调 : 获得 1 点力量，目标失去一点力量 。",
-		"EXTENDED_DESCRIPTION": ["嗜血", "如果这张牌消灭了一个非爪牙的敌人 ， 恢复 5 点 生命 并 获得 [E]"],
+		"DESCRIPTION": "[#EFC851]嗜血[] 。 NL 对所有敌人造成 !D! 点 伤害 。 NL 同调 : 所有攻击目标失去 1 点 力量，获得等量的 力量 。",
+		"EXTENDED_DESCRIPTION": ["嗜血", "如果这张牌消灭了一个非爪牙的敌人 ， 恢复 3 点 生命 并 获得 [E]"],
 		"NAME": "夏提雅"
 	},
 	"animator:Shichika":

@@ -831,7 +831,7 @@
 	},
 	"animator:Sebas":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Synergie: Au prochain tour, Gagnez !M! d'Armure.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez de l'Armure supplémentaire égale au coût total des cartes en main.",
 		"NAME": "Sebas"
 	},
 	"animator:SeriousSaitama":
@@ -843,7 +843,7 @@
 	"animator:Shalltear":
 	{
 		"DESCRIPTION": "[#EFC851]Bloodlust. NL Infligez !D! dégât(s). NL Synergie: Volez !M! Force.",
-		"EXTENDED_DESCRIPTION": ["Bloodlust", "Si cette carte tue un ennemi (non-minion), soignez 5 PV et Gagnez [E]"],
+		"EXTENDED_DESCRIPTION": ["Bloodlust", "Si cette carte tue un ennemi (non-minion), soignez 3 PV et Gagnez [E]"],
 		"NAME": "Shalltear"
 	},
 	"animator:Shichika":

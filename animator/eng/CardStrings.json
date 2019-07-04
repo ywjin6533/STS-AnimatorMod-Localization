@@ -833,7 +833,7 @@
 	},
 	"animator:Sebas":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Synergy: Next turn, gain !M! Block.",
+		"DESCRIPTION": "Gain !B! Block. Gain additional Block equal to the total cost of cards in your hand.",
 		"NAME": "Sebas"
 	},
 	"animator:SeriousSaitama":
@@ -844,8 +844,8 @@
 	},
 	"animator:Shalltear":
 	{
-		"DESCRIPTION": "[#EFC851]Bloodlust. NL Deal !D! damage. NL Synergy: Steal !M! Strength.",
-		"EXTENDED_DESCRIPTION": ["Bloodlust", "If this kills a non-minion enemy, heal 5 HP and gain [E]"],
+		"DESCRIPTION": "[#EFC851]Bloodlust. NL Deal !D! damage to ALL enemies. Synergy: Steal !M! Strength.",
+		"EXTENDED_DESCRIPTION": ["Bloodlust", "If this kills a non-minion enemy, heal 3 HP and gain [E]"],
 		"NAME": "Shalltear"
 	},
 	"animator:Shichika":
