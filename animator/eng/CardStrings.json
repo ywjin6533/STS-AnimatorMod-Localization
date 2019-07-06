@@ -832,7 +832,7 @@
 			"Remove Intangible. NL Deal !D! NL Piercing damage."
 		],
 		"NAME": "Saitama",
-		"UPGRADE_DESCRIPTION": "Innate. Whenever this card is played, increase its cost and change its effect for this combat."
+		"UPGRADE_DESCRIPTION": "Innate. NL Whenever this card is played, increase its cost and change its effect for this combat."
 	},
 	"animator:Scar":
 	{
