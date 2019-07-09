@@ -555,9 +555,9 @@
 	},
 	"animator:Kaijin":
 	{
-		"DESCRIPTION": "A la fin du tour, Conservez 1 carte et augmentez sa quantité de dégâts et d'Armure par !M! pour ce combat.",
+		"DESCRIPTION": "À la fin du tour, Conservez 1 carte et augmentez sa quantité de dégâts et d'Armure par !M! pour ce combat.",
 		"NAME": "Kaijin",
-		"UPGRADE_DESCRIPTION": "Inné. A la fin du tour, Conservez 1 carte et augmentez sa quantité de dégâts et d'Armure par !M! pour ce combat."
+		"UPGRADE_DESCRIPTION": "Inné. À la fin du tour, Conservez 1 carte et augmentez sa quantité de dégâts et d'Armure par !M! pour ce combat."
 	},
 	"animator:Kazuma":
 	{
