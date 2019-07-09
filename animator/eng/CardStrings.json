@@ -557,9 +557,9 @@
 	},
 	"animator:Kaijin":
 	{
-		"DESCRIPTION": "Whenever you draw a card, increase its damage and Block by !M! this combat.",
+		"DESCRIPTION": "At the end of each turn, Retain 1 card and increase its damage and Block by !M! this combat.",
 		"NAME": "Kaijin",
-		"UPGRADE_DESCRIPTION": "Whenever you draw a card, increase its damage and Block by !M! this combat. Next turn, draw !SV! cards."
+		"UPGRADE_DESCRIPTION": "Innate. At the end of each turn, Retain 1 card and increase its damage and Block by !M! this combat."
 	},
 	"animator:Kazuma":
 	{

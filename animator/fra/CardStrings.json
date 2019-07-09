@@ -555,9 +555,9 @@
 	},
 	"animator:Kaijin":
 	{
-		"DESCRIPTION": "Lorsque vous pigez une carte, augmentez sa quantité de dégâts et d'Armure par !M! pour ce combat.",
+		"DESCRIPTION": "A la fin du tour, Conservez 1 carte et augmentez sa quantité de dégâts et d'Armure par !M! pour ce combat.",
 		"NAME": "Kaijin",
-		"UPGRADE_DESCRIPTION": "Lorsque vous pigez une carte, augmentez sa quantité de dégâts et d'Armure par !M! pour ce combat. Au prochain tour, piochez 2 cartes."
+		"UPGRADE_DESCRIPTION": "Inné. A la fin du tour, Conservez 1 carte et augmentez sa quantité de dégâts et d'Armure par !M! pour ce combat."
 	},
 	"animator:Kazuma":
 	{
