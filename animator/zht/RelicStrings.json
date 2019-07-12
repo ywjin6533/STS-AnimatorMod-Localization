@@ -32,7 +32,7 @@
 	},
 	"animator:CursedGlyph":
 	{
-		"DESCRIPTIONS": ["獲取時, #r失去 #r", " #r生命上限, 提升所有敵人的生命上限."],
+		"DESCRIPTIONS": ["獲取時, #r失去 #r", " #r生命上限, 提升所有敵人的生命上限. NL NL The card linked to this relic can #yNOT be duplicated."],
 		"FLAVOR": "這可能是個失誤......",
 		"NAME": "天罰符文"
 	},
