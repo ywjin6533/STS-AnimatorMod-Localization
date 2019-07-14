@@ -900,7 +900,7 @@
 	},
 	"animator:Shuna":
 	{
-		"DESCRIPTION": "Draw 1 card. Increase this card's Block by !M! this combat. [#EFC851]Drawn: Gain !B! Block twice.",
+		"DESCRIPTION": "Draw 1 card. NL Gain !B! Block. NL [#EFC851]Drawn: NL Gain !B! Block.",
 		"NAME": "Shuna"
 	},
 	"animator:SilverFang":
