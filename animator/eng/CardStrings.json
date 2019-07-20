@@ -399,8 +399,8 @@
 	"animator:Genos":
 	{
 		"DESCRIPTION": "Deal !D! Damage. NL Apply !M! Burning. NL Add 1 [#EFC851]Overheat[] to your hand.",
-		"NAME": "Genos",
-		"EXTENDED_DESCRIPTION": ["Overheat", "0-Cost #yStatus that damages the player and draws cards."]
+		"EXTENDED_DESCRIPTION": ["Overheat", "0-Cost #yStatus that damages the player and draws cards."],
+		"NAME": "Genos"
 	},
 	"animator:Geryuganshoop":
 	{
@@ -828,14 +828,7 @@
 	"animator:Saitama":
 	{
 		"DESCRIPTION": "Whenever this card is played, increase its cost and change its effect for this combat.",
-		"EXTENDED_DESCRIPTION": 
-		[
-			"Draw !M! cards. NL Gain !SV! Temporary Dexterity.",
-			"Prevent the next time you would lose HP.",
-			"Gain !M! Strength. NL Gain !B! Block.",
-			"Deal !D! damage NL !M! times.",
-			"Remove Intangible. NL Deal !D! NL Piercing damage. NL Stun the enemy."
-		],
+		"EXTENDED_DESCRIPTION": ["Draw !M! cards. NL Gain !SV! Temporary Dexterity.", "Prevent the next time you would lose HP.", "Gain !M! Strength. NL Gain !B! Block.", "Deal !D! damage NL !M! times.", "Remove Intangible. NL Deal !D! NL Piercing damage. NL Stun the enemy."],
 		"NAME": "Saitama",
 		"UPGRADE_DESCRIPTION": "Innate. NL Whenever this card is played, increase its cost and change its effect for this combat."
 	},
@@ -881,9 +874,9 @@
 	},
 	"animator:ShikizakiKiki":
 	{
-		"DESCRIPTION": "Upgrade ALL cards for the rest of this combat. Strength affects ALL cards !M! times.",
+		"DESCRIPTION": "Ethereal. Upgrade ALL cards for the rest of this combat. Strength affects ALL cards !M! times.",
 		"NAME": "Shikizaki Kiki",
-		"UPGRADE_DESCRIPTION": "Retain. Upgrade ALL cards for the rest of this combat. Strength affects ALL cards !M! times."
+		"UPGRADE_DESCRIPTION": "Upgrade ALL cards for the rest of this combat. Strength affects ALL cards !M! times."
 	},
 	"animator:Shimakaze":
 	{
@@ -944,8 +937,9 @@
 	},
 	"animator:Spearman":
 	{
-		"DESCRIPTION": "Deal !D! Piercing damage. Deal additional damage equal to your Block. Set your Block to !B!.",
-		"NAME": "'Spearman'"
+		"DESCRIPTION": "Deal !D! Piercing damage. Deal additional damage equal to your Block. Lose ALL Block.",
+		"NAME": "'Spearman'",
+		"UPGRADE_DESCRIPTION": "Deal !D! Piercing damage. Deal additional damage equal to your Block. Set your Block to !B!."
 	},
 	"animator:Strike":
 	{
