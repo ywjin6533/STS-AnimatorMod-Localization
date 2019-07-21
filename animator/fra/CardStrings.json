@@ -396,8 +396,8 @@
 	},
 	"animator:Genos":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Brulûre. Ajoutez 1 [#EFC851]Overheat[] à votre main. .",
-		"EXTENDED_DESCRIPTION": ["Overheat", "0-Cost #yStatus that damages the player and draws cards."]
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Brulûre. Ajoutez 1 [#EFC851]Surchauffe[] à votre main. .",
+		"EXTENDED_DESCRIPTION": ["Surchauffe", "#yStatus qui coûte 0, pioche des cartes et inflige des dégâts au joueur."]
 		"NAME": "Genos"
 	},
 	"animator:Geryuganshoop":
@@ -773,7 +773,7 @@
 	},
 	"animator:Priestess":
 	{
-		"DESCRIPTION": "Gagnez !B! Temp._PV ([#EFC851]*[]). Synergie: Gagnez !M! [#EFC851]Regeneration[] et Epuisez.",
+		"DESCRIPTION": "Gagnez !B! Temp._PV. Ce nombre est affecté par les modificateurs d'Armure.",
 		"EXTENDED_DESCRIPTION": ["* Note", "Affecté par les modificateurs d'Armure."],
 		"NAME": "'Prêtresse'"
 	},
@@ -880,9 +880,9 @@
 	},
 	"animator:ShikizakiKiki":
 	{
-		"DESCRIPTION": "Éthérée. Améliorez toutes les cartes pour le restant du combat. La Force affecte toutes les cartes 2 fois.",
+		"DESCRIPTION": "Améliorez toutes les cartes pour le restant du combat. La Force affecte toutes les cartes 2 fois.",
 		"NAME": "Shikizaki Kiki",
-		"UPGRADE_DESCRIPTION": "Améliorez toutes les cartes pour le restant du combat. La Force affecte toutes les cartes 2 fois."
+		"UPGRADE_DESCRIPTION": "Inné. Améliorez toutes les cartes pour le restant du combat. La Force affecte toutes les cartes 2 fois."
 	},
 	"animator:Shimakaze":
 	{
@@ -942,9 +942,9 @@
 	},
 	"animator:Spearman":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) Perçant. Inflige des dégâts supplémentaires égaux à ta quantité de Armure. Perdez tout l'Armure.",
+		"DESCRIPTION": "Infligez !D! dégât(s) Perçant(s). Infligez des dégâts supplémentaires égaux à votre quantité d’Armure. Perdez toute votre Armure.",
 		"NAME": "'Lancier'",
-		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) Perçant. Inflige des dégâts supplémentaires égaux à ta quantité de Armure. Met votre Armure à !B!."
+		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s) Perçant(s). Infligez des dégâts supplémentaires égaux à votre quantité d’Armure. Mettez votre Armure à !B!."
 	},
 	"animator:Strike":
 	{
@@ -1180,7 +1180,8 @@
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Héritage: Ajoutez [#EFC851]Asuramaru et 1 Plaie à votre Défausse.",
 		"EXTENDED_DESCRIPTION": ["Asuramaru", "Une carte #yAttaque spéciale qui coûte 2."],
-		"NAME": "Yuuichirou"
+		"NAME": "Yuuichirou",
+		"UPGRADE_DESCRIPTION": "Infligez !D! dégât(s). NL Héritage: Ajoutez [#EFC851]Asuramaru et 1 Dazed à votre Défausse."
 	},
 	"animator:ZankiKiguchi":
 	{

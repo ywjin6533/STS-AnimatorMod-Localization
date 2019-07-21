@@ -394,8 +394,8 @@
 	},
 	"animator:Genos":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 給予 !M! 層 燃燒 。 增加 1 張 [#EFC851]Overheat[] 到你的手牌 。",
-		"EXTENDED_DESCRIPTION": ["Overheat", "0-Cost #yStatus that damages the player and draws cards."],
+		"DESCRIPTION": "造成 !D! 點 傷害。 NL 給予 !M! 層 燒傷 。 增加 1 張 [#EFC851]燒傷[] 到你的手牌 。",
+		"EXTENDED_DESCRIPTION": ["過熱", "0能耗的 #yStatus ， 效果為 ： 傷害玩家並額外抽牌。"],
 		"NAME": "杰諾斯"
 	},
 	"animator:Geryuganshoop":
@@ -768,7 +768,7 @@
 	},
 	"animator:Priestess":
 	{
-		"DESCRIPTION": "獲得 !B! 點 臨時生命 [#EFC851]*[] 。 同調 : 最多 !SV! 次 并 消耗 。",
+		"DESCRIPTION": "獲得 !B! 點 臨時生命 。 受到格擋增幅影響 。",
 		"EXTENDED_DESCRIPTION": ["* 備註", "受到格擋增幅影響 。"],
 		"NAME": "女神官"
 	},
@@ -875,9 +875,9 @@
 	},
 	"animator:ShikizakiKiki":
 	{
-		"DESCRIPTION": "虛無 。 在本場戰鬥中 升級 你的所有牌 。 力量 影響所有卡 2 次 。",
+		"DESCRIPTION": "在本場戰鬥中 升級 你的所有牌 。 力量 影響所有卡 2 次 。",
 		"NAME": "四季崎·記纪",
-		"UPGRADE_DESCRIPTION": "在本場戰鬥中 升級 你的所有牌 。 力量 影響所有卡 2 次 。"
+		"UPGRADE_DESCRIPTION": "固有 。 在本場戰鬥中 升級 你的所有牌 。 力量 影響所有卡 2 次 。"
 	},
 	"animator:Shimakaze":
 	{
@@ -1174,7 +1174,8 @@
 	{
 		"DESCRIPTION": "造成 !D! 點 傷害 。 遺產 : 將一張 [#EFC851]阿修羅丸[] 和 伤口 放到你的棄牌堆 。",
 		"EXTENDED_DESCRIPTION": ["阿修羅丸", "特殊的 2 耗 #y攻擊 牌 。"],
-		"NAME": "百夜優一郎"
+		"NAME": "百夜優一郎",
+		"UPGRADE_DESCRIPTION": "造成 !D! 點 傷害 。 遺產 : 將一張 [#EFC851]阿修羅丸[] 和 晕眩 放到你的棄牌堆 。"
 	},
 	"animator:ZankiKiguchi":
 	{

@@ -774,7 +774,7 @@
 	},
 	"animator:Priestess":
 	{
-		"DESCRIPTION": "Gain !B! Temp._HP ([#EFC851]*[]). Synergy: Gain !M! [#EFC851]Regeneration[] and Exhaust.",
+		"DESCRIPTION": "Gain !B! Temp._HP. This number is affected by Block modifiers.",
 		"EXTENDED_DESCRIPTION": ["* Note", "Affected by Block modifiers."],
 		"NAME": "'Priestess'"
 	},
@@ -874,9 +874,9 @@
 	},
 	"animator:ShikizakiKiki":
 	{
-		"DESCRIPTION": "Ethereal. Upgrade ALL cards for the rest of this combat. Strength affects ALL cards !M! times.",
+		"DESCRIPTION": "Upgrade ALL cards for the rest of this combat. Strength affects ALL cards !M! times.",
 		"NAME": "Shikizaki Kiki",
-		"UPGRADE_DESCRIPTION": "Upgrade ALL cards for the rest of this combat. Strength affects ALL cards !M! times."
+		"UPGRADE_DESCRIPTION": "Innate. Upgrade ALL cards for the rest of this combat. Strength affects ALL cards !M! times."
 	},
 	"animator:Shimakaze":
 	{
@@ -1174,9 +1174,10 @@
 	},
 	"animator:Yuuichirou":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Legacy: Add [#EFC851]Asuramaru and a Wound to your discard pile.",
+		"DESCRIPTION": "Deal !D! damage. NL Legacy: Add NL [#EFC851]Asuramaru and a NL Wound to your NL discard pile.",
 		"EXTENDED_DESCRIPTION": ["Asuramaru", "A special 2-Cost #yAttack which grants #yDemon #yForm, #yDexterity and Block."],
-		"NAME": "Yuuichirou"
+		"NAME": "Yuuichirou",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Legacy: Add NL [#EFC851]Asuramaru and a NL Dazed to your NL discard pile."
 	},
 	"animator:ZankiKiguchi":
 	{
