@@ -940,7 +940,7 @@
 	{
 		"DESCRIPTION": "造成 !D! 点 穿刺 伤害 。 造成与你的 格挡 相等的额外伤害 。 失去所有 格挡 。",
 		"NAME": "斯皮尔曼",
-		"UPGRADE_DESCRIPTION" "造成 !D! 点 穿刺 伤害 。 造成与你的格挡相等的额外伤害 。 将你的 格挡 设置为 !B! 。"
+		"UPGRADE_DESCRIPTION": "造成 !D! 点 穿刺 伤害 。 造成与你的格挡相等的额外伤害 。 将你的 格挡 设置为 !B! 。"
 	},
 	"animator:Strike":
 	{

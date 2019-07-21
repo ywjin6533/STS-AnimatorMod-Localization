@@ -328,7 +328,7 @@
 	},
 	"animator:EmiyaShirou":
 	{
-		"DESCRIPTION": "Donnez à un ennemi aléatoire !M! d'Armure et 1 Vulnérabilité. Chaque fois qu'un ennemi perd son Armure ce tour, Gagnez 1 #yEnergy et piochez une #yAttack.",
+		"DESCRIPTION": "Donnez à un ennemi aléatoire !M! d'Armure et 1 Vulnérabilité. Chaque fois qu'un ennemi perd son Armure ce tour, Gagnez 1 Energy et piochez une Attack.",
 		"EXTENDED_DESCRIPTION": ["Unlimited Blade Works", "Chaque fois qu'un ennemi perd son Armure ce tour, Gagnez 1 #yEnergy et piochez une #yAttack aléatoire de votre pioche."],
 		"NAME": "Emiya Shirou"
 	},
@@ -397,7 +397,7 @@
 	"animator:Genos":
 	{
 		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Brulûre. Ajoutez 1 [#EFC851]Surchauffe[] à votre main. .",
-		"EXTENDED_DESCRIPTION": ["Surchauffe", "#yStatus qui coûte 0, pioche des cartes et inflige des dégâts au joueur."]
+		"EXTENDED_DESCRIPTION": ["Surchauffe", "#yStatus qui coûte 0, pioche des cartes et inflige des dégâts au joueur."],
 		"NAME": "Genos"
 	},
 	"animator:Geryuganshoop":
@@ -645,7 +645,7 @@
 	{
 		"DESCRIPTION": "Changeforme. NL Infligez !D! dégât(s). NL Se divise en 3 [#EFC851]Attaques. Épuisement.",
 		"NAME": "Melzalgald",
-		"UPGRADE_DESCRIPTION": "Changeforme. NL Infligez !D! dégât(s) perçant(s). NL Se divise en 3 [#EFC851]Attaques Améliorées. Épuisement."
+		"UPGRADE_DESCRIPTION": "Changeforme. NL Infligez !D! dégât(s). NL Se divise en 3 [#EFC851]Attaques Améliorées. Épuisement."
 	},
 	"animator:MelzalgaldAlt_1":
 	{

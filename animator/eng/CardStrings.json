@@ -398,7 +398,7 @@
 	},
 	"animator:Genos":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL Apply !M! Burning. NL Add 1 [#EFC851]Overheat[] to your hand.",
+		"DESCRIPTION": "Deal !D! Damage. NL Apply !M! Burning. NL Add 1 [#EFC851]Overheat[] to NL your hand.",
 		"EXTENDED_DESCRIPTION": ["Overheat", "0-Cost #yStatus that damages the player and draws cards."],
 		"NAME": "Genos"
 	},
