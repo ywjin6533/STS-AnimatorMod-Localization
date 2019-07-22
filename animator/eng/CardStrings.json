@@ -297,7 +297,7 @@
 	},
 	"animator:Elesis":
 	{
-		"DESCRIPTION": "Deal !D! damage. Retain. Increase this card's damage by !M! each turn while in your hand.",
+		"DESCRIPTION": "Retain. Deal !D! damage. Increase this card's damage by !M! each turn while in your hand.",
 		"NAME": "Elesis"
 	},
 	"animator:ElricAlphonse":
@@ -343,8 +343,8 @@
 	},
 	"animator:Entoma":
 	{
-		"DESCRIPTION": "Augmentable. NL Deal !D! damage. NL Apply !M! Poison. [#EFC851]Hunger.",
-		"EXTENDED_DESCRIPTION": ["Hunger", "Lose #b1 damage each turn. If this kills a non-minion enemy, permanently upgrade this card and gain #b2 Max HP."],
+		"DESCRIPTION": "[#EFC851]Unique. NL Deal !D! damage. NL Apply !M! Poison. [#EFC851]Hunger.",
+		"EXTENDED_DESCRIPTION": [ "Hunger", "Lose #b1 damage each turn. If this kills a non-minion enemy, permanently upgrade this card and gain #b2 Max HP." ],
 		"NAME": "Entoma"
 	},
 	"animator:EntouJyuu":
@@ -411,7 +411,7 @@
 	"animator:Gilgamesh":
 	{
 		"DESCRIPTION": "[#EFC851]Unique. NL Deal !D! damage NL 3 times. NL [#EFC851]Gate [#EFC851]of [#EFC851]Babylon.",
-		"EXTENDED_DESCRIPTION": ["Gate of Babylon", "Whenever you obtain a relic, #yUpgrade this card and gain #b", " #yGold. Does not activate when purchasing relics or with some event relics.", "Unique", "Can be upgraded any number of times. You can only have 1 copy of this card in your deck, additional copies will #yUpgrade this card instead."],
+		"EXTENDED_DESCRIPTION": ["Gate of Babylon", "Whenever you obtain a relic, #yUpgrade this card and gain #b", " #yGold. Does not activate when purchasing relics or with some event relics."],
 		"NAME": "Gilgamesh"
 	},
 	"animator:Gillette":
@@ -639,7 +639,7 @@
 	},
 	"animator:Megumin":
 	{
-		"DESCRIPTION": "Augmentable. Deal !D! damage to ALL Enemies. Exhaust. Synergy: Permanently Upgrade this card.",
+		"DESCRIPTION": "[#EFC851]Unique. Deal !D! damage to ALL Enemies. Exhaust. Synergy: Permanently Upgrade this card.",
 		"NAME": "Megumin"
 	},
 	"animator:Melzalgald":
@@ -676,7 +676,6 @@
 	"animator:Millim":
 	{
 		"DESCRIPTION": "[#EFC851]Unique. NL Deal !D! damage. NL Draw !M! cards. NL Synergy: Gain [E].",
-		"EXTENDED_DESCRIPTION": ["Unique", "Can be upgraded any number of times. You can only have 1 copy of this card in your deck, additional copies will #yUpgrade this card instead."],
 		"NAME": "Millim"
 	},
 	"animator:MisaKurobane":

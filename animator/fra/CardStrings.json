@@ -341,7 +341,7 @@
 	},
 	"animator:Entoma":
 	{
-		"DESCRIPTION": "Augmentable. NL Infligez !D! dégât(s). NL Appliquez !M! Poison. [#EFC851]Faim.",
+		"DESCRIPTION": "[#EFC851]Unique. NL Infligez !D! dégât(s). NL Appliquez !M! Poison. [#EFC851]Faim.",
 		"EXTENDED_DESCRIPTION": ["Faim", "Perdez #b1 dégât(s) chaque tour. Si l'ennemi (non-minion) succombe, Améliorer de manière permanente cette carte et Gagnez #b2 PV Max."],
 		"NAME": "Entoma"
 	},
@@ -409,7 +409,7 @@
 	"animator:Gilgamesh":
 	{
 		"DESCRIPTION": "[#EFC851]Unique. NL Infligez !D! dégât(s) à un ennemi 3 fois. NL [#EFC851]Gate [#EFC851]of [#EFC851]Babylon.",
-		"EXTENDED_DESCRIPTION": ["Gate of Babylon", "Quand vous obtenez une relique, #yAméliorez cette carte et Gagnez #b", " #yOr. Ne s'active pas à l'achat de relique et dans certains évènements.", "Unique", "Peut s'améliorer un nombre infini de fois. Vous ne pouvez avoir qu'une copie de cette carte, les copies additionnelles #yAmélioreront cette carte à la place."],
+		"EXTENDED_DESCRIPTION": ["Gate of Babylon", "Quand vous obtenez une relique, #yAméliorez cette carte et Gagnez #b", " #yOr. Ne s'active pas à l'achat de relique et dans certains évènements."],
 		"NAME": "Gilgamesh"
 	},
 	"animator:Gillette":
@@ -638,7 +638,7 @@
 	},
 	"animator:Megumin":
 	{
-		"DESCRIPTION": "Augmentable. Infligez !D! dégât(s) à TOUS les ennemis. Épuisement. Synergie: Améliorez de manière permanente cet carte.",
+		"DESCRIPTION": "[#EFC851]Unique. Infligez !D! dégât(s) à TOUS les ennemis. Épuisement. Synergie: Améliorez de manière permanente cet carte.",
 		"NAME": "Megumin"
 	},
 	"animator:Melzalgald":
@@ -675,7 +675,6 @@
 	"animator:Millim":
 	{
 		"DESCRIPTION": "[#EFC851]Unique. NL Infligez !D! dégât(s). NL Piochez !M! Cartes. NL Synergie: Gagnez [E].",
-		"EXTENDED_DESCRIPTION": ["Unique", "Peut s'améliorer un nombre infini de fois. Vous ne pouvez avoir qu'une copie de cette carte, les copies additionnalles #yAmélioreront cette carte à la place."],
 		"NAME": "Millim"
 	},
 	"animator:MisaKurobane":

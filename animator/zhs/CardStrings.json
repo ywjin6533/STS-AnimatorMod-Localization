@@ -340,7 +340,7 @@
 	},
 	"animator:Entoma":
 	{
-		"DESCRIPTION": "多重进化 。 造成 !D! 点 伤害与 !M! 层毒 。 [#EFC851]饥饿[] 。",
+		"DESCRIPTION": "[#EFC851]唯一[] 。 造成 !D! 点 伤害与 !M! 层毒 。 [#EFC851]饥饿[] 。",
 		"EXTENDED_DESCRIPTION": ["饥饿", "每回合造成的伤害减少 #b1 点 。 如果这张牌消灭了非爪牙的敌人 ， 永久获得 #b1 点伤害 和 #b2 点生命上限 。"],
 		"NAME": "艾多玛"
 	},
@@ -407,7 +407,7 @@
 	"animator:Gilgamesh":
 	{
 		"DESCRIPTION": "[#EFC851]唯一[] 。 对一个敌人造成 !D! 点 伤害 3 次 。 NL [#EFC851]巴比伦的宝藏[] 。",
-		"EXTENDED_DESCRIPTION": ["巴比伦的宝藏", "每当你获得遗物时升级这张牌并获得 ", " 个金币 。 买的遗物不会触发该效果 。", "唯一", "卡组中只能存在一张该牌 ， 额外获得的同名牌会 #y升级 这张牌 。可被多次升级。"],
+		"EXTENDED_DESCRIPTION": ["巴比伦的宝藏", "每当你获得遗物时升级这张牌并获得 ", " 个金币 。 买的遗物不会触发该效果 。"],
 		"NAME": "英雄王·吉尔伽美什"
 	},
 	"animator:Gillette":
@@ -635,7 +635,7 @@
 	},
 	"animator:Megumin":
 	{
-		"DESCRIPTION": "多重进化 。 对所有敌人造成 !D! 点 伤害 。 消耗 。 NL 同调 : 在本局游戏中，永久升级这张牌 。",
+		"DESCRIPTION": "[#EFC851]唯一[] 。 对所有敌人造成 !D! 点 伤害 。 消耗 。 NL 同调 : 在本局游戏中 ， 永久升级这张牌 。",
 		"NAME": "惠惠"
 	},
 	"animator:Melzalgald":
@@ -672,7 +672,6 @@
 	"animator:Millim":
 	{
 		"DESCRIPTION": "[#EFC851]唯一[] 。 抽 !M! 张牌 。 造成 !D! 点 伤害 。 NL 同调 : 获得 [E] 。",
-		"EXTENDED_DESCRIPTION": ["唯一", "卡组中只能存在一张该牌 ， 额外获得的同名牌会 #y升级 这张牌 。可被多次升级。"],
 		"NAME": "米莉姆"
 	},
 	"animator:MisaKurobane":

@@ -340,7 +340,7 @@
 	},
 	"animator:Entoma":
 	{
-		"DESCRIPTION": " 造成 !D! 點 傷害與 !M! 層 中毒 。 [#EFC851]飢餓[] 。",
+		"DESCRIPTION": "[#EFC851]唯一[] 。 造成 !D! 點 傷害與 !M! 層 中毒 。 [#EFC851]飢餓[] 。",
 		"EXTENDED_DESCRIPTION": ["飢餓", "每回合造成的傷害減少 #b1 點 。 如果這張牌消滅了非爪牙的敵人 ， 永久獲得 #b1 點傷害 和 #b2 點生命上限 。"],
 		"NAME": "艾多瑪"
 	},
@@ -407,7 +407,7 @@
 	"animator:Gilgamesh":
 	{
 		"DESCRIPTION": "[#EFC851]唯一[] 。對一個敵人造成 !D! 點 傷害 3 次 。 NL [#EFC851]巴比倫的寶藏[] 。",
-		"EXTENDED_DESCRIPTION": ["巴比倫的寶藏", "每當你獲得遺物時升級這張牌並獲得 ", " 個金幣 。 買的遺物不會觸發該效果 。", "唯一", "卡組中只能存在一張該牌 ， 額外獲得的同名牌會 #y升級 這張牌 。可被多次升級。"],
+		"EXTENDED_DESCRIPTION": ["巴比倫的寶藏", "每當你獲得遺物時升級這張牌並獲得 ", " 個金幣 。 買的遺物不會觸發該效果 。"],
 		"NAME": "英雄王·吉爾伽美什"
 	},
 	"animator:Gillette":
@@ -634,7 +634,7 @@
 	},
 	"animator:Megumin":
 	{
-		"DESCRIPTION": "多重升級 。 對所有敵人造成 !D! 點傷害 。 消耗 。 NL 同調 : 永久 升級 這張牌 。",
+		"DESCRIPTION": "[#EFC851]唯一[] 。 對所有敵人造成 !D! 點傷害 。 消耗 。 NL 同調 : 永久 升級 這張牌 。",
 		"NAME": "惠惠"
 	},
 	"animator:Melzalgald":
@@ -671,7 +671,6 @@
 	"animator:Millim":
 	{
 		"DESCRIPTION": "[#EFC851]唯一[] 。NL 造成 !D! 點 傷害 。 抽 !M! 張牌  NL 同調 : 獲得 [E] 。",
-		"EXTENDED_DESCRIPTION": ["唯一", "卡組中只能存在一張該牌 ， 額外獲得的同名牌會 #y升級 這張牌 。可被多次升級。"],
 		"NAME": "米莉姆"
 	},
 	"animator:MisaKurobane":

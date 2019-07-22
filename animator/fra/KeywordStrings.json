@@ -223,5 +223,10 @@
 		"PROPER_NAME": "Motiver",
 		"NAMES": ["motiver", "motivation"],
 		"DESCRIPTION": "Reduit le coût d'une carte aléatoire de votre main par 1 jusqu'à ce qu'elle soit jouée. Répète N fois."
+	},
+	{
+		"PROPER_NAME": "animator:Unique",
+		"NAMES": ["animator:unique"],
+		"DESCRIPTION": "Unique|Peut s'améliorer un nombre infini de fois. Vous ne pouvez avoir qu'une copie de cette carte, les copies additionnelles #yAmélioreront cette carte à la place."
 	}
 ]
