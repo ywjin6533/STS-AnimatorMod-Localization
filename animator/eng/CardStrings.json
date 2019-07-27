@@ -916,7 +916,7 @@
 	"animator:Sloth":
 	{
 		"DESCRIPTION": "[#EFC851]Sloth. NL Gain !B! Block. NL Deal !D! damage. NL Apply !M! Vulnerable.",
-		"EXTENDED_DESCRIPTION": ["Sloth", "At the start of each turn, increase this card's #yBlock and damage by 2, gain an additional 1 for each unique Orb you have. On use, halve this card's damage and #yBlock."],
+		"EXTENDED_DESCRIPTION": ["Sloth", "At the start of each turn, increase this card's #yBlock and damage by #b1 for each Orb Slot you have. On use, halve this card's damage and #yBlock."],
 		"NAME": "Sloth"
 	},
 	"animator:Sonic":

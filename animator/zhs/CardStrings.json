@@ -920,7 +920,8 @@
 	"animator:Sloth":
 	{
 		"DESCRIPTION": " [#EFC851]懒惰[] 。 NL 获得 !B! 格挡 。 NL 造成 !D! 点伤害。 NL 给予 !M! 层 易伤 。 ",
-		"EXTENDED_DESCRIPTION": ["懒惰", "每回合开始时，将这张牌的格挡和伤害提高 #b2 点。每有一种不同的充能球增加 #b1 点。每次使用后，将这张牌的 #y格挡 与 #y伤害 减半。"],		"NAME": "懒惰"
+		"EXTENDED_DESCRIPTION": ["懒惰", "每回合开始时，将这张牌的格挡和伤害提高 #b2 点 对于你拥有的每个orb插槽。 每次使用后，将这张牌的 #y格挡 与 #y伤害 减半。"],
+		"NAME": "懒惰"
 	},
 	"animator:Sonic":
 	{
