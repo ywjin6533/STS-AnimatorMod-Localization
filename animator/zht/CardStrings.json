@@ -173,6 +173,11 @@
 		"DESCRIPTION": "失去 !SV! 點生命值。 NL 獲得 !M! 層 金屬化 。消耗 。",
 		"NAME": "晶體化"
 	},
+	"animator:Cthulhu":
+	{
+		"DESCRIPTION": "Purge ALL your cards, add !M! random cards to your draw pile. Draw 10 cards.",
+		"NAME": "Cthulhu"
+	},
 	"animator:Darkness":
 	{
 		"DESCRIPTION": "獲得 !M! 層 多層護甲 。 每次受傷時隨機 升級 !M! 張卡 ， 以手牌優先 。",

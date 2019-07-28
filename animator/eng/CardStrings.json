@@ -175,6 +175,11 @@
 		"DESCRIPTION": "Lose !SV! HP. NL Gain !M! Metallicize. NL Exhaust.",
 		"NAME": "Crystallize"
 	},
+	"animator:Cthulhu":
+	{
+		"DESCRIPTION": "Purge ALL your cards, add !M! random cards to your draw pile. Draw 10 cards.",
+		"NAME": "Cthulhu"
+	},
 	"animator:Darkness":
 	{
 		"DESCRIPTION": "Gain !M! Plated_Armor. Whenever you take damage, Upgrade !M! random card ([#EFC851]*[#FFFFFF]).",
@@ -344,7 +349,7 @@
 	"animator:Entoma":
 	{
 		"DESCRIPTION": "[#EFC851]Unique. NL Deal !D! damage. NL Apply !M! Poison. [#EFC851]Hunger.",
-		"EXTENDED_DESCRIPTION": [ "Hunger", "Lose #b1 damage each turn. If this kills a non-minion enemy, permanently upgrade this card and gain #b2 Max HP." ],
+		"EXTENDED_DESCRIPTION": ["Hunger", "Lose #b1 damage each turn. If this kills a non-minion enemy, permanently upgrade this card and gain #b2 Max HP."],
 		"NAME": "Entoma"
 	},
 	"animator:EntouJyuu":
