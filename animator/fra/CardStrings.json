@@ -567,7 +567,7 @@
 	},
 	"animator:Kazuma":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégât(s). NL Synergie: Piochez 1 carte.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Recyclez 1 carte. NL Synergie: Infligez !D! dégât(s) à un ennemi aléatoire.",
 		"NAME": "Kazuma"
 	},
 	"animator:Kira":
@@ -863,7 +863,8 @@
 	{
 		"DESCRIPTION": "[#EFC851]Bloodlust. NL Infligez !D! dégât(s). NL Synergie: Volez !M! Force.",
 		"EXTENDED_DESCRIPTION": ["Bloodlust", "Si cette carte tue un ennemi (non-minion), soignez 3 PV et Gagnez [E]"],
-		"NAME": "Shalltear"
+		"NAME": "Shalltear",
+		"UPGRADE_DESCRIPTION": "[#EFC851]Bloodlust. NL Infligez !D! dégât(s). NL Volez !M! Force."
 	},
 	"animator:Shichika":
 	{
@@ -1003,7 +1004,7 @@
 	},
 	"animator:Strike_Konosuba":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Boost !SV! : Soignez !M! PV.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Gagnez !B! d'Armure.",
 		"NAME": "Frappe Améliorée"
 	},
 	"animator:Strike_NoGameNoLife":

@@ -353,7 +353,7 @@
 	},
 	"animator:EntouJyuu":
 	{
-		"DESCRIPTION": "每回合两次，打出 [#EFC851]攻击牌[] 时，抽一张牌并给予所有敌人 !M! 层 燃烧 。",
+		"DESCRIPTION": "每回合两次，打出 [#EFC851]攻击牌[] 时， 抽一张牌并给予所有敌人 1 层 燃烧 。",
 		"NAME": "炎刀·铳"
 	},
 	"animator:Envy":
@@ -419,7 +419,7 @@
 	},
 	"animator:Gillette":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害。下一回合，获得 [E] 。 召回 : 给予所有敌人 !M! 层 虚弱 。",
+		"DESCRIPTION": "造成 !D! 点伤害。 下一回合， 获得 [E] 。 召回 : 给予所有敌人 !M! 层 虚弱 。",
 		"NAME": "基烈特"
 	},
 	"animator:Giselle":
@@ -566,7 +566,7 @@
 	},
 	"animator:Kazuma":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 ， 造成 !D! 点伤害。 NL 同调 : 抽一张牌 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 ， 循环 1 张牌。 NL 同调 : 随机对敌人造成 !D! 点伤害 。",
 		"NAME": "和真"
 	},
 	"animator:Kira":
@@ -809,7 +809,7 @@
 	},
 	"animator:RoryMercury":
 	{
-		"DESCRIPTION": "随机对敌人造成 !D! 点伤害2次 。 [#EFC851]被抽到时[] ； 获得 !M! 点 临时 力量 。",
+		"DESCRIPTION": "随机对敌人造成 !D! 点 伤害 2次 。 [#EFC851]被抽到时[] ； 获得 !M! 点 临时 力量 。",
 		"NAME": "萝莉·麦丘利"
 	},
 	"animator:Rose":
@@ -862,7 +862,8 @@
 	{
 		"DESCRIPTION": "[#EFC851]吸血[] 。 NL 对所有敌人造成 !D! 点伤害。 NL 同调 : 偷取 !M! 点 力量 。",
 		"EXTENDED_DESCRIPTION": ["吸血", "如果这张牌消灭了一个非爪牙的敌人，回复 3 生命并获得 [E]"],
-		"NAME": "夏提雅"
+		"NAME": "夏提雅",
+		"UPGRADE_DESCRIPTION": "[#EFC851]吸血[] 。 NL 对所有敌人造成 !D! 点伤害。 NL 偷取 !M! 点 力量 。"
 	},
 	"animator:Shichika":
 	{
@@ -1002,7 +1003,7 @@
 	},
 	"animator:Strike_Konosuba":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害 。 NL 鼓舞 !SV! :回复 !M! 生命 。",
+		"DESCRIPTION": "造成 !D! 点伤害 。 NL 获得 !B! 点 格挡 。",
 		"NAME": "改良打击"
 	},
 	"animator:Strike_NoGameNoLife":
@@ -1042,12 +1043,12 @@
 	},
 	"animator:TanyaDegurechaff_Type95":
 	{
-		"DESCRIPTION": "循环 2 张牌。保留 所有 [#EFC851]攻击牌[] 。下一回合，你的所有 [#EFC851]攻击牌[] 将造成双倍伤害。消耗 。",
+		"DESCRIPTION": "循环 2 张牌。 保留 所有 [#EFC851]攻击牌[] 。下一回合，你的所有 [#EFC851]攻击牌[] 将造成双倍伤害。消耗 。",
 		"NAME": "九五式演算宝珠"
 	},
 	"animator:Tatsumaki":
 	{
-		"DESCRIPTION": "生成 1 个 凌风 充能球 。 NL 获得 !M! 点 临时 集中 。 NL 同调 ：本回合，所有敌人失去 !SV! 点 力量 。",
+		"DESCRIPTION": "生成 1 个 凌风 充能球 。 NL 获得 !M! 点 临时 集中 。 NL 同调 ： 下一回合， 获得 [E] 。",
 		"NAME": "龙卷"
 	},
 	"animator:Tet":

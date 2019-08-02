@@ -563,7 +563,7 @@
 	},
 	"animator:Kazuma":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 ， 造成 !D! 點傷害 。 NL 同調 : 抽一張牌 。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 循環 1 張牌 。 NL 同調 : 隨機對敵人造成 !D! 點 傷害 。",
 		"NAME": "和真"
 	},
 	"animator:Kira":
@@ -805,7 +805,7 @@
 	},
 	"animator:RoryMercury":
 	{
-		"DESCRIPTION": "隨機對敵人造成 !D! 點傷害2次 。 [#EFC851]被抽到時[] ； 獲得 !M! 點 臨時 力量 。",
+		"DESCRIPTION": "隨機對敵人造成 !D! 點 傷害 2次 。 [#EFC851]被抽到時[] ； 獲得 !M! 點 臨時 力量 。",
 		"NAME": "蘿莉·麥丘利"
 	},
 	"animator:Rose":
@@ -858,7 +858,8 @@
 	{
 		"DESCRIPTION": "[#EFC851]嗜血[] 。 對所有敵人造成 !D! 點傷害 。 NL 同調 : 所有攻擊目標失去1點 力量，獲得等量的 力量 。",
 		"EXTENDED_DESCRIPTION": ["嗜血", "如果這張牌消滅了一個非爪牙的敵人 ， 恢復 3 點 生命 並 獲得 [E]"],
-		"NAME": "夏提雅"
+		"NAME": "夏提雅",
+		"UPGRADE_DESCRIPTION": "[#EFC851]嗜血[] 。 對所有敵人造成 !D! 點傷害 。 NL 所有攻擊目標失去1點 力量， 獲得等量的 力量 。"
 	},
 	"animator:Shichika":
 	{
@@ -997,7 +998,7 @@
 	},
 	"animator:Strike_Konosuba":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 增強 !SV! : 回復 !M! 點 生命 。",
+		"DESCRIPTION": "造成 !D! 點傷害 。 NL 獲得 !B! 點 格擋 。",
 		"NAME": "優越打擊"
 	},
 	"animator:Strike_NoGameNoLife":
@@ -1042,7 +1043,7 @@
 	},
 	"animator:Tatsumaki":
 	{
-		"DESCRIPTION": "產生 1 個 空氣 充能球 。 NL 獲得 !M! 點臨時 集中 。 NL 同調 ： 此輪，所有敵人失去 !SV! 點 力量 。",
+		"DESCRIPTION": "產生 1 個 空氣 充能球 。 NL 獲得 !M! 點臨時 集中 。 NL 同調 ： 下一輪 ， 獲得 [E] 。",
 		"NAME": "龍捲"
 	},
 	"animator:Tet":
