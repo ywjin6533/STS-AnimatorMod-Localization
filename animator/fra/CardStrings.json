@@ -49,8 +49,10 @@
 	},
 	"animator:Aqua":
 	{
-		"DESCRIPTION": "Soignez !M! PV. NL Réduisez les soins de cette carte de !SV! ce combat.",
-		"NAME": "Aqua"
+		"DESCRIPTION": "Soignez !M! PV. NL Piochez 1 carte. NL Devient inutile pour le restant du combat.",
+		"EXTENDED_DESCRIPTION": ["", "Lorsque cette carte est épuisée ou défaussée, gagnez !SV! PV_Temp.."],
+		"NAME": "Aqua",
+		"UPGRADE_DESCRIPTION": "Soignez !M! PV. NL Piochez 1 carte. NL Devient un peu moins inutile pour le restant du combat."
 	},
 	"animator:Ara":
 	{
@@ -1049,7 +1051,7 @@
 	},
 	"animator:Tatsumaki":
 	{
-		"DESCRIPTION": "Canalisez 1 Orbe Aérien. NL Gagnez !M! de Concentration temporaire. Synergie: NL TOUS les ennemies perdent !SV! de Force pendant ce tour.",
+		"DESCRIPTION": "Canalisez 1 Orbe Aérien. NL Gagnez !M! de Concentration temporaire. Synergie: NL Gagnez [E] au prochain tour.",
 		"NAME": "Tatsumaki"
 	},
 	"animator:Tet":

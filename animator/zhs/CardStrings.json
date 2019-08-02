@@ -50,8 +50,10 @@
 	},
 	"animator:Aqua":
 	{
-		"DESCRIPTION": "回复 !M! 点生命。在本场战斗中减少 !SV! 点 回复量 。",
-		"NAME": "阿库娅"
+		"DESCRIPTION": "回复 !M! 点生命。 在本场战斗中变成无用的废物。",
+		"EXTENDED_DESCRIPTION": ["", "如果这张牌被 消耗 或 丢弃， 获得 !SV! 点 暂时性生命 。"],
+		"NAME": "阿库娅",
+		"UPGRADE_DESCRIPTION": "回复 !M! 点生命。 在本场战斗中变成有用的废物。"
 	},
 	"animator:Ara":
 	{
