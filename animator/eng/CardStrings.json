@@ -2,7 +2,7 @@
 {
 	"animator:AcuraAkari":
 	{
-		"DESCRIPTION": "Discard 1 card. Add !SV! Throwing-Knives NL to your hand. NL Gain !M! Envenom until end of turn.",
+		"DESCRIPTION": "Discard 1 card: Add !SV! Throwing-Knives NL to your hand. NL Gain !M! Envenom until end of turn.",
 		"NAME": "Akari"
 	},
 	"animator:AcuraShin":
@@ -597,7 +597,7 @@
 	},
 	"animator:Kuroyukihime":
 	{
-		"DESCRIPTION": "Discard !M! cards. Add [#EFC851]Black [#EFC851]Lotus to your hand. Exhaust.",
+		"DESCRIPTION": "Discard !M! cards: Add [#EFC851]Black [#EFC851]Lotus to your hand. Exhaust.",
 		"EXTENDED_DESCRIPTION": ["Black Lotus", "A special 1-cost #yAttack which deals damage to ALL enemies and grants #yBlock and #yBlur."],
 		"NAME": "Kuroyukihime"
 	},
@@ -619,9 +619,9 @@
 	},
 	"animator:LeleiLaLalena":
 	{
-		"DESCRIPTION": "[#EFC851]Channel !M! Frost. NL Synergy: Apply !SV! Weak to ALL NL enemies.",
+		"DESCRIPTION": "Discard a random card: [#EFC851]Channel !M! Frost. Synergy: Apply 1 Weak to ALL enemies.",
 		"NAME": "Lelei La Lalena",
-		"UPGRADE_DESCRIPTION": "[#EFC851]Channel !M! Frost. NL Cycle 1 card. NL Synergy: Apply !SV! Weak to ALL NL enemies."
+		"UPGRADE_DESCRIPTION": "Discard a card: [#EFC851]Channel !M! Frost. Synergy: Apply 1 Weak to ALL enemies."
 	},
 	"animator:Lelouch":
 	{
@@ -1088,7 +1088,7 @@
 	},
 	"animator:TukaLunaMarceau":
 	{
-		"DESCRIPTION": "Gain !B! Block. Next NL turn, gain !B! Block. NL If this is your first Synergy this turn, draw 1 card.",
+		"DESCRIPTION": "Gain !B! Block. NL Draw 1 card. Reduce your maximum hand size by !SV! this turn.",
 		"NAME": "Tuka"
 	},
 	"animator:Tyuule":
