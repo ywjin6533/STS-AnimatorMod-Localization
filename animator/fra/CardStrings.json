@@ -2,7 +2,7 @@
 {
 	"animator:AcuraAkari":
 	{
-		"DESCRIPTION": "Défaussez 1 carte. NL Ajoutez !SV! Couteaux_de_Jet à votre main. NL Gagnez !M! d'Envenimer jusqu'à la fin du tour.",
+		"DESCRIPTION": "Défaussez 1 carte: NL Ajoutez !SV! Couteaux_de_Jet à votre main. NL Gagnez !M! d'Envenimer jusqu'à la fin du tour.",
 		"NAME": "Akari"
 	},
 	"animator:AcuraShin":
@@ -569,7 +569,7 @@
 	},
 	"animator:Kazuma":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Recyclez 1 carte. NL Synergie: Infligez !D! dégât(s) à un ennemi aléatoire.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Recyclez 1 carte. NL Synergie: Infligez !M! dégât(s) à un ennemi aléatoire.",
 		"NAME": "Kazuma"
 	},
 	"animator:Kira":
@@ -596,7 +596,7 @@
 	},
 	"animator:Kuroyukihime":
 	{
-		"DESCRIPTION": "Défausser !M! carte(s). Ajouter [#EFC851]Black [#EFC851]Lotus à votre main. Épuisement.",
+		"DESCRIPTION": "Défausser !M! carte(s): Ajouter [#EFC851]Black [#EFC851]Lotus à votre main. Épuisement.",
 		"EXTENDED_DESCRIPTION": ["Black Lotus", "Une carte #yAttaque spéciale qui coûte 1."],
 		"NAME": "Kuroyukihime"
 	},

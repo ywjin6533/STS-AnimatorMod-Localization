@@ -2,7 +2,7 @@
 {
 	"animator:AcuraAkari":
 	{
-		"DESCRIPTION": "丟棄 1 張牌 。 NL 增加 !SV! 張 飛刃 到手牌 。 NL 獲得 !M! 點 臨時 塗毒 。",
+		"DESCRIPTION": "丟棄 1 張牌 : NL 增加 !SV! 張 飛刃 到手牌 。 NL 獲得 !M! 點 臨時 塗毒 。",
 		"NAME": "阿卡莉"
 	},
 	"animator:AcuraShin":
@@ -565,7 +565,7 @@
 	},
 	"animator:Kazuma":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 循環 1 張牌 。 NL 同調 : 隨機對敵人造成 !D! 點 傷害 。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 循環 1 張牌 。 NL 同調 : 隨機對敵人造成 !M! 點 傷害 。",
 		"NAME": "和真"
 	},
 	"animator:Kira":
@@ -592,7 +592,7 @@
 	},
 	"animator:Kuroyukihime":
 	{
-		"DESCRIPTION": "丟棄 !M! 張牌。 將 [#EFC851]黑蓮花[] 加入到你的手牌中 。 消耗 。",
+		"DESCRIPTION": "丟棄 !M! 張牌 : 將 [#EFC851]黑蓮花[] 加入到你的手牌中 。 消耗 。",
 		"EXTENDED_DESCRIPTION": ["黑蓮花", "特殊的1耗 #y攻擊牌 。"],
 		"NAME": "黑雪公主"
 	},
