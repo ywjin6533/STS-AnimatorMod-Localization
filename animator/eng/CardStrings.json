@@ -13,9 +13,9 @@
 	},
 	"animator:AcuraTooru":
 	{
-		"DESCRIPTION": "Deal !D! damage NL twice. Add !SV! Throwing-Knives to your hand. Synergy: Cycle !M! card.",
+		"DESCRIPTION": "Deal !D! damage NL twice. Add !SV! Throwing-Knives to your hand. Synergy: Gain !B! Block.",
 		"NAME": "Tooru",
-		"UPGRADE_DESCRIPTION": "Deal !D! damage NL twice. Add !SV! Throwing-Knives to your hand. Synergy: Cycle !M! cards."
+		"UPGRADE_DESCRIPTION": "Deal !D! damage NL twice. Add !SV! Throwing-Knives to your hand. Synergy: Gain !B! Block."
 	},
 	"animator:Add":
 	{
@@ -184,10 +184,15 @@
 	},
 	"animator:Darkness":
 	{
-		"DESCRIPTION": "Gain !M! Plated_Armor. Whenever you take damage, Upgrade !M! random card ([#EFC851]*[#FFFFFF]).",
-		"EXTENDED_DESCRIPTION": ["* Note", "It will prioritize cards in your hand."],
-		"NAME": "Darkness",
-		"UPGRADE_DESCRIPTION": "Gain !M! Plated_Armor. Whenever you take damage, Upgrade !M! random cards ([#EFC851]*[#FFFFFF])."
+		"DESCRIPTION": "Gain !M! Plated_Armor. NL The next time you take damage, add 1 [#EFC851]Adrenaline to your draw pile.",
+		"EXTENDED_DESCRIPTION": ["Adrenaline", "Gain 1 Energy. NL Draw 2 cards. NL #yExhaust."],
+		"NAME": "Darkness"
+	},
+	"animator:DarknessAdrenaline":
+	{
+		"DESCRIPTION": "Gain [E]. NL Draw 2 cards. NL Exhaust.",
+		"NAME": "Adrenaline",
+		"UPGRADE_DESCRIPTION": "Gain [E] [E]. NL Draw 2 cards. NL Exhaust."
 	},
 	"animator:Defend":
 	{
@@ -481,9 +486,9 @@
 	},
 	"animator:Guy":
 	{
-		"DESCRIPTION": "Draw !M! card. NL Discard !M! card. NL If you discarded an [#EFC851]Attack, gain !B! Block.",
+		"DESCRIPTION": "Draw !M! card. NL Discard !M! card. NL Synergy: Discard the top 2 cards of your draw pile.",
 		"NAME": "Guy",
-		"UPGRADE_DESCRIPTION": "Draw !M! cards. NL Discard !M! cards. NL If you discarded an [#EFC851]Attack, gain !B! Block."
+		"UPGRADE_DESCRIPTION": "Draw !M! cards. NL Discard !M! cards. NL Synergy: Discard the top 2 cards of your draw pile."
 	},
 	"animator:Hakurou":
 	{
@@ -570,7 +575,7 @@
 	},
 	"animator:Kazuma":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Cycle 1 card. Synergy: NL Deal !D! damage to a random enemy.",
+		"DESCRIPTION": "Gain !B! Block. NL Cycle 1 card. Synergy: NL Deal !M! damage to a random enemy.",
 		"NAME": "Kazuma"
 	},
 	"animator:Kira":
