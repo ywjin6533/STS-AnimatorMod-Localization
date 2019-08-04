@@ -191,6 +191,7 @@
 		"DESCRIPTION": "Gagnez [E]. NL Piochez 2 cartes. NL Épuisement.",
 		"NAME": "Adrénaline",
 		"UPGRADE_DESCRIPTION": "Gagnez [E] [E]. NL Piochez 2 cartes. NL Épuisement."
+	},
 	"animator:Defend":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure.",

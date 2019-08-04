@@ -14,7 +14,7 @@
 	"animator:AcuraTooru":
 	{
 		"DESCRIPTION": "造成 !D! 点伤害 2 次 。 将 !SV! 张飞刀加入你的手牌。 同调 : 获得 !B! 点 格挡 。",
-		"NAME": "托鲁",
+		"NAME": "托鲁"
 	},
 	"animator:Add":
 	{
