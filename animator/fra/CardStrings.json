@@ -13,7 +13,7 @@
 	},
 	"animator:AcuraTooru":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) 2 fois. Ajoutez !SV! Couteaux_de_Jet à votre main. Synergie: Recyclez !M! carte(s).",
+		"DESCRIPTION": "Infligez !D! dégât(s) 2 fois. Ajoutez !SV! Couteaux_de_Jet à votre main. Synergie: Gagnez !B! d'Armure.",
 		"NAME": "Tooru"
 	},
 	"animator:Add":
@@ -182,11 +182,15 @@
 	},
 	"animator:Darkness":
 	{
-		"DESCRIPTION": "Gagnez !M! d'Armure_Plaquée. Chaque fois que prenez des dégât(s), Amélioré !M! carte(s) aléatoire(s) ([#EFC851]*[#FFFFFF]).",
-		"EXTENDED_DESCRIPTION": ["* Note", "Priorise les cartes de votre main."],
-		"NAME": "Darkness",
-		"UPGRADE_DESCRIPTION": "Gagnez !M! d'Armure_Plaquée. Chaque fois que prenez des dégât(s), Amélioré !M! carte(s) aléatoire(s) ([#EFC851]*[#FFFFFF])."
+		"DESCRIPTION": "Gagnez !M! d'Armure_Plaquée. NL La prochaine fois que vous recevez des dégâts, ajoutez 1 [#EFC851]Adrénaline à votre pioche.",
+		"EXTENDED_DESCRIPTION": ["Adrénaline", "Gagnez 1 énergie. NL Piochez 2 cartes. NL Epuisement."],
+		"NAME": "Darkness"
 	},
+	"animator:DarknessAdrenaline":
+	{
+		"DESCRIPTION": "Gagnez [E]. NL Piochez 2 cartes. NL Épuisement.",
+		"NAME": "Adrénaline",
+		"UPGRADE_DESCRIPTION": "Gagnez [E] [E]. NL Piochez 2 cartes. NL Épuisement."
 	"animator:Defend":
 	{
 		"DESCRIPTION": "Gagnez !B! d'Armure.",
@@ -209,7 +213,7 @@
 	},
 	"animator:Defend_FullmetalAlchemist":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Cooldown !SV!: NL Canalisez 1 Orbe Glaciale.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Cooldown !SV!: NL Canalisez 1 Orbe Glaciare.",
 		"NAME": "Défense Amélioré"
 	},
 	"animator:Defend_GATE":
@@ -259,7 +263,7 @@
 	},
 	"animator:Defend_OwariNoSeraph":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Héritage: Appliquez !M! Faiblesse à TOUS les ennemis.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Héritage: Appliquez !M! de Faiblesse à TOUS les ennemis.",
 		"NAME": "Défense Améliorée"
 	},
 	"animator:Defend_TenSura":
@@ -329,9 +333,9 @@
 	},
 	"animator:Emilia":
 	{
-		"DESCRIPTION": "Canalisez 1 Orbe Glaciale. Canalisez 1 Orbe Kéraunique pour chaque Orbe Glaciale. Épuisement.",
+		"DESCRIPTION": "Canalisez 1 Orbe Glaciare. Canalisez 1 Orbe Kéraunique pour chaque Orbe Glaciare. Épuisement.",
 		"NAME": "Emilia",
-		"UPGRADE_DESCRIPTION": "Canalisez 1 Orbe Glaciale. Canalisez 1 Orbe Kéraunique pour chaque Orbe Glaciale."
+		"UPGRADE_DESCRIPTION": "Canalisez 1 Orbe Glaciare. Canalisez 1 Orbe Kéraunique pour chaque Orbe Glaciare."
 	},
 	"animator:EmiyaShirou":
 	{
@@ -393,7 +397,7 @@
 	"animator:Fredrika":
 	{
 		"DESCRIPTION": "Changeforme. Gagnez !B! d'Armure pour chaque ennemi. Rappel: Retourne dans votre main et choisissez une nouvelle forme ce tour.",
-		"EXTENDED_DESCRIPTION": ["Changeforme. NL Gagnez !B! d'Armure.", "Changeforme. NL Infligez !D! dégât(s) deux fois. Gagnez 2 de Métallisation.", "Changeforme. NL Infligez !D! dégât(s). NL Appliquez 1 Vulnérabilité. NL Appliquez 1 Faiblesse."],
+		"EXTENDED_DESCRIPTION": ["Changeforme. NL Gagnez !B! d'Armure.", "Changeforme. NL Infligez !D! dégât(s) deux fois. Gagnez 2 de Métallisation.", "Changeforme. NL Infligez !D! dégât(s). NL Appliquez 1 Vulnérabilité. NL Appliquez 1 de Faiblesse."],
 		"NAME": "Fredrika"
 	},
 	"animator:GazelDwargon":
@@ -421,7 +425,7 @@
 	},
 	"animator:Gillette":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Au prochain tour, Gagnez [E]. Rappel: Appliquez !M! Faiblesse à TOUS les ennemis.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Au prochain tour, Gagnez [E]. Rappel: Appliquez !M! de Faiblesse à TOUS les ennemis.",
 		"NAME": "Gillette"
 	},
 	"animator:Giselle":
@@ -479,9 +483,9 @@
 	},
 	"animator:Guy":
 	{
-		"DESCRIPTION": "Piochez !M! carte. NL Défaussez !M! carte. NL Si vous avez défaussé une [#EFC851]Attaque, gagnez !B! d'Armure.",
+		"DESCRIPTION": "Piochez !M! carte. NL Défaussez !M! carte. NL Synergie: Défaussez 2 cartes du haut de votre pioche.",
 		"NAME": "Guy",
-		"UPGRADE_DESCRIPTION": "Piochez !M! cartes. NL Défaussez !M! cartes. NL Si vous avez défaussé une [#EFC851]Attaque, gagnez !B! d'Armure."
+		"UPGRADE_DESCRIPTION": "Piochez !M! cartes. NL Défaussez !M! cartes. NL  Synergie: Défaussez 2 cartes du haut de votre pioche."
 	},
 	"animator:Hakurou":
 	{
@@ -546,10 +550,10 @@
 	},
 	"animator:IzunaHatsuse":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez 1 Faiblesse. NL [#EFC851]Blood [#EFC851]Destruction.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez 1 de Faiblesse. NL [#EFC851]Blood [#EFC851]Destruction.",
 		"EXTENDED_DESCRIPTION": ["Blood Destruction", "Tant que vous êtes en dessous de 25% max PV, cette carte deviendra une carte #yAttaque qui coûte 0.", "Infligez !D! dégât(s) deux fois. NL Soignez !M! PV."],
 		"NAME": "Izuna Hatsuse",
-		"UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez 1 Faiblesse. NL [#EFC851]Blood [#EFC851]Destruction+."
+		"UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez 1 de Faiblesse. NL [#EFC851]Blood [#EFC851]Destruction+."
 	},
 	"animator:JeanneDArc":
 	{
@@ -618,9 +622,9 @@
 	},
 	"animator:LeleiLaLalena":
 	{
-		"DESCRIPTION": "Canalisez !M! Orbe Glaciale. NL Synergie: Appliquez !SV! Faiblesse à TOUS les ennemis.",
+		"DESCRIPTION": "Défaussez une carte aléatoire: Canalisez !M! Orbe Glaciare. NL Synergie: Appliquez 1 de Faiblesse à TOUS les ennemis.",
 		"NAME": "Lelei La Lalena",
-		"UPGRADE_DESCRIPTION": "Canalisez !M! Orbe Glaciale. NL Recyclez 1 carte. NL Synergie: Appliquez !SV! Faiblesse à TOUS les ennemis."
+		"UPGRADE_DESCRIPTION": "Défaussez une carte: Canalisez !M! Orbe Glaciare. NL Synergie: Appliquez 1 de Faiblesse à TOUS les ennemis."
 	},
 	"animator:Lelouch":
 	{
@@ -742,8 +746,8 @@
 	},
 	"animator:OrbCore_Frost":
 	{
-		"DESCRIPTION": "Canalisez !SV! Orbe Glaciale. NL À la seconde Synergie de chaque tour, NL Gagnez !M! d'Armure_Plaquée.",
-		"NAME": "Noyau Glacial"
+		"DESCRIPTION": "Canalisez !SV! Orbe Glaciare. NL À la seconde Synergie de chaque tour, NL Gagnez !M! d'Armure_Plaquée.",
+		"NAME": "Noyau Glaciaire"
 	},
 	"animator:OrbCore_Lightning":
 	{
@@ -791,7 +795,7 @@
 	},
 	"animator:Raven":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! Faiblesse. NL Piochez votre carte [#EFC851]Attack avec le moins de dégats.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Faiblesse. NL Piochez votre carte [#EFC851]Attack avec le moins de dégats.",
 		"NAME": "Raven"
 	},
 	"animator:Rena":
@@ -898,7 +902,7 @@
 	},
 	"animator:Shinoa":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez !M! Vulnérabilité à TOUS les ennemis. Synergie: Applique aussi !M! Faiblesse.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Appliquez !M! Vulnérabilité à TOUS les ennemis. Synergie: Applique aussi !M! de Faiblesse.",
 		"NAME": "Shinoa"
 	},
 	"animator:Shiro":
@@ -1067,7 +1071,7 @@
 	},
 	"animator:ThrowingKnife_0":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! Faiblesse. NL Purge. Rappel: Joue cette carte.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Appliquez !M! de Faiblesse. NL Purge. Rappel: Joue cette carte.",
 		"NAME": "Couteau de Jet"
 	},
 	"animator:ThrowingKnife_1":
@@ -1093,7 +1097,7 @@
 	},
 	"animator:TukaLunaMarceau":
 	{
-		"DESCRIPTION": "Gagnez !B! d'Armure. Au prochain tour, gagnez !B! d'Armure. Si c'est la première synergie ce tour, Piochez 1 carte.",
+		"DESCRIPTION": "Gagnez !B! d'Armure. NL Piochez une carte. Réduit la quantité maximale de ta main par !SV! pendant ce tour.",
 		"NAME": "Tuka"
 	},
 	"animator:Tyuule":

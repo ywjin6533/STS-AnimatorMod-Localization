@@ -13,9 +13,8 @@
 	},
 	"animator:AcuraTooru":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害 2 次 。 将 !SV! 张飞刀加入你的手牌。 同调 : 循环 !M! 张手牌。",
+		"DESCRIPTION": "造成 !D! 点伤害 2 次 。 将 !SV! 张飞刀加入你的手牌。 同调 : 获得 !B! 点 格挡 。",
 		"NAME": "托鲁",
-		"UPGRADE_DESCRIPTION": "造成 !D! 点伤害 2 次 。 将 !SV! 张飞刀加入你的手牌。 同调 : 循环 !M! 张手牌。"
 	},
 	"animator:Add":
 	{
@@ -184,9 +183,15 @@
 	},
 	"animator:Darkness":
 	{
-		"DESCRIPTION": "获得 !M! 点 多层护甲 。 每次受伤时随机 升级 !M! 张卡 ，手牌优先。",
-		"EXTENDED_DESCRIPTION": ["", ""],
+		"DESCRIPTION": "获得 !M! 点 多层护甲 。 下次受伤时，在抽牌堆里添加一张 肾上腺素 。",
+		"EXTENDED_DESCRIPTION": ["肾上腺素", "获得 1 点能量。 NL 抽 2 张牌。 NL #y消耗 。"],
 		"NAME": "达克尼斯"
+	},
+	"animator:DarknessAdrenaline":
+	{
+		"DESCRIPTION": "获得 [E] 。 NL 抽 2 牌。 NL 消耗 。",
+		"NAME": "肾上腺素",
+		"UPGRADE_DESCRIPTION": "获得 [E] [E] 。 NL 抽 2 牌。 NL 消耗 。"
 	},
 	"animator:Defend":
 	{
@@ -479,7 +484,7 @@
 	},
 	"animator:Guy":
 	{
-		"DESCRIPTION": "抽 !M! 张牌 。 NL 丢弃 !M! 张牌 。 NL 若丢弃的牌中有攻击牌，获得 !B! 点 格挡 。",
+		"DESCRIPTION": "抽 !M! 张牌 。 NL 丢弃 !M! 张牌 。 NL 同调 ： 从抽牌堆顶丢弃 2 张牌。",
 		"NAME": "奇伊"
 	},
 	"animator:Hakurou":
@@ -617,9 +622,9 @@
 	},
 	"animator:LeleiLaLalena":
 	{
-		"DESCRIPTION": "生成 !M! 个 冰霜 充能球。 NL 同调 : 给予所有敌人 !SV! 层 虚弱 。 ",
+		"DESCRIPTION": "随机丢弃1张牌： 生成 !M! 个 冰霜 充能球。 NL 同调 : 给予所有敌人 !SV! 层 虚弱 。 ",
 		"NAME": "蕾莱·拉·列娜",
-		"UPGRADE_DESCRIPTION": "生成 !M! 个 冰霜 充能球。 NL 循环 1 张牌 。 NL 同调 : 给予所有敌人 !SV! 层 虚弱 。"
+		"UPGRADE_DESCRIPTION": "丢弃1张牌： 生成 !M! 个 冰霜 充能球。  NL 同调 : 给予所有敌人 !SV! 层 虚弱 。"
 	},
 	"animator:Lelouch":
 	{
@@ -1092,7 +1097,7 @@
 	},
 	"animator:TukaLunaMarceau":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。下一回合，获得 !B! 点 格挡 。 如果这是本回合第一次 同调 ，抽一张牌 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。你的手牌上限在此轮减 !SV!。",
 		"NAME": "杜嘉"
 	},
 	"animator:Tyuule":
@@ -1109,7 +1114,7 @@
 	},
 	"animator:Vanir":
 	{
-		"DESCRIPTION": "穿越者。 [#EFC851]巴尼尔[] 。造成 !D! 点伤害。 鼓舞 !SV! : 造成 !M! 点伤害。",
+		"DESCRIPTION": "穿越者 。 [#EFC851]巴尼尔[] 。造成 !D! 点伤害。 鼓舞 !SV! : 造成 !M! 点伤害。",
 		"EXTENDED_DESCRIPTION": ["巴尼尔", "如果这张卡被消耗，将抽牌堆中的一张牌变为这张牌的复制品。"],
 		"NAME": "巴尼尔"
 	},

@@ -13,8 +13,8 @@
 	},
 	"animator:AcuraTooru":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 2 次 。增加 !SV! 張 飛刃 到手牌 。同調 : 循環 !M! 張手牌。",
-		"NAME": "托魯"
+		"DESCRIPTION": "造成 !D! 點傷害 2 次 。 將 !SV! 張飛刀加入你的手牌。 同調 : 獲得 !B! 點 格擋 。",
+		"NAME": "托魯",
 	},
 	"animator:Add":
 	{
@@ -182,9 +182,15 @@
 	},
 	"animator:Darkness":
 	{
-		"DESCRIPTION": "獲得 !M! 層 多層護甲 。 每次受傷時隨機 升級 !M! 張卡 ， 以手牌優先 。",
-		"EXTENDED_DESCRIPTION": ["", ""],
+		"DESCRIPTION": "獲得 !M! 點 多層護甲 。 下次受傷時，在抽牌堆裡添加一張 腎上腺素 。",
+		"EXTENDED_DESCRIPTION": ["腎上腺素", "獲得 1 點能量。 NL 抽 2 張牌。 NL #y消耗 。"],
 		"NAME": "達克尼斯"
+	},
+	"animator:DarknessAdrenaline":
+	{
+		"DESCRIPTION": "獲得 [E] 。 NL 抽 2 牌。 NL 消耗 。",
+		"NAME": "腎上腺素",
+		"UPGRADE_DESCRIPTION": "獲得 [E] [E] 。 NL 抽 2 牌。 NL 消耗 。"
 	},
 	"animator:Defend":
 	{
@@ -477,7 +483,7 @@
 	},
 	"animator:Guy":
 	{
-		"DESCRIPTION": "抽 !M! 張牌 。 NL 丟棄 !M! 張牌 。 NL 如果你丟棄了 攻擊 牌，獲得 !B! 點 護甲。",
+		"DESCRIPTION": "抽 !M! 張牌 。 NL 丟棄 !M! 張牌 。 NL 同調 ： 從抽牌堆頂丟棄 2 張牌。",
 		"NAME": "奇伊"
 	},
 	"animator:Hakurou":
@@ -614,9 +620,9 @@
 	},
 	"animator:LeleiLaLalena":
 	{
-		"DESCRIPTION": "獲得 !M! 個冰霜充能球 。 NL 同調 : 給予所有敵人 !SV! 層 虛弱 。",
+		"DESCRIPTION": "隨機丟棄1張牌： 生成 !M! 個 冰霜 充能球。 NL 同調 : 給予所有敵人 !SV! 層 虛弱 。 ",
 		"NAME": "蕾萊·拉·列娜",
-		"UPGRADE_DESCRIPTION": "獲得 !M! 個冰霜充能球 。 NL 循環 1 張牌 。 NL 同調 : 給予所有敵人 !SV! 層 虛弱 。"
+		"UPGRADE_DESCRIPTION": "丟棄1張牌： 生成 !M! 個 冰霜 充能球。 NL 同調 : 給予所有敵人 !SV! 層 虛弱 。"
 	},
 	"animator:Lelouch":
 	{
@@ -1087,7 +1093,7 @@
 	},
 	"animator:TukaLunaMarceau":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。下一輪，獲得 !B! 點 格擋 。 如果這是本輪的第一次 同調 ， 抽一張牌 。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。你的手牌上限在此輪減 !SV!。",
 		"NAME": "杜嘉"
 	},
 	"animator:Tyuule":
