@@ -1126,28 +1126,28 @@
 	},
 	"animator:Vesta":
 	{
-		"DESCRIPTION": "Piochez 1 carte. NL Recherchez un [#EFC851]Élixir, il sera complété dans !M! tours. Épuisement.",
+		"DESCRIPTION": "Recherchez un [#EFC851]Élixir, il sera complété dans !M! tours. Épuisement.",
 		"EXTENDED_DESCRIPTION": ["Élixir", "#yCompétence qui coûte 0 ayant des effets variés."],
 		"NAME": "Vesta"
 	},
-	"animator:Vesta_Elixir_0":
+	"animator:Vesta_Elixir":
 	{
-		"DESCRIPTION": "Gagnez !M! de Concentration. NL Gagnez 2 emplacements d'Orbe. NL Gagnez !SV! de Flou. NL Épuisement.",
-		"NAME": "Élixir"
-	},
-	"animator:Vesta_Elixir_1":
-	{
-		"DESCRIPTION": "Gagnez !M! de Force. NL Gagnez !SV! de Dextérité. NL Gagnez 6 de Temp._PV. NL Épuisement.",
-		"NAME": "Élixir"
-	},
-	"animator:Vesta_Elixir_2":
-	{
-		"DESCRIPTION": "Epuisez !M! cartes. NL Gagnez [E] [E] [E]. NL Piochez !SV! cartes. NL Épuisement.",
-		"NAME": "Élixir"
-	},
-	"animator:Vesta_Elixir_3":
-	{
-		"DESCRIPTION": "Piochez !M! cartes. NL Défaussez 2 cartes. NL Gagnez !SV! de Métallisation. NL Épuisement.",
+		"DESCRIPTION": "",
+		"EXTENDED_DESCRIPTION": 
+		[
+			"Complétez ce 1 tour plus tôt.",
+			"Piochez {0} Cartes.",
+			"Gagnez {0} Concentration.",
+			"Gagnez {0} Force.",
+			"Gagnez {0} Dextérité.",
+			"Gagnez {0} Orb slots.",
+			"Gagnez {0} Temp._PV.",
+			"Gagnez {0} Métallisation.",
+			"Gagnez {0} Energie.",
+			"Épuisez {0} Cartes:",
+			"Défaussez {0} Cartes:",
+			"Purge."
+		],
 		"NAME": "Élixir"
 	},
 	"animator:Viivi":

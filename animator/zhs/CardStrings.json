@@ -1086,7 +1086,7 @@
 	},
 	"animator:Togame":
 	{
-		"DESCRIPTION": "抽 !M! 张牌 。可以选择并 消耗 一张手牌，再抽一张牌 ",
+		"DESCRIPTION": "抽 !M! 张牌 。 可以选择并 消耗 一张手牌，再抽一张牌 ",
 		"NAME": "咎儿"
 	},
 	"animator:Truth":
@@ -1125,28 +1125,28 @@
 	},
 	"animator:Vesta":
 	{
-		"DESCRIPTION": "抽 1 张牌 。 研究1瓶 [#EFC851]灵药[] ， NL 在 !M! 回合后获得此研究成果 。 消耗 。",
+		"DESCRIPTION": "研究1瓶 [#EFC851]灵药[] ， NL 在 !M! 回合后获得此研究成果 。 消耗 。",
 		"EXTENDED_DESCRIPTION": ["灵药", "0费 #y技能牌 ， 拥有不同的特殊功效 。"],
 		"NAME": "大臣"
 	},
-	"animator:Vesta_Elixir_0":
+	"animator:Vesta_Elixir":
 	{
-		"DESCRIPTION": "获得 !M! 点 集中 。 NL 获得 2 个充能球栏位 。 NL 获得 !SV! 层 残影 。 NL 消耗 。",
-		"NAME": "灵药"
-	},
-	"animator:Vesta_Elixir_1":
-	{
-		"DESCRIPTION": "获得 !M! 点 力量 。 NL 获得 !SV! 点 敏捷 。 NL 获得 6 暂时性生命 。 NL 消耗 。",
-		"NAME": "灵药"
-	},
-	"animator:Vesta_Elixir_2":
-	{
-		"DESCRIPTION": "获得 [E] [E] [E] 。 NL 消耗 !M! 张牌 。 NL 抽 !SV! 张牌 。 NL 消耗 。",
-		"NAME": "灵药"
-	},
-	"animator:Vesta_Elixir_3":
-	{
-		"DESCRIPTION": "抽 !M! 张牌 。 NL 丢弃 2 张牌 。 NL 获得 !SV! 点 金属化 。 NL 消耗 。",
+		"DESCRIPTION": "",
+		"EXTENDED_DESCRIPTION": 
+		[
+			"完成时间减少 1 轮",
+			"抽 {0} 张牌。",
+			"获得 {0} 层 集中 。",
+			"获得 {0} 层 力量 。",
+			"获得 {0} 层 敏捷 。",
+			"获得 {0} 充能球栏位 。",
+			"获得 {0} 暂时性生命 。",
+			"获得 {0} 层 金属化 。",
+			"获得 {0} 能量 。",
+			"消耗 {0} 张牌 :",
+			"丢弃 {0} 张牌 :",
+			"抹除 。"
+		],
 		"NAME": "灵药"
 	},
 	"animator:Viivi":
