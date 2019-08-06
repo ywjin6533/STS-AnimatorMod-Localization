@@ -270,9 +270,9 @@
 	},
 	"animator:Demiurge":
 	{
-		"DESCRIPTION": "获得 [E] 。在本回合结束时，受到 !M! 点伤害。 遗赠 : 获得 [E] 。",
+		"DESCRIPTION": "获得 [E] 。 在本回合结束时，受到 !M! 点伤害。 遗赠 : 获得 [E] 。",
 		"NAME": "迪米乌哥斯",
-		"UPGRADE_DESCRIPTION": "获得 [E] [E] 。在本回合结束时，受到 !SV! 点伤害。 遗赠 : 获得 [E] [E] 。"
+		"UPGRADE_DESCRIPTION": "获得 [E] [E] 。 在本回合结束时，受到 !SV! 点伤害。 遗赠 : 获得 [E] [E] 。"
 	},
 	"animator:DolaCouronne":
 	{

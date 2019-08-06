@@ -70,6 +70,11 @@
 		"DESCRIPTIONS": ["Heal #g", " HP at the start of your next turn."],
 		"NAME": "Delayed Heal"
 	},
+	"animator:DemiurgePower":
+	{
+		"DESCRIPTIONS": ["At the end of your turn, take #b", " damage."],
+		"NAME": "Demiurge"
+	},
 	"animator:EarthenThornsPower":
 	{
 		"DESCRIPTIONS": ["When attacked, deal #b", " damage back."],

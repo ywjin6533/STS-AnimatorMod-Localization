@@ -70,6 +70,11 @@
 		"DESCRIPTIONS": ["회복 #g", " HP at the start of your 다음턴."],
 		"NAME": "Delayed 회복"
 	},
+	"animator:DemiurgePower":
+	{
+		"DESCRIPTIONS": ["입는다 #b", " 피해 이번턴 종료시."],
+		"NAME": "Demiurge"
+	},
 	"animator:EarthenThornsPower":
 	{
 		"DESCRIPTIONS": ["When attacked, deal #b", " 피해 back."],
