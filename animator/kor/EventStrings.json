@@ -1,4 +1,4 @@
-
+ï»¿
 {
 	"animator:TheMaskedTraveler1":
 	{
@@ -19,16 +19,16 @@
 	{
 		"NAME": "The Masked Traveler (Part 2)",
 		"DESCRIPTIONS": [
-			"\"³Ê±¸³ª! @Heart@ of the Spire À» Ã³Ä¡ÇÏ·¯ °¡´Â°Å¾ß?\" NL NL \"³ª¸¦ µµ¿Í¼­ ´Ù¸¥ À§ÇèÀ» Á¦°ÅÇÏ·¯°¡´Â°Ç ¾î¶§? º¸´Ù½ÃÇÇ, ¹«¸íÀÌ µ¹¾Æ¿Ô¾î, ÇÏÁö¸¸ °ÆÁ¤ÇÏÁö¸¶! ³Ê°¡ ÀÌ±æ¼ö ¾ø´Â°Ç ¾øÀ¸´Ï±î!\"",
-			"\"Èì, Á¶±İ »ó¼¼È÷ ¾Ë·ÁÁÖÀÚ¸é... ¹«¸íÀ» Ã³Ä¡ÇÏ·¯ °¡·Á¸é ³ÊÀÇ ¸ğµç À¯¹°µé°ú ±İ, Æ÷¼Çµé°ú Ä«µå ¾÷±×·¹ÀÌµå¸¦ ÀÌ #yÆ¯º°ÇÑ #yÀ¯¹°µé Áß ÇÏ³ª¿Í °Å·¡ÇØ¾ßÇØ:\" NL NL \"¾îÂî‰çµç ³Ê´Â Àå¹ö±â¹İÀ¸·Î °ñµå¸¦ Á¶±İ µÇµ¹·Á ¹ŞÀ»¼ö ÀÖ¾î, #b{0} #yGold ¾îÄ¡¸¸Å­ ¸»ÀÌ¾ß.\"",
-			"\"¿Ïº®ÇØ! ±×³É ¾ÕÀ¸·Î °¡¸é ±×¸¦ Ã£À» ¼ö ÀÖÀ»²¨¾ß, ¹Ï°íÀÖ¾î!\" NL NL \"Àá±ñ! °ÅÀÇ ÀØ¾î¹ö·È´Âµ¥, °Å±â¼­ ¾öÃ»¸¹Àº°É Ã£°ÔµÉ²¨¾ß. ¿©±â, ÇÏ³ª °¡Á®°¡°Å³ª ¸î°³ÀÇ Ä«µåµéÁ» º¯È­½ÃÄÑ ÁÙ ¼ö ÀÖ¾î.\" NL NL [ #yPLEASE #yNOTICE: This act has been released earlier than intended since it's already fully playable. It is still being developed and will be updated often. ]"
+			"\"ë„ˆêµ¬ë‚˜! @Heart@ of the Spire ì„ ì²˜ì¹˜í•˜ëŸ¬ ê°€ëŠ”ê±°ì•¼?\" NL NL \"ë‚˜ë¥¼ ë„ì™€ì„œ ë‹¤ë¥¸ ìœ„í—˜ì„ ì œê±°í•˜ëŸ¬ê°€ëŠ”ê±´ ì–´ë•Œ? ë³´ë‹¤ì‹œí”¼, ë¬´ëª…ì´ ëŒì•„ì™”ì–´, í•˜ì§€ë§Œ ê±±ì •í•˜ì§€ë§ˆ! ë„ˆê°€ ì´ê¸¸ìˆ˜ ì—†ëŠ”ê±´ ì—†ìœ¼ë‹ˆê¹Œ!\"",
+			"\"í , ì¡°ê¸ˆ ìƒì„¸íˆ ì•Œë ¤ì£¼ìë©´... ë¬´ëª…ì„ ì²˜ì¹˜í•˜ëŸ¬ ê°€ë ¤ë©´ ë„ˆì˜ ëª¨ë“  ìœ ë¬¼ë“¤ê³¼ ê¸ˆ, í¬ì…˜ë“¤ê³¼ ì¹´ë“œ ì—…ê·¸ë ˆì´ë“œë¥¼ ì´ #yíŠ¹ë³„í•œ #yìœ ë¬¼ë“¤ ì¤‘ í•˜ë‚˜ì™€ ê±°ë˜í•´ì•¼í•´:\" NL NL \"ì–´ì°ŒÂ‰æ°¸?ë„ˆëŠ” ì¥ë²„ê¸°ë°˜ìœ¼ë¡œ ê³¨ë“œë¥¼ ì¡°ê¸ˆ ë˜ëŒë ¤ ë°›ì„ìˆ˜ ìˆì–´, #b{0} #yGold ì–´ì¹˜ë§Œí¼ ë§ì´ì•¼.\"",
+			"\"ì™„ë²½í•´! ê·¸ëƒ¥ ì•ìœ¼ë¡œ ê°€ë©´ ê·¸ë¥¼ ì°¾ì„ ìˆ˜ ìˆì„êº¼ì•¼, ë¯¿ê³ ìˆì–´!\" NL NL \"ì ê¹! ê±°ì˜ ìŠì–´ë²„ë ¸ëŠ”ë°, ê±°ê¸°ì„œ ì—„ì²­ë§ì€ê±¸ ì°¾ê²Œë êº¼ì•¼. ì—¬ê¸°, í•˜ë‚˜ ê°€ì ¸ê°€ê±°ë‚˜ ëª‡ê°œì˜ ì¹´ë“œë“¤ì¢€ ë³€í™”ì‹œì¼œ ì¤„ ìˆ˜ ìˆì–´.\" NL NL [ #yPLEASE #yNOTICE: This act has been released earlier than intended since it's already fully playable. It is still being developed and will be updated often. ]"
 		],
 		"OPTIONS":
 		[
 			"[Leave]",
 			"[Inquire]",
 			"[Accept] #gObtain #gRelic",
-			"[Accept] #gRemove #g{0} #gÄ«µåµé, #gobtain #g{1} #g·£´ı #gUpgraded #gÄ«µåµé.",
+			"[Accept] #gRemove #g{0} #gì¹´ë“œë“¤, #gobtain #g{1} #gëœë¤ #gUpgraded #gì¹´ë“œë“¤.",
 			"[Accept] #gUpgrade #ga #gsingle #gcard #g{0} #gtimes."
 		]
 	},
@@ -53,7 +53,7 @@
 		"NAME": "The Dom Vedeloper",
 		"DESCRIPTIONS": [
 			"You hear someone shouting in the distance: NL NL \" Rinne should behave more @erratically@ \" NL \" #yGilgamesh probably deserves a buff! \" NL \" The #bexplosion girl might be a tad too strong... \" NL NL You are slightly intrigued by those strange words... NL Do you decide to approach him?",
-			"\"Oh hello, hello! Those are some #pinteresting Ä«µåµé, mind if give them a look?\" NL NL  Without waiting for your answer, he picked all of your Ä«µåµé, and quickly sorted them. NL NL \"Interesting... Listen friend, how about you take part in a #ySurvey? Of course, you will be #yrewarded.\"",
+			"\"Oh hello, hello! Those are some #pinteresting ì¹´ë“œë“¤, mind if give them a look?\" NL NL  Without waiting for your answer, he picked all of your ì¹´ë“œë“¤, and quickly sorted them. NL NL \"Interesting... Listen friend, how about you take part in a #ySurvey? Of course, you will be #yrewarded.\"",
 			"\"Wonderful! Wonderful! Here, tell me, what do you think of this card?\"",
 			"\"Nice, how about this one?\"",
 			"\"Interesting, and this one?\"",
@@ -118,9 +118,9 @@
 		"DESCRIPTIONS": [
 			"You stumble across a small and seemingly abandoned cabin. NL NL Tired and hungry, you decide to go against your better instincts and enter it. NL NL After checking for possible inhabitants, you soon fall asleep...",
 			"You are awakened by a loud knocking noise. NL NL The room is almost #pcompletely #pDarkness, NL but you perceive a @creature@ standing in front of you.",
-			"\"Çã±â... need #rblood... trade?\" NL NL The @creature@ extends his arm towards you, revealing an #yAncient #yMedallion, you wonder if accepting would be a good idea...",
+			"\"í—ˆê¸°... need #rblood... trade?\" NL NL The @creature@ extends his arm towards you, revealing an #yAncient #yMedallion, you wonder if accepting would be a good idea...",
 			"You ran towards the door as fast as you could, NL and then as far away from the cabin as possible.",
-			"You try to grab the medallion when suddenly the @creature@ #rbites your arm with great force. Nonetheless, it lets you take the À¯¹°.",
+			"You try to grab the medallion when suddenly the @creature@ #rbites your arm with great force. Nonetheless, it lets you take the ìœ ë¬¼.",
 			"\"Need more... trade... again...\" NL NL The @creature@ reveals another #yAncient #yMedallion. NL NL You are #rseverely #rwounded from the previous trade...",
 			"You ran out of the cabin, NL but the creature managed to hurt you once more.",
 			"This hurt much more than before. NL NL But the @creature@ seems satisfied as it slowly abandons the cabin."

@@ -1,978 +1,1200 @@
+﻿
 {
-  "animator:AcuraAkari": {
-    "DESCRIPTION": "ī�带 1�� �����ϴ�. !SV! �ܵ� ī�带 NL �� ����ϴ�. NL !M! �͵��� �� ���������� ����ϴ�.",
-    "NAME": "Akari"
-  },
-  "animator:AcuraShin": {
-    "DESCRIPTION": "�� ��ü���� ���ظ� !D! �ݴϴ�, ���� NL !M!�ߵ��� �ο��մϴ�. NL ����ϴ� 1 [#EFC851]�ߵ� [#EFC851]����.",
-    "EXTENDED_DESCRIPTION": [ "�ߵ� ����", "�ߵ��� �ο��Ҷ� ����, Ÿ�ݸ��� �߰����� 1 �ߵ��� �ο��մϴ�." ],
-    "NAME": "Shin"
-  },
-  "animator:AcuraTooru": {
-    "DESCRIPTION": "!D! ���� NL�� �ι� �ݴϴ�. !SV! �ܵ� ī�带 ����ϴ� �� ����ϴ�. �ó���: ��ȯ !M! ī��.",
-    "NAME": "Tooru",
-    "UPGRADE_DESCRIPTION": "!D! ���ظ� �����ϴ� NL �ι�. Add !SV! �ܵ� ī�� �� ����ϴ�. �ó���: ��ȯ !M! ī��."
-  },
-  "animator:Add": {
-    "DESCRIPTION": "!M! Ench._Armor�� ����ϴ�. ��� �ֵ��� 1ī�带NL �Ҹ��ŵ�ϴ�.  Orb_Core�� ��ü�մϴ�. NL �ֹ߼�. �Ҹ�.",
-    "NAME": "Add",
-    "UPGRADE_DESCRIPTION": "!M! Ench._Armor�� ����ϴ�. ��� �ֵ��� 1ī�带NL �Ҹ��ŵ�ϴ�. Orb_Core�� ��ü�մϴ�. NL �Ҹ�."
-  },
-  "animator:Ain": {
-    "DESCRIPTION": "�ֹ�������. NL �� ��ü���� ���ظ� !D! �ݴϴ� !M! ��. NL 1 ������ ����ϴ�.",
-    "NAME": "Ain"
-  },
-  "animator:Ainz": {
-    "DESCRIPTION": "�ϸ��� 1�ڽ�Ʈ �����մϴ�. ����� ���� �����Ҷ�, !M! ���� [#EFC851]ȿ���� �� �ϳ��� �ο��մϴ�.",
-    "NAME": "Ainz Ooal Gown"
-  },
-  "animator:Aisha": {
-    "DESCRIPTION": "�ֹ�������. ����� ���� Orb�� ��ŭ !D! ���ظ� �����ϴ�. �ν�Ʈ !SV! : 1 Orb ������ ����ϴ�.",
-    "NAME": "Aisha"
-  },
-  "animator:Albedo": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �׸�ŭ Enchanted_Armor�� ����ϴ�. NL �ó���: �̱� ī����̷� ���ư��ϴ�.",
-    "NAME": "Albedo"
-  },
-  "animator:Alexander": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �� ��ü���� ���ظ� !D! �ݴϴ�. �����Ǹ޾Ƹ�: !M! �Ǳ�_������ ����ϴ�.",
-    "NAME": "Alexander"
-  },
-  "animator:Aqua": {
-    "DESCRIPTION": "!M! ü���� ȸ���մϴ�. NL ī�带 ���� �̽��ϴ�. NL �� �������� ����������ϴ�.",
-    "EXTENDED_DESCRIPTION": [ "", "�� ī�尡 �Ҹ�ǰų� �������� ��, !SV!  �ӽ�._ü���� ����ϴ�." ],
-    "NAME": "Aqua",
-    "UPGRADE_DESCRIPTION": "!M! ü���� ȸ���մϴ�. NL ī�带 ���� �̽��ϴ�. NL �� �������� ���� ����������ϴ�."
-  },
-  "animator:Ara": {
-    "DESCRIPTION": "!D! ���ظ� �ι� �����ϴ�. NL ī�带 ���� �̽��ϴ� �� ��ü�� NL ����� ������. NL ī�� 1���� �����ϴ�.",
-    "NAME": "Ara"
-  },
-  "animator:Archer": {
-    "DESCRIPTION": "����� ���� ������,  �� ��ü�� ����� ������ �� ��ü���� ���ظ� !M! �ݴϴ�. ���� ���� ��ȭ�˴ϴ�.",
-    "NAME": "Archer"
-  },
-  "animator:Arpeggio": {
-    "DESCRIPTION": "1 ������ ��â�մϴ�. NL ����ϴ� 1 ����. NL �Ҹ�.",
-    "NAME": "Arpeggio",
-    "UPGRADE_DESCRIPTION": "1 ������ ��â�մϴ�. NL 1 Orb Slot�� ����ϴ�. NL ����ϴ� 1 ����. NL �Ҹ�."
-  },
-  "animator:Asuramaru": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL !M! �Ǹ�ȭ�� ����ϴ�. NL !M! ��ø�� ����ϴ�. NL !B! ���� ����ϴ�. NL �Ҹ�.",
-    "NAME": "Asuramaru"
-  },
-  "animator:Azekura": {
-    "DESCRIPTION": "!B! �� �ι� ����ϴ�. !SV! �Ͻ����� ���õ��� ����ϴ�. �ó���: ����ϴ� !M! �Ǳ�_����.",
-    "NAME": "Azekura"
-  },
-  "animator:Azriel": {
-    "DESCRIPTION": "����ϴ� 2 Flight. NL ������� ������ �ο��Ҷ�����, ����ϴ� !M! ��. NL �ֹ߼�.",
-    "NAME": "Azriel",
-    "UPGRADE_DESCRIPTION": "����ϴ� 2 Flight. NL ������� ������ �ο��Ҷ�����, ����ϴ� !M! ��."
-  },
-  "animator:Benimaru": {
-    "DESCRIPTION": "��â 1 ��. Deal !D! �� ��ü���� ���ظ� !D! �ݴϴ�. ����ϴ� !M! �ӽ�._ü�� ȭ���� ���� ������.",
-    "NAME": "Benimaru"
-  },
-  "animator:Berserker": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ���� ���� �װų� ���� ������, NL ����ϴ� !B! ��.",
-    "NAME": "Berserker"
-  },
-  "animator:Biyorigo": {
-    "DESCRIPTION": "����ϴ� 1 �ΰ���. NL ����ī�� 4���� ����Ҷ�����, ����ϴ� !M! �� and 1 ��ø.",
-    "NAME": "Biyorigo"
-  },
-  "animator:BlackLotus": {
-    "DESCRIPTION": "�� ��ü����!D! ���ظ� �����ϴ�NL. NL ����ϴ� !B! ��. NL ����ϴ� !M! �帴��.",
-    "NAME": "Black Lotus"
-  },
-  "animator:Boros": {
-    "DESCRIPTION": "����ϴ� !M! ��. NL !SV!  �ӽ�._ü���� ����ϴ�. NL ��� [#EFC851]Powers[]�� NL �ι��� ���˴ϴ�.",
-    "NAME": "Boros"
-  },
-  "animator:Bozes": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �̹��Ͽ� �ó����� NL Ȱ��ȭ������, ����ϴ� !SV! NL �Ǳ�_����. NL ���� !M!. �Ҹ�.",
-    "NAME": "Bozes"
-  },
-  "animator:Caster": {
-    "DESCRIPTION": "[#EFC851]��â 1 ����. NL ��ħ !M! �� ���� ����������. �����Ǹ޾Ƹ�: ���� ��� ���� orbs.",
-    "NAME": "Caster"
-  },
-  "animator:ChaikaBohdan": {
-    "DESCRIPTION": "[#EFC851]ħ���� !M!. NL !D! ���ظ� �����ϴ�. NL �ڵ尡 ����ٸ�,  !SV!ī�带 �̽��ϴ�.",
-    "EXTENDED_DESCRIPTION": [ "ħ����", "�� ī�尡 �տ� ������ ���� �����Ҷ�����, �������� �߰��˴ϴ�. ����-���� ���� �� ȿ���� ������ �ߵ���ŵ�ϴ�. ����� �ʱ�ȭ�˴ϴ�." ],
-    "NAME": "Chaika Bohdan"
-  },
-  "animator:ChaikaTrabant": {
-    "DESCRIPTION": "������, !D! ���ظ� �����ϴ� �׸��� �����ŵ�ϴ� !M! ���� [#EFC851]�������. ��ȯ:  �� ��ü���� ���ظ� !SV! �ݴϴ�.",
-    "NAME": "Chaika Trabant"
-  },
-  "animator:ChlammyZell": 
-  {
-    "DESCRIPTION": "�̹��Ͽ� ���δٸ� ī�� Ÿ���� ����ϸ�, ��ȯ 1 ī�� �׸��� �� ��ü���� ���ظ� !M! �ݴϴ�. �Ҹ�.",
-    "NAME": "Kurami",
-    "UPGRADE_DESCRIPTION": "��õ��. �̹��Ͽ� ���δٸ� ī�� Ÿ���� ����ϸ�, ��ȯ 1 ī�� �׸��� �� ��ü���� ���ظ� !M! �ݴϴ�. �Ҹ�."
-  },
-  "animator:Chomusuke": {
-    "DESCRIPTION": "����. �ϸ��� �ѹ�, NL ����ϴ� [E] and �̽��ϴ� !M! NL ī�� �� �ϸ��� NL you �Ҹ�� �̹� NL �� ( !SV! ī��� ).",
-    "NAME": "Chomusuke",
-    "UPGRADE_DESCRIPTION": "����. �ϸ��� �ѹ�, NL ����ϴ� [E] and �̽��ϴ� !M! NL ī��� �� �ϸ��� NL you �Ҹ�� �̹� NL �� ( !SV! ī��� )."
-  },
-  "animator:Chris": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ��ħ !M! [#EFC851]Gold ([#EFC851]*[#FFFFFF]). NL Cooldown !SV! : �̽��ϴ� a [#EFC851]0-Cost[] ī��.",
-    "EXTENDED_DESCRIPTION": [ "* Note", "����� �������� �ִ� 50#yGold ��ĥ�� �ְ�, an elite���Լ� 25 #yGold , �Ǵ� 10 #yGold �� �� ��ū�� �ƴ� ����." ],
-    "NAME": "Chris"
-  },
-  "animator:Chung": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL ���� �� ī���� NL �� by !M!NL �̹� ����. �����Ǹ޾Ƹ� : NL ��â 2 �ñ�.",
-    "NAME": "Chung"
-  },
-  "animator:Cocytus": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL [#EFC851]���� [#EFC851]����. NL �ó���: ���� this ī��'s ���� by !M! this ����.",
-    "EXTENDED_DESCRIPTION": [ "���� ����", "������ �̹� �������� ������ŭ ���� ����ϴ�?." ],
-    "NAME": "Cocytus"
-  },
-  "animator:CowGirl": {
-    "DESCRIPTION": "����ϴ� [E]. NL ����ϴ� !M! �ӽ�._ü��. �Ҹ�.",
-    "NAME": "'Cow Girl'"
-  },
-  "animator:CrowleyEusford": {
-    "DESCRIPTION": "���� ������ !M! �� ���� !D! ���ظ� �����ϴ�. �̹��Ͽ� �Ҹ�� ī�帶�� 1�ھ� ����n.",
-    "NAME": "Crowley Eusford"
-  },
-  "animator:Crystallize": {
-    "DESCRIPTION": " !SV! ü���� �ҽ��ϴ�. NL ����ϴ� !M! �ݼ�ȭ. NL �Ҹ�.",
-    "NAME": "Crystallize"
-  },
-  "animator:Cthulhu": {
-    "DESCRIPTION": "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.",
-    "NAME": "Cthulhu"
-  },
-  "animator:Darkness": {
-    "DESCRIPTION": "����ϴ� !M! �Ǳ�_����. ���ظ� ����������, ��ȭ !M! ���� ī�� ([#EFC851]*[#FFFFFF]).",
-    "EXTENDED_DESCRIPTION": [ "* Note", "It will prioritize ī��� �ڵ忡 �ִ�." ],
-    "NAME": "����",
-    "UPGRADE_DESCRIPTION": "����ϴ� !M! �Ǳ�_����. ���ظ� ����������, ��ȭ !M! ���� ī��� ([#EFC851]*[#FFFFFF])."
-  },
-  "animator:Defend": {
-    "DESCRIPTION": "����ϴ� !B! ��.",
-    "NAME": "Defend"
-  },
-  "animator:Defend_AccelWorld": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL ��ȯ: ����ϴ� !M! ��.",
-    "NAME": "Improved Defend"
-  },
-  "animator:Defend_Elsword": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL ������, ����ϴ� !M! ��.",
-    "NAME": "Improved Defend"
-  },
-  "animator:Defend_Fate": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL ����ϴ� !M! �߰����� �� for ������ ��.",
-    "NAME": "Improved Defend"
-  },
-  "animator:Defend_FullmetalAlchemist": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL Cooldown !SV!: NL [#EFC851]��â 1 �ñ�.",
-    "NAME": "Improved Defend"
-  },
-  "animator:Defend_GATE": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL ����.",
-    "NAME": "Improved Defend"
-  },
-  "animator:Defend_GoblinSlayer": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL �Ҹ�.",
-    "NAME": "Improved Defend"
-  },
-  "animator:Defend_HitsugiNoChaika": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL ��ȯ 1 ī��.",
-    "NAME": "Improved Defend"
-  },
-  "animator:Defend_Kancolle": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL �ν�Ʈ !SV! : ����ϴ� !M! [#EFC851]Gold.",
-    "NAME": "Improved Defend"
-  },
-  "animator:Defend_Katanagatari": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL ����ϴ� !M! �Ͻ����� ���õ�.",
-    "NAME": "Improved Defend"
-  },
-  "animator:Defend_Konosuba": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL �ν�Ʈ !SV! : !M! ü���� ȸ���մϴ�.",
-    "NAME": "Improved Defend"
-  },
-  "animator:Defend_NoGameNoLife": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL ���� ���� ������ playable ī��.",
-    "NAME": "Improved Defend"
-  },
-  "animator:Defend_OnePunchMan": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL �ν�Ʈ !SV! : ������, ����ϴ� [E].",
-    "NAME": "Improved Defend"
-  },
-  "animator:Defend_Overlord": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL ���� this ī��'s �� by !M! this ����.",
-    "NAME": "Improved Defend"
-  },
-  "animator:Defend_OwariNoSeraph": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL �����Ǹ޾Ƹ�: �ο��մϴ� !M! ��ȭ �� ��ü����.",
-    "NAME": "Improved Defend"
-  },
-  "animator:Defend_TenSura": {
-    "DESCRIPTION": "����ϴ� !B! �� �ι�.",
-    "NAME": "Improved Defend"
-  },
-  "animator:Demiurge": {
-    "DESCRIPTION": "����ϴ� [E]. NL �Դ´� !M! ���� �̹��� �����. NL �����Ǹ޾Ƹ�: ����ϴ� [E].",
-    "NAME": "Demiurge",
-    "UPGRADE_DESCRIPTION": "����ϴ� [E] [E]. NL �Դ´� !SV! ���� �̹��� �����. NL �����Ǹ޾Ƹ�: ����ϴ� [E] [E]."
-  },
-  "animator:DolaCouronne": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL �ó���: ī�带 ���� �̽��ϴ�. NL �����Ǹ޾Ƹ�: ����ϴ� 1 ��ø.",
-    "NAME": "Couronne"
-  },
-  "animator:DolaRiku": {
-    "DESCRIPTION": "�տ� �ִ� ī�带 �Ҹ��ŵ�ϴ�, ���� ����� ���� !M! ī��� �� �ϳ��� ������ ����ϴ�, NL �װ��� �ڽ�Ʈ�� 1 �پ��ϴ�.",
-    "NAME": "Riku"
-  },
-  "animator:DolaSchwi": {
-    "DESCRIPTION": "�ο��մϴ� !M! ����. NL ��â 1 ����. NL Cooldown !SV! : NL !D! ���ظ� �����ϴ�.",
-    "NAME": "Schwi"
-  },
-  "animator:DolaStephanie": {
-    "DESCRIPTION": "�ڵ忡 �ִ� ī�� �� �ϳ��� �����ϴ�, Fetch 1 ī�� ���� �ó��� �̱� ī�� ���̿���. �Ҹ�.",
-    "NAME": "Stephanie",
-    "UPGRADE_DESCRIPTION": "�ڵ忡 �ִ� ī�� �� �ϳ��� �����ϴ�, Fetch 1 ī�� ���� �ó��� �̱� ī�� ���̿���."
-  },
-  "animator:DwarfShaman": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL 1 ������ ��â�մϴ�. NL �ó���: ������ ��ȭ a ī�� �ڵ忡 �ִ�.",
-    "NAME": "'Dwarf Shaman'",
-    "UPGRADE_DESCRIPTION": "!D! ���ظ� �����ϴ�. NL 1 ������ ��â�մϴ�. NL ������ ��ȭ a ī�� �ڵ忡 �ִ�."
-  },
-  "animator:Elesis": {
-    "DESCRIPTION": "����. !D! ���ظ� �����ϴ�. ������ŵ�ϴ� �� ī���� ���� by !M! �ϸ��� �ڵ忡 �ִ� ����.",
-    "NAME": "Elesis"
-  },
-  "animator:ElricAlphonse": {
-    "DESCRIPTION": "[#EFC851]�ֹ߼�. ����ϴ� !M! �Ͻ����� ����. NL ����ϴ� !B! ��. NL �����Ǹ޾Ƹ�: ����ϴ� [#EFC851]Armored [#EFC851]Alphonse.",
-    "NAME": "Alphonse Elric",
-    "UPGRADE_DESCRIPTION": "[#EFC851]�ֹ߼�. ����ϴ� !M! �Ͻ����� ����. NL ����ϴ� !B! ��. NL �����Ǹ޾Ƹ�: ����ϴ� [#EFC851]Armored [#EFC851]Alphonse+."
-  },
-  "animator:ElricAlphonseAlt": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL ����ϴ� !M! �Ǳ�_����. NL �ó���: [#EFC851]��â[] 1 ����.",
-    "NAME": "Armored Alphonse"
-  },
-  "animator:ElricEdward": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ��ȯ 1 ī��. NL ����� ��ȯ��Ų ī������[#EFC851]���ʽ� [#EFC851]ȿ���� �ߵ���ŵ�ϴ�.",
-    "EXTENDED_DESCRIPTION": [ "���ʽ� ȿ��", "#y����: ��â 1 #y���� NL #y��ų: ��â 1 #yFrost NL #y�Ŀ�: ��â 1 #yEarth" ],
-    "NAME": "Edward Elric"
-  },
-  "animator:Elsword": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ���� ���� ȭ���� �Ծ��ٸ�, ���� 1. NL Cooldown !SV! : NL [#EFC851]��â 1 ��.",
-    "NAME": "Elsword"
-  },
-  "animator:Emilia": {
-    "DESCRIPTION": "��â 1 �ñ�. NL ��â 1 ���� NL for ������ �ñ� Orb NL you have. �Ҹ�.",
-    "NAME": "Emilia",
-    "UPGRADE_DESCRIPTION": "��â 1 �ñ�. NL ��â 1 ���� NL for ������ �ñ� Orb NL you have."
-  },
-  "animator:EmiyaShirou": {
-    "DESCRIPTION": "Give a ���� NL �� !M! �� and 1 ���. ���� ���� ���� ��� �Ҿ�����ٸ�, [E]�� ��� [#EFC851]Attack[]�� �̽��ϴ�.",
-    "EXTENDED_DESCRIPTION": [ "Unlimited Blade Works", "���� ���� ��� �Ҿ�����ٸ�, 1 #yEnergy�� ��� �̱� ī�� ���̿� �ִ� ������ #y���� �� �̽��ϴ� ." ],
-    "NAME": "Emiya Shirou"
-  },
-  "animator:Emonzaemon": {
-    "DESCRIPTION": "Deal !D! ���� ���� �ι�. NL �����Ǹ޾Ƹ�: ����ϴ� NL [#EFC851]Entou [#EFC851]Jyuu.",
-    "EXTENDED_DESCRIPTION": [ "Entou Jyuu", "Ư���� 1-Cost #y�Ŀ�" ],
-    "NAME": "Emonzaemon",
-    "UPGRADE_DESCRIPTION": "Deal !D! ���� ���� �ι�. NL �����Ǹ޾Ƹ�: ����ϴ� NL [#EFC851]Entou [#EFC851]Jyuu+."
-  },
-  "animator:Entoma": {
-    "DESCRIPTION": "[#EFC851]Unique. NL !D! ���ظ� �����ϴ�. NL �ο��մϴ� !M! �ߵ�. [#EFC851]���.",
-    "EXTENDED_DESCRIPTION": [ "���", " �ϸ��� #b1 ���ذ� �����մϴ�. ���� ��ū�� �ƴ� ���� óġ�ϸ�, ������ ��ȭ this ī�� and ����ϴ� #b2 Max HP." ],
-    "NAME": "Entoma"
-  },
-  "animator:EntouJyuu": {
-    "DESCRIPTION": "�ϸ��� �ι�, [#EFC851]Attack ī�带 ����� ��, ī�带 ���� �̽��ϴ� �׸��� 1 ȭ���� ��ü ������ �����ŵ�ϴ� .",
-    "NAME": "Entou Jyuu"
-  },
-  "animator:Envy": {
-    "DESCRIPTION": "����ȯ��. NL ���� ü���� !M! % �� ȸ���մϴ�. �ϸ��� ó�� �����ϴ� ī��� �ó����� ����˴ϴ�.",
-    "NAME": "Envy"
-  },
-  "animator:Eris": {
-    "DESCRIPTION": "!M! ü���� ȸ���մϴ�. NL �Ҹ�. NL ��Ȱ.",
-    "NAME": "Eris"
-  },
-  "animator:Eve": {
-    "DESCRIPTION": "Play !SV! Orb_Core. NL �ó����� Ȱ��ȭ�ϸ�, deal !M! ���� to an �� and ���� this ���� by 1.",
-    "NAME": "Eve",
-    "UPGRADE_DESCRIPTION": "Play !SV! Orb_Cores. NL �ó����� Ȱ��ȭ�ϸ�, deal !M! ���� to an �� and ���� this ���� by 1."
-  },
-  "animator:Evileye": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ī�带 ���� �̽��ϴ�. NL ������: ���� Orb�� ����ȿ���� �ߵ��մϴ�.",
-    "NAME": "Evileye"
-  },
-  "animator:Excalibur": {
-    "DESCRIPTION": "����. NL ����ϴ� 1 �Ұ�ħ. NL !D! ���ظ� �����ϴ� NL �� ��ü����. NL �Ҹ�.",
-    "NAME": "Excalibur"
-  },
-  "animator:FeridBathory": {
-    "DESCRIPTION": "�ϸ��� �ѹ�, NL ī�尡 �Ҹ�ɶ�����, ����ϴ� 1 �� and NL ȸ�� 2 HP ([#EFC851]*[]).",
-    "EXTENDED_DESCRIPTION": [ "*Note", "Max HP���, ȸ���� #y�ӽ�. #yü�� �� �˴ϴ�." ],
-    "NAME": "Ferid Bathory",
-    "UPGRADE_DESCRIPTION": "�ϸ��� �ι�, NL when a ī�� is �Ҹ��, ����ϴ� 1 �� and NL ȸ�� 2 HP ([#EFC851]*[])."
-  },
-  "animator:Fredrika": {
-    "DESCRIPTION": "����ȯ��. ����ϴ� !B! �� for ������ ��. ��ȯ: �̹��� ���ο� ������ ���ϰ� ������ ���ƿɴϴ�.",
-    "EXTENDED_DESCRIPTION": [ "����ȯ��. NL ����ϴ� !B! ��.", "����ȯ��. NL !D! ���ظ� �����ϴ� �ι�. ����ϴ� 2 �ݼ�ȭ.", "����ȯ��. NL !D! ���ظ� �����ϴ�. NL �ο��մϴ� 1 ���. NL �ο��մϴ� 1 ��ȭ." ],
-    "NAME": "Fredrika"
-  },
-  "animator:GazelDwargon": {
-    "DESCRIPTION": "���� �����Ҷ����� ���� ������ �����մϴ�. [#EFC851]Attack[] ī�带 ��������, ����ϴ� !M! ��.",
-    "NAME": "Gazel Dwargon"
-  },
-  "animator:Genos": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �ο��մϴ� !M! ȭ��. NL Add 1 [#EFC851]����[] to NL your hand.",
-    "EXTENDED_DESCRIPTION": [ "����", "0-Cost #y�����̻� that ����s the player and �̽��ϴ�s ī���." ],
-    "NAME": "Genos"
-  },
-  "animator:Geryuganshoop": {
-    "DESCRIPTION": "��ȯ !SV! ī���. NL ���� up to !M! ī��� in your �Ҹ� pile, ����ϴ� that much [E].",
-    "EXTENDED_DESCRIPTION": [ "�����ϴ� @ ī��� to ����, ����ϴ� that much Energy." ],
-    "NAME": "Geryuganshoop"
-  },
-  "animator:Gilgamesh": {
-    "DESCRIPTION": "[#EFC851]Unique. NL !D! ���ظ� �����ϴ� NL 3 times. NL [#EFC851]Gate [#EFC851]of [#EFC851]Babylon.",
-    "EXTENDED_DESCRIPTION": [ "Gate of Babylon", "������ ����������, #y��ȭ this ī�� and ����ϴ� #b", " #yGold. ������ �����ϰų� Ư���� �̺�Ʈ������ �ߵ����� �ʽ��ϴ�." ],
-    "NAME": "Gilgamesh"
-  },
-  "animator:Gillette": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ������, ����ϴ� [E]. ��ȯ: �ο��մϴ� !M! ��ȭ �� ��ü����.",
-    "NAME": "Gillette"
-  },
-  "animator:Giselle": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �ο��մϴ� !M! ȭ��. NL Deal ������ ���� NL !SV! HP���� ���� ������.",
-    "NAME": "Giselle"
-  },
-  "animator:Gluttony": {
-    "DESCRIPTION": "�Ҹ� up to !M! ī��� �ڵ忡 �ִ�, �ߵ��մϴ� a [#EFC851]���ʽ� [#EFC851]ȿ�� based on ������ ī�� Ÿ��. �Ҹ�.",
-    "EXTENDED_DESCRIPTION": [ "���ʽ� ȿ��", "#y����: ����ϴ� 1 �� NL #y��ų: ����ϴ� 6 #y�Ͻ����� #yHP NL #y�Ŀ�: ȸ�� 7 HP NL #y�����̻�: ����ϴ� 1 Energy NL #y����: ����ϴ� 6 ��" ],
-    "NAME": "Gluttony"
-  },
-  "animator:GoblinChampion": {
-    "DESCRIPTION": "����� ���� ������, �����ϴ� 1 ���� Goblin into your ��.",
-    "NAME": "Goblin Champion"
-  },
-  "animator:GoblinKing": {
-    "DESCRIPTION": "����� ���� ������, �����ϴ� 3 ���� Goblins into your ��.",
-    "NAME": "Goblin King"
-  },
-  "animator:GoblinShaman": {
-    "DESCRIPTION": "When you �̽��ϴ� this, �̽��ϴ� another ī��. ����� ���� ������, ����ϴ� 1 Frail.",
-    "NAME": "Goblin Shaman"
-  },
-  "animator:GoblinSlayer": {
-    "DESCRIPTION": "[#EFC851]Goblin [#EFC851]Slayer. NL ����ϴ� !B! ��. NL !D! ���ظ� �����ϴ�. NL ����.",
-    "EXTENDED_DESCRIPTION": [ "Goblin Slayer", "�Ҹ� every �����̻� and ���� �ڵ忡 �ִ� and ����. Deal 3 extra ���� for every ī�� in your �Ҹ� pile. NL #yWARNING:�������� ����� ���� ħ���Ұ��Դϴ�." ],
-    "NAME": "Goblin Slayer"
-  },
-  "animator:GoblinSoldier": {
-    "DESCRIPTION": "When you �̽��ϴ� this, �̽��ϴ� another ī��. ����� ���� ������, �Դ´� 2 ����.",
-    "NAME": "Goblin Soldier"
-  },
-  "animator:Greed": {
-    "DESCRIPTION": "����ϴ� !SV! �Ǳ�_����. NL ����ϴ� !M! �ݼ�ȭ. NL ����ϴ� 3 Malleable. NL [#EFC851]Greed[].",
-    "EXTENDED_DESCRIPTION": [ "Greed", "��ī�尡 �������� ������ ī�尡 �ƴҶ�, ����ϴ� #b8 #yGold when played. This ī�� costs 1 less energy for every #b100 #yGold you have." ],
-    "NAME": "Greed"
-  },
-  "animator:GuildGirl": {
-    "DESCRIPTION": "At the start of �ϸ���, ��ȯ 1 ī��. NL When a ��ū�� �ƴ� NL �� dies, NL ����ϴ� !M! [#EFC851]Gold.",
-    "NAME": "'Guild Girl'"
-  },
-  "animator:Guren": {
-    "DESCRIPTION": "Play the top 3 ī��� of your ��. �Ҹ� every [#EFC851]Attack, [#EFC851]���� and [#EFC851]�����̻� played, ����ϴ� !M! Support_���� for ������ of them.",
-    "NAME": "Guren"
-  },
-  "animator:Guy": {
-    "DESCRIPTION": "�̽��ϴ� !M! ī��. NL �����ϴ� !M! ī��. NL If you ������ an [#EFC851]Attack, ����ϴ� !B! ��.",
-    "NAME": "Guy",
-    "UPGRADE_DESCRIPTION": "�̽��ϴ� !M! ī���. NL �����ϴ� !M! ī���. NL If you ������ an [#EFC851]Attack, ����ϴ� !B! ��."
-  },
-  "animator:Hakurou": {
-    "DESCRIPTION": "Martial_Artist. !D! ���ظ� �����ϴ� !M! times. NL [#EFC851]�̽��ϴ�n: ����ϴ� !SV! �Ͻ����� ��ø.",
-    "NAME": "Hakurou",
-    "UPGRADE_DESCRIPTION": "Martial_Artist. !D! ���ظ� �����ϴ� !M! times. �̽��ϴ� and ��ȭ a ī��. NL [#EFC851]�̽��ϴ�n: ����ϴ� !SV! �Ͻ����� ��ø."
-  },
-  "animator:Hero": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �̽��ϴ� !M! ī���. NL While in your deck, ���� the chances of [#EFC851]���ʽ� [#EFC851]Relics.",
-    "NAME": "'Hero'"
-  },
-  "animator:Hibiki": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ� to a ���� �� !M! times. ���� this ī��'s hit count by !SV! this ����.",
-    "NAME": "Hibiki"
-  },
-  "animator:HigakiRinne": {
-    "DESCRIPTION": "����ȯ��. NL �ұ�Ģ�ϰ� �ൿ�մϴ�...",
-    "NAME": "Higaki Rinne",
-    "UPGRADE_DESCRIPTION": "����ȯ��. NL �ұ�Ģ�ϰ� �ൿ�մϴ�..."
-  },
-  "animator:HighElfArcher": {
-    "DESCRIPTION": "Deal !D! ���� NL ����. ����ϴ� !M! NL �Ͻ����� NL ��ø.",
-    "NAME": "'High Elf Archer'"
-  },
-  "animator:HiiragiShinya": {
-    "DESCRIPTION": "����ϴ� !B! �� and NL !M! Support_����. NL Fetch a ī�� from your ���� and ���� it, it costs 1 more this turn.",
-    "NAME": "Shinya Hiiragi"
-  },
-  "animator:HiiragiTenri": {
-    "DESCRIPTION": "����ϴ� !M! �ӽ�._ü��. NL Play and �Ҹ� NL ALL ī��� in your ����. �Ҹ�.",
-    "NAME": "Tenri Hiiragi"
-  },
-  "animator:Hitei": {
-    "DESCRIPTION": "����ϴ� a ���� [#EFC851]Buff ����� ���� �����Ҷ�, then �Ҹ� 1 of !M! ���� ī��� in your �̽��ϴ� or ����.",
-    "NAME": "Hitei"
-  },
-  "animator:HououinKyouma": {
-    "DESCRIPTION": "�����ϴ� 1 ī�� you played this ���� and add a copy of it �� ����ϴ� ([#EFC851]*[#FFFFFF]). ����.",
-    "EXTENDED_DESCRIPTION": [ "* Note", "You cannot select another copy of this ī��. Because that would cause a paradox." ],
-    "NAME": "Hououin Kyouma",
-    "UPGRADE_DESCRIPTION": "�����ϴ� 1 ī�� you played this ���� and add a copy of it �� ����ϴ� ([#EFC851]*[#FFFFFF]), �װ��� �ڽ�Ʈ�� 1 �پ��ϴ� this turn. ����."
-  },
-  "animator:Illya": {
-    "DESCRIPTION": "����ϴ� 1 ���. NL Play the highest ���� [#EFC851]Attack from your ��. �Ҹ�.",
-    "NAME": "Illya",
-    "UPGRADE_DESCRIPTION": "����ϴ� 1 ���. NL Play the highest ���� [#EFC851]Attack from your ��."
-  },
-  "animator:ItamiYouji": {
-    "DESCRIPTION": "�̽��ϴ� !M! ī���. NL �ó���: �̽��ϴ� 1 NL �߰����� ī��. NL !D! ���ظ� �����ϴ� �� �ϸ��� �̽��ϴ�n.",
-    "NAME": "Itami Youji"
-  },
-  "animator:IzunaHatsuse": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL �ο��մϴ� 1 ��ȭ. NL [#EFC851]Blood [#EFC851]Destruction.",
-    "EXTENDED_DESCRIPTION": [ "Blood Destruction", "�ִ�ü���� 25%���� ���� ����, this ī�� will turn into a special 0-cost #y����.", "!D! ���ظ� �����ϴ� �ι�. NL !M! ü���� ȸ���մϴ�." ],
-    "NAME": "Izuna Hatsuse",
-    "UPGRADE_DESCRIPTION": "����ϴ� !B! ��. NL �ο��մϴ� 1 ��ȭ. NL [#EFC851]Blood [#EFC851]Destruction+."
-  },
-  "animator:JeanneDArc": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ����ϴ� !M! �ӽ�._ü��. NL ����ϴ� !M! Ench._Armor. NL �Ҹ� a ���� �����̻� or ����.",
-    "NAME": "Jeanne D'Arc"
-  },
-  "animator:Jibril": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ī�带 ���� �̽��ϴ� and deal !M! �߰����� ���� for ������ unique Orb you have.",
-    "NAME": "Jibril"
-  },
-  "animator:Kaijin": {
-    "DESCRIPTION": "At the end of �ϸ���, ���� 1 ī�� and ���� its ���� and �� by !M! this ����.",
-    "NAME": "Kaijin",
-    "UPGRADE_DESCRIPTION": "��õ��. At the end of �ϸ���, ���� 1 ī�� and ���� its ���� and �� by !M! this ����."
-  },
-  "animator:Kazuma": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL ��ȯ 1 ī��. �ó���: NL !D! ���ظ� �����ϴ� to a ���� ��.",
-    "NAME": "Kazuma"
-  },
-  "animator:Kira": {
-    "DESCRIPTION": "�ֹ߼�. Give the �� !SV! �� and kill it after a certain number of turns ([#EFC851]*[]). NL �Ҹ�.",
-    "EXTENDED_DESCRIPTION": [ "* Note", "This ī��'s text will change while targeting an ��, enemies with more health will survive longer. Ignores �ΰ���.", "�ֹ߼�. The �� will die in @ turn(s). NL �Ҹ�." ],
-    "NAME": "Light Yagami"
-  },
-  "animator:Konayuki": {
-    "DESCRIPTION": "If you have at least 10 ��, !D! ���ظ� �����ϴ�, otherwise ����ϴ� !M! ��.",
-    "NAME": "Konayuki"
-  },
-  "animator:KrulTepes": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �ο��մϴ� !M! ��ȭ. NL If this ī�� kills an Elite or Boss, ����ϴ� a NL [#EFC851]Blood [#EFC851]Vial ([#EFC851]*[#FFFFFF]).",
-    "EXTENDED_DESCRIPTION": [ "* Note", "The ���� will drop at the end of ����. You will only receive 1 ���� in multi-elite ����s. �������� Blood Vials�� ��ø�Ҽ� �ִ�." ],
-    "NAME": "Krul Tepes"
-  },
-  "animator:Kuribayashi": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �ο��մϴ� !SV! Choked. NL �ó���: The �� �Ҿ������ !M! �� NL this turn.",
-    "NAME": "Kuribayashi"
-  },
-  "animator:Kuroyukihime": {
-    "DESCRIPTION": "�����ϴ� !M! ī���. Add [#EFC851]Black [#EFC851]Lotus to your hand. �Ҹ�.",
-    "EXTENDED_DESCRIPTION": [ "Black Lotus", "A special 1-cost #y���� which deals �� ��ü���� ���ظ� !D! �ݴϴ� and grants #y�� and #y�帴��." ],
-    "NAME": "Kuroyukihime"
-  },
-  "animator:Kyubey": {
-    "DESCRIPTION": "����ϴ� [E] [E]. NL �̽��ϴ� !M! ī���. NL Add 2 ���� [#EFC851]Curses to your ����. �Ҹ�",
-    "NAME": "Kyubey",
-    "UPGRADE_DESCRIPTION": "����ϴ� [E] [E]. NL �̽��ϴ� !M! ī���. NL Add 2 ���� [#EFC851]Curses to your ����."
-  },
-  "animator:Lancer": {
-    "DESCRIPTION": "Deal !D! ���� ����. Heartseeker. NL �ó���: ����ϴ� [E].",
-    "NAME": "Lancer"
-  },
-  "animator:Layla": {
-    "DESCRIPTION": "Deal !D! ���� NL ����. ������: NL �ο��մϴ� !M! �ߵ� to a NL ���� ��.",
-    "NAME": "Layla"
-  },
-  "animator:LeleiLaLalena": {
-    "DESCRIPTION": "[#EFC851]��â !M! �ñ�. NL �ó���: �ο��մϴ� !SV! ��ȭ to ALL NL enemies.",
-    "NAME": "Lelei La Lalena",
-    "UPGRADE_DESCRIPTION": "[#EFC851]��â !M! �ñ�. NL ��ȯ 1 ī��. NL �ó���: �ο��մϴ� !SV! ��ȭ to ALL NL enemies."
-  },
-  "animator:Lelouch": {
-    "DESCRIPTION": "�Ҹ� ALL [#EFC851]Attacks �ڵ忡 �ִ�. ALL enemies will attack themselves this turn. NL ����. ([#EFC851]*[])",
-    "EXTENDED_DESCRIPTION": [ "* Note", "Enemies that do not plan to attack will be #yStunned instead." ],
-    "NAME": "Lelouch"
-  },
-  "animator:LimeBell": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL ������: ������, NL !M! ü���� ȸ���մϴ�. NL �Ҹ�.",
-    "NAME": "Lime Bell"
-  },
-  "animator:LizardPriest": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL Set the �� of the �� to !M!. �ó���: ���� !SV! ī���.",
-    "NAME": "'Lizard Priest'"
-  },
-  "animator:MaesHughes": {
-    "DESCRIPTION": "�̽��ϴ� 1 ī�� for every !M! ī��� in your ��. ���� 1. �����Ǹ޾Ƹ�: �ο��մϴ� !SV! ȭ�� �� ��ü����.",
-    "NAME": "Maes Hughes"
-  },
-  "animator:Megumin": {
-    "DESCRIPTION": "[#EFC851]Unique. Deal !D! �� ��ü���� ���ظ� !D! �ݴϴ�. �Ҹ�. �ó���: ������ ��ȭ this ī��.",
-    "NAME": "Megumin"
-  },
-  "animator:Melzalgald": {
-    "DESCRIPTION": "����ȯ��. NL !D! ���ظ� �����ϴ�. NL Split into 3 [#EFC851]Attacks. �Ҹ�.",
-    "NAME": "Melzalgald",
-    "UPGRADE_DESCRIPTION": "����ȯ��. NL !D! ���ظ� �����ϴ�. NL Split into 3 ��ȭ�� [#EFC851]Attacks. �Ҹ�."
-  },
-  "animator:MelzalgaldAlt_1": {
-    "DESCRIPTION": "����ȯ��. NL !D! ���ظ� �����ϴ�. NL ����ϴ� !M! ��. NL �Ҹ�.",
-    "NAME": "Melzalgald"
-  },
-  "animator:MelzalgaldAlt_2": {
-    "DESCRIPTION": "����ȯ��. NL !D! ���ظ� �����ϴ�. NL ����ϴ� !M! ��ø. NL �Ҹ�.",
-    "NAME": "Melzalgald"
-  },
-  "animator:MelzalgaldAlt_3": {
-    "DESCRIPTION": "����ȯ��. NL !D! ���ظ� �����ϴ�. NL ����ϴ� !M! Regeneration. NL �Ҹ�.",
-    "NAME": "Melzalgald"
-  },
-  "animator:MetalKnight": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ��â 1 Plasma. NL �ν�Ʈ !SV! : ����ϴ� !M! �ݼ�ȭ.",
-    "NAME": "Metal Knight"
-  },
-  "animator:Mikaela": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �ο��մϴ� !M! �ߵ�. NL �����ϴ� and �Ҹ� NL a ī�� in your NL ����.",
-    "NAME": "Mikaela"
-  },
-  "animator:Millim": {
-    "DESCRIPTION": "[#EFC851]Unique. NL !D! ���ظ� �����ϴ�. NL �̽��ϴ� !M! ī���. NL �ó���: ����ϴ� [E].",
-    "NAME": "Millim"
-  },
-  "animator:MisaKurobane": {
-    "DESCRIPTION": "��â 1 ��. NL �̽��ϴ� !M! ī��. NL Add [#EFC851]Yusarin to your ����. �Ҹ�.",
-    "NAME": "Misa Kurobane",
-    "UPGRADE_DESCRIPTION": "��â 1 ��. NL �̽��ϴ� !M! ī���. NL Add [#EFC851]Yusarin to your ����. �Ҹ�."
-  },
-  "animator:Mitsuba": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. If the �� had more health than you, NL ����ϴ� !B! ��. �����Ǹ޾Ƹ�: �̽��ϴ� !M! ī���.",
-    "NAME": "Mitsuba"
-  },
-  "animator:Mitsurugi": {
-    "DESCRIPTION": "If the �� intends to attack, !D! ���ظ� �����ϴ�. �����Ǹ޾Ƹ�: NL ����ϴ� !M! ��.",
-    "EXTENDED_DESCRIPTION": [ "The �� does not intend to attack." ],
-    "NAME": "Mitsurugi"
-  },
-  "animator:MumenRider": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �Ҹ�. Returns to your hand after a ���� number of turns.",
-    "NAME": "Mumen Rider",
-    "UPGRADE_DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ī�带 ���� �̽��ϴ�. �Ҹ�. Returns �� ����ϴ� after a ���� number of turns."
-  },
-  "animator:Nanami": {
-    "DESCRIPTION": "[#EFC851]Counter the �� intent. NL [#c6be6f]This [#c6be6f]text [#c6be6f]will [#c6be6f]change [#c6be6f]while [#c6be6f]targeting [#c6be6f]an [#c6be6f]��.",
-    "EXTENDED_DESCRIPTION": [ "Deal # ����.", "����ϴ� # ��.", "����ϴ� # ��.", "�ο��մϴ� # ��ȭ.", "�ο��մϴ� # ���.", "Stun the ��.", "��â # ���� Orb/s.", "UNUSED", "UNUSED", "�ο��մϴ� # �ߵ�.", "����ϴ� [E].", "����ϴ� # �ӽ�._ü��.", "�̽��ϴ� # ī���." ],
-    "NAME": "Nanami",
-    "UPGRADE_DESCRIPTION": "Strongly [#EFC851]Counter the �� intent. NL [#c6be6f]This [#c6be6f]text [#c6be6f]will [#c6be6f]change [#c6be6f]while [#c6be6f]targeting [#c6be6f]an [#c6be6f]��."
-  },
-  "animator:NarberalGamma": {
-    "DESCRIPTION": "����ȯ��. NL ��â !M! ����. NL ī�带 ���� �̽��ϴ�.",
-    "NAME": "Gamma Narberal",
-    "UPGRADE_DESCRIPTION": "����ȯ��. NL ��â !M! ����. NL ���� hits ALL enemies this turn. NL ī�带 ���� �̽��ϴ�."
-  },
-  "animator:NivaLada": {
-    "DESCRIPTION": "Cooldown !SV! : NL Deal 300 ����. NL When you �Ҹ� or �����ϴ� a ī��, reduce this Cooldown by 1.",
-    "NAME": "Niva Lada"
-  },
-  "animator:OrbCore_Chaos": {
-    "DESCRIPTION": "��â !SV! ���� Orb. On your second �ó��� �ϸ���, Discover 1 ī��.",
-    "NAME": "Chaos Core"
-  },
-  "animator:OrbCore_Dark": {
-    "DESCRIPTION": "��â !SV! ����. NL On your second �ó��� �ϸ���, �̽��ϴ� !M! ī���, then ī�� 1���� �����ϴ�.",
-    "NAME": "���� Core"
-  },
-  "animator:OrbCore_Fire": {
-    "DESCRIPTION": "��â !SV! ��. NL On your second �ó��� �ϸ���, �ο��մϴ� !M! ȭ�� �� ��ü����.",
-    "NAME": "�� Core"
-  },
-  "animator:OrbCore_Frost": {
-    "DESCRIPTION": "��â !SV! �ñ�. NL On your second �ó��� �ϸ���, ����ϴ� !M! �Ǳ�_����.",
-    "NAME": "�ñ� Core"
-  },
-  "animator:OrbCore_Lightning": {
-    "DESCRIPTION": "��â !SV! ����. NL On your second �ó��� �ϸ���, deal !M! �� ��ü���� ���ظ� !D! �ݴϴ�.",
-    "NAME": "���� Core"
-  },
-  "animator:OrbCore_Plasma": {
-    "DESCRIPTION": "��â !SV! Plasma. NL On your second �ó��� �ϸ���, ����ϴ� !M! �ӽ�._ü��.",
-    "NAME": "Plasma Core"
-  },
-  "animator:Overheat": {
-    "DESCRIPTION": "�̽��ϴ� 2 ī���. NL �Դ´� !M! ����. NL ALL copies of this NL ī�� ����ϴ� 1 ���� NL this ����.",
-    "NAME": "����"
-  },
-  "animator:PandorasActor": {
-    "DESCRIPTION": "����ȯ��. NL ����ϴ� !B! ��. NL �ó���: ����ϴ� !M! �߰����� ��.",
-    "NAME": "Pandora's Actor"
-  },
-  "animator:PinaCoLada": {
-    "DESCRIPTION": "The first [#EFC851]0-Cost ī�� you play �ϸ��� is played �ι�.",
-    "NAME": "Pina Co Lada",
-    "UPGRADE_DESCRIPTION": "����ϴ� !B! ��. NL The first [#EFC851]0-Cost ī�� you play �ϸ��� is played �ι�."
-  },
-  "animator:Pride": {
-    "DESCRIPTION": "����ȯ��. [#EFC851]Pride. NL [#EFC851]��â !M! [#EFC851]����. NL �ο��մϴ� !SV! Constricted. �Ҹ�.",
-    "EXTENDED_DESCRIPTION": [ "Pride", "Until your ������, when you would �Դ´� ���������� ����, your rightmost #yDarkness Orb �Ҿ������ that much ���� instead." ],
-    "NAME": "Pride"
-  },
-  "animator:Priestess": {
-    "DESCRIPTION": "����ϴ� !B! �ӽ�._ü��. This number is affected by �� modifiers.",
-    "EXTENDED_DESCRIPTION": [ "* Note", "Affected by �� modifiers." ],
-    "NAME": "'Priestess'"
-  },
-  "animator:QuestionMark": {
-    "DESCRIPTION": "When �̽��ϴ�n, turns into a copy of a ���� ī�� and gains ����ȯ��.",
-    "NAME": "Question Mark",
-    "UPGRADE_DESCRIPTION": "When �̽��ϴ�n, turns into an ��ȭ�� copy of a ���� ī�� and gains ����ȯ��."
-  },
-  "animator:Raven": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �ο��մϴ� !M! ��ȭ. NL �̽��ϴ� your lowest ���� [#EFC851]Attack.",
-    "NAME": "Raven"
-  },
-  "animator:Rena": {
-    "DESCRIPTION": "����ϴ� !M! �帴��. NL ����ϴ� !B! ��. NL �ó��� and ��ȯ: NL ������, ����ϴ� NL !B! ��.",
-    "NAME": "Rena"
-  },
-  "animator:Rimuru": {
-    "DESCRIPTION": "Whenever you play a ī��, turn this ī�� into a copy of it.",
-    "NAME": "Rimuru",
-    "UPGRADE_DESCRIPTION": "����. Whenever you play a ī��, turn this ī�� into a copy of it."
-  },
-  "animator:RinTohsaka": {
-    "DESCRIPTION": "��â 1 ���� Orb. ����ϴ� !B! ��. NL �ó���: ����ϴ� !M! Enchanted_Armor.",
-    "NAME": "Rin Tohsaka"
-  },
-  "animator:RoryMercury": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ� to a ���� �� �ι�. [#EFC851]�̽��ϴ�n[]: ����ϴ� !M! �Ͻ����� ��.",
-    "NAME": "Rory Mercury"
-  },
-  "animator:Rose": {
-    "DESCRIPTION": "�̽��ϴ� !M! ī���. ������: Deal !D! ���� ����. If the �� dies, deal !SV! �� ��ü���� ���ظ� !D! �ݴϴ�.",
-    "NAME": "Rose"
-  },
-  "animator:RoyMustang": {
-    "DESCRIPTION": "Deal !D! �� ��ü���� ���ظ� !D! �ݴϴ� and ��â 1 �� for ������ ��. NL �ó���: ����ϴ� !M! Flame_Barrier.",
-    "NAME": "Roy Mustang"
-  },
-  "animator:Saber": {
-    "DESCRIPTION": "Loyal. !D! ���ظ� �����ϴ�. If this Synergizes !M! times, ���� and ����ϴ� [#EFC851]Excalibur.",
-    "NAME": "Saber"
-  },
-  "animator:Saitama": {
-    "DESCRIPTION": "Whenever this ī�� is played, ���� its cost and change its ȿ�� for this ����.",
-    "EXTENDED_DESCRIPTION": [ "�̽��ϴ� !M! ī���. NL ����ϴ� !SV! �Ͻ����� ��ø.", "Prevent the next time you would lose HP.", "����ϴ� !M! ��. NL ����ϴ� !B! ��.", "!D! ���ظ� �����ϴ� NL !M! times.", "Remove �Ұ�ħ. NL Deal !D! NL ���� ����. NL Stun the ��." ],
-    "NAME": "Saitama",
-    "UPGRADE_DESCRIPTION": "��õ��. NL Whenever this ī�� is played, ���� its cost and change its ȿ�� for this ����."
-  },
-  "animator:Scar": {
-    "DESCRIPTION": "�ֹ߼�. Deal !D! ���� ����. NL [#EFC851]Dragon's[] [#EFC851]Pulse[].",
-    "EXTENDED_DESCRIPTION": [ "Dragon's Pulse", "If this kills an ��, #yPurge this ī�� and ������ #y��ȭ a ���� ī�� in your deck" ],
-    "NAME": "Scar"
-  },
-  "animator:Sebas": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL ����ϴ� �ӽ�._ü�� equal NL to the total cost NL of ī��� in your NL hand ( !SV! ). �Ҹ�.",
-    "NAME": "Sebas"
-  },
-  "animator:SeriousSaitama": {
-    "DESCRIPTION": "Stun ALL enemies. NL ����ϴ� X ��. NL ����.",
-    "NAME": "Serious Saitama",
-    "UPGRADE_DESCRIPTION": "Stun ALL enemies. NL ����ϴ� X+1 ��. NL ����."
-  },
-  "animator:Shalltear": {
-    "DESCRIPTION": "[#EFC851]Bloodlust. NL Deal !D! �� ��ü���� ���ظ� !D! �ݴϴ�. �ó���: ��ħ !M! ��.",
-    "EXTENDED_DESCRIPTION": [ "Bloodlust", "If this kills a ��ū�� �ƴ� ��, ȸ�� 3 HP and ����ϴ� [E]" ],
-    "NAME": "Shalltear",
-    "UPGRADE_DESCRIPTION": "[#EFC851]Bloodlust. NL Deal !D! �� ��ü���� ���ظ� !D! �ݴϴ�. ��ħ !M! ��."
-  },
-  "animator:Shichika": {
-    "DESCRIPTION": "����ϴ� !SV! Thorns. NL ����ϴ� !M! ��. NL Add [#EFC851]Kyotouryuu[] �� ����ϴ�. �Ҹ�.",
-    "EXTENDED_DESCRIPTION": [ "Kyotouryuu", "A special 1-cost #y���� that hits multiple times and #y�Ҹ�s." ],
-    "NAME": "Shichika",
-    "UPGRADE_DESCRIPTION": "����ϴ� !SV! Thorns. NL ����ϴ� !M! ��. NL Add [#EFC851]Kyotouryuu+[] �� ����ϴ�. �Ҹ�."
-  },
-  "animator:ShichikaKyotouryuu": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ� !M! times. If you have 3 or more ��ø, ī�带 ���� �̽��ϴ� and ����ϴ� [E]. �Ҹ�.",
-    "NAME": "Kyotouryuu"
-  },
-  "animator:Shigure": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �ó��� and �����Ǹ޾Ƹ�: ����ϴ� !M! Support_����.",
-    "NAME": "Shigure"
-  },
-  "animator:ShikizakiKiki": {
-    "DESCRIPTION": "��ȭ ALL ī��� for the rest of this ����. �� affects ALL ī��� !M! times.",
-    "NAME": "Shikizaki Kiki",
-    "UPGRADE_DESCRIPTION": "��õ��. ��ȭ ALL ī��� for the rest of this ����. �� affects ALL ī��� !M! times."
-  },
-  "animator:Shimakaze": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ����ϴ� !B! ��. NL �̽��ϴ� !M! ī���. NL �����ϴ� 1 Dazed in your ��.",
-    "NAME": "Shimakaze"
-  },
-  "animator:Shinoa": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL �ο��մϴ� !M! ��� �� ��ü����. �ó���: Also �ο��մϴ� !M! ��ȭ.",
-    "NAME": "Shinoa"
-  },
-  "animator:Shiro": {
-    "DESCRIPTION": "Cost 1 less for ������ �ó��� you activated this turn. ����ϴ� [E] at the start of �ϸ���.",
-    "NAME": "Shiro"
-  },
-  "animator:Shizu": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. ����ϴ� Flaming_Weapon. NL If this kills an ��, NL ȸ�� for its ȭ�� amount.",
-    "NAME": "Shizu"
-  },
-  "animator:Shuna": {
-    "DESCRIPTION": "�̽��ϴ� !M! ī��. NL ����ϴ� !B! ��. NL [#EFC851]�̽��ϴ�n: NL ����ϴ� !B! ��.",
-    "NAME": "Shuna",
-    "UPGRADE_DESCRIPTION": "�̽��ϴ� !M! ī���. NL ����ϴ� !B! ��. NL [#EFC851]�̽��ϴ�n: NL ����ϴ� !B! ��."
-  },
-  "animator:SilverFang": {
-    "DESCRIPTION": "Martial_Artist. NL !D! ���ظ� �����ϴ�. NL ����ϴ� !B! ��. NL ������, ����ϴ� !M! �Ͻ����� ��ø.",
-    "NAME": "Silver Fang"
-  },
-  "animator:SirTouchMe": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ����ϴ� !M! Juggernaut. NL ����ϴ� !SV! �Ǳ�_����. NL ����ϴ� !B! ��.",
-    "NAME": "Sir Touch Me"
-  },
-  "animator:Sloth": {
-    "DESCRIPTION": "[#EFC851]Sloth. NL ����ϴ� !B! ��. NL !D! ���ظ� �����ϴ�. NL �ο��մϴ� !M! ���.",
-    "EXTENDED_DESCRIPTION": [ "Sloth", "At the start of �ϸ���, ���� this ī��'s #y�� and ���� by #b1 for ������ Orb Slot you have. On use, halve this ī��'s ���� and #y��." ],
-    "NAME": "Sloth"
-  },
-  "animator:Sonic": {
-    "DESCRIPTION": "At the start of your next !M! Turns, ����ϴ� 1 ��ø and add a Throwing-Knife �� ����ϴ�.",
-    "NAME": "Sonic"
-  },
-  "animator:Sora": {
-    "DESCRIPTION": "�����ϴ� and execute NL !M! custom ȿ����. NL �ó���: �����ϴ� 1 NL �߰����� ȿ��.",
-    "NAME": "Sora"
-  },
-  "animator:Souei": {
-    "DESCRIPTION": "�ο��մϴ� !M! �ߵ�. NL Trigger the �ߵ� of ALL enemies. If any of them dies, ����ϴ� �Ұ�ħ.",
-    "NAME": "Souei"
-  },
-  "animator:Spearman": {
-    "DESCRIPTION": "Deal !D! ���� ����. Deal �߰����� ���� equal to your ��. Lose ALL ��.",
-    "NAME": "'Spearman'",
-    "UPGRADE_DESCRIPTION": "Deal !D! ���� ����. Deal �߰����� ���� equal to your ��. Set your �� to !B!."
-  },
-  "animator:Strike": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�.",
-    "NAME": "Strike",
-    "UPGRADE_DESCRIPTION": "!D! ���ظ� �����ϴ�."
-  },
-  "animator:Strike_AccelWorld": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ��ȯ: Deal !M! ���� to a ���� ��.",
-    "NAME": "Improved Strike"
-  },
-  "animator:Strike_Elsword": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ����ϴ� !M! �� ���� ����������.",
-    "NAME": "Improved Strike"
-  },
-  "animator:Strike_Fate": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL If you have less than 3 ī��� in hand, NL ����ϴ� [E].",
-    "NAME": "Improved Strike"
-  },
-  "animator:Strike_FullmetalAlchemist": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL Cooldown !SV!: NL ��â 1 ����.",
-    "NAME": "Improved Strike"
-  },
-  "animator:Strike_GATE": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ������, ī�带 ���� �̽��ϴ�.",
-    "NAME": "Improved Strike"
-  },
-  "animator:Strike_GoblinSlayer": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �Ҹ�.",
-    "NAME": "Improved Strike"
-  },
-  "animator:Strike_HitsugiNoChaika": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �ο��մϴ� !M! �ߵ�.",
-    "NAME": "Improved Strike"
-  },
-  "animator:Strike_Kancolle": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �ν�Ʈ !SV! : ����ϴ� !M! [#EFC851]Gold.",
-    "NAME": "Improved Strike"
-  },
-  "animator:Strike_Katanagatari": {
-    "DESCRIPTION": "Deal !D! ���� ����.",
-    "NAME": "Improved Strike"
-  },
-  "animator:Strike_Konosuba": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ����ϴ� !B! ��.",
-    "NAME": "Improved Strike"
-  },
-  "animator:Strike_NoGameNoLife": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ���� your rightmost playable ī��.",
-    "NAME": "Improved Strike"
-  },
-  "animator:Strike_OnePunchMan": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ����ϴ� !M! ��ø ���� ����������.",
-    "NAME": "Improved Strike"
-  },
-  "animator:Strike_Overlord": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ���� this ī��'s ���� by !M! this ����.",
-    "NAME": "Improved Strike"
-  },
-  "animator:Strike_OwariNoSeraph": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �����Ǹ޾Ƹ�: �ο��մϴ� !M! ��� �� ��ü����.",
-    "NAME": "Improved Strike"
-  },
-  "animator:Strike_TenSura": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL ����ϴ� !M! �ӽ�._ü��.",
-    "NAME": "Improved Strike"
-  },
-  "animator:SwordMaiden": {
-    "DESCRIPTION": "����ϴ� !M! �ӽ�._ü��. NL Remove ALL of your �������. �Ҹ�.",
-    "NAME": "'Sword Maiden'"
-  },
-  "animator:TanyaDegurechaff": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �����ϴ� ALL [#EFC851]Skills and ����ϴ� !M! �� for ������ of them. �����Ǹ޾Ƹ�: ����ϴ� [#EFC851]Ÿ�� [#EFC851]95.",
-    "NAME": "Tanya Degurechaff"
-  },
-  "animator:TanyaDegurechaff_Type95": {
-    "DESCRIPTION": "��ȯ 2 ī���. ���� ALL [#EFC851]Attacks. ������, your [#EFC851]Attacks will deal double ����. �Ҹ�.",
-    "NAME": "Ÿ�� 95"
-  },
-  "animator:Tatsumaki": {
-    "DESCRIPTION": "��â 1 Air. NL ����ϴ� !M! �Ͻ����� ����. �ó���: NL ������, ����ϴ� [E].",
-    "NAME": "Tatsumaki"
-  },
-  "animator:Tet": {
-    "DESCRIPTION": "�����ϴ� up to 2 ī��� from your ��. Move 2 ī��� from your ���� to your ��.",
-    "NAME": "Tet",
-    "UPGRADE_DESCRIPTION": "����. �����ϴ� up to 2 ī��� from your ��. Move 2 ī��� from your ���� to your ��."
-  },
-  "animator:TheHaunt": {
-    "DESCRIPTION": "����ϴ� !M! [#EFC851]Gold. NL Become more haunted. NL �ֹ߼�. �Ҹ�.",
-    "NAME": "The Haunt"
-  },
-  "animator:ThrowingKnife_0": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �ο��մϴ� !M! ��ȭ. NL ����. ��ȯ: Play this ī��.",
-    "NAME": "Throwing-Knife"
-  },
-  "animator:ThrowingKnife_1": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �ο��մϴ� !M! ���. NL ����. ��ȯ: Play this ī��.",
-    "NAME": "Throwing-Knife"
-  },
-  "animator:ThrowingKnife_2": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �ο��մϴ� !M! �ߵ�. NL ����. ��ȯ: Play this ī��.",
-    "NAME": "Throwing-Knife"
-  },
-  "animator:Togame": {
-    "DESCRIPTION": "�̽��ϴ� !M! ī���. NL You may �Ҹ� a ī�� to �̽��ϴ� 1 �߰����� ī��.",
-    "NAME": "Togame"
-  },
-  "animator:Truth": {
-    "DESCRIPTION": "����ϴ� 1 ����. NL ����ϴ� 2 Energy. NL �̽��ϴ� 3 ī���. NL ����ϴ� 4 ��. NL [#EFC851]Truth.",
-    "EXTENDED_DESCRIPTION": [ "Truth", "If you have at least 3 unique orbs, remove all your orbs, otherwise �����ϴ� and ������ replace a ī�� in your deck with a #yWound." ],
-    "NAME": "Truth"
-  },
-  "animator:TukaLunaMarceau": {
-    "DESCRIPTION": "����ϴ� !B! ��. Next NL turn, ����ϴ� !B! ��. NL If this is your first �ó��� this turn, ī�带 ���� �̽��ϴ�.",
-    "NAME": "Tuka"
-  },
-  "animator:Tyuule": {
-    "DESCRIPTION": "�ο��մϴ� !M! �ߵ� NL and 1 ��� �� ��ü����.",
-    "NAME": "Tyuule",
-    "UPGRADE_DESCRIPTION": "�ο��մϴ� !M! �ߵ� NL and 1 ��� �� ��ü����. NL �ν�Ʈ !SV! : ����ϴ� [E]"
-  },
-  "animator:Urushihara": {
-    "DESCRIPTION": "Lazy. NL ��â 1 ����. NL !D! ���ظ� �����ϴ� NL �� ��ü����.",
-    "NAME": "Urushihara",
-    "UPGRADE_DESCRIPTION": "Slightly less Lazy. NL ��â 1 ����. NL !D! ���ظ� �����ϴ� NL �� ��ü����."
-  },
-  "animator:Vanir": {
-    "DESCRIPTION": "����ȯ��. [#EFC851]Vanir. NL !D! ���ظ� �����ϴ�. NL �ν�Ʈ !SV! : Deal !M! �߰����� ����.",
-    "EXTENDED_DESCRIPTION": [ "Vanir", "If this ī�� is �Ҹ��, �����ϴ� a ī�� in your �� and transform it into a new copy of this ī��." ],
-    "NAME": "Vanir"
-  },
-  "animator:Veldora": {
-    "DESCRIPTION": "����ϴ� !SV! ����. NL ���� ��� orbs !M! times. [#EFC851]�̽��ϴ�n: ��â 2 ���� orbs.",
-    "NAME": "Veldora"
-  },
-  "animator:Vesta": {
-    "DESCRIPTION": "�̽��ϴ� 1 ī��. NL Research an [#EFC851]Elixir, NL it will be completed after !M! turns. NL �Ҹ�.",
-    "EXTENDED_DESCRIPTION": [ "Elixir", "0-cost #y��ų with a variety of different ȿ����." ],
-    "NAME": "Vesta"
-  },
-  "animator:Vesta_Elixir_0": {
-    "DESCRIPTION": "����ϴ� !M! ����. NL ����ϴ� 2 Orb slots. NL ����ϴ� !SV! �帴��. NL �Ҹ�.",
-    "NAME": "Elixir"
-  },
-  "animator:Vesta_Elixir_1": {
-    "DESCRIPTION": "����ϴ� !M! ��. NL ����ϴ� !SV! ��ø. NL ����ϴ� 6 �ӽ�._ü��. NL �Ҹ�.",
-    "NAME": "Elixir"
-  },
-  "animator:Vesta_Elixir_2": {
-    "DESCRIPTION": "����ϴ� [E] [E] [E]. NL �Ҹ� !M! ī���. NL �̽��ϴ� !SV! ī���. NL �Ҹ�.",
-    "NAME": "Elixir"
-  },
-  "animator:Vesta_Elixir_3": {
-    "DESCRIPTION": "�̽��ϴ� !M! ī���. NL �����ϴ� 2 ī���. NL ����ϴ� !SV! �ݼ�ȭ. NL �Ҹ�.",
-    "NAME": "Elixir"
-  },
-  "animator:Viivi": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ� to a ���� �� !M! times. ��ȯ: Add 1 Throwing-Knife �� ����ϴ�.",
-    "NAME": "Viivi"
-  },
-  "animator:Witch": {
-    "DESCRIPTION": "����ϴ� !B! ��. NL �ο��մϴ� !M! ȭ�� �� ��ü����. NL �����Ǹ޾Ƹ�: ����ϴ� a ���� Potion.",
-    "NAME": "'Witch'"
-  },
-  "animator:Wiz": {
-    "DESCRIPTION": "�Ҹ� 1 ī��, �����ϴ� a ī�� from your �Ҹ� pile and add a copy �� ����ϴ� ([#EFC851]*[#FFFFFF]). ����.",
-    "EXTENDED_DESCRIPTION": [ "* Note", "You cannot retrieve another Wiz from your �Ҹ� pile." ],
-    "NAME": "Wiz",
-    "UPGRADE_DESCRIPTION": "�Ҹ� 1 ī��, �����ϴ� a ī�� from your �Ҹ� pile and add a copy �� ����ϴ� ([#EFC851]*[#FFFFFF]). ���� after !M! uses."
-  },
-  "animator:YaoHaDucy": {
-    "DESCRIPTION": "Deal !D! �� ��ü���� ���ظ� !D! �ݴϴ�. All copies of this ī�� ����ϴ� !M! ���� this ����.",
-    "NAME": "Yao Ha Ducy"
-  },
-  "animator:YukoShionji": {
-    "DESCRIPTION": "Reveal the top ī�� of your ��. �ϸ��� �ѹ�, you may �̽��ϴ� it and/or �����ϴ� it ([#EFC851]*[#FFFFFF]).",
-    "EXTENDED_DESCRIPTION": [ "* Note", "You may #pLeft-Click on the ī�� to �̽��ϴ� it or #pRight-Click on it to �����ϴ� it." ],
-    "NAME": "Yuuko Shionji"
-  },
-  "animator:YunYun": {
-    "DESCRIPTION": "Deal !D! �� ��ü���� ���ظ� !D! �ݴϴ�. Costs 1 more for ������ other [#EFC851]Attack �ڵ忡 �ִ�.",
-    "NAME": "YunYun"
-  },
-  "animator:Yusarin": {
-    "DESCRIPTION": "���� !SV!. NL �̽��ϴ� !M! ī��. NL �Ҹ�.",
-    "NAME": "Yusarin",
-    "UPGRADE_DESCRIPTION": "���� !SV!. NL �̽��ϴ� !M! ī���. NL �Ҹ�."
-  },
-  "animator:Yuuichirou": {
-    "DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �����Ǹ޾Ƹ�: Add NL [#EFC851]Asuramaru and a NL Wound to your NL ����.",
-    "EXTENDED_DESCRIPTION": [ "Asuramaru", "A special 2-Cost #y���� which grants #yDemon #yForm, #y��ø and ��." ],
-    "NAME": "Yuuichirou",
-    "UPGRADE_DESCRIPTION": "!D! ���ظ� �����ϴ�. NL �����Ǹ޾Ƹ�: Add NL [#EFC851]Asuramaru and a NL Dazed to your NL ����."
-  },
-  "animator:ZankiKiguchi": {
-    "DESCRIPTION": "Martial_Artist. NL !D! ���ظ� �����ϴ�. NL �ó���: Convert !M! �� to 1 ��ø.",
-    "NAME": "Zanki Kiguchi"
-  },
-  "animator:Zero": {
-    "DESCRIPTION": "Play a ���� [#EFC851]Skill from your ��. �Ҹ�.",
-    "NAME": "Zero",
-    "UPGRADE_DESCRIPTION": "Play a ���� [#EFC851]Skill from your ��."
-  }
+	"animator:AcuraAkari":
+	{
+		"DESCRIPTION": "카드를 1장 버립니다. !SV! 단도 카드를 NL 장 얻습니다. NL !M! 맹독을 턴 끝날때까지 얻습니다.",
+		"NAME": "Akari"
+	},
+	"animator:AcuraShin":
+	{
+		"DESCRIPTION": "적 전체에게 피해를 !D! 줍니다, 그후 NL !M!중독을 부여합니다. NL 얻습니다 1 [#EFC851]중독 [#EFC851]가산.",
+		"EXTENDED_DESCRIPTION": ["중독 가산", "중독을 부여할때 마다, 타격마다 추가적인 1 중독을 부여합니다."],
+		"NAME": "Shin"
+	},
+	"animator:AcuraTooru":
+	{
+		"DESCRIPTION": "!D! 피해 NL를 두번 줍니다. !SV! 단도 카드를 얻습니다 를 얻습니다. 시너지: 순환 !M! 카드.",
+		"NAME": "Tooru",
+		"UPGRADE_DESCRIPTION": "!D! 피해를 입힙니다 NL 두번. Add !SV! 단도 카드 를 얻습니다. 시너지: 순환 !M! 카드."
+	},
+	"animator:Add":
+	{
+		"DESCRIPTION": "!M! Ench._Armor를 얻습니다. 어디에 있든지 1카드를NL 소멸시킵니다.  Orb_Core로 대체합니다. NL 휘발성. 소멸.",
+		"NAME": "Add",
+		"UPGRADE_DESCRIPTION": "!M! Ench._Armor를 얻습니다. 어디에 있든지 1카드를NL 소멸시킵니다. Orb_Core로 대체합니다. NL 소멸."
+	},
+	"animator:Ain":
+	{
+		"DESCRIPTION": "주문시전자. NL 적 전체에게 피해를 !D! 줍니다 !M! 번. NL 1 밀집을 얻습니다.",
+		"NAME": "Ain"
+	},
+	"animator:Ainz":
+	{
+		"DESCRIPTION": "턴마다 1코스트 감소합니다. 당신의 턴이 시작할때, !M! 랜덤 [#EFC851]효과들 중 하나를 부여합니다.",
+		"NAME": "Ainz Ooal Gown"
+	},
+	"animator:Aisha":
+	{
+		"DESCRIPTION": "주문시전자. 당신이 가진 Orb수 만큼 !D! 피해를 입힙니다. 부스트 !SV! : 1 Orb 슬롯을 얻습니다.",
+		"NAME": "Aisha"
+	},
+	"animator:Albedo":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 그만큼 Enchanted_Armor를 얻습니다. NL 시너지: 뽑기 카드더미로 돌아갑니다.",
+		"NAME": "Albedo"
+	},
+	"animator:Alexander":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 적 전체에게 피해를 !D! 줍니다. 죽음의메아리: !M! 판금_갑옷을 얻습니다.",
+		"NAME": "Alexander"
+	},
+	"animator:Aqua":
+	{
+		"DESCRIPTION": "!M! 체력을 회복합니다. NL 카드를 한장 뽑습니다. NL 이 전투동안 쓸모없어집니다.",
+		"EXTENDED_DESCRIPTION": ["", "이 카드가 소멸되거나 버려졌을 때, !SV!  임시._체력을 얻습니다."],
+		"NAME": "Aqua",
+		"UPGRADE_DESCRIPTION": "!M! 체력을 회복합니다. NL 카드를 한장 뽑습니다. NL 이 전투동안 조금 쓸모없어집니다."
+	},
+	"animator:Ara":
+	{
+		"DESCRIPTION": "!D! 피해를 두번 입힙니다. NL 카드를 한장 뽑습니다 적 전체의 NL 디버프 수마다. NL 카드 1장을 버립니다.",
+		"NAME": "Ara"
+	},
+	"animator:Archer":
+	{
+		"DESCRIPTION": "당신의 턴이 끝날때,  적 전체의 디버프 수마다 적 전체에게 피해를 !M! 줍니다. 힘에 따라 강화됩니다.",
+		"NAME": "Archer"
+	},
+	"animator:Arpeggio":
+	{
+		"DESCRIPTION": "1 대지를 영창합니다. NL 얻습니다 1 밀집. NL 소멸.",
+		"NAME": "Arpeggio",
+		"UPGRADE_DESCRIPTION": "1 대지를 영창합니다. NL 1 Orb Slot을 얻습니다. NL 얻습니다 1 밀집. NL 소멸."
+	},
+	"animator:Asuramaru":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL !M! 악마화를 얻습니다. NL !M! 민첩을 얻습니다. NL !B! 방어도를 얻습니다. NL 소멸.",
+		"NAME": "Asuramaru"
+	},
+	"animator:Azekura":
+	{
+		"DESCRIPTION": "!B! 방어도 두번 얻습니다. !SV! 일시적인 가시들을 얻습니다. 시너지: 얻습니다 !M! 판금_갑옷.",
+		"NAME": "Azekura"
+	},
+	"animator:Azriel":
+	{
+		"DESCRIPTION": "얻습니다 2 Flight. NL 디버프를 적에게 부여할때마다, 얻습니다 !M! 힘. NL 휘발성.",
+		"NAME": "Azriel",
+		"UPGRADE_DESCRIPTION": "얻습니다 2 Flight. NL 디버프를 적에게 부여할때마다, 얻습니다 !M! 힘."
+	},
+	"animator:Benimaru":
+	{
+		"DESCRIPTION": "영창 1 불. Deal !D! 적 전체에게 피해를 !D! 줍니다. 얻습니다 !M! 임시._체력 화상을 입은 적마다.",
+		"NAME": "Benimaru"
+	},
+	"animator:Berserker":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 만약 적이 죽거나 방어도를 잃으면, NL 얻습니다 !B! 방어도.",
+		"NAME": "Berserker"
+	},
+	"animator:Biyorigo":
+	{
+		"DESCRIPTION": "얻습니다 1 인공물. NL 공격카드 4장을 사용할때마다, 얻습니다 !M! 힘 and 1 민첩.",
+		"NAME": "Biyorigo"
+	},
+	"animator:BlackLotus":
+	{
+		"DESCRIPTION": "적 전체에게!D! 피해를 입힙니다NL. NL 얻습니다 !B! 방어도. NL 얻습니다 !M! 흐릿함.",
+		"NAME": "Black Lotus"
+	},
+	"animator:Boros":
+	{
+		"DESCRIPTION": "얻습니다 !M! 힘. NL !SV!  임시._체력을 얻습니다. NL 모든 [#EFC851]Powers[]가 NL 두번씩 사용됩니다.",
+		"NAME": "Boros"
+	},
+	"animator:Bozes":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 이번턴에 시너지를 NL 활성화했으면, 얻습니다 !SV! NL 판금_갑옷. NL 응원 !M!. 소멸.",
+		"NAME": "Bozes"
+	},
+	"animator:Caster":
+	{
+		"DESCRIPTION": "[#EFC851]영창 1 암흑. NL 훔침 !M! 힘 턴이 끝날때까지. 죽음의메아리: 발현 모든 암흑 orbs.",
+		"NAME": "Caster"
+	},
+	"animator:ChaikaBohdan":
+	{
+		"DESCRIPTION": "[#EFC851]침착함 !M!. NL !D! 피해를 입힙니다. NL 핸드가 비었다면,  !SV!카드를 뽑습니다.",
+		"EXTENDED_DESCRIPTION": ["침착함", "이 카드가 손에 있을때 적을 공격할때마다, 데미지가 추가됩니다. 다중-공격 또한 이 효과를 여러번 발동시킵니다. 사용후 초기화됩니다."],
+		"NAME": "Chaika Bohdan"
+	},
+	"animator:ChaikaTrabant":
+	{
+		"DESCRIPTION": "다음턴, !D! 피해를 입힙니다 그리고 적용시킵니다 !M! 랜덤 [#EFC851]디버프들. 귀환:  적 전체에게 피해를 !SV! 줍니다.",
+		"NAME": "Chaika Trabant"
+	},
+	"animator:ChlammyZell":
+	{
+		"DESCRIPTION": "이번턴에 서로다른 카드 타입을 사용하면, 순환 1 카드 그리고 적 전체에게 피해를 !M! 줍니다. 소멸.",
+		"NAME": "Kurami",
+		"UPGRADE_DESCRIPTION": "선천성. 이번턴에 서로다른 카드 타입을 사용하면, 순환 1 카드 그리고 적 전체에게 피해를 !M! 줍니다. 소멸."
+	},
+	"animator:Chomusuke":
+	{
+		"DESCRIPTION": "보존. 턴마다 한번, NL 얻습니다 [E] and 뽑습니다 !M! NL 카드 각 턴마다 NL you 소멸된 이번 NL 턴 ( !SV! 카드들 ).",
+		"NAME": "Chomusuke",
+		"UPGRADE_DESCRIPTION": "보존. 턴마다 한번, NL 얻습니다 [E] and 뽑습니다 !M! NL 카드들 각 턴마다 NL you 소멸된 이번 NL 턴 ( !SV! 카드들 )."
+	},
+	"animator:Chris":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 훔침 !M! [#EFC851]Gold ([#EFC851]*[#FFFFFF]). NL Cooldown !SV! : 뽑습니다 a [#EFC851]0-Cost[] 카드.",
+		"EXTENDED_DESCRIPTION": ["* Note", "당신은 보스에게 최대 50#yGold 훔칠수 있고, an elite에게서 25 #yGold , 또는 10 #yGold 그 외 토큰이 아닌 적들."],
+		"NAME": "Chris"
+	},
+	"animator:Chung":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 감소 이 카드의 NL 방어도 by !M!NL 이번 전투. 죽음의메아리 : NL 영창 2 냉기.",
+		"NAME": "Chung"
+	},
+	"animator:Cocytus":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL [#EFC851]흡수 [#EFC851]갑옷. NL 시너지: 증가 this 카드's 피해 by !M! this 전투.",
+		"EXTENDED_DESCRIPTION": ["흡수 갑옷", "적에게 이번 공격으로 잃은만큼 방어도를 얻습니다?."],
+		"NAME": "Cocytus"
+	},
+	"animator:CowGirl":
+	{
+		"DESCRIPTION": "얻습니다 [E]. NL 얻습니다 !M! 임시._체력. 소멸.",
+		"NAME": "'Cow Girl'"
+	},
+	"animator:CrowleyEusford":
+	{
+		"DESCRIPTION": "랜덤 적에게 !M! 번 동안 !D! 피해를 입힙니다. 이번턴에 소멸된 카드마다 1코씩 감소n.",
+		"NAME": "Crowley Eusford"
+	},
+	"animator:Crystallize":
+	{
+		"DESCRIPTION": " !SV! 체력을 잃습니다. NL 얻습니다 !M! 금속화. NL 소멸.",
+		"NAME": "Crystallize"
+	},
+	"animator:Cthulhu":
+	{
+		"DESCRIPTION": "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.",
+		"NAME": "Cthulhu"
+	},
+	"animator:Darkness":
+	{
+		"DESCRIPTION": "얻습니다 !M! 판금_갑옷. 피해를 입을때마다, 강화 !M! 랜덤 카드 ([#EFC851]*[#FFFFFF]).",
+		"EXTENDED_DESCRIPTION": ["* Note", "It will prioritize 카드들 핸드에 있는."],
+		"NAME": "암흑",
+		"UPGRADE_DESCRIPTION": "얻습니다 !M! 판금_갑옷. 피해를 입을때마다, 강화 !M! 랜덤 카드들 ([#EFC851]*[#FFFFFF])."
+	},
+	"animator:Defend":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도.",
+		"NAME": "Defend"
+	},
+	"animator:Defend_AccelWorld":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 귀환: 얻습니다 !M! 방어도.",
+		"NAME": "Improved Defend"
+	},
+	"animator:Defend_Elsword":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 다음턴, 얻습니다 !M! 방어도.",
+		"NAME": "Improved Defend"
+	},
+	"animator:Defend_Fate":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 얻습니다 !M! 추가적인 방어도 for 각각의 적.",
+		"NAME": "Improved Defend"
+	},
+	"animator:Defend_FullmetalAlchemist":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL Cooldown !SV!: NL [#EFC851]영창 1 냉기.",
+		"NAME": "Improved Defend"
+	},
+	"animator:Defend_GATE":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 보존.",
+		"NAME": "Improved Defend"
+	},
+	"animator:Defend_GoblinSlayer":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 소멸.",
+		"NAME": "Improved Defend"
+	},
+	"animator:Defend_HitsugiNoChaika":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 순환 1 카드.",
+		"NAME": "Improved Defend"
+	},
+	"animator:Defend_Kancolle":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 부스트 !SV! : 얻습니다 !M! [#EFC851]Gold.",
+		"NAME": "Improved Defend"
+	},
+	"animator:Defend_Katanagatari":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 얻습니다 !M! 일시적인 가시들.",
+		"NAME": "Improved Defend"
+	},
+	"animator:Defend_Konosuba":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 부스트 !SV! : !M! 체력을 회복합니다.",
+		"NAME": "Improved Defend"
+	},
+	"animator:Defend_NoGameNoLife":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 보존 가장 왼쪽의 playable 카드.",
+		"NAME": "Improved Defend"
+	},
+	"animator:Defend_OnePunchMan":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 부스트 !SV! : 다음턴, 얻습니다 [E].",
+		"NAME": "Improved Defend"
+	},
+	"animator:Defend_Overlord":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 증가 this 카드's 방어도 by !M! this 전투.",
+		"NAME": "Improved Defend"
+	},
+	"animator:Defend_OwariNoSeraph":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 죽음의메아리: 부여합니다 !M! 약화 적 전체에게.",
+		"NAME": "Improved Defend"
+	},
+	"animator:Defend_TenSura":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도 두번.",
+		"NAME": "Improved Defend"
+	},
+	"animator:Demiurge":
+	{
+		"DESCRIPTION": "얻습니다 [E]. NL 입는다 !M! 피해 이번턴 종료시. NL 죽음의메아리: 얻습니다 [E].",
+		"NAME": "Demiurge",
+		"UPGRADE_DESCRIPTION": "얻습니다 [E] [E]. NL 입는다 !SV! 피해 이번턴 종료시. NL 죽음의메아리: 얻습니다 [E] [E]."
+	},
+	"animator:DolaCouronne":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 시너지: 카드를 한장 뽑습니다. NL 죽음의메아리: 얻습니다 1 민첩.",
+		"NAME": "Couronne"
+	},
+	"animator:DolaRiku":
+	{
+		"DESCRIPTION": "손에 있는 카드를 소멸시킵니다, 같은 레어도를 가진 !M! 카드들 중 하나를 고르고 얻습니다, NL 그것의 코스트가 1 줄어듭니다.",
+		"NAME": "Riku"
+	},
+	"animator:DolaSchwi":
+	{
+		"DESCRIPTION": "부여합니다 !M! 조준. NL 영창 1 번개. NL Cooldown !SV! : NL !D! 피해를 입힙니다.",
+		"NAME": "Schwi"
+	},
+	"animator:DolaStephanie":
+	{
+		"DESCRIPTION": "핸드에 있는 카드 중 하나를 고릅니다, Fetch 1 카드 같은 시너지 뽑기 카드 더미에서. 소멸.",
+		"NAME": "Stephanie",
+		"UPGRADE_DESCRIPTION": "핸드에 있는 카드 중 하나를 고릅니다, Fetch 1 카드 같은 시너지 뽑기 카드 더미에서."
+	},
+	"animator:DwarfShaman":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 1 대지를 영창합니다. NL 시너지: 고르고 강화 a 카드 핸드에 있는.",
+		"NAME": "'Dwarf Shaman'",
+		"UPGRADE_DESCRIPTION": "!D! 피해를 입힙니다. NL 1 대지를 영창합니다. NL 고르고 강화 a 카드 핸드에 있는."
+	},
+	"animator:Elesis":
+	{
+		"DESCRIPTION": "보존. !D! 피해를 입힙니다. 증가시킵니다 이 카드의 피해 by !M! 턴마다 핸드에 있는 동안.",
+		"NAME": "Elesis"
+	},
+	"animator:ElricAlphonse":
+	{
+		"DESCRIPTION": "[#EFC851]휘발성. 얻습니다 !M! 일시적인 밀집. NL 얻습니다 !B! 방어도. NL 죽음의메아리: 얻습니다 [#EFC851]Armored [#EFC851]Alphonse.",
+		"NAME": "Alphonse Elric",
+		"UPGRADE_DESCRIPTION": "[#EFC851]휘발성. 얻습니다 !M! 일시적인 밀집. NL 얻습니다 !B! 방어도. NL 죽음의메아리: 얻습니다 [#EFC851]Armored [#EFC851]Alphonse+."
+	},
+	"animator:ElricAlphonseAlt":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 얻습니다 !M! 판금_갑옷. NL 시너지: [#EFC851]영창[] 1 번개.",
+		"NAME": "Armored Alphonse"
+	},
+	"animator:ElricEdward":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 순환 1 카드. NL 당신이 순환시킨 카드기반의[#EFC851]보너스 [#EFC851]효과를 발동시킵니다.",
+		"EXTENDED_DESCRIPTION": ["보너스 효과", "#y공격: 영창 1 #y번개 NL #y스킬: 영창 1 #yFrost NL #y파워: 영창 1 #yEarth"],
+		"NAME": "Edward Elric"
+	},
+	"animator:Elsword":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 만약 적이 화상을 입었다면, 응원 1. NL Cooldown !SV! : NL [#EFC851]영창 1 불.",
+		"NAME": "Elsword"
+	},
+	"animator:Emilia":
+	{
+		"DESCRIPTION": "영창 1 냉기. NL 영창 1 번개 NL for 각각의 냉기 Orb NL you have. 소멸.",
+		"NAME": "Emilia",
+		"UPGRADE_DESCRIPTION": "영창 1 냉기. NL 영창 1 번개 NL for 각각의 냉기 Orb NL you have."
+	},
+	"animator:EmiyaShirou":
+	{
+		"DESCRIPTION": "Give a 랜덤 NL 적 !M! 방어도 and 1 취약. 만약 적이 방어도를 모두 잃어버린다면, [E]를 얻고 [#EFC851]Attack[]을 뽑습니다.",
+		"EXTENDED_DESCRIPTION": ["Unlimited Blade Works", "적이 방어도를 모두 잃어버린다면, 1 #yEnergy를 얻고 뽑기 카드 더미에 있는 랜덤한 #y공격 을 뽑습니다 ."],
+		"NAME": "Emiya Shirou"
+	},
+	"animator:Emonzaemon":
+	{
+		"DESCRIPTION": "Deal !D! 관통 피해 두번. NL 죽음의메아리: 얻습니다 NL [#EFC851]Entou [#EFC851]Jyuu.",
+		"EXTENDED_DESCRIPTION": ["Entou Jyuu", "특별한 1-Cost #y파워"],
+		"NAME": "Emonzaemon",
+		"UPGRADE_DESCRIPTION": "Deal !D! 관통 피해 두번. NL 죽음의메아리: 얻습니다 NL [#EFC851]Entou [#EFC851]Jyuu+."
+	},
+	"animator:Entoma":
+	{
+		"DESCRIPTION": "[#EFC851]Unique. NL !D! 피해를 입힙니다. NL 부여합니다 !M! 중독. [#EFC851]허기.",
+		"EXTENDED_DESCRIPTION": ["허기", " 턴마다 #b1 피해가 감소합니다. 만약 토큰이 아닌 적을 처치하면, 영구히 강화 this 카드 and 얻습니다 #b2 Max HP."],
+		"NAME": "Entoma"
+	},
+	"animator:EntouJyuu":
+	{
+		"DESCRIPTION": "턴마다 두번, [#EFC851]Attack 카드를 사용한 후, 카드를 한장 뽑습니다 그리고 1 화상을 전체 적에게 적용시킵니다 .",
+		"NAME": "Entou Jyuu"
+	},
+	"animator:Envy":
+	{
+		"DESCRIPTION": "형상변환자. NL 잃은 체력의 !M! % 를 회복합니다. 턴마다 처음 시전하는 카드는 시너지가 적용됩니다.",
+		"NAME": "Envy"
+	},
+	"animator:Eris":
+	{
+		"DESCRIPTION": "!M! 체력을 회복합니다. NL 소멸. NL 부활.",
+		"NAME": "Eris"
+	},
+	"animator:Eve":
+	{
+		"DESCRIPTION": "Play !SV! Orb_Core. NL 시너지를 활성화하면, deal !M! 피해 to an 적 and 증가 this 피해 by 1.",
+		"NAME": "Eve",
+		"UPGRADE_DESCRIPTION": "Play !SV! Orb_Cores. NL 시너지를 활성화하면, deal !M! 피해 to an 적 and 증가 this 피해 by 1."
+	},
+	"animator:Evileye":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 카드를 한장 뽑습니다. NL 재장전: 다음 Orb의 지속효과를 발동합니다.",
+		"NAME": "Evileye"
+	},
+	"animator:Excalibur":
+	{
+		"DESCRIPTION": "보존. NL 얻습니다 1 불가침. NL !D! 피해를 입힙니다 NL 적 전체에게. NL 소멸.",
+		"NAME": "Excalibur"
+	},
+	"animator:FeridBathory":
+	{
+		"DESCRIPTION": "턴마다 한번, NL 카드가 소멸될때마다, 얻습니다 1 힘 and NL 회복 2 HP ([#EFC851]*[]).",
+		"EXTENDED_DESCRIPTION": ["*Note", "Max HP라면, 회복은 #y임시. #y체력 이 됩니다."],
+		"NAME": "Ferid Bathory",
+		"UPGRADE_DESCRIPTION": "턴마다 두번, NL when a 카드 is 소멸된, 얻습니다 1 힘 and NL 회복 2 HP ([#EFC851]*[])."
+	},
+	"animator:Fredrika":
+	{
+		"DESCRIPTION": "형상변환자. 얻습니다 !B! 방어도 for 각각의 적. 귀환: 이번턴 새로운 형상을 취하고 손으로 돌아옵니다.",
+		"EXTENDED_DESCRIPTION": ["형상변환자. NL 얻습니다 !B! 방어도.", "형상변환자. NL !D! 피해를 입힙니다 두번. 얻습니다 2 금속화.", "형상변환자. NL !D! 피해를 입힙니다. NL 부여합니다 1 취약. NL 부여합니다 1 약화."],
+		"NAME": "Fredrika"
+	},
+	"animator:GazelDwargon":
+	{
+		"DESCRIPTION": "턴이 시작할때마다 방어도의 절반을 유지합니다. [#EFC851]Attack[] 카드를 낼때마다, 얻습니다 !M! 방어도.",
+		"NAME": "Gazel Dwargon"
+	},
+	"animator:Genos":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 부여합니다 !M! 화상. NL Add 1 [#EFC851]과열[] to NL your hand.",
+		"EXTENDED_DESCRIPTION": ["과열", "0-Cost #y상태이상 that 피해s the player and 뽑습니다s 카드들."],
+		"NAME": "Genos"
+	},
+	"animator:Geryuganshoop":
+	{
+		"DESCRIPTION": "순환 !SV! 카드들. NL 제외 up to !M! 카드들 in your 소멸 pile, 얻습니다 that much [E].",
+		"EXTENDED_DESCRIPTION": ["고릅니다 @ 카드들 to 제외, 얻습니다 that much Energy."],
+		"NAME": "Geryuganshoop"
+	},
+	"animator:Gilgamesh":
+	{
+		"DESCRIPTION": "[#EFC851]Unique. NL !D! 피해를 입힙니다 NL 3 times. NL [#EFC851]Gate [#EFC851]of [#EFC851]Babylon.",
+		"EXTENDED_DESCRIPTION": ["Gate of Babylon", "유물을 얻을때마다, #y강화 this 카드 and 얻습니다 #b", " #yGold. 유물을 구매하거나 특별한 이벤트에서는 발동하지 않습니다."],
+		"NAME": "Gilgamesh"
+	},
+	"animator:Gillette":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 다음턴, 얻습니다 [E]. 귀환: 부여합니다 !M! 약화 적 전체에게.",
+		"NAME": "Gillette"
+	},
+	"animator:Giselle":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 부여합니다 !M! 화상. NL Deal 세배의 피해 NL !SV! HP보다 적은 적에게.",
+		"NAME": "Giselle"
+	},
+	"animator:Gluttony":
+	{
+		"DESCRIPTION": "소멸 up to !M! 카드들 핸드에 있는, 발동합니다 a [#EFC851]보너스 [#EFC851]효과 based on 각각의 카드 타입. 소멸.",
+		"EXTENDED_DESCRIPTION": ["보너스 효과", "#y공격: 얻습니다 1 힘 NL #y스킬: 얻습니다 6 #y일시적인 #yHP NL #y파워: 회복 7 HP NL #y상태이상: 얻습니다 1 Energy NL #y저주: 얻습니다 6 방어도"],
+		"NAME": "Gluttony"
+	},
+	"animator:GoblinChampion":
+	{
+		"DESCRIPTION": "당신의 턴이 끝날때, 섞습니다 1 랜덤 Goblin into your 덱.",
+		"NAME": "Goblin Champion"
+	},
+	"animator:GoblinKing":
+	{
+		"DESCRIPTION": "당신의 턴이 끝날때, 섞습니다 3 랜덤 Goblins into your 덱.",
+		"NAME": "Goblin King"
+	},
+	"animator:GoblinShaman":
+	{
+		"DESCRIPTION": "When you 뽑습니다 this, 뽑습니다 another 카드. 당신의 턴이 끝날때, 얻습니다 1 Frail.",
+		"NAME": "Goblin Shaman"
+	},
+	"animator:GoblinSlayer":
+	{
+		"DESCRIPTION": "[#EFC851]Goblin [#EFC851]Slayer. NL 얻습니다 !B! 방어도. NL !D! 피해를 입힙니다. NL 보존.",
+		"EXTENDED_DESCRIPTION": ["Goblin Slayer", "소멸 every 상태이상 and 저주 핸드에 있는 and 묘지. Deal 3 extra 피해 for every 카드 in your 소멸 pile. NL #yWARNING:고블린이 당신의 덱을 침략할것입니다."],
+		"NAME": "Goblin Slayer"
+	},
+	"animator:GoblinSoldier":
+	{
+		"DESCRIPTION": "When you 뽑습니다 this, 뽑습니다 another 카드. 당신의 턴이 끝날때, 입는다 2 피해.",
+		"NAME": "Goblin Soldier"
+	},
+	"animator:Greed":
+	{
+		"DESCRIPTION": "얻습니다 !SV! 판금_갑옷. NL 얻습니다 !M! 금속화. NL 얻습니다 3 Malleable. NL [#EFC851]Greed[].",
+		"EXTENDED_DESCRIPTION": ["Greed", "이카드가 전투에서 생성된 카드가 아닐때, 얻습니다 #b8 #yGold when played. This 카드 costs 1 less energy for every #b100 #yGold you have."],
+		"NAME": "Greed"
+	},
+	"animator:GuildGirl":
+	{
+		"DESCRIPTION": "At the start of 턴마다, 순환 1 카드. NL When a 토큰이 아닌 NL 적 dies, NL 얻습니다 !M! [#EFC851]Gold.",
+		"NAME": "'Guild Girl'"
+	},
+	"animator:Guren":
+	{
+		"DESCRIPTION": "Play the top 3 카드들 of your 덱. 소멸 every [#EFC851]Attack, [#EFC851]저주 and [#EFC851]상태이상 played, 얻습니다 !M! Support_피해 for 각각의 of them.",
+		"NAME": "Guren"
+	},
+	"animator:Guy":
+	{
+		"DESCRIPTION": "뽑습니다 !M! 카드. NL 버립니다 !M! 카드. NL If you 버려진 an [#EFC851]Attack, 얻습니다 !B! 방어도.",
+		"NAME": "Guy",
+		"UPGRADE_DESCRIPTION": "뽑습니다 !M! 카드들. NL 버립니다 !M! 카드들. NL If you 버려진 an [#EFC851]Attack, 얻습니다 !B! 방어도."
+	},
+	"animator:Hakurou":
+	{
+		"DESCRIPTION": "Martial_Artist. !D! 피해를 입힙니다 !M! times. NL [#EFC851]뽑습니다n: 얻습니다 !SV! 일시적인 민첩.",
+		"NAME": "Hakurou",
+		"UPGRADE_DESCRIPTION": "Martial_Artist. !D! 피해를 입힙니다 !M! times. 뽑습니다 and 강화 a 카드. NL [#EFC851]뽑습니다n: 얻습니다 !SV! 일시적인 민첩."
+	},
+	"animator:Hero":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 뽑습니다 !M! 카드들. NL While in your deck, 증가 the chances of [#EFC851]보너스 [#EFC851]Relics.",
+		"NAME": "'Hero'"
+	},
+	"animator:Hibiki":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다 to a 랜덤 적 !M! times. 증가 this 카드's hit count by !SV! this 전투.",
+		"NAME": "Hibiki"
+	},
+	"animator:HigakiRinne":
+	{
+		"DESCRIPTION": "형상변환자. NL 불규칙하게 행동합니다...",
+		"NAME": "Higaki Rinne",
+		"UPGRADE_DESCRIPTION": "형상변환자. NL 불규칙하게 행동합니다..."
+	},
+	"animator:HighElfArcher":
+	{
+		"DESCRIPTION": "Deal !D! 관통 NL 피해. 얻습니다 !M! NL 일시적인 NL 민첩.",
+		"NAME": "'High Elf Archer'"
+	},
+	"animator:HiiragiShinya":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도 and NL !M! Support_피해. NL Fetch a 카드 from your 묘지 and 보존 it, it costs 1 more this turn.",
+		"NAME": "Shinya Hiiragi"
+	},
+	"animator:HiiragiTenri":
+	{
+		"DESCRIPTION": "얻습니다 !M! 임시._체력. NL Play and 소멸 NL ALL 카드들 in your 묘지. 소멸.",
+		"NAME": "Tenri Hiiragi"
+	},
+	"animator:Hitei":
+	{
+		"DESCRIPTION": "얻습니다 a 랜덤 [#EFC851]Buff 당신의 턴이 시작할때, then 소멸 1 of !M! 랜덤 카드들 in your 뽑습니다 or 묘지.",
+		"NAME": "Hitei"
+	},
+	"animator:HououinKyouma":
+	{
+		"DESCRIPTION": "고릅니다 1 카드 you played this 전투 and add a copy of it 를 얻습니다 ([#EFC851]*[#FFFFFF]). 제외.",
+		"EXTENDED_DESCRIPTION": ["* Note", "You cannot select another copy of this 카드. Because that would cause a paradox."],
+		"NAME": "Hououin Kyouma",
+		"UPGRADE_DESCRIPTION": "고릅니다 1 카드 you played this 전투 and add a copy of it 를 얻습니다 ([#EFC851]*[#FFFFFF]), 그것의 코스트가 1 줄어듭니다 this turn. 제외."
+	},
+	"animator:Illya":
+	{
+		"DESCRIPTION": "얻습니다 1 취약. NL Play the highest 피해 [#EFC851]Attack from your 덱. 소멸.",
+		"NAME": "Illya",
+		"UPGRADE_DESCRIPTION": "얻습니다 1 취약. NL Play the highest 피해 [#EFC851]Attack from your 덱."
+	},
+	"animator:ItamiYouji":
+	{
+		"DESCRIPTION": "뽑습니다 !M! 카드들. NL 시너지: 뽑습니다 1 NL 추가적인 카드. NL !D! 피해를 입힙니다 각 턴마다 뽑습니다n.",
+		"NAME": "Itami Youji"
+	},
+	"animator:IzunaHatsuse":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 부여합니다 1 약화. NL [#EFC851]Blood [#EFC851]Destruction.",
+		"EXTENDED_DESCRIPTION": ["Blood Destruction", "최대체력이 25%보다 낮을 동안, this 카드 will turn into a special 0-cost #y공격.", "!D! 피해를 입힙니다 두번. NL !M! 체력을 회복합니다."],
+		"NAME": "Izuna Hatsuse",
+		"UPGRADE_DESCRIPTION": "얻습니다 !B! 방어도. NL 부여합니다 1 약화. NL [#EFC851]Blood [#EFC851]Destruction+."
+	},
+	"animator:JeanneDArc":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 얻습니다 !M! 임시._체력. NL 얻습니다 !M! Ench._Armor. NL 소멸 a 랜덤 상태이상 or 저주.",
+		"NAME": "Jeanne D'Arc"
+	},
+	"animator:Jibril":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 카드를 한장 뽑습니다 and deal !M! 추가적인 피해 for 각각의 unique Orb you have.",
+		"NAME": "Jibril"
+	},
+	"animator:Kaijin":
+	{
+		"DESCRIPTION": "At the end of 턴마다, 보존 1 카드 and 증가 its 피해 and 방어도 by !M! this 전투.",
+		"NAME": "Kaijin",
+		"UPGRADE_DESCRIPTION": "선천성. At the end of 턴마다, 보존 1 카드 and 증가 its 피해 and 방어도 by !M! this 전투."
+	},
+	"animator:Kazuma":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 순환 1 카드. 시너지: NL !D! 피해를 입힙니다 to a 랜덤 적.",
+		"NAME": "Kazuma"
+	},
+	"animator:Kira":
+	{
+		"DESCRIPTION": "휘발성. Give the 적 !SV! 힘 and kill it after a certain number of turns ([#EFC851]*[]). NL 소멸.",
+		"EXTENDED_DESCRIPTION": ["* Note", "This 카드's text will change while targeting an 적, enemies with more health will survive longer. Ignores 인공물.", "휘발성. The 적 will die in @ turn(s). NL 소멸."],
+		"NAME": "Light Yagami"
+	},
+	"animator:Konayuki":
+	{
+		"DESCRIPTION": "If you have at least 10 힘, !D! 피해를 입힙니다, otherwise 얻습니다 !M! 힘.",
+		"NAME": "Konayuki"
+	},
+	"animator:KrulTepes":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 부여합니다 !M! 약화. NL If this 카드 kills an Elite or Boss, 얻습니다 a NL [#EFC851]Blood [#EFC851]Vial ([#EFC851]*[#FFFFFF]).",
+		"EXTENDED_DESCRIPTION": ["* Note", "The 유물 will drop at the end of 전투. You will only receive 1 유물 in multi-elite 전투s. 여러개의 Blood Vials를 중첩할수 있다."],
+		"NAME": "Krul Tepes"
+	},
+	"animator:Kuribayashi":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 부여합니다 !SV! Choked. NL 시너지: The 적 잃어버린다 !M! 힘 NL this turn.",
+		"NAME": "Kuribayashi"
+	},
+	"animator:Kuroyukihime":
+	{
+		"DESCRIPTION": "버립니다 !M! 카드들. Add [#EFC851]Black [#EFC851]Lotus to your hand. 소멸.",
+		"EXTENDED_DESCRIPTION": ["Black Lotus", "A special 1-cost #y공격 which deals 적 전체에게 피해를 !D! 줍니다 and grants #y방어도 and #y흐릿함."],
+		"NAME": "Kuroyukihime"
+	},
+	"animator:Kyubey":
+	{
+		"DESCRIPTION": "얻습니다 [E] [E]. NL 뽑습니다 !M! 카드들. NL Add 2 랜덤 [#EFC851]Curses to your 묘지. 소멸",
+		"NAME": "Kyubey",
+		"UPGRADE_DESCRIPTION": "얻습니다 [E] [E]. NL 뽑습니다 !M! 카드들. NL Add 2 랜덤 [#EFC851]Curses to your 묘지."
+	},
+	"animator:Lancer":
+	{
+		"DESCRIPTION": "Deal !D! 관통 피해. Heartseeker. NL 시너지: 얻습니다 [E].",
+		"NAME": "Lancer"
+	},
+	"animator:Layla":
+	{
+		"DESCRIPTION": "Deal !D! 관통 NL 피해. 재장전: NL 부여합니다 !M! 중독 to a NL 랜덤 적.",
+		"NAME": "Layla"
+	},
+	"animator:LeleiLaLalena":
+	{
+		"DESCRIPTION": "[#EFC851]영창 !M! 냉기. NL 시너지: 부여합니다 !SV! 약화 to ALL NL enemies.",
+		"NAME": "Lelei La Lalena",
+		"UPGRADE_DESCRIPTION": "[#EFC851]영창 !M! 냉기. NL 순환 1 카드. NL 시너지: 부여합니다 !SV! 약화 to ALL NL enemies."
+	},
+	"animator:Lelouch":
+	{
+		"DESCRIPTION": "소멸 ALL [#EFC851]Attacks 핸드에 있는. ALL enemies will attack themselves this turn. NL 제외. ([#EFC851]*[])",
+		"EXTENDED_DESCRIPTION": ["* Note", "Enemies that do not plan to attack will be #yStunned instead."],
+		"NAME": "Lelouch"
+	},
+	"animator:LimeBell":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 재장전: 다음턴, NL !M! 체력을 회복합니다. NL 소멸.",
+		"NAME": "Lime Bell"
+	},
+	"animator:LizardPriest":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL Set the 방어도 of the 적 to !M!. 시너지: 보존 !SV! 카드들.",
+		"NAME": "'Lizard Priest'"
+	},
+	"animator:MaesHughes":
+	{
+		"DESCRIPTION": "뽑습니다 1 카드 for every !M! 카드들 in your 덱. 응원 1. 죽음의메아리: 부여합니다 !SV! 화상 적 전체에게.",
+		"NAME": "Maes Hughes"
+	},
+	"animator:Megumin":
+	{
+		"DESCRIPTION": "[#EFC851]Unique. Deal !D! 적 전체에게 피해를 !D! 줍니다. 소멸. 시너지: 영구히 강화 this 카드.",
+		"NAME": "Megumin"
+	},
+	"animator:Melzalgald":
+	{
+		"DESCRIPTION": "형상변환자. NL !D! 피해를 입힙니다. NL Split into 3 [#EFC851]Attacks. 소멸.",
+		"NAME": "Melzalgald",
+		"UPGRADE_DESCRIPTION": "형상변환자. NL !D! 피해를 입힙니다. NL Split into 3 강화된 [#EFC851]Attacks. 소멸."
+	},
+	"animator:MelzalgaldAlt_1":
+	{
+		"DESCRIPTION": "형상변환자. NL !D! 피해를 입힙니다. NL 얻습니다 !M! 힘. NL 소멸.",
+		"NAME": "Melzalgald"
+	},
+	"animator:MelzalgaldAlt_2":
+	{
+		"DESCRIPTION": "형상변환자. NL !D! 피해를 입힙니다. NL 얻습니다 !M! 민첩. NL 소멸.",
+		"NAME": "Melzalgald"
+	},
+	"animator:MelzalgaldAlt_3":
+	{
+		"DESCRIPTION": "형상변환자. NL !D! 피해를 입힙니다. NL 얻습니다 !M! Regeneration. NL 소멸.",
+		"NAME": "Melzalgald"
+	},
+	"animator:MetalKnight":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 영창 1 Plasma. NL 부스트 !SV! : 얻습니다 !M! 금속화.",
+		"NAME": "Metal Knight"
+	},
+	"animator:Mikaela":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 부여합니다 !M! 중독. NL 고릅니다 and 소멸 NL a 카드 in your NL 묘지.",
+		"NAME": "Mikaela"
+	},
+	"animator:Millim":
+	{
+		"DESCRIPTION": "[#EFC851]Unique. NL !D! 피해를 입힙니다. NL 뽑습니다 !M! 카드들. NL 시너지: 얻습니다 [E].",
+		"NAME": "Millim"
+	},
+	"animator:MisaKurobane":
+	{
+		"DESCRIPTION": "영창 1 불. NL 뽑습니다 !M! 카드. NL Add [#EFC851]Yusarin to your 묘지. 소멸.",
+		"NAME": "Misa Kurobane",
+		"UPGRADE_DESCRIPTION": "영창 1 불. NL 뽑습니다 !M! 카드들. NL Add [#EFC851]Yusarin to your 묘지. 소멸."
+	},
+	"animator:Mitsuba":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. If the 적 had more health than you, NL 얻습니다 !B! 방어도. 죽음의메아리: 뽑습니다 !M! 카드들.",
+		"NAME": "Mitsuba"
+	},
+	"animator:Mitsurugi":
+	{
+		"DESCRIPTION": "If the 적 intends to attack, !D! 피해를 입힙니다. 죽음의메아리: NL 얻습니다 !M! 힘.",
+		"EXTENDED_DESCRIPTION": ["The 적 does not intend to attack."],
+		"NAME": "Mitsurugi"
+	},
+	"animator:MumenRider":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 소멸. Returns to your hand after a 랜덤 number of turns.",
+		"NAME": "Mumen Rider",
+		"UPGRADE_DESCRIPTION": "!D! 피해를 입힙니다. NL 카드를 한장 뽑습니다. 소멸. Returns 를 얻습니다 after a 랜덤 number of turns."
+	},
+	"animator:Nanami":
+	{
+		"DESCRIPTION": "[#EFC851]Counter the 적 intent. NL [#c6be6f]This [#c6be6f]text [#c6be6f]will [#c6be6f]change [#c6be6f]while [#c6be6f]targeting [#c6be6f]an [#c6be6f]적.",
+		"EXTENDED_DESCRIPTION": ["Deal # 피해.", "얻습니다 # 방어도.", "얻습니다 # 힘.", "부여합니다 # 약화.", "부여합니다 # 취약.", "Stun the 적.", "영창 # 랜덤 Orb/s.", "UNUSED", "UNUSED", "부여합니다 # 중독.", "얻습니다 [E].", "얻습니다 # 임시._체력.", "뽑습니다 # 카드들."],
+		"NAME": "Nanami",
+		"UPGRADE_DESCRIPTION": "Strongly [#EFC851]Counter the 적 intent. NL [#c6be6f]This [#c6be6f]text [#c6be6f]will [#c6be6f]change [#c6be6f]while [#c6be6f]targeting [#c6be6f]an [#c6be6f]적."
+	},
+	"animator:NarberalGamma":
+	{
+		"DESCRIPTION": "형상변환자. NL 영창 !M! 번개. NL 카드를 한장 뽑습니다.",
+		"NAME": "Gamma Narberal",
+		"UPGRADE_DESCRIPTION": "형상변환자. NL 영창 !M! 번개. NL 번개 hits ALL enemies this turn. NL 카드를 한장 뽑습니다."
+	},
+	"animator:NivaLada":
+	{
+		"DESCRIPTION": "Cooldown !SV! : NL Deal 300 피해. NL When you 소멸 or 버립니다 a 카드, reduce this Cooldown by 1.",
+		"NAME": "Niva Lada"
+	},
+	"animator:OrbCore_Chaos":
+	{
+		"DESCRIPTION": "영창 !SV! 랜덤 Orb. On your second 시너지 턴마다, Discover 1 카드.",
+		"NAME": "Chaos Core"
+	},
+	"animator:OrbCore_Dark":
+	{
+		"DESCRIPTION": "영창 !SV! 암흑. NL On your second 시너지 턴마다, 뽑습니다 !M! 카드들, then 카드 1장을 버립니다.",
+		"NAME": "암흑 Core"
+	},
+	"animator:OrbCore_Fire":
+	{
+		"DESCRIPTION": "영창 !SV! 불. NL On your second 시너지 턴마다, 부여합니다 !M! 화상 적 전체에게.",
+		"NAME": "불 Core"
+	},
+	"animator:OrbCore_Frost":
+	{
+		"DESCRIPTION": "영창 !SV! 냉기. NL On your second 시너지 턴마다, 얻습니다 !M! 판금_갑옷.",
+		"NAME": "냉기 Core"
+	},
+	"animator:OrbCore_Lightning":
+	{
+		"DESCRIPTION": "영창 !SV! 번개. NL On your second 시너지 턴마다, deal !M! 적 전체에게 피해를 !D! 줍니다.",
+		"NAME": "번개 Core"
+	},
+	"animator:OrbCore_Plasma":
+	{
+		"DESCRIPTION": "영창 !SV! Plasma. NL On your second 시너지 턴마다, 얻습니다 !M! 임시._체력.",
+		"NAME": "Plasma Core"
+	},
+	"animator:Overheat":
+	{
+		"DESCRIPTION": "뽑습니다 2 카드들. NL 입는다 !M! 피해. NL ALL copies of this NL 카드 얻습니다 1 피해 NL this 전투.",
+		"NAME": "과열"
+	},
+	"animator:PandorasActor":
+	{
+		"DESCRIPTION": "형상변환자. NL 얻습니다 !B! 방어도. NL 시너지: 얻습니다 !M! 추가적인 방어도.",
+		"NAME": "Pandora's Actor"
+	},
+	"animator:PinaCoLada":
+	{
+		"DESCRIPTION": "The first [#EFC851]0-Cost 카드 you play 턴마다 is played 두번.",
+		"NAME": "Pina Co Lada",
+		"UPGRADE_DESCRIPTION": "얻습니다 !B! 방어도. NL The first [#EFC851]0-Cost 카드 you play 턴마다 is played 두번."
+	},
+	"animator:Pride":
+	{
+		"DESCRIPTION": "형상변환자. [#EFC851]Pride. NL [#EFC851]영창 !M! [#EFC851]암흑. NL 부여합니다 !SV! Constricted. 소멸.",
+		"EXTENDED_DESCRIPTION": ["Pride", "Until your 다음턴, when you would 입는다 막히지않은 피해, your rightmost #yDarkness Orb 잃어버린다 that much 피해 instead."],
+		"NAME": "Pride"
+	},
+	"animator:Priestess":
+	{
+		"DESCRIPTION": "얻습니다 !B! 임시._체력. This number is affected by 방어도 modifiers.",
+		"EXTENDED_DESCRIPTION": ["* Note", "Affected by 방어도 modifiers."],
+		"NAME": "'Priestess'"
+	},
+	"animator:QuestionMark":
+	{
+		"DESCRIPTION": "When 뽑습니다n, turns into a copy of a 랜덤 카드 and gains 형상변환자.",
+		"NAME": "Question Mark",
+		"UPGRADE_DESCRIPTION": "When 뽑습니다n, turns into an 강화된 copy of a 랜덤 카드 and gains 형상변환자."
+	},
+	"animator:Raven":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 부여합니다 !M! 약화. NL 뽑습니다 your lowest 피해 [#EFC851]Attack.",
+		"NAME": "Raven"
+	},
+	"animator:Rena":
+	{
+		"DESCRIPTION": "얻습니다 !M! 흐릿함. NL 얻습니다 !B! 방어도. NL 시너지 and 귀환: NL 다음턴, 얻습니다 NL !B! 방어도.",
+		"NAME": "Rena"
+	},
+	"animator:Rimuru":
+	{
+		"DESCRIPTION": "Whenever you play a 카드, turn this 카드 into a copy of it.",
+		"NAME": "Rimuru",
+		"UPGRADE_DESCRIPTION": "보존. Whenever you play a 카드, turn this 카드 into a copy of it."
+	},
+	"animator:RinTohsaka":
+	{
+		"DESCRIPTION": "영창 1 랜덤 Orb. 얻습니다 !B! 방어도. NL 시너지: 얻습니다 !M! Enchanted_Armor.",
+		"NAME": "Rin Tohsaka"
+	},
+	"animator:RoryMercury":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다 to a 랜덤 적 두번. [#EFC851]뽑습니다n[]: 얻습니다 !M! 일시적인 힘.",
+		"NAME": "Rory Mercury"
+	},
+	"animator:Rose":
+	{
+		"DESCRIPTION": "뽑습니다 !M! 카드들. 재장전: Deal !D! 관통 피해. If the 적 dies, deal !SV! 적 전체에게 피해를 !D! 줍니다.",
+		"NAME": "Rose"
+	},
+	"animator:RoyMustang":
+	{
+		"DESCRIPTION": "Deal !D! 적 전체에게 피해를 !D! 줍니다 and 영창 1 불 for 각각의 적. NL 시너지: 얻습니다 !M! Flame_Barrier.",
+		"NAME": "Roy Mustang"
+	},
+	"animator:Saber":
+	{
+		"DESCRIPTION": "Loyal. !D! 피해를 입힙니다. If this Synergizes !M! times, 제외 and 얻습니다 [#EFC851]Excalibur.",
+		"NAME": "Saber"
+	},
+	"animator:Saitama":
+	{
+		"DESCRIPTION": "Whenever this 카드 is played, 증가 its cost and change its 효과 for this 전투.",
+		"EXTENDED_DESCRIPTION": ["뽑습니다 !M! 카드들. NL 얻습니다 !SV! 일시적인 민첩.", "Prevent the next time you would lose HP.", "얻습니다 !M! 힘. NL 얻습니다 !B! 방어도.", "!D! 피해를 입힙니다 NL !M! times.", "Remove 불가침. NL Deal !D! NL 관통 피해. NL Stun the 적."],
+		"NAME": "Saitama",
+		"UPGRADE_DESCRIPTION": "선천성. NL Whenever this 카드 is played, 증가 its cost and change its 효과 for this 전투."
+	},
+	"animator:Scar":
+	{
+		"DESCRIPTION": "휘발성. Deal !D! 관통 피해. NL [#EFC851]Dragon's[] [#EFC851]Pulse[].",
+		"EXTENDED_DESCRIPTION": ["Dragon's Pulse", "If this kills an 적, #yPurge this 카드 and 영구히 #y강화 a 랜덤 카드 in your deck"],
+		"NAME": "Scar"
+	},
+	"animator:Sebas":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 얻습니다 임시._체력 equal NL to the total cost NL of 카드들 in your NL hand ( !SV! ). 소멸.",
+		"NAME": "Sebas"
+	},
+	"animator:SeriousSaitama":
+	{
+		"DESCRIPTION": "Stun ALL enemies. NL 얻습니다 X 힘. NL 제외.",
+		"NAME": "Serious Saitama",
+		"UPGRADE_DESCRIPTION": "Stun ALL enemies. NL 얻습니다 X+1 힘. NL 제외."
+	},
+	"animator:Shalltear":
+	{
+		"DESCRIPTION": "[#EFC851]Bloodlust. NL Deal !D! 적 전체에게 피해를 !D! 줍니다. 시너지: 훔침 !M! 힘.",
+		"EXTENDED_DESCRIPTION": ["Bloodlust", "If this kills a 토큰이 아닌 적, 회복 3 HP and 얻습니다 [E]"],
+		"NAME": "Shalltear",
+		"UPGRADE_DESCRIPTION": "[#EFC851]Bloodlust. NL Deal !D! 적 전체에게 피해를 !D! 줍니다. 훔침 !M! 힘."
+	},
+	"animator:Shichika":
+	{
+		"DESCRIPTION": "얻습니다 !SV! Thorns. NL 얻습니다 !M! 힘. NL Add [#EFC851]Kyotouryuu[] 를 얻습니다. 소멸.",
+		"EXTENDED_DESCRIPTION": ["Kyotouryuu", "A special 1-cost #y공격 that hits multiple times and #y소멸s."],
+		"NAME": "Shichika",
+		"UPGRADE_DESCRIPTION": "얻습니다 !SV! Thorns. NL 얻습니다 !M! 힘. NL Add [#EFC851]Kyotouryuu+[] 를 얻습니다. 소멸."
+	},
+	"animator:ShichikaKyotouryuu":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다 !M! times. If you have 3 or more 민첩, 카드를 한장 뽑습니다 and 얻습니다 [E]. 소멸.",
+		"NAME": "Kyotouryuu"
+	},
+	"animator:Shigure":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 시너지 and 죽음의메아리: 얻습니다 !M! Support_피해.",
+		"NAME": "Shigure"
+	},
+	"animator:ShikizakiKiki":
+	{
+		"DESCRIPTION": "강화 ALL 카드들 for the rest of this 전투. 힘 affects ALL 카드들 !M! times.",
+		"NAME": "Shikizaki Kiki",
+		"UPGRADE_DESCRIPTION": "선천성. 강화 ALL 카드들 for the rest of this 전투. 힘 affects ALL 카드들 !M! times."
+	},
+	"animator:Shimakaze":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 얻습니다 !B! 방어도. NL 뽑습니다 !M! 카드들. NL 섞습니다 1 Dazed in your 덱.",
+		"NAME": "Shimakaze"
+	},
+	"animator:Shinoa":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 부여합니다 !M! 취약 적 전체에게. 시너지: Also 부여합니다 !M! 약화.",
+		"NAME": "Shinoa"
+	},
+	"animator:Shiro":
+	{
+		"DESCRIPTION": "Cost 1 less for 각각의 시너지 you activated this turn. 얻습니다 [E] at the start of 턴마다.",
+		"NAME": "Shiro"
+	},
+	"animator:Shizu":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. 얻습니다 Flaming_Weapon. NL If this kills an 적, NL 회복 for its 화상 amount.",
+		"NAME": "Shizu"
+	},
+	"animator:Shuna":
+	{
+		"DESCRIPTION": "뽑습니다 !M! 카드. NL 얻습니다 !B! 방어도. NL [#EFC851]뽑습니다n: NL 얻습니다 !B! 방어도.",
+		"NAME": "Shuna",
+		"UPGRADE_DESCRIPTION": "뽑습니다 !M! 카드들. NL 얻습니다 !B! 방어도. NL [#EFC851]뽑습니다n: NL 얻습니다 !B! 방어도."
+	},
+	"animator:SilverFang":
+	{
+		"DESCRIPTION": "Martial_Artist. NL !D! 피해를 입힙니다. NL 얻습니다 !B! 방어도. NL 다음턴, 얻습니다 !M! 일시적인 민첩.",
+		"NAME": "Silver Fang"
+	},
+	"animator:SirTouchMe":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 얻습니다 !M! Juggernaut. NL 얻습니다 !SV! 판금_갑옷. NL 얻습니다 !B! 방어도.",
+		"NAME": "Sir Touch Me"
+	},
+	"animator:Sloth":
+	{
+		"DESCRIPTION": "[#EFC851]Sloth. NL 얻습니다 !B! 방어도. NL !D! 피해를 입힙니다. NL 부여합니다 !M! 취약.",
+		"EXTENDED_DESCRIPTION": ["Sloth", "At the start of 턴마다, 증가 this 카드's #y방어도 and 피해 by #b1 for 각각의 Orb Slot you have. On use, halve this 카드's 피해 and #y방어도."],
+		"NAME": "Sloth"
+	},
+	"animator:Sonic":
+	{
+		"DESCRIPTION": "At the start of your next !M! Turns, 얻습니다 1 민첩 and add a Throwing-Knife 를 얻습니다.",
+		"NAME": "Sonic"
+	},
+	"animator:Sora":
+	{
+		"DESCRIPTION": "고릅니다 and execute NL !M! custom 효과들. NL 시너지: 고릅니다 1 NL 추가적인 효과.",
+		"NAME": "Sora"
+	},
+	"animator:Souei":
+	{
+		"DESCRIPTION": "부여합니다 !M! 중독. NL Trigger the 중독 of ALL enemies. If any of them dies, 얻습니다 불가침.",
+		"NAME": "Souei"
+	},
+	"animator:Spearman":
+	{
+		"DESCRIPTION": "Deal !D! 관통 피해. Deal 추가적인 피해 equal to your 방어도. Lose ALL 방어도.",
+		"NAME": "'Spearman'",
+		"UPGRADE_DESCRIPTION": "Deal !D! 관통 피해. Deal 추가적인 피해 equal to your 방어도. Set your 방어도 to !B!."
+	},
+	"animator:Strike":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다.",
+		"NAME": "Strike",
+		"UPGRADE_DESCRIPTION": "!D! 피해를 입힙니다."
+	},
+	"animator:Strike_AccelWorld":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 귀환: Deal !M! 피해 to a 랜덤 적.",
+		"NAME": "Improved Strike"
+	},
+	"animator:Strike_Elsword":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 얻습니다 !M! 힘 턴이 끝날때까지.",
+		"NAME": "Improved Strike"
+	},
+	"animator:Strike_Fate":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL If you have less than 3 카드들 in hand, NL 얻습니다 [E].",
+		"NAME": "Improved Strike"
+	},
+	"animator:Strike_FullmetalAlchemist":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL Cooldown !SV!: NL 영창 1 번개.",
+		"NAME": "Improved Strike"
+	},
+	"animator:Strike_GATE":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 다음턴, 카드를 한장 뽑습니다.",
+		"NAME": "Improved Strike"
+	},
+	"animator:Strike_GoblinSlayer":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 소멸.",
+		"NAME": "Improved Strike"
+	},
+	"animator:Strike_HitsugiNoChaika":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 부여합니다 !M! 중독.",
+		"NAME": "Improved Strike"
+	},
+	"animator:Strike_Kancolle":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 부스트 !SV! : 얻습니다 !M! [#EFC851]Gold.",
+		"NAME": "Improved Strike"
+	},
+	"animator:Strike_Katanagatari":
+	{
+		"DESCRIPTION": "Deal !D! 관통 피해.",
+		"NAME": "Improved Strike"
+	},
+	"animator:Strike_Konosuba":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 얻습니다 !B! 방어도.",
+		"NAME": "Improved Strike"
+	},
+	"animator:Strike_NoGameNoLife":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 보존 your rightmost playable 카드.",
+		"NAME": "Improved Strike"
+	},
+	"animator:Strike_OnePunchMan":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 얻습니다 !M! 민첩 턴이 끝날때까지.",
+		"NAME": "Improved Strike"
+	},
+	"animator:Strike_Overlord":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 증가 this 카드's 피해 by !M! this 전투.",
+		"NAME": "Improved Strike"
+	},
+	"animator:Strike_OwariNoSeraph":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 죽음의메아리: 부여합니다 !M! 취약 적 전체에게.",
+		"NAME": "Improved Strike"
+	},
+	"animator:Strike_TenSura":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 얻습니다 !M! 임시._체력.",
+		"NAME": "Improved Strike"
+	},
+	"animator:SwordMaiden":
+	{
+		"DESCRIPTION": "얻습니다 !M! 임시._체력. NL Remove ALL of your 디버프들. 소멸.",
+		"NAME": "'Sword Maiden'"
+	},
+	"animator:TanyaDegurechaff":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 버립니다 ALL [#EFC851]Skills and 얻습니다 !M! 방어도 for 각각의 of them. 죽음의메아리: 얻습니다 [#EFC851]타입 [#EFC851]95.",
+		"NAME": "Tanya Degurechaff"
+	},
+	"animator:TanyaDegurechaff_Type95":
+	{
+		"DESCRIPTION": "순환 2 카드들. 보존 ALL [#EFC851]Attacks. 다음턴, your [#EFC851]Attacks will deal double 피해. 소멸.",
+		"NAME": "타입 95"
+	},
+	"animator:Tatsumaki":
+	{
+		"DESCRIPTION": "영창 1 Air. NL 얻습니다 !M! 일시적인 밀집. 시너지: NL 다음턴, 얻습니다 [E].",
+		"NAME": "Tatsumaki"
+	},
+	"animator:Tet":
+	{
+		"DESCRIPTION": "버립니다 up to 2 카드들 from your 덱. Move 2 카드들 from your 묘지 to your 덱.",
+		"NAME": "Tet",
+		"UPGRADE_DESCRIPTION": "보존. 버립니다 up to 2 카드들 from your 덱. Move 2 카드들 from your 묘지 to your 덱."
+	},
+	"animator:TheHaunt":
+	{
+		"DESCRIPTION": "얻습니다 !M! [#EFC851]Gold. NL Become more haunted. NL 휘발성. 소멸.",
+		"NAME": "The Haunt"
+	},
+	"animator:ThrowingKnife_0":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 부여합니다 !M! 약화. NL 제외. 귀환: Play this 카드.",
+		"NAME": "Throwing-Knife"
+	},
+	"animator:ThrowingKnife_1":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 부여합니다 !M! 취약. NL 제외. 귀환: Play this 카드.",
+		"NAME": "Throwing-Knife"
+	},
+	"animator:ThrowingKnife_2":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 부여합니다 !M! 중독. NL 제외. 귀환: Play this 카드.",
+		"NAME": "Throwing-Knife"
+	},
+	"animator:Togame":
+	{
+		"DESCRIPTION": "뽑습니다 !M! 카드들. NL You may 소멸 a 카드 to 뽑습니다 1 추가적인 카드.",
+		"NAME": "Togame"
+	},
+	"animator:Truth":
+	{
+		"DESCRIPTION": "얻습니다 1 밀집. NL 얻습니다 2 Energy. NL 뽑습니다 3 카드들. NL 얻습니다 4 힘. NL [#EFC851]Truth.",
+		"EXTENDED_DESCRIPTION": ["Truth", "If you have at least 3 unique orbs, remove all your orbs, otherwise 고릅니다 and 영구히 replace a 카드 in your deck with a #yWound."],
+		"NAME": "Truth"
+	},
+	"animator:TukaLunaMarceau":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. Next NL turn, 얻습니다 !B! 방어도. NL If this is your first 시너지 this turn, 카드를 한장 뽑습니다.",
+		"NAME": "Tuka"
+	},
+	"animator:Tyuule":
+	{
+		"DESCRIPTION": "부여합니다 !M! 중독 NL and 1 취약 적 전체에게.",
+		"NAME": "Tyuule",
+		"UPGRADE_DESCRIPTION": "부여합니다 !M! 중독 NL and 1 취약 적 전체에게. NL 부스트 !SV! : 얻습니다 [E]"
+	},
+	"animator:Urushihara":
+	{
+		"DESCRIPTION": "Lazy. NL 영창 1 암흑. NL !D! 피해를 입힙니다 NL 적 전체에게.",
+		"NAME": "Urushihara",
+		"UPGRADE_DESCRIPTION": "Slightly less Lazy. NL 영창 1 암흑. NL !D! 피해를 입힙니다 NL 적 전체에게."
+	},
+	"animator:Vanir":
+	{
+		"DESCRIPTION": "형상변환자. [#EFC851]Vanir. NL !D! 피해를 입힙니다. NL 부스트 !SV! : Deal !M! 추가적인 피해.",
+		"EXTENDED_DESCRIPTION": ["Vanir", "If this 카드 is 소멸된, 고릅니다 a 카드 in your 덱 and transform it into a new copy of this 카드."],
+		"NAME": "Vanir"
+	},
+	"animator:Veldora":
+	{
+		"DESCRIPTION": "얻습니다 !SV! 밀집. NL 발현 모든 orbs !M! times. [#EFC851]뽑습니다n: 영창 2 랜덤 orbs.",
+		"NAME": "Veldora"
+	},
+	"animator:Vesta":
+	{
+		"DESCRIPTION": "뽑습니다 1 카드. NL Research an [#EFC851]Elixir, NL it will be completed after !M! turns. NL 소멸.",
+		"EXTENDED_DESCRIPTION": ["Elixir", "0-cost #y스킬 with a variety of different 효과들."],
+		"NAME": "Vesta"
+	},
+	"animator:Vesta_Elixir_0":
+	{
+		"DESCRIPTION": "얻습니다 !M! 밀집. NL 얻습니다 2 Orb slots. NL 얻습니다 !SV! 흐릿함. NL 소멸.",
+		"NAME": "Elixir"
+	},
+	"animator:Vesta_Elixir_1":
+	{
+		"DESCRIPTION": "얻습니다 !M! 힘. NL 얻습니다 !SV! 민첩. NL 얻습니다 6 임시._체력. NL 소멸.",
+		"NAME": "Elixir"
+	},
+	"animator:Vesta_Elixir_2":
+	{
+		"DESCRIPTION": "얻습니다 [E] [E] [E]. NL 소멸 !M! 카드들. NL 뽑습니다 !SV! 카드들. NL 소멸.",
+		"NAME": "Elixir"
+	},
+	"animator:Vesta_Elixir_3":
+	{
+		"DESCRIPTION": "뽑습니다 !M! 카드들. NL 버립니다 2 카드들. NL 얻습니다 !SV! 금속화. NL 소멸.",
+		"NAME": "Elixir"
+	},
+	"animator:Viivi":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다 to a 랜덤 적 !M! times. 귀환: Add 1 Throwing-Knife 를 얻습니다.",
+		"NAME": "Viivi"
+	},
+	"animator:Witch":
+	{
+		"DESCRIPTION": "얻습니다 !B! 방어도. NL 부여합니다 !M! 화상 적 전체에게. NL 죽음의메아리: 얻습니다 a 랜덤 Potion.",
+		"NAME": "'Witch'"
+	},
+	"animator:Wiz":
+	{
+		"DESCRIPTION": "소멸 1 카드, 고릅니다 a 카드 from your 소멸 pile and add a copy 를 얻습니다 ([#EFC851]*[#FFFFFF]). 제외.",
+		"EXTENDED_DESCRIPTION": ["* Note", "You cannot retrieve another Wiz from your 소멸 pile."],
+		"NAME": "Wiz",
+		"UPGRADE_DESCRIPTION": "소멸 1 카드, 고릅니다 a 카드 from your 소멸 pile and add a copy 를 얻습니다 ([#EFC851]*[#FFFFFF]). 제외 after !M! uses."
+	},
+	"animator:YaoHaDucy":
+	{
+		"DESCRIPTION": "Deal !D! 적 전체에게 피해를 !D! 줍니다. All copies of this 카드 얻습니다 !M! 피해 this 전투.",
+		"NAME": "Yao Ha Ducy"
+	},
+	"animator:YukoShionji":
+	{
+		"DESCRIPTION": "Reveal the top 카드 of your 덱. 턴마다 한번, you may 뽑습니다 it and/or 버립니다 it ([#EFC851]*[#FFFFFF]).",
+		"EXTENDED_DESCRIPTION": ["* Note", "You may #pLeft-Click on the 카드 to 뽑습니다 it or #pRight-Click on it to 버립니다 it."],
+		"NAME": "Yuuko Shionji"
+	},
+	"animator:YunYun":
+	{
+		"DESCRIPTION": "Deal !D! 적 전체에게 피해를 !D! 줍니다. Costs 1 more for 각각의 other [#EFC851]Attack 핸드에 있는.",
+		"NAME": "YunYun"
+	},
+	"animator:Yusarin":
+	{
+		"DESCRIPTION": "응원 !SV!. NL 뽑습니다 !M! 카드. NL 소멸.",
+		"NAME": "Yusarin",
+		"UPGRADE_DESCRIPTION": "응원 !SV!. NL 뽑습니다 !M! 카드들. NL 소멸."
+	},
+	"animator:Yuuichirou":
+	{
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 죽음의메아리: Add NL [#EFC851]Asuramaru and a NL Wound to your NL 묘지.",
+		"EXTENDED_DESCRIPTION": ["Asuramaru", "A special 2-Cost #y공격 which grants #yDemon #yForm, #y민첩 and 방어도."],
+		"NAME": "Yuuichirou",
+		"UPGRADE_DESCRIPTION": "!D! 피해를 입힙니다. NL 죽음의메아리: Add NL [#EFC851]Asuramaru and a NL Dazed to your NL 묘지."
+	},
+	"animator:ZankiKiguchi":
+	{
+		"DESCRIPTION": "Martial_Artist. NL !D! 피해를 입힙니다. NL 시너지: Convert !M! 방어도 to 1 민첩.",
+		"NAME": "Zanki Kiguchi"
+	},
+	"animator:Zero":
+	{
+		"DESCRIPTION": "Play a 랜덤 [#EFC851]Skill from your 덱. 소멸.",
+		"NAME": "Zero",
+		"UPGRADE_DESCRIPTION": "Play a 랜덤 [#EFC851]Skill from your 덱."
+	}
 }

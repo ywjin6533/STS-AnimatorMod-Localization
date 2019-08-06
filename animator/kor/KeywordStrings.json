@@ -1,46 +1,46 @@
-[
+ï»¿[
 	{
-		"DESCRIPTION": "Activates if the last Ä«µå played this turn was from the same series.",
-    "NAMES": [ "½Ã³ÊÁö", "synergies", "½Ã³ÊÁö¸¦ È°¼ºÈ­ÇÏ¸é", "synergizes" ],
-		"PROPERNAME": "½Ã³ÊÁö"
+		"DESCRIPTION": "Activates if the last ì¹´ë“œ played this turn was from the same series.",
+		"NAMES": ["ì‹œë„ˆì§€", "synergies", "ì‹œë„ˆì§€ë¥¼ í™œì„±í™”í•˜ë©´", "synergizes"],
+		"PROPERNAME": "ì‹œë„ˆì§€"
 	},
 	{
-		"DESCRIPTION": "Triggers when this Ä«µå is ¼Ò¸êµÈ.",
-		"NAMES": ["Á×À½ÀÇ¸Ş¾Æ¸®"],
-		"PROPERNAME": "Á×À½ÀÇ¸Ş¾Æ¸®"
+		"DESCRIPTION": "Triggers when this ì¹´ë“œ is ì†Œë©¸ëœ.",
+		"NAMES": ["ì£½ìŒì˜ë©”ì•„ë¦¬"],
+		"PROPERNAME": "ì£½ìŒì˜ë©”ì•„ë¦¬"
 	},
 	{
-		"DESCRIPTION": "Whenever this Ä«µå would enter your ¹¦Áö, ¼¯½À´Ï´Ù it into your µ¦.",
+		"DESCRIPTION": "Whenever this ì¹´ë“œ would enter your ë¬˜ì§€, ì„ìŠµë‹ˆë‹¤ it into your ë±.",
 		"NAMES": ["loyal"],
 		"PROPERNAME": "Loyal"
 	},
 	{
-		"DESCRIPTION": "Whenever this Ä«µå would enter your ¹¦Áö, ¼¯½À´Ï´Ù it into your µ¦.",
+		"DESCRIPTION": "Whenever this ì¹´ë“œ would enter your ë¬˜ì§€, ì„ìŠµë‹ˆë‹¤ it into your ë±.",
 		"NAMES": ["persistent"],
 		"PROPERNAME": "Persistent"
 	},
 	{
-		"DESCRIPTION": "The owner is inflicted with the specified #yDebuff or È¿°ú when receiving ÇÇÇØ. Lasts 1 turn.",
+		"DESCRIPTION": "The owner is inflicted with the specified #yDebuff or íš¨ê³¼ when receiving í”¼í•´. Lasts 1 turn.",
 		"NAMES": ["mark", "marks"],
 		"PROPERNAME": "Mark"
 	},
 	{
-		"DESCRIPTION": "If the target has less than #b50% HP, deal double ÇÇÇØ.",
+		"DESCRIPTION": "If the target has less than #b50% HP, deal double í”¼í•´.",
 		"NAMES": ["heartseeker"],
 		"PROPERNAME": "Heartseeker"
 	},
 	{
-		"DESCRIPTION": "Ignore the target's #y¹æ¾îµµ and #°¡½Ã.",
-		"NAMES": ["°üÅë"],
-		"PROPERNAME": "°üÅë"
+		"DESCRIPTION": "Ignore the target's #yë°©ì–´ë„ and #ê°€ì‹œ.",
+		"NAMES": ["ê´€í†µ"],
+		"PROPERNAME": "ê´€í†µ"
 	},
 	{
-		"DESCRIPTION": "If you would die, and this Ä«µå is anywhere in your deck, prevent all ÇÇÇØ and ¿µ±¸È÷ lose this Ä«µå. Will not work if ¼Ò¸êµÈ or Purged.",
-		"NAMES": ["ºÎÈ°"],
-		"PROPERNAME": "ºÎÈ°"
+		"DESCRIPTION": "If you would die, and this ì¹´ë“œ is anywhere in your deck, prevent all í”¼í•´ and ì˜êµ¬íˆ lose this ì¹´ë“œ. Will not work if ì†Œë©¸ëœ or Purged.",
+		"NAMES": ["ë¶€í™œ"],
+		"PROPERNAME": "ë¶€í™œ"
 	},
 	{
-		"DESCRIPTION": "Reduced by #b1 when this Ä«µå is #yplayed or #y¹ö·ÁÁø, if it was at #b0, ¹ßµ¿ÇÕ´Ï´Ù the È¿°ú and reset.",
+		"DESCRIPTION": "Reduced by #b1 when this ì¹´ë“œ is #yplayed or #yë²„ë ¤ì§„, if it was at #b0, ë°œë™í•©ë‹ˆë‹¤ the íš¨ê³¼ and reset.",
 		"NAMES": ["cooldown"],
 		"PROPERNAME": "Cooldown"
 	},
@@ -50,183 +50,183 @@
 		"PROPERNAME": "Stun"
 	},
 	{
-		"DESCRIPTION": "For every Ä«µå you have played this turn, Àû takes #b10% more ÇÇÇØ from #yAttacks.",
+		"DESCRIPTION": "For every ì¹´ë“œ you have played this turn, ì  takes #b10% more í”¼í•´ from #yAttacks.",
 		"NAMES": ["slow"],
 		"PROPERNAME": "Slow"
 	},
 	{
-		"DESCRIPTION": "Synergizes with any Ä«µå.",
-		"NAMES": ["Çü»óº¯È¯ÀÚ", "shapeshift"],
-		"PROPERNAME": "Çü»óº¯È¯ÀÚ"
+		"DESCRIPTION": "Synergizes with any ì¹´ë“œ.",
+		"NAMES": ["í˜•ìƒë³€í™˜ì", "shapeshift"],
+		"PROPERNAME": "í˜•ìƒë³€í™˜ì"
 	},
 	{
-		"DESCRIPTION": "¹ö¸³´Ï´Ù a certain number of Ä«µåµé then »Ì½À´Ï´Ù that many Ä«µåµé.",
-		"NAMES": ["¼øÈ¯"],
-		"PROPERNAME": "¼øÈ¯"
+		"DESCRIPTION": "ë²„ë¦½ë‹ˆë‹¤ a certain number of ì¹´ë“œë“¤ then ë½‘ìŠµë‹ˆë‹¤ that many ì¹´ë“œë“¤.",
+		"NAMES": ["ìˆœí™˜"],
+		"PROPERNAME": "ìˆœí™˜"
 	},
 	{
-		"DESCRIPTION": "¹«Á¦ÇÑÀ¸·Î °­È­µË´Ï´Ù.",
+		"DESCRIPTION": "ë¬´ì œí•œìœ¼ë¡œ ê°•í™”ë©ë‹ˆë‹¤.",
 		"NAMES": ["augmentable"],
 		"PROPERNAME": "Augmentable"
 	},
 	{
-		"DESCRIPTION": "Upon receiving attack ÇÇÇØ, ¾ò½À´Ï´Ù #y¹æ¾îµµ. #y¹æ¾îµµ ¾ò½À´Ï´Ù Áõ°¡s as this power is triggered. Resets ´ç½ÅÀÇ ÅÏÀÌ ½ÃÀÛÇÒ¶§.",
+		"DESCRIPTION": "Upon receiving attack í”¼í•´, ì–»ìŠµë‹ˆë‹¤ #yë°©ì–´ë„. #yë°©ì–´ë„ ì–»ìŠµë‹ˆë‹¤ ì¦ê°€s as this power is triggered. Resets ë‹¹ì‹ ì˜ í„´ì´ ì‹œì‘í• ë•Œ.",
 		"NAMES": ["malleable"],
 		"PROPERNAME": "Malleable"
 	},
 	{
-		"DESCRIPTION": "Take ÇÇÇØ at the end of ÅÏ¸¶´Ù.",
+		"DESCRIPTION": "Take í”¼í•´ at the end of í„´ë§ˆë‹¤.",
 		"NAMES": ["constricted"],
 		"PROPERNAME": "Constricted"
 	},
 	{
-		"DESCRIPTION": "Trigger when this Ä«µå is manually ¹ö·ÁÁø or ¼øÈ¯d.",
-		"NAMES": ["±ÍÈ¯"],
-		"PROPERNAME": "±ÍÈ¯"
+		"DESCRIPTION": "Trigger when this ì¹´ë“œ is manually ë²„ë ¤ì§„ or ìˆœí™˜d.",
+		"NAMES": ["ê·€í™˜"],
+		"PROPERNAME": "ê·€í™˜"
 	},
 	{
-		"DESCRIPTION": "Activates for °¢°¢ÀÇ Àû that ÀÒ¾î¹ö¸°´Ù its ¹æ¾îµµ during this attack.",
+		"DESCRIPTION": "Activates for ê°ê°ì˜ ì  that ìƒì–´ë²„ë¦°ë‹¤ its ë°©ì–´ë„ during this attack.",
 		"NAMES": ["overrun"],
 		"PROPERNAME": "Overrun"
 	},
 	{
-		"DESCRIPTION": "If this counter is greater NL than 0, ¹ßµ¿ÇÕ´Ï´Ù the È¿°ú then reduce this counter by 1. Resets at the end of °¢°¢ÀÇ fight.",
-		"NAMES": ["ºÎ½ºÆ®"],
-		"PROPERNAME": "ºÎ½ºÆ®"
+		"DESCRIPTION": "If this counter is greater NL than 0, ë°œë™í•©ë‹ˆë‹¤ the íš¨ê³¼ then reduce this counter by 1. Resets at the end of ê°ê°ì˜ fight.",
+		"NAMES": ["ë¶€ìŠ¤íŠ¸"],
+		"PROPERNAME": "ë¶€ìŠ¤íŠ¸"
 	},
 	{
-		"NAMES": ["´ëÁö", "´ëÁö+"],
-		"DESCRIPTION": "Orb: ¾ò½À´Ï´Ù ÀÏ½ÃÀûÀÎ #°¡½Ã while #y¿µÃ¢ed. 3ÅÏÈÄ ÀÚµ¿À¸·Î #y¹ßÇö ÀüÃ¼ Àûµé¿¡°Ô ·£´ıÇÏ°Ô ºĞ»êÇÏ¿© ÇÇÇØ¸¦ ÀÔÈü´Ï´Ù.",
-		"PROPERNAME": "´ëÁö"
+		"DESCRIPTION": "Orb: ì–»ìŠµë‹ˆë‹¤ ì¼ì‹œì ì¸ #ê°€ì‹œ while #yì˜ì°½ed. 3í„´í›„ ìë™ìœ¼ë¡œ #yë°œí˜„ ì „ì²´ ì ë“¤ì—ê²Œ ëœë¤í•˜ê²Œ ë¶„ì‚°í•˜ì—¬ í”¼í•´ë¥¼ ì…í™ë‹ˆë‹¤.",
+		"NAMES": ["ëŒ€ì§€", "ëŒ€ì§€+"],
+		"PROPERNAME": "ëŒ€ì§€"
 	},
 	{
+		"DESCRIPTION": "Orb: Deal #yê´€í†µ ì  ì „ì²´ì—ê²Œ í”¼í•´ë¥¼ !D! ì¤ë‹ˆë‹¤.",
 		"NAMES": ["air", "air+"],
-		"DESCRIPTION": "Orb: Deal #y°üÅë Àû ÀüÃ¼¿¡°Ô ÇÇÇØ¸¦ !D! Áİ´Ï´Ù.",
 		"PROPERNAME": "Air"
 	},
 	{
-		"NAMES": ["ºÒ", "ºÒ+"],
-		"DESCRIPTION": "Orb: ºÎ¿©ÇÕ´Ï´Ù #yÈ­»ó and ÇÇÇØ the highest health Àû.",
-		"PROPERNAME": "ºÒ"
+		"DESCRIPTION": "Orb: ë¶€ì—¬í•©ë‹ˆë‹¤ #yí™”ìƒ and í”¼í•´ the highest health ì .",
+		"NAMES": ["ë¶ˆ", "ë¶ˆ+"],
+		"PROPERNAME": "ë¶ˆ"
 	},
 	{
-		"NAMES": ["Èå¸´ÇÔ"],
-		"DESCRIPTION": "Your #y¹æ¾îµµ will not be removed at the start of your ´ÙÀ½ÅÏ.",
-		"PROPERNAME": "Èå¸´ÇÔ"
+		"DESCRIPTION": "Your #yë°©ì–´ë„ will not be removed at the start of your ë‹¤ìŒí„´.",
+		"NAMES": ["íë¦¿í•¨"],
+		"PROPERNAME": "íë¦¿í•¨"
 	},
 	{
-		"NAMES": ["È­»ó"],
-		"DESCRIPTION": "Take ÇÇÇØ ´ç½ÅÀÇ ÅÏÀÌ ½ÃÀÛÇÒ¶§. Also take #b4% more #y°ø°İ ÇÇÇØ per stack. Reduced by 1 ÅÏ¸¶´Ù.",
-		"PROPERNAME": "È­»ó"
+		"DESCRIPTION": "Take í”¼í•´ ë‹¹ì‹ ì˜ í„´ì´ ì‹œì‘í• ë•Œ. Also take #b4% more #yê³µê²© í”¼í•´ per stack. Reduced by 1 í„´ë§ˆë‹¤.",
+		"NAMES": ["í™”ìƒ"],
+		"PROPERNAME": "í™”ìƒ"
 	},
 	{
-		"NAMES": ["¸Íµ¶"],
-		"DESCRIPTION": "¸·È÷Áö ¾ÊÀº µ¥¹ÌÁö¸¦ ÀÔÇûÀ»¶§, Å¸°İ¸¶´Ù #b1 #yÁßµ¶À» ºÎ¿©ÇÕ´Ï´Ù.",
-		"PROPERNAME": "¸Íµ¶"
+		"DESCRIPTION": "ë§‰íˆì§€ ì•Šì€ ë°ë¯¸ì§€ë¥¼ ì…í˜”ì„ë•Œ, íƒ€ê²©ë§ˆë‹¤ #b1 #yì¤‘ë…ì„ ë¶€ì—¬í•©ë‹ˆë‹¤.",
+		"NAMES": ["ë§¹ë…"],
+		"PROPERNAME": "ë§¹ë…"
 	},
 	{
-		"NAMES": ["±İ¼ÓÈ­"],
-		"DESCRIPTION": "¾ò½À´Ï´Ù #y¹æ¾îµµ ´ç½ÅÀÇ ÅÏÀÌ ½ÃÀÛÇÒ¶§.",
-		"PROPERNAME": "±İ¼ÓÈ­"
+		"DESCRIPTION": "ì–»ìŠµë‹ˆë‹¤ #yë°©ì–´ë„ ë‹¹ì‹ ì˜ í„´ì´ ì‹œì‘í• ë•Œ.",
+		"NAMES": ["ê¸ˆì†í™”"],
+		"PROPERNAME": "ê¸ˆì†í™”"
 	},
 	{
+		"DESCRIPTION": "Whenever you play a ì¹´ë“œ this turn, the target ìƒì–´ë²„ë¦°ë‹¤ 1 HP.",
 		"NAMES": ["choked"],
-		"DESCRIPTION": "Whenever you play a Ä«µå this turn, the target ÀÒ¾î¹ö¸°´Ù 1 HP.",
 		"PROPERNAME": "Choked"
 	},
 	{
+		"DESCRIPTION": "#yíŒŒì›Œ: #yì˜ì°½ 1 orb on use, ì–»ìŠµë‹ˆë‹¤ a ë³´ë„ˆìŠ¤ íš¨ê³¼ on your second #yì‹œë„ˆì§€ í„´ë§ˆë‹¤.",
 		"NAMES": ["orb core", "orb_core", "orb cores", "orb_cores", "Fire_core", "Earth_core", "lightning_core", "plasma_core", "Fire_core", "Frost_core"],
-		"DESCRIPTION": "#yÆÄ¿ö: #y¿µÃ¢ 1 orb on use, ¾ò½À´Ï´Ù a º¸³Ê½º È¿°ú on your second #y½Ã³ÊÁö ÅÏ¸¶´Ù.",
 		"PROPER_NAME": "Orb Core"
 	},
 	{
-		"PROPER_NAME": "Plated Armor",
-		"NAMES": ["plated armor", "ÆÇ±İ_°©¿Ê"],
-		"DESCRIPTION": "¾ò½À´Ï´Ù #y¹æ¾îµµ ´ç½ÅÀÇ ÅÏÀÌ ³¡³¯¶§. Reduced by #b1 when receiving ¸·È÷Áö¾ÊÀº ÇÇÇØ."
+		"DESCRIPTION": "ì–»ìŠµë‹ˆë‹¤ #yë°©ì–´ë„ ë‹¹ì‹ ì˜ í„´ì´ ëë‚ ë•Œ. Reduced by #b1 when receiving ë§‰íˆì§€ì•Šì€ í”¼í•´.",
+		"NAMES": ["plated armor", "íŒê¸ˆ_ê°‘ì˜·"],
+		"PROPER_NAME": "Plated Armor"
 	},
 	{
-		"PROPER_NAME": "Enchanted Armor",
+		"DESCRIPTION": "ëª¨ë“  ê³µê²©ì— ë” ì ì€í”¼í•´ë¥¼ ì…ìŠµë‹ˆë‹¤, ìŠ¤íƒì´ ì˜¬ë¼ê°ˆìˆ˜ë¡ íš¨ìœ¨ì´ ë–¨ì–´ì§‘ë‹ˆë‹¤.",
 		"NAMES": ["enchanted armor", "enchanted_armor", "ench. armor", "ench._armor"],
-		"DESCRIPTION": "¸ğµç °ø°İ¿¡ ´õ ÀûÀºÇÇÇØ¸¦ ÀÔ½À´Ï´Ù, ½ºÅÃÀÌ ¿Ã¶ó°¥¼ö·Ï È¿À²ÀÌ ¶³¾îÁı´Ï´Ù."
+		"PROPER_NAME": "Enchanted Armor"
 	},
 	{
-		"PROPER_NAME": "Martial Artist",
+		"DESCRIPTION": "This ì¹´ë“œ's í”¼í•´ also scales with #yë¯¼ì²©.",
 		"NAMES": ["martial artist", "martial_artist"],
-		"DESCRIPTION": "This Ä«µå's ÇÇÇØ also scales with #y¹ÎÃ¸."
+		"PROPER_NAME": "Martial Artist"
 	},
 	{
-		"PROPER_NAME": "ÁÖ¹®½ÃÀüÀÚ",
-		"NAMES": ["ÁÖ¹®½ÃÀüÀÚ"],
-		"DESCRIPTION": "This Ä«µå's ÇÇÇØ also scales with #y¹ĞÁı."
+		"DESCRIPTION": "This ì¹´ë“œ's í”¼í•´ also scales with #yë°€ì§‘.",
+		"NAMES": ["ì£¼ë¬¸ì‹œì „ì"],
+		"PROPER_NAME": "ì£¼ë¬¸ì‹œì „ì"
 	},
 	{
-		"PROPER_NAME": "ÀçÀåÀü",
-		"NAMES": ["ÀçÀåÀü"],
-		"DESCRIPTION": "¹ö¸³´Ï´Ù any number of Ä«µåµé, ¹ßµ¿ÇÕ´Ï´Ù this È¿°ú that many times."
+		"DESCRIPTION": "ë²„ë¦½ë‹ˆë‹¤ any number of ì¹´ë“œë“¤, ë°œë™í•©ë‹ˆë‹¤ this íš¨ê³¼ that many times.",
+		"NAMES": ["ì¬ì¥ì „"],
+		"PROPER_NAME": "ì¬ì¥ì „"
 	},
 	{
-		"PROPER_NAME": "Lazy",
+		"DESCRIPTION": "This ì¹´ë“œ's í”¼í•´ will be delayed by a ëœë¤ number of turns.",
 		"NAMES": ["lazy"],
-		"DESCRIPTION": "This Ä«µå's ÇÇÇØ will be delayed by a ·£´ı number of turns."
+		"PROPER_NAME": "Lazy"
 	},
 	{
-		"PROPER_NAME": "Flame Barrier",
+		"DESCRIPTION": "Until your ë‹¤ìŒí„´, whenever you are attacked, deal 1 í”¼í•´ back to the ì .",
 		"NAMES": ["flame barrier", "flame_barrier"],
-		"DESCRIPTION": "Until your ´ÙÀ½ÅÏ, whenever you are attacked, deal 1 ÇÇÇØ back to the Àû."
+		"PROPER_NAME": "Flame Barrier"
 	},
 	{
-		"PROPER_NAME": "Rebound",
+		"DESCRIPTION": "Put the next ì¹´ë“œ you play this turn on top of your ë±.",
 		"NAMES": ["rebound"],
-		"DESCRIPTION": "Put the next Ä«µå you play this turn on top of your µ¦."
+		"PROPER_NAME": "Rebound"
 	},
 	{
-		"PROPER_NAME": "Throwing-Knife",
-		"NAMES": ["throwing-knife", "´Üµµ Ä«µå"],
-		"DESCRIPTION": "0-Cost #y°ø°İ which applies a ·£´ıized debuff and #y¼Ò¸ês."
+		"DESCRIPTION": "0-Cost #yê³µê²© which applies a ëœë¤ized debuff and #yì†Œë©¸s.",
+		"NAMES": ["throwing-knife", "ë‹¨ë„ ì¹´ë“œ"],
+		"PROPER_NAME": "Throwing-Knife"
 	},
 	{
-		"PROPER_NAME": "Discover",
+		"DESCRIPTION": "ê³ ë¦…ë‹ˆë‹¤ 1 of 3 ëœë¤ ì¹´ë“œë“¤ to add ë¥¼ ì–»ìŠµë‹ˆë‹¤. It costs 0 this turn.",
 		"NAMES": ["discover"],
-		"DESCRIPTION": "°í¸¨´Ï´Ù 1 of 3 ·£´ı Ä«µåµé to add ¸¦ ¾ò½À´Ï´Ù. It costs 0 this turn."
+		"PROPER_NAME": "Discover"
 	},
 	{
-		"PROPER_NAME": "ÀÏ½ÃÀûÀÎ HP",
+		"DESCRIPTION": "ì¼ì‹œì ì¸ HP ì „íˆ¬ê°€ ëë‚˜ë©´ ì‚¬ë¼ì§‘ë‹ˆë‹¤.",
 		"NAMES": ["temp. hp", "temp._hp"],
-		"DESCRIPTION": "ÀÏ½ÃÀûÀÎ HP ÀüÅõ°¡ ³¡³ª¸é »ç¶óÁı´Ï´Ù."
+		"PROPER_NAME": "ì¼ì‹œì ì¸ HP"
 	},
 	{
-		"PROPER_NAME": "Flight",
+		"DESCRIPTION": "50% ê°ì†Œëœ #yê³µê²© í”¼í•´ë¥¼ ë°›ìŠµë‹ˆë‹¤. í”¼í•´ë¥¼ ë°›ìœ¼ë©´ í„´ì´ ëë‚ ë•Œê¹Œì§€ 1 stack ê°ì†Œí•©ë‹ˆë‹¤, 0 stacksì´ ë˜ë©´ ì·¨ì†Œë©ë‹ˆë‹¤.",
 		"NAMES": ["flight"],
-		"DESCRIPTION": "50% °¨¼ÒµÈ #y°ø°İ ÇÇÇØ¸¦ ¹Ş½À´Ï´Ù. ÇÇÇØ¸¦ ¹ŞÀ¸¸é ÅÏÀÌ ³¡³¯¶§±îÁö 1 stack °¨¼ÒÇÕ´Ï´Ù, 0 stacksÀÌ µÇ¸é Ãë¼ÒµË´Ï´Ù."
+		"PROPER_NAME": "Flight"
 	},
 	{
-		"PROPER_NAME": "Flaming Weapon",
+		"DESCRIPTION": "ê³µê²©ì´ ë§‰íˆì§€ì•Šì€ í”¼í•´ë¥¼ ì¤„ë•Œë§ˆë‹¤, ë¶€ì—¬í•©ë‹ˆë‹¤ #b1 #yí™”ìƒ.",
 		"NAMES": ["flaming weapon", "flaming_weapon"],
-		"DESCRIPTION": "°ø°İÀÌ ¸·È÷Áö¾ÊÀº ÇÇÇØ¸¦ ÁÙ¶§¸¶´Ù, ºÎ¿©ÇÕ´Ï´Ù #b1 #yÈ­»ó."
+		"PROPER_NAME": "Flaming Weapon"
 	},
 	{
-		"PROPER_NAME": "Demon Form",
-		"NAMES": ["demon form", "¾Ç¸¶È­"],
-		"DESCRIPTION": "¾ò½À´Ï´Ù #yÈû at the start of ÅÏ¸¶´Ù."
+		"DESCRIPTION": "ì–»ìŠµë‹ˆë‹¤ #yí˜ at the start of í„´ë§ˆë‹¤.",
+		"NAMES": ["demon form", "ì•…ë§ˆí™”"],
+		"PROPER_NAME": "Demon Form"
 	},
 	{
-		"PROPER_NAME": "Juggernaut",
+		"DESCRIPTION": "#yë°©ì–´ë„ë¥¼ ì–»ì„ë•Œë§ˆë‹¤, ëœë¤ ì ì—ê²Œ í”¼í•´ë¥¼ ì¤ë‹ˆë‹¤.",
 		"NAMES": ["juggernaut"],
-		"DESCRIPTION": "#y¹æ¾îµµ¸¦ ¾òÀ»¶§¸¶´Ù, ·£´ı Àû¿¡°Ô ÇÇÇØ¸¦ Áİ´Ï´Ù."
+		"PROPER_NAME": "Juggernaut"
 	},
 	{
-		"PROPER_NAME": "Support ÇÇÇØ",
-		"NAMES": ["support ÇÇÇØ", "support_ÇÇÇØ"],
-		"DESCRIPTION": "°¡Àå Ã¼·ÂÀÌ ÀûÀº Àû¿¡°Ô ÅÏÁ¾·á½Ã Ãß°¡ÀûÀÎ ÇÇÇØ¸¦ ÀÔÈü´Ï´Ù."
+		"DESCRIPTION": "ê°€ì¥ ì²´ë ¥ì´ ì ì€ ì ì—ê²Œ í„´ì¢…ë£Œì‹œ ì¶”ê°€ì ì¸ í”¼í•´ë¥¼ ì…í™ë‹ˆë‹¤.",
+		"NAMES": ["support í”¼í•´", "support_í”¼í•´"],
+		"PROPER_NAME": "Support í”¼í•´"
 	},
 	{
-		"PROPER_NAME": "ÀÀ¿ø",
-		"NAMES": ["ÀÀ¿ø"],
-		"DESCRIPTION": "¼Õ¿¡ ÀÖ´Â ·£´ı Ä«µåÀÇ ÄÚ½ºÆ®¸¦ ÇÃ·¹ÀÌ ÇÏ±â Àü±îÁö 1 ³·Ãä´Ï´Ù. N¹ø ¹İº¹µË´Ï´Ù."
+		"DESCRIPTION": "ì†ì— ìˆëŠ” ëœë¤ ì¹´ë“œì˜ ì½”ìŠ¤íŠ¸ë¥¼ í”Œë ˆì´ í•˜ê¸° ì „ê¹Œì§€ 1 ë‚®ì¶¥ë‹ˆë‹¤. Në²ˆ ë°˜ë³µë©ë‹ˆë‹¤.",
+		"NAMES": ["ì‘ì›"],
+		"PROPER_NAME": "ì‘ì›"
 	},
 	{
-		"PROPER_NAME": "animator:Unique",
+		"DESCRIPTION": "ë…íŠ¹í•œ|ìœ ë‹ˆí¬ ì¹´ë“œëŠ” ë¬´ì œí•œìœ¼ë¡œ ê°•í™”ê°€ëŠ¥í•©ë‹ˆë‹¤. ë±ì—ì„œ 1ì¥ë§Œ ë³´ìœ ê°€ëŠ¥í•˜ë©°, ì¶”ê°€ì ì¸ ë™ì¼í•œ ì¹´ë“œëŠ” ì´ ì¹´ë“œë¥¼ #yê°•í™” ì‹œí‚µë‹ˆë‹¤.",
 		"NAMES": ["animator:unique"],
-		"DESCRIPTION": "À¯´ÏÅ© Ä«µå´Â ¹«Á¦ÇÑÀ¸·Î °­È­°¡´ÉÇÕ´Ï´Ù. µ¦¿¡¼­ 1Àå¸¸ º¸À¯°¡´ÉÇÏ¸ç, Ãß°¡ÀûÀÎ µ¿ÀÏÇÑ Ä«µå´Â ÀÌ Ä«µå¸¦ #y°­È­ ½ÃÅµ´Ï´Ù."
+		"PROPER_NAME": "animator:Unique"
 	}
 ]

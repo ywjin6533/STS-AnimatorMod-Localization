@@ -1,10 +1,10 @@
-
+ï»¿
 {
 	"animator:Synergies":
 	{
 		"TEXT":
 		[
-			"[Çü»óº¯È¯ÀÚ]",
+			"[í˜•ìƒë³€í™˜ì]",
 			"Elsword",
 			"Kantai Collection",
 			"Hitsugi no Chaika",
@@ -46,7 +46,7 @@
 	{
 		"TEXT":
 		[
-			"Æ®·ÎÇÇ¿Í ½Ã³ÊÁö°¡ ´ÜÀÏ ½Ã¸®Áî¸¦ Â¥µµ·Ï À¯µµÇÏÁö¸¸, ´Ù¸¥ ½Ã¸®Áî¸¦ ¼¯¾îµµ ÀüÇô »ó°ü¾ø½À´Ï´Ù, ½ÉÁö¾î µ¦¿¡ ½Ã³ÊÁö°¡ ÇÏ³ªµµ ¾ø¾îµµ ¼º°øÀûÀÏ¼ö ÀÖ½À´Ï´Ù."
+			"íŠ¸ë¡œí”¼ì™€ ì‹œë„ˆì§€ê°€ ë‹¨ì¼ ì‹œë¦¬ì¦ˆë¥¼ ì§œë„ë¡ ìœ ë„í•˜ì§€ë§Œ, ë‹¤ë¥¸ ì‹œë¦¬ì¦ˆë¥¼ ì„ì–´ë„ ì „í˜€ ìƒê´€ì—†ìŠµë‹ˆë‹¤, ì‹¬ì§€ì–´ ë±ì— ì‹œë„ˆì§€ê°€ í•˜ë‚˜ë„ ì—†ì–´ë„ ì„±ê³µì ì¼ìˆ˜ ìˆìŠµë‹ˆë‹¤."
 		]
 	},
 
@@ -54,11 +54,11 @@
 	{
 		"TEXT":
 		[
-      "fetch Ä«µåµé with the same ½Ã³ÊÁö.",
-			"Ä«µå¸¦ ¹ö¸®°í µ¿ÀÏÇÑ ¼öÀÇ Ä«µå¸¦ »Ì½À´Ï´Ù.",
-			"ÀÌ Ä«µåÀÇ È¿°ú¸¦ ±×¸¸Å­ ¸¹ÀÌ ¹ßµ¿ÇÕ´Ï´Ù.",
-			"ÀÌ¹øÀüÅõ¿¡¼­ ÀüÅõ ±×°ÍÀÇ ÄÚ½ºÆ®¸¦ °¨¼Ò½ÃÅµ´Ï´Ù.",
-			"»Ì½À´Ï´Ù # Ä«µå/s.",
+			"fetch ì¹´ë“œë“¤ with the same ì‹œë„ˆì§€.",
+			"ì¹´ë“œë¥¼ ë²„ë¦¬ê³  ë™ì¼í•œ ìˆ˜ì˜ ì¹´ë“œë¥¼ ë½‘ìŠµë‹ˆë‹¤.",
+			"ì´ ì¹´ë“œì˜ íš¨ê³¼ë¥¼ ê·¸ë§Œí¼ ë§ì´ ë°œë™í•©ë‹ˆë‹¤.",
+			"ì´ë²ˆì „íˆ¬ì—ì„œ ì „íˆ¬ ê·¸ê²ƒì˜ ì½”ìŠ¤íŠ¸ë¥¼ ê°ì†Œì‹œí‚µë‹ˆë‹¤.",
+			"ë½‘ìŠµë‹ˆë‹¤ # ì¹´ë“œ/s.",
 			"Transform into "
 		]
 	},
@@ -67,8 +67,8 @@
 	{
 		"TEXT":
 		[
-			"Move up to # Ä«µå/s to your ¹¦Áö.",
-			"¼¯½À´Ï´Ù # Ä«µå/s into your µ¦."
+			"Move up to # ì¹´ë“œ/s to your ë¬˜ì§€.",
+			"ì„ìŠµë‹ˆë‹¤ # ì¹´ë“œ/s into your ë±."
 		]
 	},
 
@@ -87,28 +87,28 @@
 			"Attack",
 			"Defend",
 			"Prepare",
-			"°­È­ all Ä«µåµé ÇÚµå¿¡ ÀÖ´Â.",
-			"!D! ÇÇÇØ¸¦ ÀÔÈü´Ï´Ù to a ·£´ı Àû !M! times.",
-			"Deal !D! Àû ÀüÃ¼¿¡°Ô ÇÇÇØ¸¦ !D! Áİ´Ï´Ù.",
-			"¾ò½À´Ï´Ù !B! ¹æ¾îµµ.",
-			"¾ò½À´Ï´Ù !M! Èû.",
-			"¾ò½À´Ï´Ù !M! ¹ÎÃ¸.",
-			"¾ò½À´Ï´Ù !M! Thorns.",
-			"ÀÀ¿ø !M!.",
-			"ºÎ¿©ÇÕ´Ï´Ù !M! ¾àÈ­ Àû ÀüÃ¼¿¡°Ô.",
-			"ºÎ¿©ÇÕ´Ï´Ù !M! Ãë¾à Àû ÀüÃ¼¿¡°Ô.",
-			"¼øÈ¯ !M! Ä«µåµé",
-			"»Ì½À´Ï´Ù !M! Ä«µåµé.",
-			"¾ò½À´Ï´Ù !M! ÀÓ½Ã._Ã¼·Â.",
-			"¾ò½À´Ï´Ù !M! ¹ĞÁı.",
-			"¾ò½À´Ï´Ù !M! Energy.",
-			"ºÎ¿©ÇÕ´Ï´Ù !M! Áßµ¶ Àû ÀüÃ¼¿¡°Ô.",
-			"ºÎ¿©ÇÕ´Ï´Ù !M! [#EFC851]È­»ó Àû ÀüÃ¼¿¡°Ô.",
-			"¾ò½À´Ï´Ù !M! ºÒ°¡Ä§",
-			"¾ò½À´Ï´Ù !M! ÀÎ°ø¹°. NL Remove all of your µğ¹öÇÁµé.",
-			"Play the top Ä«µå of your µ¦.",
-			"¿µÃ¢ !M! ·£´ı Orbs.",
-			"Play the top Ä«µå of your µ¦ µÎ¹ø."
+			"ê°•í™” all ì¹´ë“œë“¤ í•¸ë“œì— ìˆëŠ”.",
+			"!D! í”¼í•´ë¥¼ ì…í™ë‹ˆë‹¤ to a ëœë¤ ì  !M! times.",
+			"Deal !D! ì  ì „ì²´ì—ê²Œ í”¼í•´ë¥¼ !D! ì¤ë‹ˆë‹¤.",
+			"ì–»ìŠµë‹ˆë‹¤ !B! ë°©ì–´ë„.",
+			"ì–»ìŠµë‹ˆë‹¤ !M! í˜.",
+			"ì–»ìŠµë‹ˆë‹¤ !M! ë¯¼ì²©.",
+			"ì–»ìŠµë‹ˆë‹¤ !M! Thorns.",
+			"ì‘ì› !M!.",
+			"ë¶€ì—¬í•©ë‹ˆë‹¤ !M! ì•½í™” ì  ì „ì²´ì—ê²Œ.",
+			"ë¶€ì—¬í•©ë‹ˆë‹¤ !M! ì·¨ì•½ ì  ì „ì²´ì—ê²Œ.",
+			"ìˆœí™˜ !M! ì¹´ë“œë“¤",
+			"ë½‘ìŠµë‹ˆë‹¤ !M! ì¹´ë“œë“¤.",
+			"ì–»ìŠµë‹ˆë‹¤ !M! ì„ì‹œ._ì²´ë ¥.",
+			"ì–»ìŠµë‹ˆë‹¤ !M! ë°€ì§‘.",
+			"ì–»ìŠµë‹ˆë‹¤ !M! Energy.",
+			"ë¶€ì—¬í•©ë‹ˆë‹¤ !M! ì¤‘ë… ì  ì „ì²´ì—ê²Œ.",
+			"ë¶€ì—¬í•©ë‹ˆë‹¤ !M! [#EFC851]í™”ìƒ ì  ì „ì²´ì—ê²Œ.",
+			"ì–»ìŠµë‹ˆë‹¤ !M! ë¶ˆê°€ì¹¨",
+			"ì–»ìŠµë‹ˆë‹¤ !M! ì¸ê³µë¬¼. NL Remove all of your ë””ë²„í”„ë“¤.",
+			"Play the top ì¹´ë“œ of your ë±.",
+			"ì˜ì°½ !M! ëœë¤ Orbs.",
+			"Play the top ì¹´ë“œ of your ë± ë‘ë²ˆ."
 		]
 	},
 
@@ -119,15 +119,15 @@
 			"Bronze",
 			"Silver",
 			"Gold",
-			"°í¸¨´Ï´Ù this starting deck and complete act 4.",
-			"Complete act 4 with at least #yhalf of the Ä«µåµé in your deck being from this series.",
-			"Complete act 4 with at least #b8 #ydifferent Ä«µåµé from this series in your deck.",
-			"Complete act 4 with at least #b7 #ydifferent Ä«µå series in your deck. (Colorless Ä«µåµé will not count)",
-			"Complete act 4 with at least #b10 #ydifferent Ä«µå series in your deck, and without banishing any Ä«µå. (Colorless Ä«µåµé will not count)",
-			"Complete act 4 with at least #b20 Ä«µåµé in your deck, and without any duplicate.",
-			"Complete act 4 with at least #b30 Ä«µåµé in your deck, and without any duplicate.",
+			"ê³ ë¦…ë‹ˆë‹¤ this starting deck and complete act 4.",
+			"Complete act 4 with at least #yhalf of the ì¹´ë“œë“¤ in your deck being from this series.",
+			"Complete act 4 with at least #b8 #ydifferent ì¹´ë“œë“¤ from this series in your deck.",
+			"Complete act 4 with at least #b7 #ydifferent ì¹´ë“œ series in your deck. (Colorless ì¹´ë“œë“¤ will not count)",
+			"Complete act 4 with at least #b10 #ydifferent ì¹´ë“œ series in your deck, and without banishing any ì¹´ë“œ. (Colorless ì¹´ë“œë“¤ will not count)",
+			"Complete act 4 with at least #b20 ì¹´ë“œë“¤ in your deck, and without any duplicate.",
+			"Complete act 4 with at least #b30 ì¹´ë“œë“¤ in your deck, and without any duplicate.",
 			"This Trophy will be revealed once it is obtained. #yHint: Collect all 3 keys.",
-			"Defeat The Unnamed. NL Whenever you ¾ò½À´Ï´Ù this trophy, ¿µ±¸È÷ Áõ°¡ the chance to find #pUltra #pRare Ä«µåµé, higher ascension Áõ°¡s this º¸³Ê½º by a larger amount. NL NL #yThe #yUnnamed #yReign is now available to all characters.",
+			"Defeat The Unnamed. NL Whenever you ì–»ìŠµë‹ˆë‹¤ this trophy, ì˜êµ¬íˆ ì¦ê°€ the chance to find #pUltra #pRare ì¹´ë“œë“¤, higher ascension ì¦ê°€s this ë³´ë„ˆìŠ¤ by a larger amount. NL NL #yThe #yUnnamed #yReign is now available to all characters.",
 			"Platinum"
 		]
 	},
@@ -136,9 +136,9 @@
 	{
 		"TEXT":
 		[
-      "Only contains Ä«µåµé with this ½Ã³ÊÁö. WARNING: once you click on this, the other 2 Ä«µå rewards will disappear.",
-			"º¸³Ê½º À¯¹°",
-			"Cursed À¯¹°"
+			"Only contains ì¹´ë“œë“¤ with this ì‹œë„ˆì§€. WARNING: once you click on this, the other 2 ì¹´ë“œ rewards will disappear.",
+			"ë³´ë„ˆìŠ¤ ìœ ë¬¼",
+			"Cursed ìœ ë¬¼"
 		]
 	},
 
@@ -154,7 +154,7 @@
 	{
 		"TEXT":
 		[
-			"Starting Ä«µåµé: ",
+			"Starting ì¹´ë“œë“¤: ",
 			"###############",
 			"Unlocks at Level ",
 			" (You are Level ",
