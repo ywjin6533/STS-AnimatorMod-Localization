@@ -50,7 +50,7 @@
 	},
 	"animator:ExquisiteBloodVial":
 	{
-		"DESCRIPTIONS": ["각각의 전투 시작마다, 회복 #b", " HP. NL NL #y[Special #yRelic] NL #pRight #pClick at a rest site to start a special fight, winning it will 발동합니다 this 유물's true 효과. NL NL You can click this after using a rest site option, Act 3 deck level suggested.", "At the start of 각각의 전투, 얻습니다 #b", " #yRegeneration and #b", " Max HP. NL NL Lose all #yBlood #yVials, whenever you would 얻습니다 a #yBlood #yVial, improve this 유물's 효과 instead."],
+		"DESCRIPTIONS": ["At the start of 각각의 전투, 회복 #b", " HP. NL NL #y[Special #yRelic] NL #pRight #pClick at a rest site to start a special fight, winning it will 발동합니다 this 유물's true 효과. NL NL You can click this after using a rest site option, Act 3 deck level suggested.", "At the start of 각각의 전투, 얻습니다 #b", " #yRegeneration and #b", " Max HP. NL NL Lose all #yBlood #yVials, whenever you would 얻습니다 a #yBlood #yVial, improve this 유물's 효과 instead."],
 		"FLAVOR": "A vial containing the blood of a pure and elder vampire.",
 		"NAME": "Exquisite Blood Vial"
 	},
@@ -96,7 +96,7 @@
 		"FLAVOR": "Shocking Truth!",
 		"NAME": "Old Coffin"
 	},
-	"animator:PurgingStone_Cards":
+	"animator:PurgingStone_cards":
 	{
     "DESCRIPTIONS": [ "미래에 나타나는 #ynormal 보상과 상점에서 카드를 삭제할수 있습니다. 각각의 전투가 끝날때마다 #b1 사용횟수를 얻고, #b2 사용횟수를 Elites or Bosses 를 처치하고 얻습니다, 최대 #b", " 횟수까지 저장가능합니다. NL #pRight #pClick 삭제시킨 카드들을 볼수 있습니다." ],
 		"FLAVOR": "Humans are helpless against curses, and can only redirect their influence.",

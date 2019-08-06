@@ -148,7 +148,7 @@
     "DESCRIPTION": "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.",
     "NAME": "Cthulhu"
   },
-  "animator:Darkness": {
+  "animator:암흑": {
     "DESCRIPTION": "얻습니다 !M! 판금_갑옷. 피해를 입을때마다, 강화 !M! 랜덤 카드 ([#EFC851]*[#FFFFFF]).",
     "EXTENDED_DESCRIPTION": [ "* Note", "It will prioritize 카드들 핸드에 있는." ],
     "NAME": "암흑",
@@ -260,7 +260,7 @@
   },
   "animator:ElricEdward": {
     "DESCRIPTION": "!D! 피해를 입힙니다. NL 순환 1 카드. NL 당신이 순환시킨 카드기반의[#EFC851]보너스 [#EFC851]효과를 발동시킵니다.",
-    "EXTENDED_DESCRIPTION": [ "보너스 효과", "#y공격: 영창 1 #y번개 NL #y스킬: 영창 1 #yFrost NL #y파워: 영창 1 #yEarth" ],
+    "EXTENDED_DESCRIPTION": [ "보너스 효과", "#y공격: 영창 1 #y번개 NL #y스킬: 영창 1 #y냉기 NL #y파워: 영창 1 #y대지" ],
     "NAME": "Edward Elric"
   },
   "animator:Elsword": {
@@ -532,7 +532,7 @@
   "animator:Melzalgald": {
     "DESCRIPTION": "형상변환자. NL !D! 피해를 입힙니다. NL Split into 3 [#EFC851]Attacks. 소멸.",
     "NAME": "Melzalgald",
-    "UPGRADE_DESCRIPTION": "형상변환자. NL !D! 피해를 입힙니다. NL Split into 3 강화된 [#EFC851]Attacks. 소멸."
+    "UPGRADE_DESCRIPTION": "형상변환자. NL !D! 피해를 입힙니다. NL Split into 3 Upgraded [#EFC851]Attacks. 소멸."
   },
   "animator:MelzalgaldAlt_1": {
     "DESCRIPTION": "형상변환자. NL !D! 피해를 입힙니다. NL 얻습니다 !M! 힘. NL 소멸.",
@@ -596,15 +596,15 @@
     "DESCRIPTION": "영창 !SV! 랜덤 Orb. On your second 시너지 턴마다, Discover 1 카드.",
     "NAME": "Chaos Core"
   },
-  "animator:OrbCore_Dark": {
+  "animator:OrbCore_darkness": {
     "DESCRIPTION": "영창 !SV! 암흑. NL On your second 시너지 턴마다, 뽑습니다 !M! 카드들, then 카드 1장을 버립니다.",
     "NAME": "암흑 Core"
   },
-  "animator:OrbCore_Fire": {
+  "animator:OrbCore_불": {
     "DESCRIPTION": "영창 !SV! 불. NL On your second 시너지 턴마다, 부여합니다 !M! 화상 적 전체에게.",
     "NAME": "불 Core"
   },
-  "animator:OrbCore_Frost": {
+  "animator:OrbCore_냉기": {
     "DESCRIPTION": "영창 !SV! 냉기. NL On your second 시너지 턴마다, 얻습니다 !M! 판금_갑옷.",
     "NAME": "냉기 Core"
   },
@@ -616,7 +616,7 @@
     "DESCRIPTION": "영창 !SV! Plasma. NL On your second 시너지 턴마다, 얻습니다 !M! 임시._체력.",
     "NAME": "Plasma Core"
   },
-  "animator:Overheat": {
+  "animator:과열": {
     "DESCRIPTION": "뽑습니다 2 카드들. NL 입는다 !M! 피해. NL ALL copies of this NL 카드 얻습니다 1 피해 NL this 전투.",
     "NAME": "과열"
   },
@@ -631,7 +631,7 @@
   },
   "animator:Pride": {
     "DESCRIPTION": "형상변환자. [#EFC851]Pride. NL [#EFC851]영창 !M! [#EFC851]암흑. NL 부여합니다 !SV! Constricted. 소멸.",
-    "EXTENDED_DESCRIPTION": [ "Pride", "Until your 다음턴, when you would 입는다 막히지않은 피해, your rightmost #yDarkness Orb 잃어버린다 that much 피해 instead." ],
+    "EXTENDED_DESCRIPTION": [ "Pride", "Until your 다음턴, when you would 입는다 막히지않은 피해, your rightmost #ydarkness Orb 잃어버린다 that much 피해 instead." ],
     "NAME": "Pride"
   },
   "animator:Priestess": {
@@ -642,7 +642,7 @@
   "animator:QuestionMark": {
     "DESCRIPTION": "When 뽑습니다n, turns into a copy of a 랜덤 카드 and gains 형상변환자.",
     "NAME": "Question Mark",
-    "UPGRADE_DESCRIPTION": "When 뽑습니다n, turns into an 강화된 copy of a 랜덤 카드 and gains 형상변환자."
+    "UPGRADE_DESCRIPTION": "When 뽑습니다n, turns into an Upgraded copy of a 랜덤 카드 and gains 형상변환자."
   },
   "animator:Raven": {
     "DESCRIPTION": "!D! 피해를 입힙니다. NL 부여합니다 !M! 약화. NL 뽑습니다 your lowest 피해 [#EFC851]Attack.",
