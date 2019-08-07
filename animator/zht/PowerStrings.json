@@ -62,7 +62,7 @@
 	},
 	"animator:DarknessPower":
 	{
-		"DESCRIPTIONS": ["當你受到傷害時升級 #b", " 張隨機牌，以手牌為優先"],
+		"DESCRIPTIONS": ["下 #b", " 次受傷時， 在抽牌堆裡添加一張 腎上腺素 。"],
 		"NAME": "拉拉蒂娜"
 	},
 	"animator:DelayedHealPower":
@@ -159,6 +159,11 @@
 	{
 		"DESCRIPTIONS": ["在你的回合開始時循環 ", " 張牌。"],
 		"NAME": "簿記"
+	},
+	"animator:HandSizePower":
+	{
+	"DESCRIPTIONS": ["你的手牌上限為#b", "。"],
+	"NAME": "手牌上限"
 	},
 	"animator:HealingCrystalPower":
 	{

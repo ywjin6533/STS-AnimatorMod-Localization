@@ -62,7 +62,7 @@
 	},
 	"animator:DarknessPower":
 	{
-		"DESCRIPTIONS": ["Quand vous subissez des dégats, amélioré #b", " des cartes aléatoires, en priorisant votre main."],
+		"DESCRIPTIONS": ["La prochaine #b", " fois que vous recevez des dégâts, ajoutez 1 #yAdrénaline à votre pioche."],
 		"NAME": "Dustiness Ford Lalatina"
 	},
 	"animator:DelayedHealPower":
@@ -158,7 +158,12 @@
 	"animator:GuildGirlPower":
 	{
 		"DESCRIPTIONS": ["Au début de votre tour Recycler #b", " cartes."],
-		"NAME": "Bookkeeping"
+		"NAME": "Comptabilité"
+	},
+	"animator:HandSizePower":
+	{
+		"DESCRIPTIONS": ["Quantité maximale de cartes dans ta main: #b", "."],
+		"NAME": "Qté. max. de cartes dans la main"
 	},
 	"animator:HealingCrystalPower":
 	{
