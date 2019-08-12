@@ -8,7 +8,7 @@
 	},
 	"animator:AncientMedallion":
 	{
-		"DESCRIPTIONS": ["在每場戰鬥開始時, 回复 #b", " 生命值。 NL 獲得時, #y升級 2張隨機的牌並且升級1張你選擇的牌。 If the chosen card can be upgraded multiple times, it will be upgraded twice."],
+		"DESCRIPTIONS": ["在每場戰鬥開始時, 回复 #b", " 生命值。 NL 獲得時, #y升級 2張隨機的牌並且升級1張你選擇的牌。 如果被選中的牌可以被多次升級，則升級此牌2次。"],
 		"FLAVOR": "...",
 		"NAME": "上古挂墜"
 	},

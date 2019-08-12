@@ -8,7 +8,7 @@
 	},
 	"animator:AncientMedallion":
 	{
-		"DESCRIPTIONS": ["Au début de chaque combat, soignez #b", " PV. NL À l'obtention, #yAméliorez 2 cartes aléatoires et une autre carte au choix. If the chosen card can be upgraded multiple times, it will be upgraded twice."],
+		"DESCRIPTIONS": ["Au début de chaque combat, soignez #b", " PV. NL À l'obtention, #yAméliorez 2 cartes aléatoires et une autre carte au choix. Si la carte choisie peut être améliorée plusieurs fois, elle sera alors améliorée 2 fois."],
 		"FLAVOR": "...",
 		"NAME": "Médaillon Ancien"
 	},
@@ -134,7 +134,7 @@
 	},
 	"animator:TheMissingPiece":
 	{
-		"DESCRIPTIONS": ["Tous les #b", " combats, recevez carte récompenses améliorer. Vous aurez plus de chance de trouvez une série si vous avez plusieurs cartes d'une série."],
+		"DESCRIPTIONS": ["Tous les #b", " combats, recevez en récompense des cartes améliorées. Vous aurez plus de chance de trouvez une série si vous avez plusieurs cartes de la telle série."],
 		"FLAVOR": "Quelle est cette chose?",
 		"NAME": "La pièce manquante"
 	},
