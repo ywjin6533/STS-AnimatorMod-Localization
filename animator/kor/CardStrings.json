@@ -471,7 +471,7 @@
 	},
 	"animator:GuildGirl":
 	{
-		"DESCRIPTION": "At the start of 턴마다, 순환 1 카드. NL When a 토큰이 아닌 NL 적 dies, NL 얻습니다 !M! [#EFC851]Gold.",
+		"DESCRIPTION": "각 턴이 시작할때마다, 순환 1 카드. NL When a 토큰이 아닌 NL 적 dies, NL 얻습니다 !M! [#EFC851]Gold.",
 		"NAME": "'Guild Girl'"
 	},
 	"animator:Guren":
@@ -564,9 +564,9 @@
 	},
 	"animator:Kaijin":
 	{
-		"DESCRIPTION": "At the end of 턴마다, 보존 1 카드 and 증가 its 피해 and 방어도 by !M! this 전투.",
+		"DESCRIPTION": "각 턴이 종료될때마다, 보존 1 카드 and 증가 its 피해 and 방어도 by !M! this 전투.",
 		"NAME": "Kaijin",
-		"UPGRADE_DESCRIPTION": "선천성. At the end of 턴마다, 보존 1 카드 and 증가 its 피해 and 방어도 by !M! this 전투."
+		"UPGRADE_DESCRIPTION": "선천성. 각 턴이 종료될때마다, 보존 1 카드 and 증가 its 피해 and 방어도 by !M! this 전투."
 	},
 	"animator:Kazuma":
 	{
@@ -897,7 +897,7 @@
 	},
 	"animator:Shiro":
 	{
-		"DESCRIPTION": "Cost 1 less for 각각의 시너지 you activated this turn. 얻습니다 [E] at the start of 턴마다.",
+		"DESCRIPTION": "Cost 1 less for 각각의 시너지 you activated this turn. 얻습니다 [E] 각 턴이 시작할때마다.",
 		"NAME": "Shiro"
 	},
 	"animator:Shizu":
@@ -924,7 +924,7 @@
 	"animator:Sloth":
 	{
 		"DESCRIPTION": "[#EFC851]Sloth. NL 얻습니다 !B! 방어도. NL !D! 피해를 입힙니다. NL 부여합니다 !M! 취약.",
-		"EXTENDED_DESCRIPTION": ["Sloth", "At the start of 턴마다, 증가 this 카드's #y방어도 and 피해 by #b1 for 각각의 Orb Slot you have. On use, halve this 카드's 피해 and #y방어도."],
+		"EXTENDED_DESCRIPTION": ["Sloth", "각 턴이 시작할때마다, 증가 this 카드's #y방어도 and 피해 by #b1 for 각각의 Orb Slot you have. On use, halve this 카드's 피해 and #y방어도."],
 		"NAME": "Sloth"
 	},
 	"animator:Sonic":

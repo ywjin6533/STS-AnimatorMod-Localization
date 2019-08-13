@@ -80,7 +80,7 @@
 		]
 	},
 
-	"animator:Specialeffects":
+	"animator:SpecialEffects":
 	{
 		"TEXT":
 		[
@@ -142,7 +142,7 @@
 		]
 	},
 
-	"animator:cardselect":
+	"animator:CardSelect":
 	{
 		"TEXT":
 		[

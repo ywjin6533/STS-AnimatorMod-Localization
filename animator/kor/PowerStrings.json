@@ -32,7 +32,7 @@
 	},
 	"animator:BurningPower":
 	{
-		"DESCRIPTIONS": ["Take #b", " 피해 at the end of turn. Receive #b", "% more #y공격 피해."],
+		"DESCRIPTIONS": ["Take #b", " 피해 턴이 끝날때. Receive #b", "% more #y공격 피해."],
 		"NAME": "화상"
 	},
 	"animator:ChlammyZellPower":
@@ -52,7 +52,7 @@
 	},
 	"animator:DarknessCubePower":
 	{
-		"DESCRIPTIONS": ["At the end of 턴마다, 부여합니다 #b", " #yConstricted to the 적."],
+		"DESCRIPTIONS": ["각 턴이 종료될때마다, 부여합니다 #b", " #yConstricted to the 적."],
 		"NAME": "Darkness Cube"
 	},
 	"animator:DarkWispPower":
@@ -117,7 +117,7 @@
 	},
 	"animator:FireCubePower":
 	{
-		"DESCRIPTIONS": ["At the end of 턴마다, ALL allies 얻습니다 #b", " #y힘 and #y화상."],
+		"DESCRIPTIONS": ["각 턴이 종료될때마다, ALL allies 얻습니다 #b", " #y힘 and #y화상."],
 		"NAME": "Fire Cube"
 	},
 	"animator:FireWispPower":
@@ -137,7 +137,7 @@
 	},
 	"animator:FrostCubePower":
 	{
-		"DESCRIPTIONS": ["At the end of 턴마다, All allies 얻습니다 #b", " #yPlated #yArmor."],
+		"DESCRIPTIONS": ["각 턴이 종료될때마다, All allies 얻습니다 #b", " #yPlated #yArmor."],
 		"NAME": "Frost Cube"
 	},
 	"animator:FrostWispPower":
@@ -147,7 +147,7 @@
 	},
 	"animator:GazelDwargonPower":
 	{
-		"DESCRIPTIONS": ["Maintain half your 방어도 at the start of 턴마다, whenever you play an #y공격, 얻습니다 #b", " 방어도."],
+		"DESCRIPTIONS": ["Maintain half your 방어도 각 턴이 시작할때마다, whenever you play an #y공격, 얻습니다 #b", " 방어도."],
 		"NAME": "Gazel Dwargon"
 	},
 	"animator:GeassPower":
@@ -167,7 +167,7 @@
 	},
 	"animator:HealingCubePower":
 	{
-		"DESCRIPTIONS": ["At the end of 턴마다, ALL allies 회복 #b", " HP."],
+		"DESCRIPTIONS": ["각 턴이 종료될때마다, ALL allies 회복 #b", " HP."],
 		"NAME": "Healing Cube"
 	},
 	"animator:HealingWispPower":
@@ -187,12 +187,12 @@
 	},
 	"animator:InfinitePower":
 	{
-		"DESCRIPTIONS": ["- Before taking 막히지않은 피해: Gains that much #yEnchanted #yArmor. NL - When receiving a debuff: Gains that much #yRegeneration. NL - When the 적 receives a buff: Gains that much #y힘. NL - Lose half of these stats at the end of 턴마다."],
+		"DESCRIPTIONS": ["- Before taking 막히지않은 피해: Gains that much #yEnchanted #yArmor. NL - When receiving a debuff: Gains that much #yRegeneration. NL - When the 적 receives a buff: Gains that much #y힘. NL - Lose half of these stats 각 턴이 종료될때마다."],
 		"NAME": "Infinite Power"
 	},
 	"animator:KaijinPower":
 	{
-		"DESCRIPTIONS": ["At the end of 턴마다, #y보존 a 카드 and 증가 its 피해 and 방어도 by #b", " this 전투."],
+		"DESCRIPTIONS": ["각 턴이 종료될때마다, #y보존 a 카드 and 증가 its 피해 and 방어도 by #b", " this 전투."],
 		"NAME": "Kaijin"
 	},
 	"animator:LightningCrystalPower":
@@ -202,7 +202,7 @@
 	},
 	"animator:LightningCubePower":
 	{
-		"DESCRIPTIONS": ["At the end of 턴마다, deal #b", " #y관통 피해 to the 적."],
+		"DESCRIPTIONS": ["각 턴이 종료될때마다, deal #b", " #y관통 피해 to the 적."],
 		"NAME": "번개 Cube"
 	},
 	"animator:LightningWispPower":
@@ -317,7 +317,7 @@
 	},
 	"animator:TheUnnamedHatPower":
 	{
-		"DESCRIPTIONS": ["At the start of 턴마다, all allies 회복 #b", " HP. NL NL On death, 부여합니다 #yEntangle to the opponent."],
+		"DESCRIPTIONS": ["각 턴이 시작할때마다, all allies 회복 #b", " HP. NL NL On death, 부여합니다 #yEntangle to the opponent."],
 		"NAME": "H4T"
 	},
 	"animator:UltimateCrystalPower":
@@ -327,7 +327,7 @@
 	},
 	"animator:UltimateCubePower":
 	{
-		"DESCRIPTIONS": ["At the end of 턴마다, gains #b", " 랜덤 Buff. NL NL Explodes after #b", " turns, dealing #b", " 피해."],
+		"DESCRIPTIONS": ["각 턴이 종료될때마다, gains #b", " 랜덤 Buff. NL NL Explodes after #b", " turns, dealing #b", " 피해."],
 		"NAME": "Ultimate Cube"
 	},
 	"animator:UltimateWispPower":
@@ -346,12 +346,12 @@
 	},
 	"animator:YukoShionjiPower":
 	{
-		"DESCRIPTIONS": ["Reveal the top 카드 of your 덱, NL you may #pLeft-Click to 뽑습니다 it ( #b", " use/s ), or #pRight-Click to 버립니다 it ( #b", " use/s)."],
+		"DESCRIPTIONS": ["덱의 가장 위에있는 카드를 보여줍니다, NL #pLeft-Click 을 통해 그 카드를 뽑거나 ( #b", " use/s ), #pRight-Click 을 통해 그 카드를 버릴 수 있습니다 ( #b", " use/s)."],
 		"NAME": "Yuko Shionji"
 	},
 	"animator:VitalityPower":
 	{
-		"DESCRIPTIONS": ["Whenever you are attacked this turn, 얻습니다 #b", " #y일시적인 #HP."],
+    "DESCRIPTIONS": [ "이 턴에 공격할 때 마다, #b", " #y일시적인 #HP 를 얻습니다." ],
 		"NAME": "Vitality"
 	}
 }
