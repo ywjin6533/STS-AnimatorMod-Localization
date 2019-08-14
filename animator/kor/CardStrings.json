@@ -7,7 +7,7 @@
 	},
 	"animator:AcuraShin":
 	{
-		"DESCRIPTION": "적 전체에게 피해를 !D! 줍니다, 그후 NL !M!중독을 부여합니다. NL 얻습니다 1 [#EFC851]중독 [#EFC851]가산.",
+		"DESCRIPTION": "적 전체에게 피해를 !D! 줍니다, 그후 !M! 중독을 부여합니다. NL 1 [#EFC851]중독 [#EFC851]가산 을 얻습니다.",
 		"EXTENDED_DESCRIPTION": ["중독 가산", "중독을 부여할때 마다, 타격마다 추가적인 1 중독을 부여합니다."],
 		"NAME": "Shin"
 	},
@@ -19,9 +19,9 @@
 	},
 	"animator:Add":
 	{
-		"DESCRIPTION": "!M! 마법부여._갑옷를 얻습니다. 어디에 있든지 1카드를NL 소멸시킵니다.  Orb_Core로 대체합니다. NL 휘발성. 소멸.",
+		"DESCRIPTION": "!M! 마법부여._갑옷 을 얻습니다. 어디에 있든지 1카드를NL 소멸시킵니다.  Orb_Core로 대체합니다. NL 휘발성. 소멸.",
 		"NAME": "Add",
-		"UPGRADE_DESCRIPTION": "!M! 마법부여._갑옷를 얻습니다. 어디에 있든지 1카드를NL 소멸시킵니다. Orb_Core로 대체합니다. NL 소멸."
+		"UPGRADE_DESCRIPTION": "!M! 마법부여._갑옷 을 얻습니다. 어디에 있든지 1카드를NL 소멸시킵니다. Orb_Core로 대체합니다. NL 소멸."
 	},
 	"animator:Ain":
 	{
@@ -351,7 +351,7 @@
 	"animator:Entoma":
 	{
 		"DESCRIPTION": "[#EFC851]Unique. NL !D! 피해를 입힙니다. NL 부여합니다 !M! 중독. [#EFC851]허기.",
-		"EXTENDED_DESCRIPTION": ["허기", " 턴마다 #b1 피해가 감소합니다. 만약 토큰이 아닌 적을 처치하면, 영구히 강화 this 카드 and 얻습니다 #b2 Max HP."],
+    "EXTENDED_DESCRIPTION": [ "허기", " 턴마다 #b1 피해가 감소합니다. 만약 토큰이 아닌 적을 처치하면, 이 카드를 영구히 강화하고 #b2 Max HP 를 얻습니다." ],
 		"NAME": "Entoma"
 	},
 	"animator:EntouJyuu":
@@ -487,9 +487,9 @@
 	},
 	"animator:Hakurou":
 	{
-		"DESCRIPTION": "Martial_Artist. !D! 피해를 입힙니다 !M! times. NL [#EFC851]뽑습니다n: 얻습니다 !SV! 일시적인 민첩.",
+		"DESCRIPTION": "Martial_Artist. !D! 피해를 입힙니다 !M! times. NL [#EFC851]이카드를뽑았을때: 얻습니다 !SV! 일시적인 민첩.",
 		"NAME": "Hakurou",
-		"UPGRADE_DESCRIPTION": "Martial_Artist. !D! 피해를 입힙니다 !M! times. 뽑습니다 and 강화 a 카드. NL [#EFC851]뽑습니다n: 얻습니다 !SV! 일시적인 민첩."
+		"UPGRADE_DESCRIPTION": "Martial_Artist. !D! 피해를 입힙니다 !M! times. 뽑습니다 and 강화 a 카드. NL [#EFC851]이카드를뽑았을때: 얻습니다 !SV! 일시적인 민첩."
 	},
 	"animator:Hero":
 	{
@@ -536,19 +536,19 @@
 	},
 	"animator:Illya":
 	{
-		"DESCRIPTION": "얻습니다 1 취약. NL Play the highest 피해 [#EFC851]Attack from your 덱. 소멸.",
+		"DESCRIPTION": "1 취약 을 받습니다. NL 덱에 잇는 가장 높은 패히량을 가진 [#EFC851]Attack 을 사용합니다. 소멸.",
 		"NAME": "Illya",
-		"UPGRADE_DESCRIPTION": "얻습니다 1 취약. NL Play the highest 피해 [#EFC851]Attack from your 덱."
+		"UPGRADE_DESCRIPTION": "1 취약을 받습니다. NL 덱에 잇는 가장 높은 패히량을 가진 [#EFC851]Attack 을 사용합니다."
 	},
 	"animator:ItamiYouji":
 	{
-		"DESCRIPTION": "뽑습니다 !M! 카드들. NL 시너지: 뽑습니다 1 NL 추가적인 카드. NL !D! 피해를 입힙니다 각 턴마다 뽑습니다n.",
+		"DESCRIPTION": "뽑습니다 !M! 카드들. NL 시너지: 뽑습니다 1 NL 추가적인 카드. NL !D! 피해를 입힙니다 각 턴마다 이카드를뽑았을때.",
 		"NAME": "Itami Youji"
 	},
 	"animator:IzunaHatsuse":
 	{
 		"DESCRIPTION": "얻습니다 !B! 방어도. NL 부여합니다 1 약화. NL [#EFC851]Blood [#EFC851]Destruction.",
-		"EXTENDED_DESCRIPTION": ["Blood Destruction", "최대체력이 25%보다 낮을 동안, this 카드 will turn into a special 0-cost #y공격.", "!D! 피해를 입힙니다 두번. NL !M! 체력을 회복합니다."],
+		"EXTENDED_DESCRIPTION": ["Blood Destruction", "체력이 25%보다 낮을 경우, 이 카드는 특별한 0-cost #y공격 카드로 바뀝니다.", "!D! 피해를 두번 입힙니다. NL !M! 체력을 회복합니다."],
 		"NAME": "Izuna Hatsuse",
 		"UPGRADE_DESCRIPTION": "얻습니다 !B! 방어도. NL 부여합니다 1 약화. NL [#EFC851]Blood [#EFC851]Destruction+."
 	},
@@ -698,22 +698,22 @@
 	},
 	"animator:Mitsurugi":
 	{
-		"DESCRIPTION": "If the 적 intends to attack, !D! 피해를 입힙니다. 죽음의메아리: NL 얻습니다 !M! 힘.",
+		"DESCRIPTION": "만약 적이 공격할 의지가 있다면, !D! 피해를 입힙니다. 죽음의메아리: NL 얻습니다 !M! 힘.",
 		"EXTENDED_DESCRIPTION": ["The 적 does not intend to attack."],
 		"NAME": "Mitsurugi"
 	},
 	"animator:MumenRider":
 	{
-		"DESCRIPTION": "!D! 피해를 입힙니다. NL 소멸. Returns to your hand after a 랜덤 number of turns.",
+		"DESCRIPTION": "!D! 피해를 입힙니다. NL 소멸. 몇 턴후에 손으로 되돌아옵니다.",
 		"NAME": "Mumen Rider",
 		"UPGRADE_DESCRIPTION": "!D! 피해를 입힙니다. NL 카드를 한장 뽑습니다. 소멸. Returns 를 얻습니다 after a 랜덤 number of turns."
 	},
 	"animator:Nanami":
 	{
-		"DESCRIPTION": "[#EFC851]Counter the 적 intent. NL [#c6be6f]This [#c6be6f]text [#c6be6f]will [#c6be6f]change [#c6be6f]while [#c6be6f]targeting [#c6be6f]an [#c6be6f]적.",
+		"DESCRIPTION": "적의 의도를 [#EFC851]카운터 칩니다. NL [#c6be6f]This [#c6be6f]text [#c6be6f]will [#c6be6f]change [#c6be6f]while [#c6be6f]targeting [#c6be6f]an [#c6be6f]적.",
 		"EXTENDED_DESCRIPTION": ["Deal # 피해.", "얻습니다 # 방어도.", "얻습니다 # 힘.", "부여합니다 # 약화.", "부여합니다 # 취약.", "Stun the 적.", "영창 # 랜덤 Orb/s.", "UNUSED", "UNUSED", "부여합니다 # 중독.", "얻습니다 [E] .", "얻습니다 # 임시._체력.", "뽑습니다 # 카드들."],
 		"NAME": "Nanami",
-		"UPGRADE_DESCRIPTION": "Strongly [#EFC851]Counter the 적 intent. NL [#c6be6f]This [#c6be6f]text [#c6be6f]will [#c6be6f]change [#c6be6f]while [#c6be6f]targeting [#c6be6f]an [#c6be6f]적."
+		"UPGRADE_DESCRIPTION": "적의 의도를 강하게 [#EFC851]카운터 칩니다. NL [#c6be6f]This [#c6be6f]text [#c6be6f]will [#c6be6f]change [#c6be6f]while [#c6be6f]targeting [#c6be6f]an [#c6be6f]적."
 	},
 	"animator:NarberalGamma":
 	{
@@ -775,20 +775,20 @@
 	"animator:Pride":
 	{
 		"DESCRIPTION": "형상변환자. [#EFC851]Pride. NL [#EFC851]영창 !M! [#EFC851]암흑. NL 부여합니다 !SV! Constricted. 소멸.",
-		"EXTENDED_DESCRIPTION": ["Pride", "Until your 다음턴, when you would 입는다 막히지않은 피해, your rightmost #yDarkness Orb 잃어버린다 that much 피해 instead."],
+		"EXTENDED_DESCRIPTION": ["Pride", "다음 내턴이 시작될때까지, 막히지않은 피해를 입을때, 가장 오른쪽의 #yDarkness Orb 가 그 피해만큼 대신 잃어버린다."],
 		"NAME": "Pride"
 	},
 	"animator:Priestess":
 	{
-		"DESCRIPTION": "얻습니다 !B! 임시._체력. This number is affected by 방어도 modifiers.",
+		"DESCRIPTION": "얻습니다 !B! 임시._체력. 이 수치는 방어도 증가율에 영향을 받습니다.",
 		"EXTENDED_DESCRIPTION": ["* Note", "Affected by 방어도 modifiers."],
 		"NAME": "'Priestess'"
 	},
 	"animator:QuestionMark":
 	{
-		"DESCRIPTION": "When 뽑습니다n, turns into a copy of a 랜덤 카드 and gains 형상변환자.",
+		"DESCRIPTION": "이 카드를 뽑았을때, 랜덤 카드로 복사되고 형상변환자 를 얻습니다.",
 		"NAME": "Question Mark",
-		"UPGRADE_DESCRIPTION": "When 뽑습니다n, turns into an 강화된 copy of a 랜덤 카드 and gains 형상변환자."
+		"UPGRADE_DESCRIPTION": "이 카드를 뽑았을때, 강화된 랜덤 카드로 복사되고 형상변환자 를 얻습니다."
 	},
 	"animator:Raven":
 	{
@@ -813,7 +813,7 @@
 	},
 	"animator:RoryMercury":
 	{
-		"DESCRIPTION": "!D! 피해를 입힙니다 to a 랜덤 적 두번. [#EFC851]뽑습니다n[]: 얻습니다 !M! 일시적인 힘.",
+		"DESCRIPTION": "!D! 피해를 입힙니다 to a 랜덤 적 두번. [#EFC851]이카드를뽑았을때[]: 얻습니다 !M! 일시적인 힘.",
 		"NAME": "Rory Mercury"
 	},
 	"animator:Rose":
@@ -833,22 +833,22 @@
 	},
 	"animator:Saitama":
 	{
-		"DESCRIPTION": "Whenever this 카드 is played, 증가 its cost and change its 효과 for this 전투.",
-		"EXTENDED_DESCRIPTION": ["뽑습니다 !M! 카드들. NL 얻습니다 !SV! 일시적인 민첩.", "Prevent the next time you would lose HP.", "얻습니다 !M! 힘. NL 얻습니다 !B! 방어도.", "!D! 피해를 입힙니다 NL !M! times.", "Remove 불가침. NL Deal !D! NL 관통 피해. NL Stun the 적."],
+		"DESCRIPTION": "이 카드가 사용될때마다, 이 카드의 코스트를 증가시키고 이 카드의 효과를 이 전투동안 바꿉니다.",
+		"EXTENDED_DESCRIPTION": ["뽑습니다 !M! 카드들. NL 얻습니다 !SV! 일시적인 민첩.", "다음 한번 HP를 잃는것을 방지합니다.", "얻습니다 !M! 힘. NL 얻습니다 !B! 방어도.", "!D! 피해를 입힙니다 NL !M! times.", "Remove 불가침. NL Deal !D! NL 관통 피해. NL Stun the 적."],
 		"NAME": "Saitama",
 		"UPGRADE_DESCRIPTION": "선천성. NL Whenever this 카드 is played, 증가 its cost and change its 효과 for this 전투."
 	},
 	"animator:Scar":
 	{
 		"DESCRIPTION": "휘발성. Deal !D! 관통 피해. NL [#EFC851]Dragon's[] [#EFC851]Pulse[].",
-		"EXTENDED_DESCRIPTION": ["Dragon's Pulse", "If this kills an 적, #yPurge this 카드 and 영구히 #y강화 a 랜덤 카드 in your deck"],
+    "EXTENDED_DESCRIPTION": [ "Dragon's Pulse", "이 카드로 적을 죽이면, 이 카드를 #y제외 시키고 덱에있는 카드 중 하나를 랜덤으로 영구히 #y강화 합니다" ],
 		"NAME": "Scar"
 	},
-	"animator:Sebas":
-	{
-		"DESCRIPTION": "얻습니다 !B! 방어도. NL 얻습니다 임시._체력 equal NL to the total cost NL of 카드들 in your NL hand ( !SV! ). 소멸.",
-		"NAME": "Sebas"
-	},
+  "animator:Sebas": 
+  {
+    "DESCRIPTION": "얻습니다 !B! 방어도. NL 손에 있는 모든 코스트를 NL 합한 수치와 동일한 수치 ( !SV! ) 의 NL 임시._체력 을 얻습니다. 소멸.",
+    "NAME": "Sebas"
+  },
 	"animator:SeriousSaitama":
 	{
 		"DESCRIPTION": "Stun ALL enemies. NL 얻습니다 X 힘. NL 제외.",
@@ -897,19 +897,19 @@
 	},
 	"animator:Shiro":
 	{
-		"DESCRIPTION": "Cost 1 less for 각각의 시너지 you activated this turn. 얻습니다 [E] 각 턴이 시작할때마다.",
+		"DESCRIPTION": "이 턴에 카드를 시너지 시킬때마다 이 카드의 코스트가 1씩 낮아집니다. 매 턴이 시작할때마다 [E] 를 얻습니다.",
 		"NAME": "Shiro"
 	},
 	"animator:Shizu":
 	{
-		"DESCRIPTION": "!D! 피해를 입힙니다. 얻습니다 Flaming_Weapon. NL If this kills an 적, NL 회복 for its 화상 amount.",
+		"DESCRIPTION": "!D! 피해를 입힙니다. 얻습니다 Flaming_Weapon. NL 이 카드로 적을 처치할시, NL 타겟의 화상 수치만큼 회복합니다.",
 		"NAME": "Shizu"
 	},
 	"animator:Shuna":
 	{
-		"DESCRIPTION": "뽑습니다 !M! 카드. NL 얻습니다 !B! 방어도. NL [#EFC851]뽑습니다n: NL 얻습니다 !B! 방어도.",
+		"DESCRIPTION": "뽑습니다 !M! 카드. NL 얻습니다 !B! 방어도. NL [#EFC851]이카드를뽑았을때: NL 얻습니다 !B! 방어도.",
 		"NAME": "Shuna",
-		"UPGRADE_DESCRIPTION": "뽑습니다 !M! 카드들. NL 얻습니다 !B! 방어도. NL [#EFC851]뽑습니다n: NL 얻습니다 !B! 방어도."
+		"UPGRADE_DESCRIPTION": "뽑습니다 !M! 카드들. NL 얻습니다 !B! 방어도. NL [#EFC851]이카드를뽑았을때: NL 얻습니다 !B! 방어도."
 	},
 	"animator:SilverFang":
 	{
@@ -934,14 +934,14 @@
 	},
 	"animator:Sora":
 	{
-		"DESCRIPTION": "고릅니다 and execute NL !M! custom 효과들. NL 시너지: 고릅니다 1 NL 추가적인 효과.",
+		"DESCRIPTION": "!M! 개의 custom 효과들을 NL 고르고 발동합니다 . NL 시너지: 1개의 추가적인 효과를 고릅니다.",
 		"NAME": "Sora"
 	},
-	"animator:Souei":
-	{
-		"DESCRIPTION": "부여합니다 !M! 중독. NL Trigger the 중독 of ALL enemies. If any of them dies, 얻습니다 불가침.",
-		"NAME": "Souei"
-	},
+  "animator:Souei": 
+  {
+    "DESCRIPTION": "!M! 중독 을 부여합니다. NL 모든 적의 중독 을 발동합니다. 그들 중 하나라도 죽으면, 불가침을 얻습니다.",
+    "NAME": "Souei"
+  },
 	"animator:Spearman":
 	{
 		"DESCRIPTION": "Deal !D! 관통 피해. Deal 추가적인 피해 equal to your 방어도. Lose ALL 방어도.",
@@ -1111,13 +1111,13 @@
 	},
 	"animator:Veldora":
 	{
-		"DESCRIPTION": "얻습니다 !SV! 밀집. NL 발현 모든 orbs !M! times. [#EFC851]뽑습니다n: 영창 2 랜덤 orbs.",
+		"DESCRIPTION": "얻습니다 !SV! 밀집. NL 발현 모든 orbs !M! times. [#EFC851]이카드를뽑았을때: 영창 2 랜덤 orbs.",
 		"NAME": "Veldora"
 	},
 	"animator:Vesta":
 	{
-		"DESCRIPTION": "뽑습니다 1 카드. NL Research an [#EFC851]Elixir, NL it will be completed after !M! turns. NL 소멸.",
-		"EXTENDED_DESCRIPTION": ["Elixir", "0-cost #y스킬 with a variety of different 효과들."],
+		"DESCRIPTION": "뽑습니다 1 카드. NL [#EFC851]Elixir 을 연구합니다, NL !M! 턴후에 완료됩니다. NL 소멸.",
+    "EXTENDED_DESCRIPTION": [ "Elixir", "여러 종류의 효과들를 가진 0-cost #y스킬 카드." ],
 		"NAME": "Vesta"
 	},
 	"animator:Vesta_Elixir_0":
@@ -1152,25 +1152,25 @@
 	},
 	"animator:Wiz":
 	{
-		"DESCRIPTION": "소멸 1 카드, 고릅니다 a 카드 from your 소멸 pile and add a copy 를 얻습니다 ([#EFC851]*[#FFFFFF]). 제외.",
-		"EXTENDED_DESCRIPTION": ["* Note", "You cannot retrieve another Wiz from your 소멸 pile."],
+		"DESCRIPTION": "소멸 1 카드, 소멸존에 있는 카드 중 한장을 고릅니다 그 복사본을 얻습니다 ([#EFC851]*[#FFFFFF]). 제외.",
+		"EXTENDED_DESCRIPTION": ["* Note", "소멸존에 있는 다른 Wiz는 검색되지 않습니다."],
 		"NAME": "Wiz",
-		"UPGRADE_DESCRIPTION": "소멸 1 카드, 고릅니다 a 카드 from your 소멸 pile and add a copy 를 얻습니다 ([#EFC851]*[#FFFFFF]). 제외 after !M! uses."
+		"UPGRADE_DESCRIPTION": "소멸 1 카드, 소멸존에 있는 카드 중 한장을 고릅니다 그 복사본을 얻습니다 ([#EFC851]*[#FFFFFF]). !M! 번 사용후 제외됩니다."
 	},
 	"animator:YaoHaDucy":
 	{
-		"DESCRIPTION": "Deal !D! 적 전체에게 피해를 !D! 줍니다. All copies of this 카드 얻습니다 !M! 피해 this 전투.",
+		"DESCRIPTION": "Deal !D! 적 전체에게 피해를 !D! 줍니다. 이 카드의 모든 복사본은 이번전투에서 !M! 피해를 얻습니다.",
 		"NAME": "Yao Ha Ducy"
 	},
 	"animator:YukoShionji":
 	{
-		"DESCRIPTION": "Reveal the top 카드 of your 덱. 턴마다 한번, you may 뽑습니다 it and/or 버립니다 it ([#EFC851]*[#FFFFFF]).",
-		"EXTENDED_DESCRIPTION": ["* Note", "You may #pLeft-Click on the 카드 to 뽑습니다 it or #pRight-Click on it to 버립니다 it."],
+		"DESCRIPTION": "덱의 가장 위에있는 카드를 보여줍니다. 턴마다 한번, 그것을 뽑거나 버릴수 있습니다 ([#EFC851]*[#FFFFFF]).",
+		"EXTENDED_DESCRIPTION": ["* Note", "#pLeft-Click 하여 카드를 뽑습니다 #pRight-Click 하여 카드를 버립니다."],
 		"NAME": "Yuuko Shionji"
 	},
 	"animator:YunYun":
 	{
-		"DESCRIPTION": "Deal !D! 적 전체에게 피해를 !D! 줍니다. Costs 1 more for 각각의 other [#EFC851]Attack 핸드에 있는.",
+		"DESCRIPTION": "Deal !D! 적 전체에게 피해를 !D! 줍니다. 핸드에 있는 다른 [#EFC851]Attack 마다 1코스트씩 증가됩니다.",
 		"NAME": "YunYun"
 	},
 	"animator:Yusarin":
@@ -1188,7 +1188,7 @@
 	},
 	"animator:ZankiKiguchi":
 	{
-		"DESCRIPTION": "Martial_Artist. NL !D! 피해를 입힙니다. NL 시너지: Convert !M! 방어도 to 1 민첩.",
+		"DESCRIPTION": "Martial_Artist. NL !D! 피해를 입힙니다. NL 시너지: !M! 방어도 를 1 민첩으로 전환합니다.",
 		"NAME": "Zanki Kiguchi"
 	},
 	"animator:Zero":
