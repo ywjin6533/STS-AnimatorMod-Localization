@@ -88,7 +88,7 @@
 	"animator:EnchantedArmorPower":
 	{
 		"DESCRIPTIONS": ["Take #b", "% less 피해."],
-		"NAME": "Enchanted Armor"
+		"NAME": "마법부여 갑옷"
 	},
 	"animator:EntouJyuuPower":
 	{
@@ -312,7 +312,7 @@
 	},
 	"animator:TheUnnamedCultistPower":
 	{
-		"DESCRIPTIONS": ["While there are other allies alive, gains #b", " Enchanted Armor for 각각의."],
+		"DESCRIPTIONS": ["While there are other allies alive, gains #b", " 마법부여 갑옷 for 각각의."],
 		"NAME": "Unnamed Cultist"
 	},
 	"animator:TheUnnamedHatPower":

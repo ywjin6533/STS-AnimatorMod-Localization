@@ -25,9 +25,9 @@
 		"PROPERNAME": "Mark"
 	},
 	{
-		"DESCRIPTION": "If the target has less than #b50% HP, deal double 피해.",
-		"NAMES": ["heartseeker"],
-		"PROPERNAME": "Heartseeker"
+		"DESCRIPTION": "선택한 대상의 체력이 #b50% HP 보다 작다면, 두배의 피해를 입힙니다.",
+		"NAMES": ["심장추적자"],
+		"PROPERNAME": "심장추적자"
 	},
 	{
 		"DESCRIPTION": "대상의 #y방어도 와 #가시 를 무시합니다.",
@@ -40,7 +40,7 @@
 		"PROPERNAME": "부활"
 	},
   {
-    "DESCRIPTION": "#b1 줄입니다 이 카드 is #y사용됨 또는 #y버려진 때 마다, 만약 #b0 이 되면, 효과를 발동하고 리셋시킵니다.",
+    "DESCRIPTION": "#b1 줄입니다 이 카드가 #y사용됨 또는 #y버려진 때 마다, 만약 #b0 이 되면, 효과를 발동하고 리셋시킵니다.",
     "NAMES": [ "cooldown" ],
     "PROPERNAME": "Cooldown"
   },
@@ -56,7 +56,7 @@
 	},
 	{
 		"DESCRIPTION": "어떤 카드와도 시너지 됩니다.",
-		"NAMES": ["형상변환자", "shapeshift"],
+		"NAMES": ["형상변환자", "형상변환자"],
 		"PROPERNAME": "형상변환자"
 	},
 	{
@@ -70,9 +70,9 @@
 		"PROPERNAME": "Augmentable"
 	},
   {
-    "DESCRIPTION": "피해를 받을때, #y방어도 를 얻습니다. #y방어도 gain increases as this power is triggered. 당신의 턴이 시작할때 리셋됩니다.",
-    "NAMES": [ "malleable" ],
-    "PROPERNAME": "Malleable"
+    "DESCRIPTION": "체력을 잃을시 #y방어도 를 얻습니다. 이 효과를 발휘할 때 마다 얻는 #y방어도 가 증가합니다. 내 턴이 시작할때 리셋됩니다.",
+    "NAMES": [ "탄성" ],
+    "PROPERNAME": "탄성"
   },
   {
     "DESCRIPTION": "각 턴이 종료될때마다 피해를 받습니다.",
@@ -94,11 +94,11 @@
 		"NAMES": ["부스트"],
 		"PROPERNAME": "부스트"
 	},
-	{
-		"DESCRIPTION": "Orb: 얻습니다 일시적인 #가시 while #y영창되면. 3턴후 자동으로 #y발현 전체 적들에게 랜덤하게 분산하여 피해를 입힙니다.",
-		"NAMES": ["대지", "대지+"],
-		"PROPERNAME": "대지"
-	},
+  {
+    "DESCRIPTION": "Orb: 일시적인 #가시 를 얻습니다  while #y영창되면. 3턴후 자동으로 #y발현 전체 적들에게 랜덤하게 분산하여 피해를 입힙니다.",
+    "NAMES": [ "대지", "대지+" ],
+    "PROPERNAME": "대지"
+  },
 	{
 		"DESCRIPTION": "Orb: #y관통 적 전체에게 피해를 !D! 줍니다.",
 		"NAMES": ["air", "air+"],
@@ -135,19 +135,19 @@
 		"PROPERNAME": "Choked"
 	},
 	{
-		"DESCRIPTION": "#y파워: #y영창 1 orb on use, 턴마다 두번째 #y시너지 마다 보너스 효과를 얻습니다.",
+		"DESCRIPTION": "#y파워: #y영창 1 orb on use, 매 턴 두번째 #y시너지 마다 보너스 효과를 얻습니다.",
 		"NAMES": ["orb core", "orb_core", "orb cores", "orb_cores", "Fire_core", "Earth_core", "lightning_core", "plasma_core", "Fire_core", "Frost_core"],
 		"PROPER_NAME": "Orb Core"
 	},
   {
     "DESCRIPTION": "당신의 턴이 끝날때 #y방어도 를 얻습니다. 막히지 않은 피해를 받을때마다 #b1 씩 감소합니다.",
-    "NAMES": [ "plated armor", "판금_갑옷" ],
-    "PROPER_NAME": "Plated Armor"
+    "NAMES": [ "판금 갑옷", "판금_갑옷" ],
+    "PROPER_NAME": "판금 갑옷"
   },
 	{
 		"DESCRIPTION": "모든 공격에 더 적은피해를 입습니다, 스택이 올라갈수록 효율이 떨어집니다.",
-		"NAMES": ["enchanted armor", "enchanted_armor", "ench. armor", "ench._armor"],
-		"PROPER_NAME": "Enchanted Armor"
+		"NAMES": ["마법부여 갑옷", "마법부여_갑옷", "마법부여. 갑옷", "마법부여._갑옷"],
+		"PROPER_NAME": "마법부여 갑옷"
 	},
 	{
 		"DESCRIPTION": "이 카드의 피해는 #y민첩 을 통해서도 증가됩니다.",
@@ -186,12 +186,12 @@
 	},
 	{
 		"DESCRIPTION": "손에 더할 랜덤 카드 3장중 1장을 고릅니다. 이턴에 0 코스트가 됩니다.",
-		"NAMES": ["discover"],
-		"PROPER_NAME": "Discover"
+		"NAMES": ["발견"],
+		"PROPER_NAME": "발견"
 	},
 	{
 		"DESCRIPTION": "일시적인 HP 전투가 끝나면 사라집니다.",
-		"NAMES": ["temp. hp", "temp._hp"],
+		"NAMES": ["임시. 체력", "임시._체력"],
 		"PROPER_NAME": "일시적인 HP"
 	},
 	{
