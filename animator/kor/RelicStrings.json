@@ -8,7 +8,7 @@
 	},
 	"animator:AncientMedallion":
 	{
-    "DESCRIPTIONS": [ "휙득시, 2장의 랜덤 카드와 한장의 선택 카드를  #y강화 합니다. 전투를 시작할때 마다, #b", " HP를 회복합니다." ],
+    "DESCRIPTIONS": [ "전투를 시작할때 마다, #b", " HP를 회복합니다. 휙득시, 2장의 랜덤 카드와 한장의 선택 카드를  #y강화 합니다. 선택한 카드가 여러번 강화될 수 있으면, 2번 강화합니다." ],
 		"FLAVOR": "...",
 		"NAME": "Ancient Medallion"
 	},

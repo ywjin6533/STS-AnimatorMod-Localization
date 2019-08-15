@@ -181,7 +181,7 @@
 	},
 	{
 		"DESCRIPTION": "랜덤 디버프를 부여하고 #y소멸 하는 0-코스트 #y공격 카드",
-		"NAMES": ["throwing-knife", "단도 카드"],
+		"NAMES": ["throwing-knife", "throwing knife"],
 		"PROPER_NAME": "Throwing-Knife"
 	},
 	{

@@ -62,7 +62,7 @@
 	},
 	"animator:DarknessPower":
 	{
-		"DESCRIPTIONS": ["피해를 입을때마다 강화 #b", " 랜덤 카드/s, prioritizing those 핸드에 있는."],
+		"DESCRIPTIONS": ["다음번 피해를 #b", " 번 입을때, 1개의 [#EFC851]Adrenaline 을 덱에 추가합니다."],
 		"NAME": "Dustiness Ford Lalatina"
 	},
 	"animator:DelayedHealPower":
@@ -287,7 +287,7 @@
 	},
 	"animator:ShiroPower":
 	{
-		"DESCRIPTIONS": ["At the start of you turn 얻습니다 #b", " energy."],
+		"DESCRIPTIONS": ["내 턴이 시작할때 #b", " energy 를 얻습니다."],
 		"NAME": "Shiro"
 	},
 	"animator:SonicPower":
@@ -317,7 +317,7 @@
 	},
 	"animator:TheUnnamedHatPower":
 	{
-		"DESCRIPTIONS": ["각 턴이 시작할때마다, all allies 회복 #b", " HP. NL NL On death, 부여합니다 #yEntangle to the opponent."],
+		"DESCRIPTIONS": ["각 턴이 끝날때마다, 모든 아군이 #b", " HP 를 회복합니다. NL NL 죽을때, 적에게 #yEntangle 를 부여합니다."],
 		"NAME": "H4T"
 	},
 	"animator:UltimateCrystalPower":
