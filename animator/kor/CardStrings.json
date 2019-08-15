@@ -148,7 +148,7 @@
 	"animator:Chris":
 	{
 		"DESCRIPTION": "!D! 피해를 입힙니다. NL 훔침 !M! [#EFC851]Gold ([#EFC851]*[#FFFFFF]). NL Cooldown !SV! : 뽑습니다 a [#EFC851]0-Cost[] 카드.",
-		"EXTENDED_DESCRIPTION": ["* Note", "당신은 보스에게 최대 50#yGold 훔칠수 있고, an elite에게서 25 #yGold , 또는 10 #yGold 그 외 토큰이 아닌 적들."],
+		"EXTENDED_DESCRIPTION": ["* Note", "당신은 보스에게 최대 50 #yGold 훔칠수 있고, an elite에게서 25 #yGold , 또는 10 #yGold 그 외 토큰이 아닌 적들."],
 		"NAME": "Chris"
 	},
   "animator:Chung": 
@@ -466,7 +466,7 @@
 	"animator:Greed":
 	{
 		"DESCRIPTION": "얻습니다 !SV! 판금_갑옷. NL 얻습니다 !M! 금속화. NL 얻습니다 3 탄성. NL [#EFC851]Greed[].",
-		"EXTENDED_DESCRIPTION": ["Greed", "이카드가 전투에서 생성된 카드가 아닐때, 얻습니다 #b8 #yGold when played. This 카드 costs 1 less energy for every #b100 #yGold you have."],
+		"EXTENDED_DESCRIPTION": ["Greed", "이카드가 전투에서 생성된 카드가 아닐때, 얻습니다 #b8 #yGold when played. 이 카드는 지니고 있는 #b100 #yGold 마다 1코스트씩 비용이 감소합니다."],
 		"NAME": "Greed"
 	},
 	"animator:GuildGirl":
@@ -587,7 +587,7 @@
 	"animator:KrulTepes":
 	{
 		"DESCRIPTION": "!D! 피해를 입힙니다. NL 부여합니다 !M! 약화. NL If this 카드 kills an Elite or Boss, 얻습니다 a NL [#EFC851]Blood [#EFC851]Vial ([#EFC851]*[#FFFFFF]).",
-		"EXTENDED_DESCRIPTION": ["* Note", "The 유물 will drop at the end of 전투. You will only receive 1 유물 in multi-elite 전투s. 여러개의 Blood Vials를 중첩할수 있다."],
+		"EXTENDED_DESCRIPTION": ["* Note", "유물은 전투가 끝날때 드롭됩니다. 여러명의 엘리트들이 뜨는 전투라도 한개의 유물만 받을수 있습니다. 여러개의 Blood Vials를 중첩할수 있습니다."],
 		"NAME": "Krul Tepes"
 	},
 	"animator:Kuribayashi":
@@ -802,9 +802,9 @@
 	},
 	"animator:Rimuru":
 	{
-		"DESCRIPTION": "Whenever you play a 카드, turn this 카드 into a copy of it.",
+		"DESCRIPTION": "카드를 낼때마다, 이 카드를 그 카드로 복사합니다.",
 		"NAME": "Rimuru",
-		"UPGRADE_DESCRIPTION": "보존. Whenever you play a 카드, turn this 카드 into a copy of it."
+		"UPGRADE_DESCRIPTION": "보존. 카드를 낼때마다, 이 카드를 그 카드로 복사합니다."
 	},
 	"animator:RinTohsaka":
 	{
