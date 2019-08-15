@@ -31,7 +31,7 @@
 		"NAME": "Cereal Box"
 	},
   "animator:CursedBlade": {
-    "DESCRIPTIONS": [ "막히지않은 피해를 줄때마다,#b2 HP를 #y회복 합니다. NL 영구히 최대 HP의 #r절반 을 #r잃어버립니다 . 최대 HP를 증가시키는 효과는 절반의 효과로 감소됩니다.", "막히지않은 피해를 줄때마다, #y회복 #b2 HP. NL 만약 HP가 가득차 있다면, 당신의 턴이 끝날때 #b3 일시적인 HP를 얻습니다 . NL 영구히 최대 HP의 #r절반 을 #r잃어버립니다 . 최대 HP를 증가시키는 효과는 절반의 효과로 감소됩니다." ],
+    "DESCRIPTIONS": [ "막히지않은 피해를 줄때마다, #b2 HP를 #y회복 합니다. NL 영구히 최대 HP의 #r절반 을 #r잃어버립니다 . 최대 HP를 증가시키는 효과는 절반의 효과로 감소됩니다.", "막히지않은 피해를 줄때마다, #y회복 #b2 HP. NL 만약 HP가 가득차 있다면, 당신의 턴이 끝날때 #b3 일시적인 HP를 얻습니다 . NL 영구히 최대 HP의 #r절반 을 #r잃어버립니다 . 최대 HP를 증가시키는 효과는 절반의 효과로 감소됩니다." ],
     "FLAVOR": "It draws 힘 from the blood of its user, truly fitting for a vampire.",
     "NAME": "Cursed Blade"
   },
