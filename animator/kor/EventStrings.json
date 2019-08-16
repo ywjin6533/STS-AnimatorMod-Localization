@@ -29,7 +29,7 @@
 			"[알아본다]",
 			"[수락] #gObtain #gRelic",
 			"[수락] #gRemove #g{0} #g카드들, #gobtain #g{1} #g랜덤 #gUpgraded #g카드들.",
-			"[수락] #gUpgrade #ga #gsingle #gcard #g{0} #gtimes."
+			"[수락] #gRecover #gyour #gstarting #grelics. #rL잃어버린다 #r{0} #rMax #rHP."
 		]
 	},
 	"animator:TheMaskedTraveler3":
