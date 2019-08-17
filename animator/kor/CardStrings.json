@@ -507,9 +507,9 @@
     "NAME": "Layla"
   },
   "animator:LeleiLaLalena": {
-    "DESCRIPTION": "랜덤 카드를 버립니다: NL [#EFC851]영창 !M! 냉기. NL 시너지: 모든 적에게 !SV! 약화 를 부여합니다.",
+    "DESCRIPTION": "랜덤 카드를 버립니다: NL [#EFC851]영창 !M! 냉기. NL 시너지: 모든 적에게 1 약화 를 부여합니다.",
     "NAME": "Lelei La Lalena",
-    "UPGRADE_DESCRIPTION": "카드를 버립니다: NL [#EFC851]영창 !M! 냉기. NL 시너지: 모든 적에게 !SV! 약화 를 부여합니다."
+    "UPGRADE_DESCRIPTION": "카드를 버립니다: NL [#EFC851]영창 !M! 냉기. NL 시너지: 모든 적에게 1 약화 를 부여합니다."
   },
   "animator:Lelouch": {
     "DESCRIPTION": "핸드에 있는 모든 [#EFC851]Attacks 카드를 소멸시킵니다. 모든 적들은 이번턴 자해합니다.. NL 제외. ([#EFC851]*[])",
