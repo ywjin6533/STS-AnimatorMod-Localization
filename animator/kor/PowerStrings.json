@@ -20,7 +20,7 @@
     "NAME": "Boros"
   },
   "animator:BozesPower": {
-    "DESCRIPTIONS": [ "카드가 #y시너지 될때마다, #b", " #y판금 #y갑옷 을 얻습니다." ],
+    "DESCRIPTIONS": [ "카드가 #y시너지 되면, #b", " #y판금 #y갑옷 을 얻습니다." ],
     "NAME": "Bozes Co Palesti"
   },
   "animator:BurningPower": {
