@@ -40,9 +40,9 @@
 		"PROPERNAME": "부활"
 	},
   {
-    "DESCRIPTION": "#b1 줄입니다 이 카드가 #y사용됨 또는 #y버려진 때 마다, 만약 #b0 이 되면, 효과를 발동하고 리셋시킵니다.",
-    "NAMES": [ "cooldown" ],
-    "PROPERNAME": "Cooldown"
+    "DESCRIPTION": "이 카드가 #y사용됨 또는 #y버려진 때 마다 #b1 줄입니다, 만약 #b0 이 되면, 효과를 발동하고 리셋시킵니다.",
+    "NAMES": [ "차징" ],
+    "PROPERNAME": "차징"
   },
 	{
 		"DESCRIPTION": "#b1 턴동안 행동할수 없습니다.",
@@ -76,8 +76,8 @@
   },
   {
     "DESCRIPTION": "각 턴이 종료될때마다 피해를 받습니다.",
-    "NAMES": [ "constricted" ],
-    "PROPERNAME": "Constricted"
+    "NAMES": [ "주박" ],
+    "PROPERNAME": "주박"
   },
 	{
 		"DESCRIPTION": "이 카드가 수동으로 버려지거나 순환됬을때 발동합니다.",
@@ -101,8 +101,8 @@
   },
 	{
 		"DESCRIPTION": "Orb: #y관통 적 전체에게 피해를 !D! 줍니다.",
-		"NAMES": ["air", "air+"],
-		"PROPERNAME": "Air"
+		"NAMES": ["바람", "바람+"],
+		"PROPERNAME": "바람"
 	},
   {
     "DESCRIPTION": "Orb:  #y화상 을 부여하고 가장 많은 체력을 가진 적에게 피해를 입힙니다.",
@@ -151,28 +151,28 @@
 	},
 	{
 		"DESCRIPTION": "이 카드의 피해는 #y민첩 을 통해서도 증가됩니다.",
-		"NAMES": ["martial artist", "martial_artist"],
-		"PROPER_NAME": "Martial Artist"
+		"NAMES": ["무술가", "무술가"],
+		"PROPER_NAME": "무술가"
 	},
 	{
 		"DESCRIPTION": "이 카드의 피해는 #y밀집 을 통해서도 증가됩니다.",
-		"NAMES": ["주문시전자"],
-		"PROPER_NAME": "주문시전자"
+		"NAMES": ["마법사"],
+		"PROPER_NAME": "마법사"
 	},
   {
     "DESCRIPTION": "지정한 숫자의 카드들 버립니다, 이 효과를 그 만큼 발동합니다.",
-    "NAMES": [ "재장전" ],
-    "PROPER_NAME": "재장전"
+    "NAMES": [ "전탄발사" ],
+    "PROPER_NAME": "전탄발사"
   },
 	{
 		"DESCRIPTION": "이 카드의 피해는 랜덤턴 이후에 줍니다.",
-		"NAMES": ["lazy"],
-		"PROPER_NAME": "Lazy"
+		"NAMES": ["게으름"],
+		"PROPER_NAME": "게으름"
 	},
 	{
 		"DESCRIPTION": "다음턴이 될때까지, 공격을 받을때마다, 1피해를 적에게 되돌려줍니다.",
-		"NAMES": ["flame barrier", "flame_barrier"],
-		"PROPER_NAME": "Flame Barrier"
+		"NAMES": ["화염 장벽", "화염_장벽"],
+		"PROPER_NAME": "화염 장벽"
 	},
 	{
 		"DESCRIPTION": "다음 플레이하는 카드를 덱 맨위로 되돌립니다.",
@@ -181,8 +181,8 @@
 	},
 	{
 		"DESCRIPTION": "랜덤 디버프를 부여하고 #y소멸 하는 0-코스트 #y공격 카드",
-		"NAMES": ["throwing-knife", "throwing knife"],
-		"PROPER_NAME": "Throwing-Knife"
+		"NAMES": ["강화-단도", "강화단도"],
+		"PROPER_NAME": "강화-단도"
 	},
 	{
 		"DESCRIPTION": "손에 더할 랜덤 카드 3장중 1장을 고릅니다. 이턴에 0 코스트가 됩니다.",
@@ -196,8 +196,8 @@
 	},
 	{
 		"DESCRIPTION": "50% 감소된 #y공격 피해를 받습니다. 피해를 받으면 턴이 끝날때까지 1 stack 감소합니다, 0 stacks이 되면 취소됩니다.",
-		"NAMES": ["flight"],
-		"PROPER_NAME": "Flight"
+		"NAMES": ["비행"],
+		"PROPER_NAME": "비행"
 	},
   {
     "DESCRIPTION": "공격이 막히지않은 피해를 줄때마다, #b1 #y화상 을 부여합니다.",
@@ -206,8 +206,8 @@
   },
   {
     "DESCRIPTION": "각 턴이 시작할때마다 #y힘 을 얻습니다.",
-    "NAMES": [ "demon form", "악마화" ],
-    "PROPER_NAME": "Demon Form"
+    "NAMES": [ "악마 화", "악마화" ],
+    "PROPER_NAME": "악마 화"
   },
 	{
 		"DESCRIPTION": "#y방어도 를 얻을때마다, 랜덤 적에게 피해를 줍니다.",
@@ -216,8 +216,8 @@
 	},
 	{
 		"DESCRIPTION": "가장 체력이 적은 적에게 턴종료시 추가적인 피해를 입힙니다.",
-		"NAMES": ["support 피해", "support_피해"],
-		"PROPER_NAME": "Support 피해"
+		"NAMES": ["약자도태", "약자_도태"],
+		"PROPER_NAME": "약자도태"
 	},
 	{
 		"DESCRIPTION": "손에 있는 랜덤 카드의 코스트를 플레이 하기 전까지 1 낮춥니다. N번 반복됩니다.",

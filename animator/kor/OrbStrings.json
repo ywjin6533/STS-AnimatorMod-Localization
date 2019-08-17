@@ -13,7 +13,7 @@
 	},
 	"animator:Air":
 	{
-		"NAME": "Air",
+		"NAME": "바람",
 		"DESCRIPTION":
 		[
 			"#yPassive: 턴이 끝날때, deal #b", " #y관통 적 전체에게 피해를 !D! 줍니다. NL #y발현: 뽑습니다 #b",
@@ -22,7 +22,7 @@
 	},
 	"animator:Fire":
 	{
-		"NAME": "Fire",
+		"NAME": "불",
 		"DESCRIPTION":
 		[
 			"#yPassive: 턴이 끝날때, deal #b", " 피해 to the highest health 적 그리고 적용시킵니다 #b",

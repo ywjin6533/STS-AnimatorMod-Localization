@@ -1,6 +1,6 @@
 ﻿{
   "animator:AinzPower": {
-    "DESCRIPTIONS": [ "당신의 턴이 시작할때 발동합니다 1 of 4 랜덤 효과들 #b", " time/s." ],
+    "DESCRIPTIONS": [ "당신의 턴이 시작할때, 4가지 랜덤 [#EFC851]효과들 중 하나를 #b", " 번 부여합니다." ],
     "NAME": "Ainz Ooal Gown"
   },
   "animator:ArcherPower": {
@@ -12,15 +12,15 @@
     "NAME": "Azriel"
   },
   "animator:BiyorigoPower": {
-    "DESCRIPTIONS": [ "Every 4 #yAttacks played, 얻습니다 #b", " 힘 and #b", " 민첩." ],
+    "DESCRIPTIONS": [ "공격카드 4장을 사용할때마다, 얻습니다 !M! 힘 and 1 민첩." ],
     "NAME": "Bito Kanzashi"
   },
   "animator:BorosPower": {
-    "DESCRIPTIONS": [ "All #yPowers are played 두번." ],
+    "DESCRIPTIONS": [ "모든 #yPowers 는 두번 사용됩니다." ],
     "NAME": "Boros"
   },
   "animator:BozesPower": {
-    "DESCRIPTIONS": [ "When a 카드 #ySynergizes, 얻습니다 #b", " #yPlated #yArmor." ],
+    "DESCRIPTIONS": [ "카드가 #y시너지 될때마다, #b", " #y판금 #y갑옷 을 얻습니다." ],
     "NAME": "Bozes Co Palesti"
   },
   "animator:BurningPower": {
@@ -60,11 +60,11 @@
     "NAME": "Demiurge"
   },
   "animator:EarthenThornsPower": {
-    "DESCRIPTIONS": [ "When attacked, deal #b", " 피해 back." ],
+    "DESCRIPTIONS": [ "공격 당하면, #b", " 피해를 되돌려줍니다." ],
     "NAME": "Earthen Thorns"
   },
   "animator:EmiyaShirouPower": {
-    "DESCRIPTIONS": [ "Whenever an 적 잃어버린다 its 방어도 this turn, 얻습니다 #b1 energy and 뽑습니다 #b1 랜덤 #y공격." ],
+    "DESCRIPTIONS": [ "이번 턴에 적이 방어도를 모두 잃어버릴때마다, #b1 energy 를 얻고 #b1 랜덤 #y공격 을 뽑습니다." ],
     "NAME": "Unlimited Blade Works"
   },
   "animator:EnchantedArmorPower": {
@@ -220,8 +220,8 @@
     "NAME": "중독 가산"
   },
   "animator:PridePower": {
-    "DESCRIPTIONS": [ "Until your 다음턴, when you would take 막히지않은 피해, your rightmost #yDarkness Orb 잃어버린다 that much 피해 instead." ],
-    "NAME": "Pride"
+    "DESCRIPTIONS": [ "다음 내턴이 시작될때까지, 막히지않은 피해를 입을때, 가장 오른쪽의 #yDarkness Orb 가 그 피해만큼 대신 잃어버린다." ],
+    "NAME": "그림자의양식"
   },
   "animator:RoryMercuryPower": {
     "DESCRIPTIONS": [ "Your #yAttacks this turn deal #b", "% more 피해." ],
