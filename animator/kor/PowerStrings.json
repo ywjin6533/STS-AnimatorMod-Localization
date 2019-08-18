@@ -12,7 +12,7 @@
     "NAME": "Azriel"
   },
   "animator:BiyorigoPower": {
-    "DESCRIPTIONS": [ "공격카드 4장을 사용할때마다, 얻습니다 !M! 힘 and 1 민첩." ],
+    "DESCRIPTIONS": [ "4 #yAttacks 카드 4장 사용할때마다, #b", " 힘 과 #b", " 민첩 을 얻습니다." ],
     "NAME": "Bito Kanzashi"
   },
   "animator:BorosPower": {

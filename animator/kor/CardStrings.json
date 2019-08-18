@@ -1,7 +1,8 @@
 ﻿{
   "animator:AcuraAkari": {
-    "DESCRIPTION": "카드를 1장 버립니다:  강화단도 를 !SV! 장 얻습니다. NL !M! 맹독을 턴 끝날때까지 얻습니다.",
-    "NAME": "Akari"
+    "DESCRIPTION": "!M! 맹독 을 턴 끝날때까지 얻습니다. NL 카드를 1장 버립니다:  강화단도 를 !SV! 장 얻습니다.",
+    "NAME": "Akari",
+    "UPGRADE_DESCRIPTION": "!M! 맹독 을 턴 끝날때까지 얻습니다. NL 카드를 1장 버립니다: 강화된 강화단도 를 !SV! 장 얻습니다."
   },
   "animator:AcuraShin": {
     "DESCRIPTION": "적 전체에게 피해를 !D! 줍니다, 그후 !M! 중독을 부여합니다. NL 1 [#EFC851]중독 [#EFC851]가산 을 얻습니다.",
@@ -682,7 +683,7 @@
   },
   "animator:Saitama": {
     "DESCRIPTION": "이 카드가 사용될때마다, 이 카드의 코스트를 증가시키고 이 카드의 효과를 이 전투동안 바꿉니다.",
-    "EXTENDED_DESCRIPTION": [ "!M! 개의 카드를 뽑습니다. NL 얻습니다 !SV! 일시적인 민첩.", "다음 한번 HP를 잃는것을 방지합니다.", "얻습니다 !M! 힘. NL !B! 방어도를 얻습니다.", "!D! 피해를 입힙니다 NL !M! times.", "불가침 을 제거합니다. NL Deal !D! NL 관통 피해. NL Stun the 적." ],
+    "EXTENDED_DESCRIPTION": [ "!M! 개의 카드를 뽑습니다. NL 얻습니다 !SV! 일시적인 민첩.", "다음 한번 HP를 잃는것을 방지합니다.", "얻습니다 !M! 힘. NL !B! 방어도를 얻습니다.", "!D! 피해를 !M! 번 입힙니다.", "불가침 을 제거합니다. NL Deal !D! NL 관통 피해. NL 적을 기절시킵니다." ],
     "NAME": "Saitama",
     "UPGRADE_DESCRIPTION": "선천성. NL 이 카드가 사용될때마다, 이번 전투에서 이 카드의 코스트를 증가시키고 효과를 바꿉니다."
   },
