@@ -1181,7 +1181,7 @@
 	},
 	"animator:YunYun":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. Coûte 1 de moins pour chaque [#EFC851]Attaque dans votre main.",
+		"DESCRIPTION": "Infligez !D! dégât(s) à TOUS les ennemis. Coûte 1 en plus pour chaque [#EFC851]Attaque dans votre main.",
 		"NAME": "YunYun"
 	},
 	"animator:Yusarin":
