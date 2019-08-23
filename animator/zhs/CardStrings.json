@@ -1046,7 +1046,7 @@
 	},
 	"animator:TakanashiRikka":
 	{
-		"DESCRIPTION": "Create a 0-Cost copy of every [#EFC851]Attack in your hand, they deal 0 damage and Purge on use. Exhaust.",
+		"DESCRIPTION": "Create a 0-Cost copy of every [#EFC851]Attack in your hand, they deal !M! damage and Purge on use. Exhaust.",
 		"NAME": "Rikka Takanashi"
 	},
 	"animator:TanyaDegurechaff":
