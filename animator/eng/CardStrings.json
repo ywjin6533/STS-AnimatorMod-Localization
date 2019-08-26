@@ -806,6 +806,11 @@
 		"DESCRIPTION": "Gain !M! Blur. NL Gain !B! Block. NL Synergy and Recall: NL Next turn, gain NL !B! Block.",
 		"NAME": "Rena"
 	},
+	"animator:Respite":
+	{
+		"DESCRIPTION": "Retain. NL Gain !M! Temp._HP. NL Delay certain doom by 1 turn. Purge.",
+		"NAME": "Respite"
+	},
 	"animator:Rimuru":
 	{
 		"DESCRIPTION": "Whenever you play a card, turn this card into a copy of it.",
@@ -1047,12 +1052,12 @@
 	},
 	"animator:TanyaDegurechaff":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Discard ALL [#EFC851]Skills and gain !M! Block for each of them. Legacy: Obtain [#EFC851]Type [#EFC851]95.",
+		"DESCRIPTION": "Deal !D! damage. NL Discard ALL [#EFC851]Skills and gain !M! Block for each. Upon pickup, add [#EFC851]Type [#EFC851]95 to your deck.",
 		"NAME": "Tanya Degurechaff"
 	},
 	"animator:TanyaDegurechaff_Type95":
 	{
-		"DESCRIPTION": "Cycle 2 cards. Retain ALL [#EFC851]Attacks. Next turn, your [#EFC851]Attacks will deal double damage. Exhaust.",
+		"DESCRIPTION": "Channel 1 Plasma. NL Reset this card's cost. [#EFC851]Drawn and Recall: Decrease this card's cost by 1.",
 		"NAME": "Type 95"
 	},
 	"animator:Tatsumaki":

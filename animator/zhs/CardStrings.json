@@ -804,6 +804,11 @@
 		"DESCRIPTION": "获得 1 层 残影 ，获得 !B! 点 格挡 。 同调 与 召回 ： 下一回合，获得 !B! 点 格挡 。",
 		"NAME": "蕾娜‧艾兰黛"
 	},
+	"animator:Respite":
+	{
+		"DESCRIPTION": "Retain. NL Gain !M! Temp._HP. NL Delay certain doom by 1 turn. Purge.",
+		"NAME": "Respite"
+	},
 	"animator:Rimuru":
 	{
 		"DESCRIPTION": "当你打出一张牌时，将这张牌变成那张牌的复制品。",
@@ -838,14 +843,7 @@
 	"animator:Saitama":
 	{
 		"DESCRIPTION": "每当打出这张牌时，本场战斗将其能耗增加 1 并改变效果。",
-		"EXTENDED_DESCRIPTION": 
-		[
-			"抽 !M! 张牌 。 NL 获得 !SV! 层 临时 敏捷 。",
-			"阻止下一次你受到的生命损伤。",
-			"获得 !B! 点 格挡 。 获得 !M! 点 力量 。",
-			"造成 !D! 点伤害 !M! 次 。",
-			"移除 无实体 。 NL 造成 !D! 点 穿刺 伤害。 给予一层 眩晕 。"
-		],
+		"EXTENDED_DESCRIPTION": ["抽 !M! 张牌 。 NL 获得 !SV! 层 临时 敏捷 。", "阻止下一次你受到的生命损伤。", "获得 !B! 点 格挡 。 获得 !M! 点 力量 。", "造成 !D! 点伤害 !M! 次 。", "移除 无实体 。 NL 造成 !D! 点 穿刺 伤害。 给予一层 眩晕 。"],
 		"NAME": "埼玉",
 		"UPGRADE_DESCRIPTION": "固有 。每当打出这张牌时，本场战斗将其能耗增加 1 并改变效果。"
 	},
@@ -1051,12 +1049,22 @@
 	},
 	"animator:TanyaDegurechaff":
 	{
-		"DESCRIPTION": "造成 !D! 伤害。 NL 丢弃所有 [#EFC851]技能牌[] 。每丢弃一张获得 !M! 点 格挡 。 遗赠: 获得一张 [#EFC851]九五式演算宝珠[] 。",
+		"DESCRIPTION": "造成 !D! 伤害。 NL 丢弃所有 [#EFC851]技能牌[] 。 每丢弃一张获得 !M! 点 格挡 。 遗赠: 获得一张 [#EFC851]九五式演算宝珠[] 。",
 		"NAME": "谭雅·提古雷查夫"
 	},
 	"animator:TanyaDegurechaff_Type95":
 	{
 		"DESCRIPTION": "循环 2 张牌。 保留 所有 [#EFC851]攻击牌[] 。下一回合，你的所有 [#EFC851]攻击牌[] 将造成双倍伤害。消耗 。",
+		"NAME": "九五式演算宝珠"
+	},
+	"animator:TanyaDegurechaff":
+	{
+		"DESCRIPTION": "造成 !D! 伤害。 NL 丢弃所有 [#EFC851]技能牌[] 。 每丢弃一张获得 !M! 点 格挡 。 Upon pickup, add [#EFC851]九五式演算宝珠[] to your deck.",
+		"NAME": "谭雅·提古雷查夫"
+	},
+	"animator:TanyaDegurechaff_Type95":
+	{
+		"DESCRIPTION": "Channel 1 Plasma. NL Reset this card's cost. [#EFC851]Drawn and Recall: Decrease this card's cost by 1.",
 		"NAME": "九五式演算宝珠"
 	},
 	"animator:Tatsumaki":
@@ -1138,21 +1146,7 @@
 	"animator:Vesta_Elixir":
 	{
 		"DESCRIPTION": "",
-		"EXTENDED_DESCRIPTION": 
-		[
-			"完成时间减少 1 轮",
-			"抽 {0} 张牌。",
-			"获得 {0} 层 集中 。",
-			"获得 {0} 层 力量 。",
-			"获得 {0} 层 敏捷 。",
-			"获得 {0} 充能球栏位 。",
-			"获得 {0} 暂时性生命 。",
-			"获得 {0} 层 金属化 。",
-			"获得 {0} 能量 。",
-			"消耗 {0} 张牌 :",
-			"丢弃 {0} 张牌 :",
-			"抹除 。"
-		],
+		"EXTENDED_DESCRIPTION": ["完成时间减少 1 轮", "抽 {0} 张牌。", "获得 {0} 层 集中 。", "获得 {0} 层 力量 。", "获得 {0} 层 敏捷 。", "获得 {0} 充能球栏位 。", "获得 {0} 暂时性生命 。", "获得 {0} 层 金属化 。", "获得 {0} 能量 。", "消耗 {0} 张牌 :", "丢弃 {0} 张牌 :", "抹除 。"],
 		"NAME": "灵药"
 	},
 	"animator:Viivi":

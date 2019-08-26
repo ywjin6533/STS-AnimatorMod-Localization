@@ -805,6 +805,11 @@
 		"DESCRIPTION": "Gagnez !M! de Flou. NL Gagnez !B! d'Armure. NL Rappel et Synergie: Au prochain tour, gagnez !B! d'Armure",
 		"NAME": "Rena"
 	},
+	"animator:Respite":
+	{
+		"DESCRIPTION": "Retain. NL Gain !M! Temp._HP. NL Delay certain doom by 1 turn. Purge.",
+		"NAME": "Respite"
+	},
 	"animator:Rimuru":
 	{
 		"DESCRIPTION": "Devient la copie de la dernière carte joué.",
@@ -839,14 +844,7 @@
 	"animator:Saitama":
 	{
 		"DESCRIPTION": "À chaque fois que cette carte est jouée, augmentez son coût et changez son effet sur ce combat.",
-		"EXTENDED_DESCRIPTION": 
-		[
-			"Piochez !M! cartes. NL Gagnez !SV! de Dextérité Temporaire.",
-			"Empêche votre prochaine perte de PV.",
-			"Gagnez !M! de Force. NL Gagnez !B! d'Armure.",
-			"Infligez !D! dégât(s) !M! fois.",
-			"Supprimez Intangible. NL Infligez !D! NL dégats Perçant. Assommez l'ennemi."
-		],
+		"EXTENDED_DESCRIPTION": ["Piochez !M! cartes. NL Gagnez !SV! de Dextérité Temporaire.", "Empêche votre prochaine perte de PV.", "Gagnez !M! de Force. NL Gagnez !B! d'Armure.", "Infligez !D! dégât(s) !M! fois.", "Supprimez Intangible. NL Infligez !D! NL dégats Perçant. Assommez l'ennemi."],
 		"NAME": "Saitama",
 		"UPGRADE_DESCRIPTION": "Inné. À chaque fois que cette carte est jouée, augmentez son coût et changez son effet sur ce combat."
 	},
@@ -1052,12 +1050,12 @@
 	},
 	"animator:TanyaDegurechaff":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Défaussez TOUTES les [#EFC851]Compétences and gagnez !M! d'Armure pour chacune d'elles. Héritage: Obtenez [#EFC851]Type [#EFC851]95.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL Défaussez TOUTES les [#EFC851]Compétences and gagnez !M! d'Armure pour chacune. Upon pickup, add [#EFC851]Type [#EFC851]95 to your deck.",
 		"NAME": "Tanya Degurechaff"
 	},
 	"animator:TanyaDegurechaff_Type95":
 	{
-		"DESCRIPTION": "Recyclez 2 cartes. Conservez TOUTES les [#EFC851]Attaques. Au prochain tour, vos [#EFC851]Attaques will causeront le double des dégâts. Épuisement.",
+		"DESCRIPTION": "Channel 1 Plasma. NL Reset this card's cost. [#EFC851]Drawn and Recall: Decrease this card's cost by 1.",
 		"NAME": "Type 95"
 	},
 	"animator:Tatsumaki":
@@ -1139,21 +1137,7 @@
 	"animator:Vesta_Elixir":
 	{
 		"DESCRIPTION": "",
-		"EXTENDED_DESCRIPTION": 
-		[
-			"Complétez ce 1 tour plus tôt.",
-			"Piochez {0} Cartes.",
-			"Gagnez {0} Concentration.",
-			"Gagnez {0} Force.",
-			"Gagnez {0} Dextérité.",
-			"Gagnez {0} Orb slots.",
-			"Gagnez {0} Temp._PV.",
-			"Gagnez {0} Métallisation.",
-			"Gagnez {0} Energie.",
-			"Épuisez {0} Cartes:",
-			"Défaussez {0} Cartes:",
-			"Purge."
-		],
+		"EXTENDED_DESCRIPTION": ["Complétez ce 1 tour plus tôt.", "Piochez {0} Cartes.", "Gagnez {0} Concentration.", "Gagnez {0} Force.", "Gagnez {0} Dextérité.", "Gagnez {0} Orb slots.", "Gagnez {0} Temp._PV.", "Gagnez {0} Métallisation.", "Gagnez {0} Energie.", "Épuisez {0} Cartes:", "Défaussez {0} Cartes:", "Purge."],
 		"NAME": "Élixir"
 	},
 	"animator:Viivi":
