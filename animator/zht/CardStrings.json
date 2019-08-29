@@ -157,7 +157,7 @@
 	},
 	"animator:Cocytus":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 [#EFC851]吸收裝甲[] 。 同調 : 額外造成 !M! 點 傷害 。",
+		"DESCRIPTION": "造成 !D! 點 傷害 。 [#EFC851]吸收裝甲[] 。 同調 : All [#EFC851]Attacks in your hand gain !M! damage this combat.",
 		"EXTENDED_DESCRIPTION": ["吸收裝甲", "獲得敵人損失的格擋 。"],
 		"NAME": "科賽特斯"
 	},
@@ -380,7 +380,7 @@
 	},
 	"animator:Evileye":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 抽一張牌 。 NL 重新裝填 : 使用你最右側的1個充能球的被動能力 。",
+		"DESCRIPTION": "施法者。 造成 !D! 點傷害 。 NL 抽一張牌 。 NL 重新裝填 : 使用你最右側的1個充能球的被動能力 。",
 		"NAME": "邪眼"
 	},
 	"animator:Excalibur":
@@ -390,10 +390,8 @@
 	},
 	"animator:FeridBathory":
 	{
-		"DESCRIPTION": "每回合可觸發一旦 ， 消耗 一張牌時 獲得 1 點 力量 ， 回復 2 點 生命 [#EFC851]*[] 。",
-		"EXTENDED_DESCRIPTION": ["*備註", "當你的生命為滿時，你會得到 #b2 點臨時生命。"],
-		"NAME": "費里德·巴特利",
-		"UPGRADE_DESCRIPTION": "每回合可觸發兩次 ， 消耗 一張牌時 獲得 1 點 力量 ， 回復 2 點 生命 。"
+		"DESCRIPTION": "Whenever a card is Exhausted, a random enemy loses !M! HP and you gain !M! Temp._HP.",
+		"NAME": "費里德·巴特利"
 	},
 	"animator:Fredrika":
 	{
@@ -764,7 +762,7 @@
 	},
 	"animator:PandorasActor":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 變形者 。 NL 同調 : 額外獲得 !M! 點 格擋 。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 變形者 。 NL Startup : 打這張牌 。",
 		"NAME": "潘多拉·亞克特"
 	},
 	"animator:PinaCoLada":
@@ -846,8 +844,7 @@
 	},
 	"animator:Scar":
 	{
-		"DESCRIPTION": "虛無 。 造成 !D! 點 穿刺 傷害 。 NL [#EFC851]龍之吐息[] 。",
-		"EXTENDED_DESCRIPTION": ["龍之吐息", "如果這張牌殺死非爪牙的敵人， 抹除這張牌並在牌庫永久升級1張隨機牌。"],
+		"DESCRIPTION": "造成 !D! 點 穿刺 傷害 。 Costs 1 less for each orb you Evoked this turn.",
 		"NAME": "斯卡"
 	},
 	"animator:Sebas":
@@ -1050,7 +1047,7 @@
 	},
 	"animator:TanyaDegurechaff_Type95":
 	{
-		"DESCRIPTION": "Channel 1 Plasma. NL Reset this card's cost. [#EFC851]Drawn and Recall: Decrease this card's cost by 1.",
+		"DESCRIPTION": "產生 1 等離子 充能球 。 NL Reset this card's cost. [#EFC851]Drawn and Recall: Decrease this card's cost by 1.",
 		"NAME": "95號兵器"
 	},
 	"animator:Tatsumaki":

@@ -157,7 +157,7 @@
 	},
 	"animator:Cocytus":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL [#EFC851]Absorbez [#EFC851]Armure. NL Synergie: Augmentez les dommages de cette carte de !M! pour ce combat.",
+		"DESCRIPTION": "Infligez !D! dégât(s). NL [#EFC851]Absorbez [#EFC851]Armure. NL Synergie: All [#EFC851]Attacks in your hand gain !M! damage this combat.",
 		"EXTENDED_DESCRIPTION": ["Absorbez Armure", "Gagnez autant d'Armure que votre ennemi durant cette attaque."],
 		"NAME": "Cocytus"
 	},
@@ -381,7 +381,7 @@
 	},
 	"animator:Evileye":
 	{
-		"DESCRIPTION": "Infligez !D! dégât(s). NL Piochez 1 carte. NL Rechargement: Active la capacité passive de votre prochaine orbe.",
+		"DESCRIPTION": "Jeteuse_de_Sorts. NL Infligez !D! dégât(s). NL Rechargement: Active la capacité passive de votre prochaine orbe.",
 		"NAME": "Evileye"
 	},
 	"animator:Excalibur":
@@ -391,10 +391,8 @@
 	},
 	"animator:FeridBathory":
 	{
-		"DESCRIPTION": "Une fois par tour, NL quand une carte est Épuisé, Gagnez 1 Force et Soignez 2 PV ([#EFC851]*[]).",
-		"EXTENDED_DESCRIPTION": ["*Note", "Si vos PV sont au Max, le soin est converti en Temp._PV."],
-		"NAME": "Ferid Bathory",
-		"UPGRADE_DESCRIPTION": "Deux fois par tour, NL quand une carte est Épuisé, Gagnez 1 Force et Soignez 2 PV ([#EFC851]*[])."
+		"DESCRIPTION": "Whenever a card is Exhausted, a random enemy loses !M! HP and you gain !M! Temp._HP.",
+		"NAME": "Ferid Bathory"
 	},
 	"animator:Fredrika":
 	{
@@ -768,7 +766,7 @@
 	},
 	"animator:PandorasActor":
 	{
-		"DESCRIPTION": "Changeforme. NL Gagnez !B! d'Armure. NL Synergie: NLGagnez !M! d'Armure additionnelle.",
+		"DESCRIPTION": "Changeforme. NL Gagnez !B! d'Armure. NL Startup: NL Jouez cette carte.",
 		"NAME": "Acteur de Pandora"
 	},
 	"animator:PinaCoLada":
@@ -850,8 +848,7 @@
 	},
 	"animator:Scar":
 	{
-		"DESCRIPTION": "Éthérée. Infligez !D! dégât(s) Perçant. NL [#EFC851]Dragon's[] [#EFC851]Pulse[].",
-		"EXTENDED_DESCRIPTION": ["Dragon's Pulse", "Si cette carte tue un ennemi (non-minion), #ypurgez cette carte et #yaméliorez de manière permanente une carte aléatoire de votre deck"],
+		"DESCRIPTION": "Infligez !D! dégât(s) Perçant. Costs 1 less for each orb you Evoked this turn.",
 		"NAME": "Scar"
 	},
 	"animator:Sebas":
@@ -1055,7 +1052,7 @@
 	},
 	"animator:TanyaDegurechaff_Type95":
 	{
-		"DESCRIPTION": "Channel 1 Plasma. NL Reset this card's cost. [#EFC851]Drawn and Recall: Decrease this card's cost by 1.",
+		"DESCRIPTION": "Canalisez 1 Orbe Plasmique. NL Reset this card's cost. [#EFC851]Drawn and Recall: Decrease this card's cost by 1.",
 		"NAME": "Type 95"
 	},
 	"animator:Tatsumaki":
