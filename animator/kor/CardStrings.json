@@ -849,7 +849,7 @@
 	},
 	"animator:Scar":
 	{
-		"DESCRIPTION": "휘발성. !D! 관통 피해를 줍니다.  Costs 1 less for each orb you Evoked this turn.",
+		"DESCRIPTION": "휘발성. !D! 관통 피해를 줍니다. When an Orb is Evoked, draw this card and reduce its cost by 1 this turn.",
 		"NAME": "Scar"
 	},
 	"animator:Sebas":
