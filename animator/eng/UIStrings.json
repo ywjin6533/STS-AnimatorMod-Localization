@@ -33,7 +33,13 @@
 			"Death Note",
 			"Kamisama no Memochou",
 			"Code Geass",
-			"Youjo Senki"
+			"Youjo Senki",
+			"Bleach",
+			"Jojo's Bizzarre Adventures",
+			"Tate no Yuusha",
+			"Symphogear",
+			"Call Of Cthulhu",
+			"Chuunibyou demo Koi ga Shitai!"
 		]
 	},
 
@@ -41,7 +47,8 @@
 	{
 		"TEXT":
 		[
-			"Even though trophies and Synergies encourage you to build a deck around a single series, it is perfectly fine to mix different series, and even decks with no synergy at all can be successful."
+			"Even though trophies and Synergies encourage you to build a deck around a single series, it is perfectly fine to mix different series, and even decks with no synergy at all can be successful.",
+			"You can press 'Shift' while hovering certain cards to see a preview of related cards or alternate card forms."
 		]
 	},
 

@@ -8,7 +8,7 @@
 	},
 	"animator:AncientMedallion":
 	{
-		"DESCRIPTIONS": ["Upon pickup, #yUpgrade 2 random cards and a card of your choice. At the start of each combat, Heal #b", " HP."],
+		"DESCRIPTIONS": ["At the start of each combat, Heal #b", " HP. NL Upon pickup, #yUpgrade 2 random cards and a card of your choice. If the chosen card can be upgraded multiple times, it will be upgraded twice."],
 		"FLAVOR": "...",
 		"NAME": "Ancient Medallion"
 	},
@@ -30,6 +30,12 @@
 		"FLAVOR": "Whole Grain Guaranteed! Approved by Konayuki.",
 		"NAME": "Cereal Box"
 	},
+	"animator:ColorlessFragment":
+	{
+		"DESCRIPTIONS": ["Replaces #yThe #yMissing #yPiece. Every #b", " combats, receive improved card rewards. Chance to contain colorless cards."],
+		"FLAVOR": "The colors are slowly fading away...",
+		"NAME": "Colorless Fragment"
+	},
 	"animator:CursedBlade":
 	{
 		"DESCRIPTIONS": ["Whenever you deal unblocked damage, #yHeal #b2 HP. NL Permanently #rLose #rHalf of your Max HP. Effects that increase your Max HP are reduced by half.", "Whenever you deal unblocked damage, #yHeal #b2 HP. NL If your HP is full, gain #b3 Temporary HP at the end of your turn. NL Permanently #rLose #rHalf of your Max HP. Effects that increase your Max HP are reduced by half."],
@@ -41,6 +47,12 @@
 		"DESCRIPTIONS": ["Upon pickup, #rlose #r", " #rMax #rHP, all enemies start with additional Max HP. NL NL The card linked to this relic can #yNOT be duplicated."],
 		"FLAVOR": "Maybe it was a mistake...",
 		"NAME": "Cursed Glyph"
+	},
+	"animator:Doomed":
+	{
+		"DESCRIPTIONS": ["Die in #b", " turns. NL Can #yNOT be prevented."],
+		"FLAVOR": "...",
+		"NAME": "Doomed"
 	},
 	"animator:EngravedStaff":
 	{
@@ -77,6 +89,12 @@
 		"DESCRIPTIONS": ["If you end a combat without taking damage, gain #b", " #yMax #yHP."],
 		"FLAVOR": "With this, you might be admitted to the Hero association.",
 		"NAME": "Hoodie"
+	},
+	"animator:InfinitePower":
+	{
+		"DESCRIPTIONS": ["Upon pickup, gain #b", " #yGold and #rlose #r", " #rMax #rHP. For every #b", " cards in your deck, obtain an #pUnnamed card reward."],
+		"FLAVOR": "Infinite Power! At a price...",
+		"NAME": "InfinitePower"
 	},
 	"animator:LivingPicture":
 	{
@@ -146,7 +164,7 @@
 	},
 	"animator:VividPicture":
 	{
-		"DESCRIPTIONS": ["Once per turn, when a card #ySynergizes, draw #b1 card and gain [E]"],
+		"DESCRIPTIONS": ["Replaces #yThe #yLiving #yPicture. NL Once per turn, when a card #ySynergizes, draw #b1 card and gain [E]"],
 		"FLAVOR": "It's always watching.",
 		"NAME": "Vivid Picture"
 	},

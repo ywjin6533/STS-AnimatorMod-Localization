@@ -62,13 +62,18 @@
 	},
 	"animator:DarknessPower":
 	{
-		"DESCRIPTIONS": ["Whenever you take damage upgrade #b", " random card/s, prioritizing those in your hand."],
+		"DESCRIPTIONS": ["The next #b", " time(s) you take damage, add 1 #yAdrenaline to your draw pile."],
 		"NAME": "Dustiness Ford Lalatina"
 	},
 	"animator:DelayedHealPower":
 	{
 		"DESCRIPTIONS": ["Heal #g", " HP at the start of your next turn."],
 		"NAME": "Delayed Heal"
+	},
+	"animator:DemiurgePower":
+	{
+		"DESCRIPTIONS": ["At the end of your turn, take #b", " damage."],
+		"NAME": "Demiurge"
 	},
 	"animator:EarthenThornsPower":
 	{
@@ -102,7 +107,7 @@
 	},
 	"animator:FeridBathoryPower":
 	{
-		"DESCRIPTIONS": ["When a card is Exhausted gain #b", " Strength and Heal #b", " Hp."],
+		"DESCRIPTIONS": ["Whenever a card is Exhausted, a random enemy loses #b", " HP and you gain #b", " #yTemporary #yHp."],
 		"NAME": "Ferid Bathory"
 	},
 	"animator:FireCrystalPower":
@@ -154,6 +159,11 @@
 	{
 		"DESCRIPTIONS": ["At the start of your turn Cycle #b", " cards."],
 		"NAME": "Bookkeeping"
+	},
+	"animator:HandSizePower":
+	{
+		"DESCRIPTIONS": ["Your current maximum hand size is #b", "."],
+		"NAME": "Hand Size"
 	},
 	"animator:HealingCrystalPower":
 	{
@@ -312,7 +322,7 @@
 	},
 	"animator:TheUnnamedHatPower":
 	{
-		"DESCRIPTIONS": ["At the start of each turn, all allies heal #b", " HP. NL NL On death, apply #yEntangle to the opponent."],
+		"DESCRIPTIONS": ["At the end of each turn, all allies heal #b", " HP. NL NL On death, apply #yEntangle to the opponent."],
 		"NAME": "H4T"
 	},
 	"animator:UltimateCrystalPower":
@@ -332,21 +342,17 @@
 	},
 	"animator:UnnamedDollPower":
 	{
-		"DESCRIPTIONS": 
-		[
-			"For the next #b", " turns, when playing a card which does not target this character, gains #b", " #yMax #yHP. NL NL ", 
-			"On death, ALL characters gain #b", " #yStrength."
-		],
+		"DESCRIPTIONS": ["For the next #b", " turns, when playing a card which does not target this character, gains #b", " #yMax #yHP. NL NL ", "On death, ALL characters gain #b", " #yStrength."],
 		"NAME": "Unnamed Doll"
-	},
-	"animator:YukoShionjiPower":
-	{
-		"DESCRIPTIONS": ["Reveal the top card of your draw pile, NL you may #pLeft-Click to draw it ( #b", " use/s ), or #pRight-Click to discard it ( #b", " use/s)."],
-		"NAME": "Yuko Shionji"
 	},
 	"animator:VitalityPower":
 	{
 		"DESCRIPTIONS": ["Whenever you are attacked this turn, gain #b", " #yTemporary #HP."],
 		"NAME": "Vitality"
+	},
+	"animator:YukoShionjiPower":
+	{
+		"DESCRIPTIONS": ["Reveal the top card of your draw pile, NL you may #pLeft-Click to draw it ( #b", " use/s ), or #pRight-Click to discard it ( #b", " use/s)."],
+		"NAME": "Yuko Shionji"
 	}
 }

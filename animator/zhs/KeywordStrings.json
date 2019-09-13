@@ -225,8 +225,8 @@
 		"DESCRIPTION": "将随机一张手牌直到打出前能耗降低1。重复 <N> 次"
 	},
 	{
-		"PROPER_NAME": "animator:unique",
+		"PROPER_NAME": "animator:Unique",
 		"NAMES": ["animator:unique"],
-		"DESCRIPTION": "唯一|卡组中只能存在一张该牌，额外获得的同名牌将会 #y升级 这张牌。可被多次升级。"
+		"DESCRIPTION": "唯一|卡组中只能存在一张该牌，额外获得的同名牌将会 #y升级 这张牌。 可被多次升级。"
 	}
 ]

@@ -1,0 +1,40 @@
+
+{
+	"unnamed:Visions":
+	{
+		"DESCRIPTION": "Draw !M! cards. NL ALL cards are Ethereal this turn. Exhaust.",
+		"NAME": "Visions"
+	},
+	"unnamed:UnnamedDoll":
+	{
+		"DESCRIPTION": "Gain !M! Temp._HP. ALL characters gain !SV! Ritual. Exhaust.",
+		"NAME": "Unnamed Doll"
+	},
+	"unnamed:Respite":
+	{
+		"DESCRIPTION": "Draw 1 card. NL Gain !M! Temp._HP. NL Startup: NL Gain !SV! Max HP.",
+		"NAME": "Respite"
+	},
+	"unnamed:Cataclysm":
+	{
+		"DESCRIPTION": "Lose !SV! Max HP. Exhaust 20 random cards. Deal !D! damage to ALL enemies !M! times.",
+		"NAME": "Cataclysm"
+	},
+	"unnamed:SoulTap":
+	{
+		"DESCRIPTION": "Lose !SV! Max HP. NL Draw !M! cards. NL Gain !M! Strength.",
+		"NAME": "Sould Tap"
+	},
+	"unnamed:InfinitePower":
+	{
+		"DESCRIPTION": "Ethereal. Add !M! random [#EFC851]Powers[] to your hand. They cost 0 this turn. Exhaust.",
+		"NAME": "Infinite Power",
+		"UPGRADE_DESCRIPTION": "Ethereal. Add !M! random Upgraded [#EFC851]Powers[] to your hand. They cost 0 this turn. Exhaust."
+	},
+	"unnamed:Reaper":
+	{
+		"DESCRIPTION": "Kill ALL enemies with less than !SV! HP ([#EFC851]*[]). Gain !M! Max HP for each enemy killed. Exhaust.",
+		"EXTENDED_DESCRIPTION": ["* Note", "This number is affected by Strength 3 times."],
+		"NAME": "Reaper"
+	}
+}
