@@ -109,8 +109,9 @@
 	},
 	"animator:Boros":
 	{
-		"DESCRIPTION": "获得 !M! 点 力量 。 获得 !SV! 点 暂时性生命 。所有能力牌将会被打出两次。",
-		"NAME": "波罗斯"
+		"DESCRIPTION": "虚无 。 获得 !M! 点 力量 。 所有能力牌将会被打出两次。",
+		"NAME": "波罗斯",
+		"UPGRADE_DESCRIPTION": "获得 !M! 点 力量 。 所有能力牌将会被打出两次。"
 	},
 	"animator:Bozes":
 	{
