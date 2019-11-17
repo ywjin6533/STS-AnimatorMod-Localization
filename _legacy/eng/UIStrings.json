@@ -39,8 +39,7 @@
 			"Tate no Yuusha",
 			"Symphogear",
 			"Call Of Cthulhu",
-			"Chuunibyou demo Koi ga Shitai!",
-			"FLCL"
+			"Chuunibyou demo Koi ga Shitai!"
 		]
 	},
 
@@ -48,11 +47,8 @@
 	{
 		"TEXT":
 		[
-			"-",
-			"General", "Each of these Notes disappears permanently once clicked. The mod is updated often, so you might see them again whenever there is an important change.",
-			"Synergies", "Certain cards have effects that trigger on #ySynergy. A card #ySynergizes if the previous card played this turn was from the same series, or if they both have a #ySpellcaster or #yMartial #yArtist keyword.",
-			"Badges", "Cards in this mod have a secondary effect which is #ynever affected by #yUpgrades and is represented by a badge on the card. Hold #bRight #bClick at any moment and anywhere on the screen to check them, or press #bLeft #bControl to toggle them.",
-			"Controller", "While playing with a controller, you can press #bRight #bStick in situations where #bRight #bClick would be required."
+			"Even though trophies and Synergies encourage you to build a deck around a single series, it is perfectly fine to mix different series, and even decks with no synergy at all can be successful.",
+			"You can press 'Shift' while hovering certain cards to see a preview of related cards or alternate card forms."
 		]
 	},
 
@@ -65,8 +61,7 @@
 			"activate this card's effect that many times.",
 			"reduce its cost for this combat.",
 			"Draw # card/s.",
-			"Transform into ",
-			"move to your draw pile."
+			"Transform into "
 		]
 	},
 
@@ -74,8 +69,8 @@
 	{
 		"TEXT":
 		[
-			"Move up to {0} card/s to your Discard Pile.",
-			"Shuffle {0} card/s into your Draw Pile."
+			"Move up to # card/s to your Discard Pile.",
+			"Shuffle # card/s into your Draw Pile."
 		]
 	},
 
@@ -94,28 +89,28 @@
 			"Attack",
 			"Defend",
 			"Prepare",
-			"Upgrade all cards NL in your hand.",
-			"Deal !D! damage NL to a random NL enemy !M! times.",
+			"Upgrade all cards in your hand.",
+			"Deal !D! damage to a random enemy !M! times.",
 			"Deal !D! damage NL to ALL enemies.",
 			"Gain !B! Block.",
-			"Gain !M! Force.",
-			"Gain !M! Agility.",
+			"Gain !M! Strength.",
+			"Gain !M! Dexterity.",
 			"Gain !M! Thorns.",
 			"Motivate !M!.",
-			"Apply !M! Weak NL to ALL enemies.",
-			"Apply !M! Vulnerable NL to ALL enemies.",
+			"Apply !M! Weak to ALL enemies.",
+			"Apply !M! Vulnerable to ALL enemies.",
 			"Cycle !M! cards",
 			"Draw !M! cards.",
 			"Gain !M! Temp._HP.",
-			"Gain !M! Intellect.",
+			"Gain !M! Focus.",
 			"Gain !M! Energy.",
-			"Apply !M! Poison NL to ALL enemies.",
-			"Apply !M! Burning NL to ALL enemies.",
+			"Apply !M! Poison to ALL enemies.",
+			"Apply !M! Burning to ALL enemies.",
 			"Gain !M! Intangible. NL Lose this Power.",
-			"Gain !M! Artifact. NL Remove all of NL your debuffs.",
-			"Play the top NL card of your NL draw pile.",
-			"Channel !M! NL random Orbs.",
-			"Play the top NL card of your NL draw pile twice."
+			"Gain !M! Artifact. NL Remove all of your debuffs.",
+			"Play the top card of your draw pile.",
+			"Channel !M! random Orbs.",
+			"Play the top card of your draw pile twice."
 		]
 	},
 
