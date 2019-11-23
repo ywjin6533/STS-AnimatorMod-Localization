@@ -2,128 +2,128 @@
 {
 	"Augmentable":
 	{
-		"DESCRIPTION": "Can be upgraded any number of times.",
-		"NAMES": ["augmentable"],
-		"PROPER_NAME": "Augmentable"
+		"DESCRIPTION": "可被多次升级。",
+		"NAMES": ["多重进化"],
+		"PROPER_NAME": "多重进化"
 	},
 	"Boost":
 	{
-		"DESCRIPTION": "This effect activates a limited number of times.",
-		"NAMES": ["boost"],
-		"PROPER_NAME": "Boost"
+		"DESCRIPTION": "此效果使用次数有限。",
+		"NAMES": ["仓促"],
+		"PROPER_NAME": "仓促"
 	},
 	"Cooldown":
 	{
-		"DESCRIPTION": "Whenever you play or discard a card, reduce its #yCooldown by 1. If the #yCooldown is at 0, activate its effect instead.",
-		"NAMES": ["cooldown"],
-		"PROPER_NAME": "Cooldown"
+		"DESCRIPTION": "每打出或弃置一次减少一层 #y预热 层数， 当  #y预热 层数为0时，打出时触发 #y预热 效果，并重置 #y预热 层数。",
+		"NAMES": ["预热"],
+		"PROPER_NAME": "预热"
 	},
 	"Flaming Weapon":
 	{
-		"DESCRIPTION": "Whenever an attack deals unblocked damage, apply #b1 #yBurning.",
-		"NAMES": ["flaming weapon", "flaming_weapon"],
-		"PROPER_NAME": "Flaming Weapon"
+		"DESCRIPTION": "如果突破格挡，给予 !M! 层燃烧。",
+		"NAMES": ["烈火", "烈火"],
+		"PROPER_NAME": "烈火"
 	},
 	"Heartseeker":
 	{
-		"DESCRIPTION": "If the target has less than #b50% HP, deal double damage.",
-		"NAMES": ["heartseeker"],
-		"PROPER_NAME": "Heartseeker"
+		"DESCRIPTION": "如果目标的血量低于 50% , 造成双倍伤害。",
+		"NAMES": ["渴血"],
+		"PROPER_NAME": "渴血"
 	},
 	"Lazy":
 	{
-		"DESCRIPTION": "This card's damage will be delayed by a random number of turns.",
-		"NAMES": ["lazy"],
-		"PROPER_NAME": "Lazy"
+		"DESCRIPTION": "延迟若干回合造成伤害。",
+		"NAMES": ["懒惰"],
+		"PROPER_NAME": "懒惰"
 	},
 	"Legacy":
 	{
-		"DESCRIPTION": "Triggers when this card is exhausted.",
-		"NAMES": ["legacy"],
-		"PROPER_NAME": "Legacy"
+		"DESCRIPTION": "这张卡被消耗时触发。",
+		"NAMES": ["遗赠"],
+		"PROPER_NAME": "遗赠"
 	},
 	"Loyal":
 	{
-		"DESCRIPTION": "Whenever this card would enter your discard pile, shuffle it into your draw pile.",
-		"NAMES": ["loyal"],
-		"PROPER_NAME": "Loyal"
+		"DESCRIPTION": "进入弃牌堆时，洗回抽牌堆。",
+		"NAMES": ["忠诚"],
+		"PROPER_NAME": "忠诚"
 	},
 	"Martial Artist":
 	{
-		"DESCRIPTION": "This card's damage is enhanced by #yDexterity.",
-		"NAMES": ["martial artist", "martial_artist"],
-		"PROPER_NAME": "Martial Artist"
+		"DESCRIPTION": "伤害受 #y敏捷 加成。",
+		"NAMES": ["武师", "武师"],
+		"PROPER_NAME": "武师"
 	},
 	"Motivate":
 	{
-		"DESCRIPTION": "Reduce the cost of a random card in hand by 1 until played. Repeated N times.",
-		"NAMES": ["motivate"],
-		"PROPER_NAME": "Motivate"
+		"DESCRIPTION": "随机减少手中1张牌1点能量消耗直到被打出，重复 N 次。",
+		"NAMES": ["激励"],
+		"PROPER_NAME": "激励"
 	},
 	"Orb Core":
 	{
-		"DESCRIPTION": "#yPower: #yChannel 1 orb on use, gain a bonus effect on your second #ySynergy each turn.",
-		"NAMES": ["orb core", "orb_core", "orb cores", "orb_cores", "fire_core", "earth_core", "lightning_core", "plasma_core", "fire_core", "frost_core"],
-		"PROPER_NAME": "Orb Core"
+		"DESCRIPTION": " #y能量 : #y生成 1个充能球。 每回合第二次 #y同调 时得到一个额外效果。",
+		"NAMES": ["充能球", "充能球", "充能球", "充能球", "火焰充能球", "大地充能球", "闪电充能球", "等离子充能球", "火焰充能球", "冰霜充能球"],
+		"PROPER_NAME": "充能球"
 	},
 	"Overrun":
 	{
-		"DESCRIPTION": "Activates for each enemy that loses its block during this attack.",
-		"NAMES": ["overrun"],
-		"PROPER_NAME": "Overrun"
+		"DESCRIPTION": "此攻击中每有一个敌人失去格挡都触发效果。",
+		"NAMES": ["追击"],
+		"PROPER_NAME": "追击"
 	},
 	"Persistent":
 	{
-		"DESCRIPTION": "Whenever this card would enter your discard pile, shuffle it into your draw pile.",
-		"NAMES": ["persistent"],
-		"PROPER_NAME": "Persistent"
+		"DESCRIPTION": "每当此牌进入弃牌堆时，洗入抽牌堆。",
+		"NAMES": ["固执"],
+		"PROPER_NAME": "固执"
 	},
 	"Recall":
 	{
-		"DESCRIPTION": "Trigger when this card is manually discarded or cycled.",
-		"NAMES": ["recall"],
-		"PROPER_NAME": "Recall"
+		"DESCRIPTION": "手动弃置或循环时触发。",
+		"NAMES": ["召回"],
+		"PROPER_NAME": "召回"
 	},
 	"Reload":
 	{
-		"DESCRIPTION": "Discard any number of cards, activate this effect that many times.",
-		"NAMES": ["reload"],
-		"PROPER_NAME": "Reload"
+		"DESCRIPTION": "弃置若干牌，触发若干次。",
+		"NAMES": ["重装"],
+		"PROPER_NAME": "重装"
 	},
 	"Resurrect":
 	{
-		"DESCRIPTION": "If you would die, and this card is anywhere in your deck, prevent all Damage and permanently lose this card. Will not work if Exhausted or Purged.",
-		"NAMES": ["resurrect"],
-		"PROPER_NAME": "Resurrect"
+		"DESCRIPTION": "除非此牌被消耗或清除，阻挡致命伤害并永久失去此牌。",
+		"NAMES": ["重生"],
+		"PROPER_NAME": "重生"
 	},
 	"Shapeshifter":
 	{
-		"DESCRIPTION": "Synergizes with any card.",
-		"NAMES": ["shapeshifter", "shapeshift"],
-		"PROPER_NAME": "Shapeshifter"
+		"DESCRIPTION": "与所有系列同调。",
+		"NAMES": ["穿越者", "穿越"],
+		"PROPER_NAME": "穿越者"
 	},
 	"Spellcaster":
 	{
-		"DESCRIPTION": "This card's damage is enhanced by #yFocus.",
-		"NAMES": ["spellcaster"],
-		"PROPER_NAME": "Spellcaster"
+		"DESCRIPTION": "伤害受 #y专注 加成。",
+		"NAMES": ["法师"],
+		"PROPER_NAME": "法师"
 	},
 	"Support Damage":
 	{
-		"DESCRIPTION": "Deal damage to the enemy with lowest HP at the end of each turn.",
-		"NAMES": ["support damage", "support_damage"],
-		"PROPER_NAME": "Support Damage"
+		"DESCRIPTION": "每回合结束时，对血量最低的敌人造成伤害。",
+		"NAMES": ["支援伤害", "支援伤害"],
+		"PROPER_NAME": "支援伤害"
 	},
 	"Synergy":
 	{
-		"DESCRIPTION": "A card #ySynergizes if the card previously played this turn was from the same series, or if they were both #ySpellcasters or #yMartial #yArtists.",
-		"NAMES": ["synergy", "synergies", "synergize", "synergizes", "synergized"],
-		"PROPER_NAME": "Synergy"
+		"DESCRIPTION": "连续使用同一系列的牌或者 #y法师 或者 #y武师 时触发 #y同调 。",
+		"NAMES": ["同调", "同调", "同调", "同调", "同调"],
+		"PROPER_NAME": "同调"
 	},
 	"Throwing-Knife":
 	{
-		"DESCRIPTION": "0-Cost #yAttack which applies a randomized debuff.",
-		"NAMES": ["throwing-knife", "throwing-knives", "throwing-knife+", "throwing-knives+"],
-		"PROPER_NAME": "Throwing-Knife"
+		"DESCRIPTION": "带有随机debuff的0费 #y攻击 。",
+		"NAMES": ["飞刀", "飞刀", "飞刀+", "飞刀+"],
+		"PROPER_NAME": "飞刀"
 	}
 }
