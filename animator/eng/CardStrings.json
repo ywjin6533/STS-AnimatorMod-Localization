@@ -112,7 +112,7 @@
 	},
 	"animator:Bozes":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Motivate !M!. NL Exhaust. || Whenever you NL Synergize this turn, NL gain 1 Plated_Armor.",
+		"DESCRIPTION": "Deal !D! damage. NL Motivate !M!. NL Exhaust. || Whenever a NL card Synergizes NL this turn, gain !SV! NL Support_Damage.",
 		"NAME": "Bozes"
 	},
 	"animator:Caster":
@@ -154,7 +154,7 @@
 	},
 	"animator:Cocytus":
 	{                                                        
-		"DESCRIPTION": "Deal !D! damage. NL Gain 1 Force. NL Strength affects this NL card !M! times. || On Synergy, if NL you have 4 or less NL Plated_Armor, gain NL 1 Plated_Armor.",
+		"DESCRIPTION": "Deal !D! damage. NL Gain 1 Force. NL Strength affects this NL card !M! times. || On Synergy, NL randomly gain 1 NL Plated_Armor or NL 1 Thorns.",
 		"NAME": "Cocytus"
 	},
 	"animator:CowGirl":
@@ -335,9 +335,8 @@
 	},
 	"animator:EmiyaShirou":
 	{
-		"DESCRIPTION": "Give a random NL enemy !M! Block NL and 1 Vulnerable. Exhaust. || Semi-Limited. NL Whenever an enemy loses its Block this turn, gain [E] and draw an #yAttack[].",
-		"NAME": "Emiya Shirou",
-		"UPGRADE_DESCRIPTION": "Give a random NL enemy !M! Block NL and 1 Vulnerable. || Semi-Limited. NL Whenever an enemy loses its Block this turn, gain [E] and draw an #yAttack[]."
+		"DESCRIPTION": "Gain !B! Block. NL Upgrade a random NL card in your hand NL !M! times. || If every card NL in your hand was NL already Upgraded, NL draw 2 cards.",
+		"NAME": "Emiya Shirou"
 	},
 	"animator:Emonzaemon":
 	{
@@ -547,7 +546,7 @@
 	},
 	"animator:ItamiYouji":
 	{
-		"DESCRIPTION": "Draw !M! cards. NL Deal !D! Piercing NL damage for each NL card drawn. || Limited. NL On Synergy, NL Motivate 1.",
+		"DESCRIPTION": "Draw !M! cards. NL Deal !D! Piercing NL damage for each NL card drawn. || On Synergy, gain NL !SV! Support_Damage NL for each enemy.",
 		"NAME": "Itami Youji"
 	},
 	"animator:IzunaHatsuse":
@@ -679,7 +678,7 @@
 	},
 	"animator:Mikaela":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Exhaust a card in NL your discard pile. || If you Exhausted NL a Status or Curse, NL apply !M! Poison.",
+		"DESCRIPTION": "Deal !D! damage. NL Exhaust a card in NL your discard pile. NL Gain !M! Temp._HP. || If you Exhausted NL a Status or Curse, NL gain !SV! Force.",
 		"NAME": "Mikaela"
 	},
 	"animator:Millim":
@@ -728,6 +727,11 @@
 		"DESCRIPTION": "Cooldown !SV! : NL Deal 300 damage. || Whenever you Exhaust or discard a card, reduce this card's Cooldown by 1.",
 		"NAME": "Niva Lada"
 	},
+	"animator:OrbCore_Aether":
+	{
+		"DESCRIPTION": "Channel !SV! Aether. || On your second NL Synergy each turn, NL draw !M! cards, then NL discard 1 card.",
+		"NAME": "Aether Core"
+	},
 	"animator:OrbCore_Chaos":
 	{
 		"DESCRIPTION": "Channel !SV! Random Orb. || On your second NL Synergy each turn, NL Discover 1 card.",
@@ -735,7 +739,7 @@
 	},
 	"animator:OrbCore_Dark":
 	{
-		"DESCRIPTION": "Channel !SV! Dark. || On your second NL Synergy each turn, NL draw !M! cards, then NL discard 1 card.",
+		"DESCRIPTION": "Channel !SV! Dark. || On your second NL Synergy each turn, NL apply !M! Weak and !M! NL Vulnerable to a NL random enemy.",
 		"NAME": "Dark Core"
 	},
 	"animator:OrbCore_Fire":
@@ -1051,7 +1055,7 @@
 	},
 	"animator:Tatsumaki":
 	{
-		"DESCRIPTION": "Channel 1 Air. NL Gain !M! Intellect. || Limited. If you have NL 3 or more unique NL Orbs, draw 2 cards NL and gain [E] [E].",
+		"DESCRIPTION": "Channel 1 Aether. NL Gain !M! Intellect. || Limited. If you have NL 3 or more unique NL Orbs, draw 2 cards NL and gain [E] [E].",
 		"NAME": "Tatsumaki"
 	},
 	"animator:Tet":
@@ -1146,7 +1150,7 @@
 	},
 	"animator:YaoHaDucy":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL If the enemy is NL attacking, it loses NL !M! Strength this turn. || When Discarded, NL deal !SV! damage NL to ALL enemies.",
+		"DESCRIPTION": "Deal !D! damage. NL If the enemy is NL attacking, it loses NL !M! Strength this turn. || On Synergy, or when NL Discarded, gain !SV! NL Support_Damage.",
 		"NAME": "Yao Ha Ducy"
 	},
 	"animator:YunYun":
