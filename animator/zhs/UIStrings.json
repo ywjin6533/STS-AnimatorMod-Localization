@@ -4,43 +4,43 @@
 	{
 		"TEXT":
 		[
-			"[Shapeshifter]",
-			"Elsword",
-			"Kantai Collection",
-			"Hitsugi no Chaika",
-			"Konosuba",
-			"Katanagatari",
-			"Owari no Seraph",
+			"[穿越者]",
+			"艾尔之光",
+			"舰队 Collection",
+			"棺姬嘉依卡",
+			"为美好的世界献上祝福",
+			"刀语",
+			"终结的炽天使",
 			"Overlord",
-			"No Game No Life",
+			"游戏人生",
 			"GATE",
 			"Fate",
-			"Goblin Slayer",
-			"Fullmetal Alchemist",
-			"Hataraku Maou-sama",
-			"Grimoire of Zero",
-			"Steins;Gate",
-			"Tensei shitara Slime",
-			"Re:Zero",
-			"Madoka Magica",
-			"Charlotte",
-			"Accel World",
-			"Noragami",
-			"One Punch Man",
-			"Pandora Hearts",
-			"Zero no Tsukaima",
-			"Gabriel DropOut",
-			"Death Note",
-			"Kamisama no Memochou",
-			"Code Geass",
-			"Youjo Senki",
-			"Bleach",
-			"Jojo's Bizzarre Adventures",
-			"Tate no Yuusha",
-			"Symphogear",
-			"Call Of Cthulhu",
-			"Chuunibyou demo Koi ga Shitai!",
-			"FLCL"
+			"哥布林杀手",
+			"钢之炼金术师",
+			"打工吧！魔王大人",
+			"从零开始的魔法书",
+			"命运石之门",
+			"关于我转生变成史莱姆这档事",
+			"Re:从零开始的异世界生活",
+			"魔法少女小圆",
+			"夏洛特",
+			"加速世界",
+			"野良神",
+			"一拳超人",
+			"潘多拉之心",
+			"零之使魔",
+			"珈百璃的堕落",
+			"死亡笔记",
+			"神的记事本",
+			"叛逆的鲁鲁修",
+			"幼女战记",
+			"死神",
+			"JOJO的奇妙冒险",
+			"盾之勇者成名录",
+			"战姬绝唱",
+			"克苏鲁的呼唤",
+			"中二病也要谈恋爱！",
+			"特别的她"
 		]
 	},
 
@@ -49,10 +49,10 @@
 		"TEXT":
 		[
 			"-",
-			"General", "Each of these Notes disappears permanently once clicked. The mod is updated often, so you might see them again whenever there is an important change.",
-			"Synergies", "Certain cards have effects that trigger on #ySynergy. A card #ySynergizes if the previous card played this turn was from the same series, or if they both have a #ySpellcaster or #yMartial #yArtist keyword.",
-			"Badges", "Cards in this mod have a secondary effect which is #ynever affected by #yUpgrades and is represented by a badge on the card. Hold #bRight #bClick at any moment and anywhere on the screen to check them, or press #bControl to toggle them.",
-			"Controller", "While playing with a controller, you can press #bRight #bStick in situations where #bRight #bClick would be required."
+			"概览", "这些说明一旦被点击就会永久消失。 本mod时常更新，所以你可能会在重要改动后再次看到这些说明。",
+			"同调", "特定卡牌具有由 #y同调 触发的效果。 如果与本回合前一张打出的牌来自同一系列或者两者皆为 #y法师 或 #y武师 ，则这张牌触发 #y同调 。",
+			"徽章", "本mod的卡牌具有 #y不会升级 的次要效果并通过牌面的徽章表示。可以随时在屏幕上的任意位置 #b单击鼠标右键 进行查看，或按 #bControl键 切换。",
+			"手柄", "在使用手柄时，可以按 #b右摇杆 代替 #b单击鼠标右键 。"
 		]
 	},
 
@@ -60,13 +60,13 @@
 	{
 		"TEXT":
 		[
-			"fetch Cards with the same synergy.",
-			"discard and draw that many cards.",
-			"activate this card's effect that many times.",
-			"reduce its cost for this combat.",
-			"Draw # card/s.",
-			"Transform into ",
-			"move to your draw pile."
+			"抽取同系列的牌。",
+			"弃置并抽取此数量的牌。",
+			"触发此数量次数卡牌效果。",
+			"这场战斗中减少此卡的费用。",
+			"抽取 # 张牌。",
+			"变形成 ",
+			"移动到你的抽牌堆。"
 		]
 	},
 
@@ -74,16 +74,16 @@
 	{
 		"TEXT":
 		[
-			"Move up to {0} card/s to your Discard Pile.",
-			"Shuffle {0} card/s into your Draw Pile."
+			"弃置 {0} 张牌到你的弃牌堆。",
+			"洗 {0} 张牌到你的抽牌堆。"
 		]
 	},
 
 	"animator:TheUnnamedReign":
 	{
-		"TEXT": 
+		"TEXT":
 		[
-			"The Unnamed Reign"
+			"无名领域"
 		]
 	},
 
@@ -91,31 +91,31 @@
 	{
 		"TEXT":
 		[
-			"Attack",
-			"Defend",
-			"Prepare",
-			"Upgrade all cards NL in your hand.",
-			"Deal !D! damage NL to a random NL enemy !M! times.",
-			"Deal !D! damage NL to ALL enemies.",
-			"Gain !B! Block.",
-			"Gain !M! Force.",
-			"Gain !M! Agility.",
-			"Gain !M! Thorns.",
-			"Motivate !M!.",
-			"Apply !M! Weak NL to ALL enemies.",
-			"Apply !M! Vulnerable NL to ALL enemies.",
-			"Cycle !M! cards",
-			"Draw !M! cards.",
-			"Gain !M! Temp._HP.",
-			"Gain !M! Intellect.",
-			"Gain !M! Energy.",
-			"Apply !M! Poison NL to ALL enemies.",
-			"Apply !M! Burning NL to ALL enemies.",
-			"Gain !M! Intangible. NL Lose this Power.",
-			"Gain !M! Artifact. NL Remove all of NL your debuffs.",
-			"Play the top NL card of your NL draw pile.",
-			"Channel !M! NL random Orbs.",
-			"Play the top NL card of your NL draw pile twice."
+			"攻击。",
+			"防守。",
+			"准备。",
+			"升级 手牌中的所有牌。",
+			"对一个随机敌人造成 !D! 点 伤害 ， NL  重复 !M! 次。",
+			"对所有敌人造成 !D! 点 伤害。",
+			"获得 !B! 点 NL 格挡。",
+			"获得 !M! 点 NL 力量。",
+			"获得 !M! 点 NL 敏捷。",
+			"获得 !M! 点 NL 荆棘。",
+			"本回合随机减少 NL 手牌中1张牌 NL 1点能量消耗， NL 重复 !M! 次。",
+			"给予所有敌人 NL !M! 层 虚弱。",
+			"给予所有敌人 NL !M! 层 易伤。",
+			"循环 !M! 张牌"。,
+			"抽 !M! 张牌。",
+			"获得 !M! 点 NL 临时生命。",
+			"获得 !M! 点 NL 智力。",
+			"获得 !M! 点 NL 能量。",
+			"给予所有敌人 NL !M! 层 中毒。",
+			"给予所有敌人 NL !M! 层 燃烧。",
+			"获得 !M! 层 无实体。 NL 失去效果。",
+			"获得 !M! 层 人工制品。 NL 移除所有debuff。",
+			"打出抽牌堆顶的牌。",
+			"生成 !M! 个 NL 充能球.",
+			"打出抽牌堆顶的牌两次。"
 		]
 	},
 
@@ -123,19 +123,19 @@
 	{
 		"TEXT":
 		[
-			"Bronze",
-			"Silver",
-			"Gold",
-			"Choose this starting deck and complete act 4.",
-			"Complete act 4 with at least #yhalf of the cards in your deck being from this series.",
-			"Complete act 4 with at least #b8 #ydifferent cards from this series in your deck.",
-			"Complete act 4 with at least #b7 #ydifferent card series in your deck. (Colorless cards will not count)",
-			"Complete act 4 with at least #b10 #ydifferent card series in your deck, and without banishing any card. (Colorless cards will not count)",
-			"Complete act 4 with at least #b20 cards in your deck, and without any duplicate.",
-			"Complete act 4 with at least #b30 cards in your deck, and without any duplicate.",
-			"This Trophy will be revealed once it is obtained. #yHint: Collect all 3 keys.",
-			"Defeat The Unnamed. NL Whenever you obtain this trophy, permanently increase the chance to find #pUltra #pRare cards, higher ascension increases this bonus by a larger amount. NL NL #yThe #yUnnamed #yReign is now available to all characters.",
-			"Platinum"
+			"青铜",
+			"白银",
+			"黄金",
+			"选择此初始卡组并完成第4幕。",
+			"用包含至少 #y一半 由此系列的牌组成的牌组完成第4幕。",
+			"用包含至少 #b8 张 #y不同 的由此系列的牌组成的牌组完成第4幕。",
+			"用包含至少 #b7 种 #y不同 系列的牌组成的牌组完成第4幕。（无色卡除外）",
+			"不放逐任何卡并用包含至少 #b10 种 #y不同 系列的牌组成的牌组完成第4幕。（无色卡除外）",
+			"用包含至少 #b20 张 #y不重复 的牌组成的牌组完成第4幕。",
+			"用包含至少 #b30 张 #y不重复 的牌组成的牌组完成第4幕。",
+			"这个奖杯将在被获得之后显现。 #y提示： 收集全部3把钥匙。",
+			"击败无名。 NL 当你获得这个奖杯后将永久提升找到 #p超级稀有 卡的几率，更高的进阶会大幅增强这个效果。 NL NL #y无名领域 现在向所有角色开放。",
+			"白金"
 		]
 	},
 
@@ -143,9 +143,9 @@
 	{
 		"TEXT":
 		[
-			"Only contains Cards with this synergy. WARNING: once you click on this, the other 2 Card rewards will disappear.",
-			"Bonus Relic",
-			"Cursed Relic"
+			"仅包含该系列的牌。 警告: 选择一个之后另外两个系列奖励就会消失。",
+			"奖励遗物",
+			"诅咒遗物"
 		]
 	},
 
@@ -153,7 +153,7 @@
 	{
 		"TEXT":
 		[
-			"Banish"
+			"放逐"
 		]
 	},
 
@@ -161,16 +161,16 @@
 	{
 		"TEXT":
 		[
-			"Starting Cards: ",
+			"初始牌: ",
 			"###############",
-			"Unlocks at Level ",
-			" (You are Level ",
+			"解锁于等级 ",
+			" (你现在的等级 ",
 			")",
-			"Recommended.",
-			"Balanced start.",
-			"Strong start.",
-			"Very strong start.",
-			"Special: More Gold"
+			"推荐。",
+			"平衡的开局。",
+			"强势的开局。",
+			"暴力的开局。",
+			"特殊奖励: 更多的金币"
 		]
 	}
 
