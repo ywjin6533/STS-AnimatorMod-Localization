@@ -153,8 +153,8 @@
 		"NAME": "Chung"
 	},
 	"animator:Cocytus":
-	{
-		"DESCRIPTION": "Deal !D! damage. NL Strength affects this NL card !M! times. || On Synergy, raise NL by 1 your lowest NL stat between Force NL and Plated_Armor. NL (Random if Equal)",
+	{                                                        
+		"DESCRIPTION": "Deal !D! damage. NL Gain 1 Force. NL Strength affects this NL card !M! times. || On Synergy, if NL you have 4 or less NL Plated_Armor, gain NL 1 Plated_Armor.",
 		"NAME": "Cocytus"
 	},
 	"animator:CowGirl":
@@ -455,7 +455,7 @@
 	},
 	"animator:Greed":
 	{
-		"DESCRIPTION": "Gain !M! Plated_Armor. NL Gain !M! Metallicize. NL Gain !M! Malleable. || Limited. When NL Exhausted, gain !SV! NL #yGold[]. Costs 1 less NL for every 100 #yGold[] NL you have.",
+		"DESCRIPTION": "Gain !M! Plated_Armor. NL Gain !M! Metallicize. NL Gain !M! Malleable. || At the start of each NL combat, gain !SV! #yGold[]. NL Costs 1 less for every NL 100 #yGold[] you have.",
 		"NAME": "Greed"
 	},
 	"animator:GuildGirl":
@@ -877,7 +877,7 @@
 	},
 	"animator:Shigure":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Poison. || On Synergy or when NL Exhausted, gain !SV! NL Support_Damage.",
+		"DESCRIPTION": "Apply !M! Poison. NL Deal !D! Piercing NL damage. || On Synergy or when NL Exhausted, gain !SV! NL Support_Damage.",
 		"NAME": "Shigure"
 	},
 	"animator:ShikizakiKiki":
