@@ -27,153 +27,153 @@
 	},
 	"animator:BozesPower":
 	{
-		"DESCRIPTIONS": ["同调时得到 #b", " 层 #y多重护甲。"],
+		"DESCRIPTIONS": ["同调时得到 #b", " 层 #y支援伤害。"],
 		"NAME": "波赛斯·戈·芭蕾丝蒂"
 	},
 	"animator:BurningPower":
 	{
-		"DESCRIPTIONS": ["Take #b", " damage at the end of turn. Receive #b", "% more #yAttack damage."],
-		"NAME": "Burning"
+		"DESCRIPTIONS": ["回合结束受到 #b", " 伤害。 受到额外 #b", "% 的 #y攻击 伤害。"],
+		"NAME": "燃烧"
 	},
 	"animator:ChlammyZellPower":
 	{
-		"DESCRIPTIONS": ["Whenever you play alternating card types this turn, deal #b", " damage to ALL enemies and #yCycle #b1 card. NL NL Last Type played: #y"],
-		"NAME": "Kurami"
+		"DESCRIPTIONS": ["回合内每次打出不同类型的牌时， 对所有敌人造成 #b", " 点伤害并 #y循环 #b1 张牌。 NL NL 当前类型: #y"],
+		"NAME": "克拉米·杰尔"
 	},
 	"animator:CursedStabsPower":
 	{
-		"DESCRIPTIONS": ["Whenever it deals unblocked damage, add 1 #yPain to your draw pile."],
-		"NAME": "Cursed Stabs"
+		"DESCRIPTIONS": ["每当造成破防伤害， 增加1张 #y痛苦 到抽牌堆。"],
+		"NAME": "诅咒匕首"
 	},
 	"animator:DarkCrystalPower":
 	{
-		"DESCRIPTIONS": ["When targeted by a card, apply #b", " #yConstricted to ALL other characters."],
-		"NAME": "Dark Crystal"
+		"DESCRIPTIONS": ["被指定为目标时对所有角色施加 #b", " #y压制 。"],
+		"NAME": "暗黑水晶"
 	},
 	"animator:DarkCubePower":
 	{
-		"DESCRIPTIONS": ["At the end of each turn, apply #b", " #yConstricted to the enemy."],
-		"NAME": "Dark Cube"
+		"DESCRIPTIONS": ["回合结束时对敌人施加 #b", " #y压制 。"],
+		"NAME": "暗黑立方"
 	},
 	"animator:DarkWispPower":
 	{
-		"DESCRIPTIONS": ["On death, apply #b", " #yConstricted to ALL characters."],
-		"NAME": "Dark Wisp"
+		"DESCRIPTIONS": ["死亡时对所有角色施加 #b", " #y压制 。"],
+		"NAME": "暗黑精灵"
 	},
 	"animator:DarknessPower":
 	{
-		"DESCRIPTIONS": ["The next #b", " time(s) you take damage, add 1 #yAdrenaline to your draw pile."],
-		"NAME": "Dustiness Ford Lalatina"
+		"DESCRIPTIONS": ["在接下来 #b", " 次受伤时， 增加1张 #yAdrenaline 到抽牌堆。"],
+		"NAME": "达克妮丝"
 	},
 	"animator:DelayedHealPower":
 	{
-		"DESCRIPTIONS": ["Heal #g", " HP at the start of your next turn."],
-		"NAME": "Delayed Heal"
+		"DESCRIPTIONS": ["下回合开始时治疗 #g", " 点生命。"],
+		"NAME": "延迟治疗"
 	},
 	"animator:EarthenThornsPower":
 	{
-		"DESCRIPTIONS": ["When attacked, deal #b", " damage back."],
-		"NAME": "Earthen Thorns"
+		"DESCRIPTIONS": ["受攻击时， 造成 #b", " 点反伤。"],
+		"NAME": "地刺"
 	},
 	"animator:EmiyaShirouPower":
 	{
-		"DESCRIPTIONS": ["Whenever an enemy loses its block this turn, gain #b1 energy and draw #b1 random #yAttack."],
-		"NAME": "Unlimited Blade Works"
+		"DESCRIPTIONS": ["每当本回合内一个敌人失去格挡， 获得 #b1 点能量并抽取 #b1 张随机 #y攻击 牌。"],
+		"NAME": "无限剑制"
 	},
 	"animator:EnchantedArmorPower":
 	{
-		"DESCRIPTIONS": ["Take #b", "% less damage."],
-		"NAME": "Enchanted Armor"
+		"DESCRIPTIONS": ["减少 #b", "% 承伤。"],
+		"NAME": "反应装甲"
 	},
 	"animator:EntouJyuuPower":
 	{
-		"DESCRIPTIONS": ["On your next #b", " #yAttack(s) this turn, draw #b1 card and apply #b1 #yBurning to ALL enemies."],
-		"NAME": "Entou Jyuu"
+		"DESCRIPTIONS": ["本回合内接下来的 #b", " 次 #y攻击 时, 抽 #b1 张牌并对所有敌人施加 #b1 层 #y燃烧 。"],
+		"NAME": "炎刃·铳"
 	},
 	"animator:EnvyPower":
 	{
-		"DESCRIPTIONS": ["The first #b", " card(s) you play each turn will Synergize."],
-		"NAME": "Envy"
+		"DESCRIPTIONS": ["每回合打出的前 #b", " 张牌 #y同调 。"],
+		"NAME": "嫉妒"
 	},
 	"animator:EvePower":
 	{
-		"DESCRIPTIONS": ["Whenever a card #ySynergizes, deal #b", " damage to a random enemy, then increase this damage by 1."],
-		"NAME": "Eve"
+		"DESCRIPTIONS": ["每当一张牌 #y同调 时，对一个随机敌人造成 #b", " 点伤害，然后提升1点伤害。"],
+		"NAME": "EVE的觉醒"
 	},
 	"animator:FeridBathoryPower":
 	{
-		"DESCRIPTIONS": ["Whenever a card is Exhausted, a random enemy loses #b", " HP and you gain #b", " #yTemporary #yHp."],
-		"NAME": "Ferid Bathory"
+		"DESCRIPTIONS": ["每当一张牌 #y消耗 时，一个随机敌人失去 #b", " 点生命，然后获得 #b", " 点 #y临时生命。"],
+		"NAME": "费里德·巴特利"
 	},
 	"animator:FireCrystalPower":
 	{
-		"DESCRIPTIONS": ["When targeted by a card, ALL other characters gain #b", " #yStrength and #yBurning."],
-		"NAME": "Fire Crystal"
+		"DESCRIPTIONS": ["被指定为目标时，所有其他角色获得 #b", " 点 #y力量 和 #y燃烧。 "],
+		"NAME": "火焰水晶"
 	},
 	"animator:FireCubePower":
 	{
-		"DESCRIPTIONS": ["At the end of each turn, ALL allies gain #b", " #yStrength and #yBurning."],
-		"NAME": "Fire Cube"
+		"DESCRIPTIONS": ["回合结束时， 所有队友获得 #b", " 点 #y力量 和 #y燃烧。 "],
+		"NAME": "火焰立方"
 	},
 	"animator:FireWispPower":
 	{
-		"DESCRIPTIONS": ["On death, ALL characters gain #b", " #yStrength and #yBurning."],
-		"NAME": "Fire Wisp"
+		"DESCRIPTIONS": ["死亡时， 所有角色得到 #b", " 点 #y力量 和 #y燃烧。 "],
+		"NAME": "火焰精灵"
 	},
 	"animator:FlamingWeaponPower":
 	{
-		"DESCRIPTIONS": ["Whenever you deal unblocked damage to an enemy, apply #b", " #yBurning."],
-		"NAME": "Flaming Weapon"
+		"DESCRIPTIONS": ["每次破防时， 施加 #b", " 层 #y燃烧 。"],
+		"NAME": "炎刃"
 	},
 	"animator:FrostCrystalPower":
 	{
-		"DESCRIPTIONS": ["When targeted by a card, All other characters gain #b", " #yPlated #yArmor."],
-		"NAME": "Frost Crystal"
+		"DESCRIPTIONS": ["被指定为目标时，所有其他角色获得 #b", " 层 #y多重护甲 。"],
+		"NAME": "冰霜水晶"
 	},
 	"animator:FrostCubePower":
 	{
-		"DESCRIPTIONS": ["At the end of each turn, All allies gain #b", " #yPlated #yArmor."],
-		"NAME": "Frost Cube"
+		"DESCRIPTIONS": ["回合结束时， 所有队友获得 #b", " 层 #y多重护甲 。"],
+		"NAME": "冰霜立方"
 	},
 	"animator:FrostWispPower":
 	{
-		"DESCRIPTIONS": ["On death, All characters gain #b", " #yPlated #yArmor."],
-		"NAME": "Frost Wisp"
+		"DESCRIPTIONS": ["死亡时， 所有角色得到 #b", " 层 #y多重护甲 。"],
+		"NAME": "冰霜精灵"
 	},
 	"animator:GazelDwargonPower":
 	{
-		"DESCRIPTIONS": ["Maintain half of your #yBlock at the start of each turn."],
-		"NAME": "Gazel Dwargon"
+		"DESCRIPTIONS": ["回合开始时保留一半的 #y格挡 。"],
+		"NAME": "加泽尔·多瓦格"
 	},
 	"animator:GeassPower":
 	{
-		"DESCRIPTIONS": ["Will attack itself this turn."],
+		"DESCRIPTIONS": ["本回合攻击自身。"],
 		"NAME": "Geass"
 	},
 	"animator:GuildGirlPower":
 	{
-		"DESCRIPTIONS": ["At the start of your turn Cycle #b", " cards."],
-		"NAME": "Guild Girl"
+		"DESCRIPTIONS": ["回合开始时循环 #b", " 张牌。"],
+		"NAME": "柜台小姐"
 	},
 	"animator:HandSizePower":
 	{
-		"DESCRIPTIONS": ["Your current maximum hand size is #b", "."],
-		"NAME": "Hand Size"
+		"DESCRIPTIONS": ["你现在的手牌上限是 #b", "。"],
+		"NAME": "手牌上限"
 	},
 	"animator:HealingCrystalPower":
 	{
-		"DESCRIPTIONS": ["When targeted by a card, ALL other characters heal #b", " HP."],
-		"NAME": "Healing Crystal"
+		"DESCRIPTIONS": ["被指定为目标时，所有其他角色受到 #b", " 点 #y治疗 。"],
+		"NAME": "治疗水晶"
 	},
 	"animator:HealingCubePower":
 	{
-		"DESCRIPTIONS": ["At the end of each turn, ALL allies heal #b", " HP."],
-		"NAME": "Healing Cube"
+		"DESCRIPTIONS": ["回合结束时， 所有队友获得 #b", " 点 #y治疗 。"],
+		"NAME": "治疗立方"
 	},
 	"animator:HealingWispPower":
 	{
-		"DESCRIPTIONS": ["On death, ALL characters heal #b", " HP."],
-		"NAME": "Healing Wisp"
+		"DESCRIPTIONS": ["死亡时， 所有角色得到 #b", " 点 #y治疗 。"],
+		"NAME": "治疗精灵"
 	},
 	"animator:HigakiRinnePower":
 	{
