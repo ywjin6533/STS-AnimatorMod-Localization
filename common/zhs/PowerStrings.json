@@ -2,22 +2,22 @@
 {
 	"EYB:SelfDamagePower":
 	{
-		"DESCRIPTIONS": ["At the end of this turn, take #b", " damage."],
-		"NAME": "Self Damage"
+		"DESCRIPTIONS": ["回合结束时， 受到 #b", " 点伤害。"],
+		"NAME": "自虐"
 	},
 	"EYB:ForcePower":
 	{
-		"DESCRIPTIONS": ["At the start of each turn, lose #b1 #yForce and #yStrength."],
-		"NAME": "Force"
+		"DESCRIPTIONS": ["回合开始时， 失去 #b1 点 #y势 和 #y力量。"],
+		"NAME": "势"
 	},
 	"EYB:AgilityPower":
 	{
-		"DESCRIPTIONS": ["At the start of each turn, lose #b1 #yAgility and #yDexterity."],
-		"NAME": "Agility"
+		"DESCRIPTIONS": ["回合开始时， 失去 #b1 点 #y灵动 和 #y敏捷。"],
+		"NAME": "灵动"
 	},
 	"EYB:IntellectPower":
 	{
-		"DESCRIPTIONS": ["At the start of each turn, lose #b1 #yIntellect and #yFocus."],
-		"NAME": "Intellect"
+		"DESCRIPTIONS": ["回合开始时， 失去 #b1 点 #y智力 和 #y集中。"],
+		"NAME": "智力"
 	}
 }

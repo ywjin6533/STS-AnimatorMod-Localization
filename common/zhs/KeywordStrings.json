@@ -2,182 +2,182 @@
 {
 	"Aether":
 	{
-		"DESCRIPTION": "Orb: Deal #yPiercing damage to ALL enemies.",
-		"NAMES": ["aether", "aether+"],
-		"PROPER_NAME": "Aether"
+		"DESCRIPTION": "充能球: 对所有敌人造成 #y穿刺 伤害。",
+		"NAMES": ["以太", "以太+"],
+		"PROPER_NAME": "以太"
 	},
 	"Agility":
 	{
-		"DESCRIPTION": "When you gain or lose #yAgility, gain or lose that much #yDexterity. Lose #b1 #yAgility at the start of each turn.",
-		"NAMES": ["agility"],
-		"PROPER_NAME": "Agility"
+		"DESCRIPTION": "获得或失去 #y灵动 时， 获得或失去等量的 #y敏捷 。 每回合开始时失去 #b1 点 #y灵动 。",
+		"NAMES": ["灵动"],
+		"PROPER_NAME": "灵动"
 	},
 	"Blur":
 	{
-		"DESCRIPTION": "Your #yBlock will not be removed at the start of your next turn.",
-		"NAMES": ["blur"],
-		"PROPER_NAME": "Blur"
+		"DESCRIPTION": "你的下回合开始时 #y格挡 不会消失。",
+		"NAMES": ["残影"],
+		"PROPER_NAME": "残影"
 	},
 	"Burning":
 	{
-		"DESCRIPTION": "Take damage at the start of your turn. Also take #b4% more #yAttack damage per stack. Reduced by 1 each turn.",
-		"NAMES": ["burning"],
-		"PROPER_NAME": "Burning"
+		"DESCRIPTION": "没回合开始时受到伤害并受到每层 #b4% 的额外 #y攻击 伤害。 每回合减少一层。",
+		"NAMES": ["燃烧"],
+		"PROPER_NAME": "燃烧"
 	},
 	"Choked":
 	{
-		"DESCRIPTION": "Whenever you play a card this turn, the target loses 1 HP.",
-		"NAMES": ["choked"],
-		"PROPER_NAME": "Choked"
+		"DESCRIPTION": "回合内每打出一张牌， 目标敌人失去一点生命。",
+		"NAMES": ["勒脖"],
+		"PROPER_NAME": "勒脖"
 	},
 	"Constricted":
 	{
-		"DESCRIPTION": "Take damage at the end of each turn.",
-		"NAMES": ["constricted"],
-		"PROPER_NAME": "Constricted"
+		"DESCRIPTION": "每回合结束时受到伤害。",
+		"NAMES": ["压制"],
+		"PROPER_NAME": "压制"
 	},
 	"Cycle":
 	{
-		"DESCRIPTION": "Discard a certain number of cards then draw that many cards.",
-		"NAMES": ["cycle"],
-		"PROPER_NAME": "Cycle"
+		"DESCRIPTION": "弃掉若干牌然后抽取等量的牌。",
+		"NAMES": ["循环"],
+		"PROPER_NAME": "循环"
 	},
 	"Demon Form":
 	{
-		"DESCRIPTION": "Gain #yStrength at the start of each turn.",
-		"NAMES": ["demon form", "demon_form"],
-		"PROPER_NAME": "Demon Form"
+		"DESCRIPTION": "每回合开始时获得 #y力量 。",
+		"NAMES": ["恶魔形态", "恶魔形态"],
+		"PROPER_NAME": "恶魔形态"
 	},
 	"Discover":
 	{
-		"DESCRIPTION": "Choose 1 of 3 random cards to add to your hand. It costs 0 this turn.",
-		"NAMES": ["discover"],
-		"PROPER_NAME": "Discover"
+		"DESCRIPTION": "随机牌三选一加入手牌。 本回合0消耗。",
+		"NAMES": ["发现"],
+		"PROPER_NAME": "发现"
 	},
 	"Earth":
 	{
-		"DESCRIPTION": "Orb: Gain temporary #yThorns while #yChanneled. It is automatically #yEvoked after 3 turns and deals damage randomly split amongst ALL enemies.",
-		"NAMES": ["earth", "earth+"],
-		"PROPER_NAME": "Earth"
+		"DESCRIPTION": "充能球: #y生成 时获得临时 #y荆棘 。 3回合后自动 #y激发 并对所有敌人随机分配伤害。",
+		"NAMES": ["大地", "大地+"],
+		"PROPER_NAME": "大地"
 	},
 	"Enchanted Armor":
 	{
-		"DESCRIPTION": "Take less damage from ALL Sources. Further stacks are less effective.",
-		"NAMES": ["enchanted armor", "enchanted_armor", "ench. armor", "ench._armor"],
-		"PROPER_NAME": "Enchanted Armor"
+		"DESCRIPTION": "百分比减少来自任何来源的伤害。 高层数的效果不佳。",
+		"NAMES": ["自适应护甲", "自适应护甲", "自适应护甲", "自适应护甲"],
+		"PROPER_NAME": "自适应护甲"
 	},
 	"Envenom":
 	{
-		"DESCRIPTION": "Whenever an attack deals unblocked damage, apply #b1 #yPoison per stack.",
-		"NAMES": ["envenom"],
-		"PROPER_NAME": "Envenom"
+		"DESCRIPTION": "攻击破防时施加每层 #b1 点 #y中毒 。",
+		"NAMES": ["下毒"],
+		"PROPER_NAME": "下毒"
 	},
 	"Fire":
 	{
-		"DESCRIPTION": "Orb: Apply #yBurning and damage the highest health enemy.",
-		"NAMES": ["fire", "fire+"],
-		"PROPER_NAME": "Fire"
+		"DESCRIPTION": "充能球: 对生命值最高的敌人施加 #y燃烧 和伤害。",
+		"NAMES": ["火焰", "火焰+"],
+		"PROPER_NAME": "火焰"
 	},
 	"Flame Barrier":
 	{
-		"DESCRIPTION": "Whenever you are attacked this turn, deal #b1 damage back.",
-		"NAMES": ["flame barrier", "flame_barrier"],
-		"PROPER_NAME": "Flame Barrier"
+		"DESCRIPTION": "每当你这回合被攻击时， 造成 #b1 点反伤。",
+		"NAMES": ["火焰屏障", "火焰屏障"],
+		"PROPER_NAME": "火焰屏障"
 	},
 	"Flight":
 	{
-		"DESCRIPTION": "Take 50% less #yAttack damage. Lose 1 stack until end of turn when taking damage, the power is cancelled at 0 stacks.",
-		"NAMES": ["flight"],
-		"PROPER_NAME": "Flight"
+		"DESCRIPTION": "减少50%受到的 #y攻击 伤害。 回合内受到伤害时失去1层层数， 0层时失去此能力。",
+		"NAMES": ["飞行"],
+		"PROPER_NAME": "飞行"
 	},
 	"Force":
 	{
-		"DESCRIPTION": "When you gain or lose #yForce, gain or lose that much #yStrength. Lose #b1 #yForce at the start of each turn.",
-		"NAMES": ["force"],
-		"PROPER_NAME": "Force"
+		"DESCRIPTION": "获得或失去 #y势 时， 获得或失去等量的 #y力量 。 每回合开始时失去 #b1 点 #y势 。",
+		"NAMES": ["势"],
+		"PROPER_NAME": "势"
 	},
 	"Intellect":
 	{
-		"DESCRIPTION": "When you gain or lose #yIntellect, gain or lose that much #yFocus. Lose #b1 #yIntellect at the start of each turn.",
-		"NAMES": ["intellect"],
-		"PROPER_NAME": "Intellect"
+		"DESCRIPTION": "获得或失去 #y智力 时， 获得或失去等量的 #y集中 。 每回合开始时失去 #b1 点 #y智力 。",
+		"NAMES": ["智力"],
+		"PROPER_NAME": "智力"
 	},
 	"Juggernaut":
 	{
-		"DESCRIPTION": "Whenever you gain #yBlock, deal damage to a random enemy.",
-		"NAMES": ["juggernaut"],
-		"PROPER_NAME": "Juggernaut"
+		"DESCRIPTION": "每当获得 #y格挡 时， 对随机敌人造成伤害。",
+		"NAMES": ["势不可挡"],
+		"PROPER_NAME": "势不可挡"
 	},
 	"Limited":
 	{
-		"DESCRIPTION": "This effect can only trigger once per combat, across all copies of this card.",
-		"NAMES": ["limited"],
-		"PROPER_NAME": "Limited"
+		"DESCRIPTION": "一场战斗中， 此效果仅能触发一次。 包含所有同名牌。",
+		"NAMES": ["限定"],
+		"PROPER_NAME": "限定"
 	},
 	"Malleable":
 	{
-		"DESCRIPTION": "Upon receiving attack damage, gain #yBlock. #yBlock gain increases as this power is triggered. Resets at the start of your turn.",
-		"NAMES": ["malleable"],
-		"PROPER_NAME": "Malleable"
+		"DESCRIPTION": "受到伤害时得到 #y格挡 。 每次触发都得到更多 #y格挡 。 回合开始时重置。",
+		"NAMES": ["千锤百炼"],
+		"PROPER_NAME": "千锤百炼"
 	},
 	"Metallicize":
 	{
-		"DESCRIPTION": "Gain #yBlock at the start of your turn.",
-		"NAMES": ["metallicize"],
-		"PROPER_NAME": "Metallicize"
+		"DESCRIPTION": "回合结束时得到 #y格挡 。",
+		"NAMES": ["金属化"],
+		"PROPER_NAME": "金属化"
 	},
 	"Piercing":
 	{
-		"DESCRIPTION": "Ignore the target's #yBlock and #yThorns.",
-		"NAMES": ["piercing"],
-		"PROPER_NAME": "Piercing"
+		"DESCRIPTION": "无视目标的 #y格挡 和 #y荆棘 。",
+		"NAMES": ["穿刺"],
+		"PROPER_NAME": "穿刺"
 	},
 	"Plated Armor":
 	{
-		"DESCRIPTION": "Gain #yBlock at the end of your turn. Reduced by #b1 when receiving unblocked damage.",
-		"NAMES": ["plated armor", "plated_armor"],
-		"PROPER_NAME": "Plated Armor"
+		"DESCRIPTION": "回合结束时获得 #y护甲 。 每次经受伤害减少 #b1 层层数。",
+		"NAMES": ["多重护甲", "多重护甲"],
+		"PROPER_NAME": "多重护甲"
 	},
 	"Rebound":
 	{
-		"DESCRIPTION": "Put the next card you play this turn on top of your draw pile.",
-		"NAMES": ["rebound"],
-		"PROPER_NAME": "Rebound"
+		"DESCRIPTION": "将本回合下一张打出的牌放到抽牌堆顶。",
+		"NAMES": ["弹回"],
+		"PROPER_NAME": "弹回"
 	},
 	"Semi-Limited":
 	{
-		"DESCRIPTION": "This effect can only trigger once per turn, across all copies of this card.",
-		"NAMES": ["semi-limited"],
-		"PROPER_NAME": "Semi-Limited"
+		"DESCRIPTION": "一个回合内， 此效果仅能触发一次。 包含所有同名牌。",
+		"NAMES": ["单发"],
+		"PROPER_NAME": "单发"
 	},
 	"Slow":
 	{
-		"DESCRIPTION": "For every card you have played this turn, enemy takes #b10% more damage from #yAttacks.",
-		"NAMES": ["slow"],
-		"PROPER_NAME": "Slow"
+		"DESCRIPTION": "回合内每打出一张牌， 敌人受到的 #y攻击 伤害增加 #b10% 。",
+		"NAMES": ["缓慢"],
+		"PROPER_NAME": "缓慢"
 	},
 	"Stun":
 	{
-		"DESCRIPTION": "Cannot act for #b1 turn.",
-		"NAMES": ["stun", "stunned", "stslib:stunned"],
-		"PROPER_NAME": "Stun"
+		"DESCRIPTION": " #b1 回合不能行动。",
+		"NAMES": ["眩晕", "眩晕", "stslib:stunned"],
+		"PROPER_NAME": "眩晕"
 	},
 	"Temporary HP":
 	{
-		"DESCRIPTION": "Temporary HP disappears at the end of combat.",
-		"NAMES": ["temporary hp", "temporary_hp", "temp. hp", "temp._hp"],
-		"PROPER_NAME": "Temporary HP"
+		"DESCRIPTION": "临时生命在战斗结束后消失。",
+		"NAMES": ["临时生命", "临时生命", "temp. hp", "temp._hp"],
+		"PROPER_NAME": "临时生命"
 	},
 	"~Preview":
 	{
-		"DESCRIPTION": "Press #pSHIFT to view related cards.",
+		"DESCRIPTION": "按 #pSHIFT 键浏览相关卡牌。",
 		"NAMES": ["~"],
-		"PROPER_NAME": "Card Preview"
+		"PROPER_NAME": "卡牌预览"
 	},
 	"~Unique":
 	{
-		"DESCRIPTION": "Can be upgraded any number of times. You can only have 1 copy of this card in your deck, additional copies will #yUpgrade this card instead.",
+		"DESCRIPTION": "可以多次 #y升级 。 此牌在卡组中只能存在一张， 多余的复制将视为此牌的一次 #y升级 。",
 		"NAMES": ["~"],
-		"PROPER_NAME": "Unique"
+		"PROPER_NAME": "特殊"
 	}
 }

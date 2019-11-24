@@ -4,12 +4,12 @@
   {
 	"TEXT":
 	[
-	  "You can hold #pRight #pClick at any moment to view this effect or you can press #pControl to toggle.",
-	  "Triggers on Synergy.",
-	  "Triggers when Discarded.",
-	  "Triggers when Exhausted.",
-	  "Triggers when Drawn.",
-	  "Special Effect."
+	  "可以随时在屏幕上的任意位置 #b单击鼠标右键 进行查看， 或按 #bControl 键切换。",
+	  "同调时触发。",
+	  "丢弃时触发。",
+	  "消耗时触发。",
+	  "抽到时触发。",
+	  "特殊效果。"
 	]
   }
 }

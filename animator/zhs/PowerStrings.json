@@ -2,33 +2,33 @@
 {
 	"animator:AinzPower":
 	{
-		"DESCRIPTIONS": ["At the start of your turn activate 1 of 4 random effects #b", " time/s."],
-		"NAME": "Ainz Ooal Gown"
+		"DESCRIPTIONS": ["在你的回合开始时 #b", " 次激活四种随机效果中的一种。"],
+		"NAME": "安兹·乌尔·恭"
 	},
 	"animator:ArcherPower":
 	{
-		"DESCRIPTIONS": ["At the end of your turn, deal #b", " damage to all enemies for each Debuff they have."],
+		"DESCRIPTIONS": ["在你的回合结束时，所有敌人每有一种debuff就对他们造成 #b", " 点伤害。"],
 		"NAME": "Archer"
 	},
 	"animator:AzrielPower":
 	{
-		"DESCRIPTIONS": ["Whenever you apply a debuff, gain #b", " Strength."],
-		"NAME": "Azriel"
+		"DESCRIPTIONS": ["每当你施加debuff时，得到 #b", " 点力量。"],
+		"NAME": "阿兹莉尔"
 	},
 	"animator:BiyorigoPower":
 	{
-		"DESCRIPTIONS": ["Whenever you gain #yDexterity, also gain #b", " #yForce."],
-		"NAME": "Bito Kanzashi"
+		"DESCRIPTIONS": ["每当你得到 #y敏捷 时，也得到 #b", " 点 #y势 。"],
+		"NAME": "微刀・钗"
 	},
 	"animator:BorosPower":
 	{
-		"DESCRIPTIONS": ["All #yPowers are played twice."],
-		"NAME": "Boros"
+		"DESCRIPTIONS": ["所有能力被打出两次。"],
+		"NAME": "波罗斯"
 	},
 	"animator:BozesPower":
 	{
-		"DESCRIPTIONS": ["When a card #ySynergizes, gain #b", " #yPlated #yArmor."],
-		"NAME": "Bozes Co Palesti"
+		"DESCRIPTIONS": ["同调时得到 #b", " 层 #y多重护甲。"],
+		"NAME": "波赛斯·戈·芭蕾丝蒂"
 	},
 	"animator:BurningPower":
 	{
