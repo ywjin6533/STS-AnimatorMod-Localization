@@ -1,10 +1,10 @@
 {
-  "animator:FalseLifePotion": 
+  "animator:FalseLifePotion":
   {
-    "NAME": "False Life Potion",
-    "DESCRIPTIONS": 
-	[ 
-      "Gain #b"," #yTemporary #yHP."
+    "NAME": "虚命药剂",
+    "DESCRIPTIONS":
+	[
+      "获得 #b"," 点 #y临时生命 。"
     ]
   }
 }
