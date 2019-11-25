@@ -2,175 +2,175 @@
 {
 	"animator:AcuraAkari":
 	{
-		"DESCRIPTION": "Discard 2 cards NL to obtain !M! NL Throwing-Knives. || Semi-Limited. NL On Synergy, gain NL !SV! Temporary NL Envenom.",
+		"DESCRIPTION": "丢弃 2 张牌 NL 获得 !M! NL 张飞刀。 || 单发。 NL 同调时获得 NL !SV! 点临时 NL 涂毒 。",
 		"NAME": "阿卡莉"
 	},
 	"animator:AcuraShin":
 	{
-		"DESCRIPTION": "Apply !M! Poison. NL Deal !D! Piercing NL damage twice. || Whenever you apply Poison this combat, apply 1 additional Poison.",
+		"DESCRIPTION": "施加 !M! 中毒。 NL 造成 !D! 点穿透 NL 伤害两次。 || 每当施加中毒时， NL 额外施加一层中毒 。",
 		"NAME": "辛·亚裘拉"
 	},
 	"animator:AcuraTooru":
 	{
-		"DESCRIPTION": "Deal !D! damage NL twice. Obtain !SV! NL Throwing-Knives. || On Synergy, NL or when Discarded, NL gain !M! Block.",
+		"DESCRIPTION": "造成 !D! 点伤害两次。 NL 获得 !SV! NL 张飞刀。 || 同调时， NL 或者弃牌时， NL 获得 !M! 点格挡 。",
 		"NAME": "托鲁"
 	},
 	"animator:Add":
 	{
-		"DESCRIPTION": "Ethereal. NL Exhaust 1 card NL anywhere. Replace it NL with an Orb_Core. NL Exhaust. || On Synergy, NL double your NL Energy.",
+		"DESCRIPTION": "虚无。 NL 从任何地方选择 NL 消耗 1 张牌。 将这张牌替换为 NL 一张 充能球核心 。 NL 消耗。 || 同调时， NL 使能量 NL 翻倍。",
 		"NAME": "艾迪",
-		"UPGRADE_DESCRIPTION": "Exhaust 1 card anywhere. Replace it with an Orb_Core. Exhaust. || On Synergy, NL double your NL Energy."
+		"UPGRADE_DESCRIPTION": "从任何地方选择 NL 消耗 1 张牌。 将这张牌替换为 NL 一张 充能球核心 。 NL 消耗。 || 同调时， NL 使能量 NL 翻倍。"
 	},
 	"animator:Ain":
 	{
-		"DESCRIPTION": "Spellcaster. NL Deal !D! damage NL to ALL enemies NL !M! times. || Semi-Limited. NL On Synergy, or NL when Discarded, NL gain !SV! Intellect.",
+		"DESCRIPTION": "法师 。 NL 对所有敌人造成 NL 造成 !D! 点伤害 NL !M! 次 。 || 单发。 NL 同调时， NL 或者弃牌时， NL 获得 !SV! 专注 。",
 		"NAME": "艾因"
 	},
 	"animator:Ainz":
 	{
-		"DESCRIPTION": "At the start of your NL turn, choose and NL execute 1 of 4 NL random #yEffects. || When Drawn, reduce NL this card's cost by NL 1, then randomly NL gain 1 Intellect, NL Force or Agility.",
+		"DESCRIPTION": "回合开始时， NL 四种随机 #y效果 NL 中选择一种触发 。 || 抽到时， 减少 NL 这张牌的耗能 NL 1点， 然后随机 NL 获得 1点 专注， NL 爆发 或者 专注 。",
 		"NAME": "安兹·乌尔·恭"
 	},
 	"animator:Aisha":
 	{
-		"DESCRIPTION": "Spellcaster. NL Deal !D! damage NL for each Orb NL you have. || Limited. NL If you don't have NL any empty Orb Slot, NL gain 1 Orb Slot.",
+		"DESCRIPTION": "法师 。 NL 每有一个充能球， NL 造成 !D! 点伤害 。 || 限定。 NL 如果没有充能球栏位， NL 获得 1 个充能球栏位。",
 		"NAME": "爱莎‧蓝塔"
 	},
 	"animator:Albedo":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL Gain that much NL Enchanted_Armor. || If you played NL #yAinz[] #yOoal[] #yGown[] NL this combat, this NL card is Loyal.",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 获得等同于伤害值的 NL 魔法护甲 。 || 如果本场战斗中 NL 打出过 #y安兹·乌尔·恭 ， NL 此牌获得 忠诚 。",
 		"NAME": "雅儿贝德"
 	},
 	"animator:Alexander":
 	{
-		"DESCRIPTION": "Deal !D! damage NL to ALL enemies. NL Gain 1 Force. || When Exhausted, NL Deal !M! damage NL to ALL enemies.",
+		"DESCRIPTION": "对所有敌人 NL 造成 !D! 点伤害。 NL 获得 1 点 爆发 。 || 遗赠 : NL 对所有敌人 NL 造成 !M! 点伤害。",
 		"NAME": "亚历山大大帝"
 	},
 	"animator:Aqua":
 	{
-		"DESCRIPTION": "Heal !M! HP. NL Draw 1 card. NL Becomes useless for the rest of this combat.",
-		"EXTENDED_DESCRIPTION": ["", "When this card is Exhausted or discarded, gain !SV! Temp._HP."],
+		"DESCRIPTION": "回复 !M! 点生命。 NL 抽 1 张牌。 NL 在本场战斗中变成 NL 无用的废物。",
+		"EXTENDED_DESCRIPTION": ["", " 遗赠 或 召回 ： NL 获得 !SV! 点 暂时性生命 。"],
 		"NAME": "阿库娅",
-		"UPGRADE_DESCRIPTION": "Heal !M! HP. NL Draw 1 card. NL Becomes slightly less useless for the rest of this combat."
+		"UPGRADE_DESCRIPTION": "回复 !M! 点生命。 NL 抽 1 张牌。 NL 在本场战斗中变成 NL 有用的废物。"
 	},
 	"animator:Ara":
 	{
-		"DESCRIPTION": "Martial_Artist. NL Deal !D! damage twice. NL Draw 1 card for every NL Debuff on the enemy. NL Discard 1 card. || Semi-Limited. NL If you discarded a #yPower[], gain 1 Agility and 2 Force.",
+		"DESCRIPTION": "武师。 NL 造成 !D! 点伤害 2 次 。 NL 敌人每有一种负面效果， NL 抽 1 张牌。 NL 丢弃 1 张牌 。 || 单发。 NL 如果你丢弃的是 NL #y能力牌 ， NL 获得 1 点 灵动 ，2 点 爆发 。",
 		"NAME": "爱拉"
 	},
 	"animator:Archer":
 	{
-		"DESCRIPTION": "At the end of your turn, deal !M! damage to all enemies for each #yDebuff[] they have. || On Synergy, NL apply 1 Vulnerable NL to ALL enemies.",
+		"DESCRIPTION": "在你的回合结束时 ， NL 敌人每有一种负面效果 NL 就对所有敌人 NL 造成 !M! 点伤害 。|| 同调时， NL 对所有敌人 NL 施加 1 层 易伤 。",
 		"NAME": "Archer"
 	},
 	"animator:Arpeggio":
 	{
-		"DESCRIPTION": "Spellcaster 6. NL Gain !M! Intellect. NL Exhaust. || On Synergy, NL Channel 1 Earth.",
+		"DESCRIPTION": "法师 6 。 NL 获得 !M! 点 专注 。 NL 消耗。 || 同调时，NL 生成 1 个 大地 充能球。",
 		"NAME": "阿尔蓓吉欧",
-		"UPGRADE_DESCRIPTION": "Spellcaster 6. NL Gain !M! Intellect. NL Gain !SV! Orb Slot. NL Exhaust. || On Synergy, NL Channel 1 Earth."
+		"UPGRADE_DESCRIPTION": "法师 6 。 NL 获得 !M! 点 专注 。 NL 获得 !SV! 个充能球栏位。 NL 消耗。 || 同调时， NL 生成 1 个 大地 充能球。"
 	},
 	"animator:Asuramaru":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Gain !M! Demon_Form. NL Gain !M! Intellect. NL Gain !M! Agility. NL Exhaust.",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 获得 !M! 层 恶魔形态， NL 获得 !M! 点 专注 和 灵动 。 NL 消耗。",
 		"NAME": "阿朱罗丸"
 	},
 	"animator:Azekura":
 	{
-		"DESCRIPTION": "Martial_Artist 2. NL Gain !B! Block twice. Gain !M! Temporary Thorns. || On Synergy, or NL when Exhausted, gain NL !SV! Plated_Armor.",
+		"DESCRIPTION": "武师 2 。 NL 获得 !B! 点 格挡 2 次 。 NL 获得 !M! 层 临时荆棘 。 || 同调 或 遗赠 ： NL 获得 !SV! 层 多层装甲 。",
 		"NAME": "校仓必"
 	},
 	"animator:Azriel":
 	{
-		"DESCRIPTION": "Ethereal. NL Gain 2 Flight. || Whenever you NL apply a #yDebuff[], NL gain !M! Strength.",
+		"DESCRIPTION": "虚无。 NL 获得 2 层 飞行 。 || 每当对敌人施加 NL #y负面效果 时， NL 获得 !M! 点 力量 。",
 		"NAME": "阿兹列尔",
-		"UPGRADE_DESCRIPTION": "Gain 2 Flight. || Whenever you NL apply a #yDebuff[], NL gain !M! Strength."
+		"UPGRADE_DESCRIPTION": "获得 2 层 飞行 。 || 每当对敌人施加 NL #y负面效果 时， NL 获得 !M! 点 力量 。"
 	},
 	"animator:Benimaru":
 	{
-		"DESCRIPTION": "Channel 1 Fire. NL Deal !D! damage NL to ALL enemies. || Gain !M! Temp._HP NL for each enemy NL with Burning.",
+		"DESCRIPTION": "生成 1 个 烈火 充能球 。 NL 对所有敌人造成 NL !D! 点伤害。 || 每有一个带有 燃烧 的敌人， NL 获得 !M! 点 暂时性生命 。",
 		"NAME": "红丸"
 	},
 	"animator:Berserker":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable. NL Gain !M! Force. || If the enemy dies NL or loses its Block, NL gain !SV! Block.",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 施加 !M! 层 易伤 。 NL 获得 !M! 点 爆发 。 || 如果这张牌杀死了敌人 NL 或者打破格挡 ， NL 获得 !SV!点 格挡 。",
 		"NAME": "Berserker"
 	},
 	"animator:Biyorigo":
 	{
-		"DESCRIPTION": "Gain !M! Artifact. NL Whenever you gain NL 1 or more Dexterity, NL also gain 1 Force.",
+		"DESCRIPTION": "获得 !M! 层 人工制品 。 NL 每获得一次敏捷， NL 则获得 1 点 爆发。",
 		"NAME": "微刀・钗"
 	},
 	"animator:BlackLotus":
 	{
-		"DESCRIPTION": "Deal !D! damage to NL ALL enemies. NL Gain !B! Block. NL Gain !M! Blur.",
+		"DESCRIPTION": "对所有敌人 NL 造成 !D! 点伤害。 NL 获得 !B! 点 格挡。 NL 获得 !M! 层 残影。",
 		"NAME": "黑莲花"
 	},
 	"animator:Boros":
 	{
-		"DESCRIPTION": "All #yPowers[] are NL played twice. || When Drawn, NL gain !M! Temp._HP NL and !SV! Force.",
+		"DESCRIPTION": "所有 #y能力 牌 NL 会被打出两次。 || 被抽到时， NL 获得 !M! 点 临时生命 NL 以及 !SV! 点爆发。",
 		"NAME": "波罗斯"
 	},
 	"animator:Bozes":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Motivate !M!. NL Exhaust. || Whenever a NL card Synergizes NL this turn, gain !SV! NL Support_Damage.",
+		"DESCRIPTION": "造成 !D! 点 伤害。 NL 激励 !M! 。 NL 消耗。 || 本回合每次 同调 ， NL 获得 !SV! 点 NL 支援伤害 。",
 		"NAME": "波赛斯"
 	},
 	"animator:Caster":
 	{
-		"DESCRIPTION": "Spellcaster 2. NL Steal !M! Strength NL until end of turn. NL #yChannel 1 Dark. || When Exhausted, NL Evoke ALL your NL Dark Orbs.",
+		"DESCRIPTION": "法师 2 。 NL 本回合从敌人身上 NL 夺取 !M! 点 力量。 NL #y生成 1 个 NL 黑暗 充能球。 || 遗赠 : NL 激发所有的 NL 暗黑 充能球。",
 		"NAME": "Caster"
 	},
 	"animator:ChaikaBohdan":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL If your hand NL is empty, draw NL !M! cards. || Whenever you hit an enemy while this is in your hand, gain !SV! additional damage until played.",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 如果你的手牌为空， NL 抽!M! 张牌 。 || 若此牌位于手牌中， NL 每攻击一名敌人， NL 此牌在打出前 NL 获得 !SV! 点额外伤害。",
 		"NAME": "嘉依卡·布芙丹"
 	},
 	"animator:ChaikaTrabant":
 	{
-		"DESCRIPTION": "Next turn, deal !D! damage and apply !SV! random #yDebuffs. || When Discarded, NL deal !M! damage NL to ALL enemies.",
+		"DESCRIPTION": "下一回合，造成 !D! 点伤害并施加 !SV! 个随机 #y负面效果 。 || 召回 : 对所有敌人 NL 造成 !M! 点伤害。",
 		"NAME": "嘉依卡·托勒庞特"
 	},
 	"animator:ChlammyZell":
 	{
-		"DESCRIPTION": "Draw 1 card. NL Gain !SV! Intellect. NL Exhaust. || When you play NL alternating card types NL this turn, Cycle 1 card NL and deal !M! damage to NL ALL enemies.",
+		"DESCRIPTION": "抽 1 张牌。 NL 得到 !SV! 点专注。 NL 消耗。 || 当你交替打出不同类型的牌时， NL 循环 1 张牌并对所有敌人 NL 造成 !M! 点伤害。",
 		"NAME": "克拉米·杰尔"
 	},
 	"animator:Chomusuke":
 	{
-		"DESCRIPTION": "Retain. || Semi-Limited. NL When Exhausted, NL return this card NL to your hand and NL gain [E] [E]",
+		"DESCRIPTION": "保留。 || 单发。 NL 遗赠： NL 将这张牌返回手牌 NL 并获得 [E] [E] 。",
 		"NAME": "豆之助",
-		"UPGRADE_DESCRIPTION": "Innate. NL Retain. || Semi-Limited. NL When Exhausted, NL return this card NL to your hand and NL gain [E] [E]"
+		"UPGRADE_DESCRIPTION": "固有。 NL 保留。 || 单发。 NL 遗赠： NL 将这张牌返回手牌 NL 并获得 [E] [E] 。"
 	},
 	"animator:Chris":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL #ySteal[] !M! #yGold. || When Discarded, NL draw a #y0-Cost[] NL card.",
-		"EXTENDED_DESCRIPTION": ["Steal", "You can steal up to 50 #yGold from a boss, 25 #yGold from an elite, or 10 #yGold from other non-minion enemies."],
+		"DESCRIPTION": "造成 !D! 点 伤害。 NL #y偷窃 !M! 个 #y金币 。 || 召回： NL 抽 1 张 0 耗能的牌。",
+		"EXTENDED_DESCRIPTION": ["偷窃", "最多偷boss 50 金币；最多偷boss 25 金币, 或者 最多偷非爪牙 10 #y金币 。"],
 		"NAME": "克里斯"
 	},
 	"animator:Chung":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Decrease this NL card's Block by NL !M! this combat. || When Exhausted, NL Channel 1 Frost.",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 本场战斗中降低这张牌 NL 的 格挡 !M! 点。 || 遗赠： NL 生成 1 个 冰霜 充能球。",
 		"NAME": "澄"
 	},
 	"animator:Cocytus":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Gain 1 Force. NL Strength affects this NL card !M! times. || On Synergy, NL randomly gain 1 NL Plated_Armor or NL 1 Thorns.",
+		"DESCRIPTION": "造成 !D! 点 伤害。 NL 获得 1 点爆发。 NL 力量影响此卡 NL !M! 次。 || 同调： NL 随机获得 1 NL 层 多重护甲 NL 或者 1 层 荆棘 。",
 		"NAME": "科赛特斯"
 	},
 	"animator:CowGirl":
 	{
-		"DESCRIPTION": "Fetch a #y0-Cost[] card NL from your draw pile. NL Exhaust. || Limited. NL When Discarded, NL Motivate 1.",
+		"DESCRIPTION": "从抽牌堆 NL 检索一张 #y0耗能 的牌。 NL 消耗。 || 限定: NL 召回时 NL 激励 1 。",
 		"NAME": "奶牛妹",
-		"UPGRADE_DESCRIPTION": "Fetch a #y0-Cost[] card NL from your draw NL or discard pile. NL Exhaust. || Limited. NL When Discarded, NL Motivate 1."
+		"UPGRADE_DESCRIPTION": "从抽牌堆和弃牌堆 NL 检索一张 #y0耗能 的牌。 NL 消耗。 || 限定: NL 召回时 NL 激励 1 。"
 	},
 	"animator:CrowleyEusford":
 	{
-		"DESCRIPTION": "Heal !M! HP. NL Deal !D! damage to NL a random enemy. NL Exhaust. || Costs 1 less for NL each card that NL was Exhausted NL this turn.",
+		"DESCRIPTION": "治疗 !M! 点生命。NL 对一名随机敌人造成 NL !D! 点伤害。 NL 消耗 。 || 本回合， 你每 消耗 NL 一张牌，这张牌的耗能 NL 就减少 1 。",
 		"NAME": "克劳利·尤斯福德"
 	},
 	"animator:Crystallize":
 	{
-		"DESCRIPTION": "Lose !SV! HP. NL Gain !M! Metallicize. NL Exhaust.",
+		"DESCRIPTION": "失去 !SV! 生命。 NL 获得 !M! 层 金属化 。 消耗 。",
 		"NAME": "晶体化"
 	},
 	"animator:Cthulhu":
@@ -180,240 +180,240 @@
 	},
 	"animator:Curse_Greed":
 	{
-		"DESCRIPTION": "Unplayable. NL When drawn, raise NL the cost of a random NL card in your hand NL by 1 this turn.",
+		"DESCRIPTION": "无法打出。 NL 被抽到时， NL 本回合提高 NL 随机一张手牌的 NL 耗能 1 点。",
 		"NAME": "贪婪"
 	},
 	"animator:Curse_Nutcracker":
 	{
-		"DESCRIPTION": "Unplayable. NL At the end of your NL turn, ALL enemies NL heal !M! HP.",
+		"DESCRIPTION": "无法打出。 NL 回合结束时 NL ， 所有敌人治疗 NL !M! 点生命值。",
 		"NAME": "胡桃夹子"
 	},
 	"animator:Darkness":
 	{
-		"DESCRIPTION": "Gain !B! Block and NL !M! Plated_Armor. || The next time you NL take damage, add 1 NL #yAdrenaline to your NL draw pile.",
+		"DESCRIPTION": "获得 !B! 点格挡和 NL !M! 点 多层护甲 。 || 下次受伤时， NL 在抽牌堆里添加 NL 一张 #y肾上腺素 。",
 		"NAME": "达克妮丝"
 	},
 	"animator:DarknessAdrenaline":
 	{
-		"DESCRIPTION": "Gain [E]. NL Draw 2 cards. NL Exhaust.",
+		"DESCRIPTION": "获得 [E] 。 NL 抽 2 牌。 NL 消耗 。",
 		"NAME": "肾上腺素",
-		"UPGRADE_DESCRIPTION": "Gain [E] [E]. NL Draw 2 cards. NL Exhaust."
+		"UPGRADE_DESCRIPTION": "获得 [E] [E] 。 NL 抽 2 牌 。 NL 消耗 。"
 	},
 	"animator:Defend":
 	{
-		"DESCRIPTION": "Gain !B! Block.",
+		"DESCRIPTION": "获得 !B! 点 格挡 。",
 		"NAME": "防御"
 	},
 	"animator:Defend_AccelWorld":
 	{
-		"DESCRIPTION": "Gain !B! Block. || When Discarded, NL gain !M! Block.",
+		"DESCRIPTION": "获得 !B! 点 格挡 。|| 召回 : NL 获得 !M! 点 格挡 。",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_Elsword":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Next turn, NL gain !M! Block.",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 下一回合，获得 !M! 点 格挡 。",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_Fate":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Gain !M! additional NL Block for each enemy.",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 每个敌人使你额外获得 !M! 点 格挡 。",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_FullmetalAlchemist":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Cooldown !SV!: NL #yChannel[] 1 Frost.",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 预热 !SV! : 生成 1 个 冰霜 充能球。",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_GATE":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Retain.",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 保留 。",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_GoblinSlayer":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Exhaust.",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 消耗 。",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_HitsugiNoChaika":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Cycle 1 card.",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 循环 1 张牌 。",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_Kancolle":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Limited: NL Gain !M! #yGold[].",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 限定: NL 获得 !M! 金币 。",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_Katanagatari":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Gain !M! temporary Thorns.",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 获得 !M! 层 NL 临时荆棘 。",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_Konosuba":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Gain !M! Temp._HP.",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 限定: NL 回复 !M! 临时生命。",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_NoGameNoLife":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Retain your leftmost NL playable card.",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 保留 最左侧的 NL 可打出的牌 。",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_OnePunchMan":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Limited : Next NL turn, gain [E].",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 限定: 下一回合， NL 获得 [E] 。",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_Overlord":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Increase this NL card's Block by !M! NL this combat.",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 本场战斗中， NL 这张牌的格挡 NL 提高 !M! 点 。",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_OwariNoSeraph":
 	{
-		"DESCRIPTION": "Gain !B! Block. || When Exhausted, NL apply !M! Weak NL to ALL enemies.",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 || 遗赠 :  NL 给予所有敌人 NL !M! 层 虚弱 。",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_TenSura":
 	{
-		"DESCRIPTION": "Gain !B! Block twice.",
+		"DESCRIPTION": "获得 !B! 点 NL 格挡 2 次 。",
 		"NAME": "改良防御"
 	},
 	"animator:Demiurge":
 	{
-		"DESCRIPTION": "Gain [E]. NL Take !M! damage at NL the end of turn. || When Exhausted, NL Cycle 1 card and NL gain 1 Energy.",
+		"DESCRIPTION": "获得 [E] 。 NL 在本回合结束时， NL 受到 !M! 点伤害。 || 遗赠: NL 循环 1 张牌并 NL 获得 1 点 能量 。",
 		"NAME": "迪米乌哥斯",
-		"UPGRADE_DESCRIPTION": "Gain [E]. NL Discard 1 card or NL take !M! damage at NL the end of turn. || When Exhausted, NL Cycle 1 card and NL gain 1 Energy."
+		"UPGRADE_DESCRIPTION": "获得 [E] 。NL 丢 1 张牌或 在本回合结束时， NL 受到 !M! 点伤害。 || 遗赠: NL 循环 1 张牌并 NL 获得 1 点 能量 。"
 	},
 	"animator:DolaCouronne":
 	{
-		"DESCRIPTION": "Discard 1 card. NL Gain !B! Block. || Limited. NL When Exhausted, NL gain !M! Block NL and 1 Artifact.",
+		"DESCRIPTION": "丢 1 张牌。 NL 获得 !B! 点 格挡 。 || 限定。 NL 遗赠: NL 获得 !M! 点格挡 NL 和 1 层 人工制品 。",
 		"NAME": "克洛妮"
 	},
 	"animator:DolaRiku":
 	{
-		"DESCRIPTION": "Exhaust a card in your NL hand, choose and NL obtain 1 of !M! cards of NL the same rarity, NL it costs 1 less. || On Synergy, draw NL a #y0-Cost[] card.",
+		"DESCRIPTION": "消耗一张手牌 NL 从 !M! 张牌中选择 NL 并获得相同 NL 稀有度的 1 张牌， NL 它的费用减少 1 点。 || 同调： 抽 1 张 NL #y0耗能 牌。",
 		"NAME": "里克"
 	},
 	"animator:DolaSchwi":
 	{
-		"DESCRIPTION": "Apply !M! Lock-On. NL Cooldown !SV! : NL Deal !D! damage. || On Synergy, NL Channel 1 Lightning.",
+		"DESCRIPTION": "施加 !M! 层 跟踪锁定。 NL 冷却 !SV! : NL 造成 !D! 点伤害。 || 同调： NL 生成 1 个闪电 充能球 。",
 		"NAME": "休比"
 	},
 	"animator:DolaStephanie":
 	{
-		"DESCRIPTION": "Choose a card in your hand, Fetch 1 card with the same Synergy from your draw pile. Exhaust.",
+		"DESCRIPTION": "选择一张手牌， NL 抽取 1 张 NL 同系列的牌。 NL 消耗 。",
 		"NAME": "史蒂芬妮·多拉",
-		"UPGRADE_DESCRIPTION": "Choose a card in your hand, Fetch 1 card with the same Synergy from your draw pile."
+		"UPGRADE_DESCRIPTION": "选择一张手牌， NL 抽取 1 张 NL 同系列的牌。"
 	},
 	"animator:DwarfShaman":
 	{
-		"DESCRIPTION": "Spellcaster. NL Deal !D! damage. NL Channel 1 Earth. || On Synergy, NL draw a card and NL Upgrade it.",
+		"DESCRIPTION": "法师。 NL 造成 !D! 点伤害。 NL 生成 1 个 大地 充能球 。 || 同调 : NL 抽 1 张牌 NL 并 升级 。",
 		"NAME": "矮人萨满"
 	},
 	"animator:Elesis":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Gain !M! Agility. NL Gain !M! Force. NL Exhaust. || When Drawn or NL Discarded, increase NL this card's damage NL by !SV! this combat.",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 获得 !M! 点 NL 灵动 和 爆发 。 NL 消耗 。|| 抽到或 召回 ： NL 这场战斗中， NL 增加 !SV! 点伤害。",
 		"NAME": "爱利西斯"
 	},
 	"animator:ElricAlphonse":
 	{
-		"DESCRIPTION": "#yEthereal[]. NL If you have !M! NL or less Intellect, NL gain 1 Intellect. || When Exhausted, add NL #yArmored #yAlphonse to NL your discard pile.",
+		"DESCRIPTION": "#y虚无 。 NL 如果你有不超过 NL !M! 点 集中 ， NL 获得 1 点 集中 。 || 消耗 ： NL 增加 #y阿尔冯斯护甲 NL 到弃牌堆。",
 		"NAME": "阿尔冯斯"
 	},
 	"animator:ElricAlphonseAlt":
 	{
-		"DESCRIPTION": "Channel 1 Lightning. NL Gain !M! Plated_Armor. NL Exhaust. || On Synergy, NL gain 1 Orb Slot.",
+		"DESCRIPTION": "生成 1 个闪电充能球 。NL 获得 !M! 层 多层护甲 。 NL 消耗 。|| 同调 : 获得 NL 1 个 充能槽 。",
 		"NAME": "阿尔冯斯护甲"
 	},
 	"animator:ElricEdward":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Cycle 1 card. || #yChannel[] 1 Orb NL based on the card NL you cycled.",
-		"EXTENDED_DESCRIPTION": ["Bonus Effect", "#yAttack: Channel 1 #yLightning NL #ySkill: Channel 1 #yFrost NL #yPower: Channel 1 #yEarth"],
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 循环 1 张牌。 || 每循环 1 张牌， NL #y生成 该牌对应种类的 NL 1 个额外充能球 。",
+		"EXTENDED_DESCRIPTION": ["额外效果", "#y攻击： 生成 NL 1 个 #y闪电 充能球 NL #y技能: 生成 NL 1 个 #y冰霜 充能球 NL #y能力: 生成 NL 1 个 #y大地 充能球 。"],
 		"NAME": "爱德华·艾尔利克"
 	},
 	"animator:Elsword":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Burning. NL Cycle !SV! card(s). || When Discarded, NL if you have an NL empty Orb Slot, NL Channel 1 Fire.",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 施加 !M! 层 燃烧 。 NL 循环 !SV! 张牌。 || 召回：如果你 NL 有 1 个空槽 NL 生成 1 个 烈火 充能球 。",
 		"NAME": "艾索德"
 	},
 	"animator:Emilia":
 	{
-		"DESCRIPTION": "Channel 1 Frost. NL Channel 1 Lightning NL for each Frost Orb NL you have. Exhaust.",
+		"DESCRIPTION": "生成 1 个冰霜充能球 。 NL 每有一个 冰霜 充能球， NL 生成 1 个 闪电 充能球 。 NL 消耗 。",
 		"NAME": "爱蜜莉雅",
-		"UPGRADE_DESCRIPTION": "Channel 1 Frost. NL Channel 1 Lightning NL for each Frost Orb NL you have."
+		"UPGRADE_DESCRIPTION": "生成 1 个冰霜充能球 。 NL 每有一个 冰霜 充能球， NL 生成 1 个 闪电 充能球 。"
 	},
 	"animator:EmiyaShirou":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Upgrade a random NL card in your hand NL !M! times. || If every card NL in your hand was NL already Upgraded, NL draw 2 cards.",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 随机升级 1 张 NL 手牌 !M! 次。 || 如果每张手牌 NL 都已升级， NL 抽 2 张牌。",
 		"NAME": "卫宫士郎"
 	},
 	"animator:Emonzaemon":
 	{
-		"DESCRIPTION": "Martial_Artist. NL Deal !D! Piercing damage twice. || Limited. If this is your third attack in a row, add #yEntou #yJyuu to your draw pile.",
+		"DESCRIPTION": "武师 。 NL 造成 !D! 点 穿刺 NL 伤害 2 次。 || 限定 ： NL 如果这是连续 NL 第三张攻击牌， NL 增加 #y炎刀·铳 NL 到抽牌堆。",
 		"NAME": "左右田右卫门左卫门"
 	},
 	"animator:Entoma":
 	{
-		"DESCRIPTION": "#yUnique[]. NL Deal !D! damage. NL Apply !M! Poison. NL Loses 1 damage NL each turn. || Limited. NL If this card kills an NL enemy, gain 2 Max HP NL and permanently NL Upgrade this card.",
+		"DESCRIPTION": "#y唯一 。 NL 造成 !D! 点 伤害。 NL 施加 !M! 点 中毒 。 NL 每回合失去 1 点伤害。|| 限定 ：如果 NL 这张牌消灭了敌人： NL 获得 2 点最大生命 NL 并永久 升级 。",
 		"NAME": "艾多玛"
 	},
 	"animator:EntouJyuu":
 	{
-		"DESCRIPTION": "Gain !M! Agility. NL Whenever you deal NL unblocked damage, NL apply 1 Burning.",
+		"DESCRIPTION": "获得 !M! 点 灵动 。 NL 当你破防时， NL 施加 1 层 燃烧 。",
 		"NAME": "炎刀·铳"
 	},
 	"animator:Envy":
 	{
-		"DESCRIPTION": "Ethereal. NL Shapeshifter. NL The first card you NL play each turn NL will Synergize. || Gain 20% of your NL missing HP as NL Temporary_HP.",
+		"DESCRIPTION": "#y虚无 。 NL 穿越者 。 NL 每回合打出的 NL 第一张牌 同调 。|| 获得等于 20% NL 你已损失的生命 NL 的 临时生命 。",
 		"NAME": "嫉妒",
-		"UPGRADE_DESCRIPTION": "Shapeshifter. NL The first card you NL play each turn NL will Synergize. || Gain 20% of your NL missing HP as NL Temporary_HP."
+		"UPGRADE_DESCRIPTION": "穿越者 。 NL 每回合打出的 NL 第一张牌 同调 。 || 获得等于 20% NL 你已损失的生命 NL 的 临时生命 。"
 	},
 	"animator:Eris":
 	{
-		"DESCRIPTION": "Heal !M! HP. NL Exhaust. || Limited. If you would die while this card is in your hand, draw or discard pile, prevent all damage and permanently lose this card.",
+		"DESCRIPTION": "回复 !M! 点生命。 NL 消耗 。|| 限定。 NL 如果此牌在牌组中， NL 防止致命伤害， NL 永久失去此牌。",
 		"NAME": "厄里斯"
 	},
 	"animator:Eve":
 	{
-		"DESCRIPTION": "Play 1 Orb_Core. NL Gain !M! Orb Slot. || Limited. NL When you Synergize, NL deal 1 damage to an NL enemy and increase NL this damage by 1.",
+		"DESCRIPTION": "打出 1 张 充能球核心 。 NL 获得 !M! 个 充能槽。 || 限定。 NL 同调 ： NL 对 1 个敌人 NL 造成 1 点伤害 NL 并提高 1 点伤害。",
 		"NAME": "伊芙",
-		"UPGRADE_DESCRIPTION": "Play 1 Orb_Core. NL Gain !SV! Metallicize. NL Gain !M! Orb Slot. || Limited. NL When you Synergize, NL deal 1 damage to an NL enemy and increase NL this damage by 1."
+		"UPGRADE_DESCRIPTION": "打出 1 张 充能球核心 。 NL 获得 !SV! 层 金属化 。 NL 获得 !M! 个 充能槽。 || 限定。 NL 同调 ： NL 对 1 个敌人 NL 造成 1 点伤害 NL 并提高 1 点伤害。"
 	},
 	"animator:Evileye":
 	{
-		"DESCRIPTION": "Spellcaster 3. NL Draw !M! card(s). NL Reload: Trigger the NL passive ability of NL your next Orb. || Limited. NL On Synergy, gain NL 2 Intellect and NL 1 Orb Slot.",
+		"DESCRIPTION": "法师 3 。 NL 抽 !M! 张牌。 NL 重装： 触发 NL 下一个充能球 NL 的被动效果 。 || 限定。 NL 同调 ： NL 获得 2 点 集中 NL 1 个充能槽。",
 		"NAME": "邪眼"
 	},
 	"animator:Excalibur":
 	{
-		"DESCRIPTION": "Retain. NL Gain 1 Intangible. NL Deal !D! damage NL to ALL enemies. NL Exhaust.",
+		"DESCRIPTION": "保留 。 NL 获得 1 层 无实体 。 NL 对所有敌人造成 NL !D! 点伤害。 NL 消耗 。",
 		"NAME": "誓约胜利之剑"
 	},
 	"animator:FeridBathory":
 	{
-		"DESCRIPTION": "Whenever a card is NL Exhausted, steal !M! HP NL from a random enemy NL as Temp._HP. || Limited. At the start of NL your turn, if you have NL at least 20 cards in NL your Exhaust pile, NL gain !SV! Strength.",
+		"DESCRIPTION": "每消耗 1 张牌， NL 随机一名敌人 NL 失去 !M! 生命， NL 你获得 !M! 暂时性生命 。|| 限定。 NL 回合开始时， NL 如果消耗牌堆 NL 有至少 20 张牌， NL 获得 !SV! 点 力量 。",
 		"NAME": "费里德·巴特利"
 	},
 	"animator:Fredrika":
 	{
-		"DESCRIPTION": "Shapeshifter. NL Gain !B! Block. NL Gain !M! additional Block for each enemy. || When Discarded, returns to your hand and changes Form until end of turn.",
-		"EXTENDED_DESCRIPTION": ["Shapeshifter. NL Gain !B! Block.", "Shapeshifter. NL Deal !D! damage twice. Gain 2 Metallicize.", "Shapeshifter. NL Deal !D! damage. NL Apply 1 Vulnerable. NL Apply 1 Weak."],
+		"DESCRIPTION": "穿越者 。 NL 获得 !B! 点 格挡 。 NL 每个敌人使你额外 NL 获得 !M! 点 格挡 。 || 召回： 回合结束前， NL 回到手中并变形。",
+		"EXTENDED_DESCRIPTION": ["穿越者 。  NL 获得 !B! 点 格挡 。", "穿越者 。 NL 造成 !D! 点伤害 2 次 。 NL 获得 2 点 金属化 。", "穿越者 。 NL 造成 !D! 点伤害。 NL 施加 1 点 易伤 。 NL 施加 1 点 虚弱 。"],
 		"NAME": "芙蕾多妮卡"
 	},
 	"animator:GazelDwargon":
 	{
-		"DESCRIPTION": "Gain !M! Plated_Armor. NL Maintain half your Block at the start of each turn. || On Synergy, NL Motivate 1.",
+		"DESCRIPTION": "获得 !M! 层 多重护甲 。 NL 在每回合开始时， NL 保留一半的 格挡 。 || 同调： NL 激励 1 。",
 		"NAME": "矮人王"
 	},
 	"animator:Genos":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL Apply !M! Burning. NL Take !SV! damage at NL the end of turn. || Semi-Limited. NL On Synergy, Fetch NL a card which costs NL 3 or more Energy NL and Retain it.",
+		"DESCRIPTION": "造成 !D! 伤害。 NL 施加 !M! 层 燃烧 。 NL 回合结束时受到 NL !SV! 点伤害。 || 单发。 NL 同调： 检索 1 张 NL 3 耗能以上的牌 NL 并保留它。",
 		"NAME": "杰诺斯"
 	},
 	"animator:Geryuganshoop":
 	{
-		"DESCRIPTION": "Cycle !SV! Cards. NL Purge up to !M! cards in your Exhaust pile, gain that much [E]. || Limited. If you NL Purged #yMelzalgald[] or NL #yBoros[], return them NL to your hand.",
+		"DESCRIPTION": "循环 !SV! 张牌 。 NL Purge up to !M! cards in your Exhaust pile, gain that much [E]. || Limited. If you NL Purged #yMelzalgald[] or NL #yBoros[], return them NL to your hand.",
 		"EXTENDED_DESCRIPTION": ["Choose {0} cards to Purge, gain that much Energy."],
 		"NAME": "戈留干修普"
 	},

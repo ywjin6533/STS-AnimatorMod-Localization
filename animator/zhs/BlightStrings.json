@@ -11,17 +11,17 @@
   },
   "animator:UltimateCrystal":
   {
-    "NAME": "终极水晶",
+    "NAME": "终极之晶",
     "DESCRIPTION": [ "战斗开始时，从你的手牌中移动 #b{0} 张牌到抽牌堆。" ]
   },
   "animator:UltimateCube":
   {
-    "NAME": "终极立方",
+    "NAME": "终极之方",
     "DESCRIPTION": [ "第一个回合结束时，受到 #b{0} 伤害。" ]
   },
   "animator:UltimateWisp":
   {
-    "NAME": "终极精灵",
+    "NAME": "终极之缕",
     "DESCRIPTION": [ "每当你洗牌时，增加 #b{0} 张 #y虚空 至抽牌堆。" ]
   }
 }

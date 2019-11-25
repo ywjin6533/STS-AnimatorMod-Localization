@@ -17,7 +17,7 @@
 	},
 	"animator:BiyorigoPower":
 	{
-		"DESCRIPTIONS": ["每当你得到 #y敏捷 时，也得到 #b", " 点 #y势 。"],
+		"DESCRIPTIONS": ["每当你得到 #y敏捷 时，也得到 #b", " 点 #y爆发 。"],
 		"NAME": "微刀・钗"
 	},
 	"animator:BorosPower":

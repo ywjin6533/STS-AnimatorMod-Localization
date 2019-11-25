@@ -92,15 +92,15 @@
 	},
 	"Force":
 	{
-		"DESCRIPTION": "获得或失去 #y势 时， 获得或失去等量的 #y力量 。 每回合开始时失去 #b1 点 #y势 。",
-		"NAMES": ["势"],
-		"PROPER_NAME": "势"
+		"DESCRIPTION": "获得或失去 #y爆发 时， 获得或失去等量的 #y力量 。 每回合开始时失去 #b1 点 #y爆发 。",
+		"NAMES": ["爆发"],
+		"PROPER_NAME": "爆发"
 	},
 	"Intellect":
 	{
-		"DESCRIPTION": "获得或失去 #y智力 时， 获得或失去等量的 #y集中 。 每回合开始时失去 #b1 点 #y智力 。",
-		"NAMES": ["智力"],
-		"PROPER_NAME": "智力"
+		"DESCRIPTION": "获得或失去 #y专注 时， 获得或失去等量的 #y集中 。 每回合开始时失去 #b1 点 #y专注 。",
+		"NAMES": ["专注"],
+		"PROPER_NAME": "专注"
 	},
 	"Juggernaut":
 	{
