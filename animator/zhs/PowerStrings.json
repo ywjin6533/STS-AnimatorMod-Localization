@@ -193,7 +193,7 @@
 	"animator:KaijinPower":
 	{
 		"DESCRIPTIONS": ["回合结束时， #y保留 1张牌并在本场战斗中提升它的伤害和 #y格挡 #b", " 点。"],
-		"NAME": "凯金"
+		"NAME": "凯·金"
 	},
 	"animator:LightningCrystalPower":
 	{
