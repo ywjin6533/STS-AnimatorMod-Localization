@@ -12,8 +12,8 @@
 		"animator:Shichika"    			: "每 #b3 点 #y敏捷 ， NL 获得 #b1 点额外 #y势 。",
 		"animator:ShichikaKyotouryuu"   : "每点 #y敏捷 ， NL 造成 #b1 点额外伤害。",
 		"animator:SilverFang"  			: "每点 #y敏捷 ， NL 造成 #b1 点额外伤害。",
-		"animator:Sonic"       			: "每 #b4 点 #y敏捷 ， NL 获得 #b1 张额外 NL #y飞刀 。",
-		"animator:Souei"       			: "每 #b2 点 #y敏捷 ， NL 施加 #b1 层额外 #y中毒 。",
+		"animator:Sonic"       			: "每 #b6 点 #y敏捷 ， NL 获得 #b1 张额外 NL #y飞刀 。",
+		"animator:Souei"       			: "每点 #y敏捷 ， NL 施加 #b1 层额外 #y中毒 。",
 		"animator:ZankiKiguchi"			: "每点 #y敏捷 ， NL 造成 #b2 点额外伤害。"
 	},
 
