@@ -164,9 +164,9 @@
 	},
 	"Temporary HP":
 	{
-		"DESCRIPTION": "临时生命在战斗结束后消失。",
-		"NAMES": ["临时生命", "临时生命", "temp. hp", "temp._hp"],
-		"PROPER_NAME": "临时生命"
+		"DESCRIPTION": "紧急治疗在战斗结束后消失。",
+		"NAMES": ["紧急治疗", "紧急治疗", "紧急治疗", "紧急治疗"],
+		"PROPER_NAME": "紧急治疗"
 	},
 	"~Preview":
 	{

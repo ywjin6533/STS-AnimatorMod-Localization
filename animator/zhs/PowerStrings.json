@@ -102,7 +102,7 @@
 	},
 	"animator:FeridBathoryPower":
 	{
-		"DESCRIPTIONS": ["每当一张牌 #y消耗 时，一个随机敌人失去 #b", " 点生命，然后获得 #b", " 点 #y临时生命。"],
+		"DESCRIPTIONS": ["每当一张牌 #y消耗 时，一个随机敌人失去 #b", " 点生命，然后获得 #b", " 点 #y紧急治疗。"],
 		"NAME": "费里德·巴特利"
 	},
 	"animator:FireCrystalPower":
@@ -252,7 +252,7 @@
 	},
 	"animator:OrbCore_PlasmaPower":
 	{
-		"DESCRIPTIONS": ["本回合接下来 #b", " 次 #y同调 ，获得 #b", " 点 #y临时生命 。"],
+		"DESCRIPTIONS": ["本回合接下来 #b", " 次 #y同调 ，获得 #b", " 点 #y紧急治疗 。"],
 		"NAME": "等离子核心"
 	},
 	"animator:PinaCoLadaPower":
@@ -342,7 +342,7 @@
 	},
 	"animator:VitalityPower":
 	{
-		"DESCRIPTIONS": ["本回合每当你被攻击时， 获得 #b", " 点 #y临时生命 。"],
+		"DESCRIPTIONS": ["本回合每当你被攻击时， 获得 #b", " 点 #y紧急治疗 。"],
 		"NAME": "生生不息"
 	},
 	"animator:YukoShionjiPower":
