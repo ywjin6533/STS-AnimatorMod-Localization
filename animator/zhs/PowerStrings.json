@@ -7,17 +7,17 @@
 	},
 	"animator:ArcherPower":
 	{
-		"DESCRIPTIONS": ["在你的回合结束时，所有敌人每有一种debuff就对他们造成 #b", " 点伤害。"],
+		"DESCRIPTIONS": ["在你的回合结束时，所有敌人每有一种负面效果就对他们造成 #b", " 点伤害。"],
 		"NAME": "Archer"
 	},
 	"animator:AzrielPower":
 	{
-		"DESCRIPTIONS": ["每当你施加debuff时，得到 #b", " 点力量。"],
+		"DESCRIPTIONS": ["每当你施加负面效果时，得到 #b", " 点力量。"],
 		"NAME": "阿兹莉尔"
 	},
 	"animator:BiyorigoPower":
 	{
-		"DESCRIPTIONS": ["每当你得到 #y敏捷 时，也得到 #b", " 点 #y势 。"],
+		"DESCRIPTIONS": ["每当你得到 #y敏捷 时，也得到 #b", " 点 #y爆发 。"],
 		"NAME": "微刀・钗"
 	},
 	"animator:BorosPower":
@@ -48,17 +48,17 @@
 	"animator:DarkCrystalPower":
 	{
 		"DESCRIPTIONS": ["被指定为目标时对所有角色施加 #b", " #y压制 。"],
-		"NAME": "暗黑水晶"
+		"NAME": "暗黑之晶"
 	},
 	"animator:DarkCubePower":
 	{
 		"DESCRIPTIONS": ["回合结束时对敌人施加 #b", " #y压制 。"],
-		"NAME": "暗黑立方"
+		"NAME": "暗黑之方"
 	},
 	"animator:DarkWispPower":
 	{
 		"DESCRIPTIONS": ["死亡时对所有角色施加 #b", " #y压制 。"],
-		"NAME": "暗黑精灵"
+		"NAME": "暗黑之缕"
 	},
 	"animator:DarknessPower":
 	{
@@ -67,7 +67,7 @@
 	},
 	"animator:DelayedHealPower":
 	{
-		"DESCRIPTIONS": ["下回合开始时治疗 #g", " 点生命。"],
+		"DESCRIPTIONS": ["下回合开始时回复 #g", " 点生命。"],
 		"NAME": "延迟治疗"
 	},
 	"animator:EarthenThornsPower":
@@ -83,7 +83,7 @@
 	"animator:EnchantedArmorPower":
 	{
 		"DESCRIPTIONS": ["减少 #b", "% 承伤。"],
-		"NAME": "反应装甲"
+		"NAME": "魔法盔甲"
 	},
 	"animator:EntouJyuuPower":
 	{
@@ -98,7 +98,7 @@
 	"animator:EvePower":
 	{
 		"DESCRIPTIONS": ["每当一张牌 #y同调 时，对一个随机敌人造成 #b", " 点伤害，然后提升1点伤害。"],
-		"NAME": "EVE的觉醒"
+		"NAME": "伊芙"
 	},
 	"animator:FeridBathoryPower":
 	{
@@ -108,17 +108,17 @@
 	"animator:FireCrystalPower":
 	{
 		"DESCRIPTIONS": ["被指定为目标时，所有其他角色获得 #b", " 点 #y力量 和 #y燃烧。 "],
-		"NAME": "火焰水晶"
+		"NAME": "火焰之晶"
 	},
 	"animator:FireCubePower":
 	{
 		"DESCRIPTIONS": ["回合结束时， 所有队友获得 #b", " 点 #y力量 和 #y燃烧。 "],
-		"NAME": "火焰立方"
+		"NAME": "火焰之方"
 	},
 	"animator:FireWispPower":
 	{
 		"DESCRIPTIONS": ["死亡时， 所有角色得到 #b", " 点 #y力量 和 #y燃烧。 "],
-		"NAME": "火焰精灵"
+		"NAME": "火焰之缕"
 	},
 	"animator:FlamingWeaponPower":
 	{
@@ -128,27 +128,27 @@
 	"animator:FrostCrystalPower":
 	{
 		"DESCRIPTIONS": ["被指定为目标时，所有其他角色获得 #b", " 层 #y多重护甲 。"],
-		"NAME": "冰霜水晶"
+		"NAME": "冰霜之晶"
 	},
 	"animator:FrostCubePower":
 	{
 		"DESCRIPTIONS": ["回合结束时， 所有队友获得 #b", " 层 #y多重护甲 。"],
-		"NAME": "冰霜立方"
+		"NAME": "冰霜之方"
 	},
 	"animator:FrostWispPower":
 	{
 		"DESCRIPTIONS": ["死亡时， 所有角色得到 #b", " 层 #y多重护甲 。"],
-		"NAME": "冰霜精灵"
+		"NAME": "冰霜之缕"
 	},
 	"animator:GazelDwargonPower":
 	{
 		"DESCRIPTIONS": ["回合开始时保留一半的 #y格挡 。"],
-		"NAME": "加泽尔·多瓦格"
+		"NAME": "矮人王"
 	},
 	"animator:GeassPower":
 	{
-		"DESCRIPTIONS": ["本回合攻击自身。"],
-		"NAME": "Geass"
+		"DESCRIPTIONS": ["本回合敌人会攻击自身。"],
+		"NAME": "鲁路修"
 	},
 	"animator:GuildGirlPower":
 	{
@@ -163,17 +163,17 @@
 	"animator:HealingCrystalPower":
 	{
 		"DESCRIPTIONS": ["被指定为目标时，所有其他角色受到 #b", " 点 #y治疗 。"],
-		"NAME": "治疗水晶"
+		"NAME": "治疗之晶"
 	},
 	"animator:HealingCubePower":
 	{
 		"DESCRIPTIONS": ["回合结束时， 所有队友获得 #b", " 点 #y治疗 。"],
-		"NAME": "治疗立方"
+		"NAME": "治疗之方"
 	},
 	"animator:HealingWispPower":
 	{
 		"DESCRIPTIONS": ["死亡时， 所有角色得到 #b", " 点 #y治疗 。"],
-		"NAME": "治疗精灵"
+		"NAME": "治疗之缕"
 	},
 	"animator:HigakiRinnePower":
 	{
@@ -187,33 +187,33 @@
 	},
 	"animator:InfinitePower":
 	{
-		"DESCRIPTIONS": ["受到未被阻挡的伤害前：获得等量的 #y反应装甲 。 NL 受到debuff时：获得等量的 #y再生 。 NL 敌人获得buff时: 获得等量的 #y力量。 NL 回合结束时数据减半。"],
-		"NAME": "无穷力量"
+		"DESCRIPTIONS": ["受到未被阻挡的伤害前：获得等量的 #y魔法盔甲 。 NL 受到负面效果时：获得等量的 #y再生 。 NL 敌人获得buff时: 获得等量的 #y力量。 NL 回合结束时数据减半。"],
+		"NAME": "无尽之力"
 	},
 	"animator:KaijinPower":
 	{
 		"DESCRIPTIONS": ["回合结束时， #y保留 1张牌并在本场战斗中提升它的伤害和 #y格挡 #b", " 点。"],
-		"NAME": "凯金"
+		"NAME": "凯·金"
 	},
 	"animator:LightningCrystalPower":
 	{
 		"DESCRIPTIONS": ["被指定为目标时，所有其他角色受到 #b", " 点 #y穿刺 伤害 。"],
-		"NAME": "闪电水晶"
+		"NAME": "雷电之晶"
 	},
 	"animator:LightningCubePower":
 	{
 		"DESCRIPTIONS": ["回合结束时， 所有队友受到 #b", " 点 #y穿刺 伤害 。"],
-		"NAME": "闪电立方"
+		"NAME": "雷电之方"
 	},
 	"animator:LightningWispPower":
 	{
 		"DESCRIPTIONS": ["死亡时， 所有角色受到 #b", " 点 #y穿刺 伤害 。"],
-		"NAME": "闪电精灵"
+		"NAME": "雷电之缕"
 	},
 	"animator:MarkOfPoisonPower":
 	{
 		"DESCRIPTIONS": ["每当你受到伤害时， 获得 #b", " 层 #y中毒."],
-		"NAME": "毒之标记"
+		"NAME": "中毒刻印"
 	},
 	"animator:NextTurnDexterityPower":
 	{
@@ -238,7 +238,7 @@
 	"animator:OrbCore_FirePower":
 	{
 		"DESCRIPTIONS": ["本回合接下来 #b", " 次 #y同调 ，对所有敌人施加 #b", " 层 #y燃烧 。"],
-		"NAME": "火焰核心"
+		"NAME": "烈焰核心"
 	},
 	"animator:OrbCore_FrostPower":
 	{
@@ -253,7 +253,7 @@
 	"animator:OrbCore_PlasmaPower":
 	{
 		"DESCRIPTIONS": ["本回合接下来 #b", " 次 #y同调 ，获得 #b", " 点 #y临时生命 。"],
-		"NAME": "以太核心"
+		"NAME": "等离子核心"
 	},
 	"animator:PinaCoLadaPower":
 	{
@@ -262,8 +262,8 @@
 	},
 	"animator:PlayerStatistics":
 	{
-		"DESCRIPTIONS": ["隐藏的玩家数据"],
-		"NAME": "玩家数据"
+		"DESCRIPTIONS": ["隐藏玩家统计能力。"],
+		"NAME": "玩家统计"
 	},
 	"animator:PoisonAffinityPower":
 	{
@@ -293,12 +293,12 @@
 	"animator:SonicPower":
 	{
 		"DESCRIPTIONS": ["接下来的 #b", " 个回合开始时，得到 #b1 点 #y敏捷 并添加 #b1 张 #y飞刀 至你的手牌。"],
-		"NAME": "音速的索尼克"
+		"NAME": "音速索尼克"
 	},
 	"animator:StolenGoldPower":
 	{
 		"DESCRIPTIONS": ["你偷窃了 #b", " 块金币。你还能偷窃 #b", " 块金币。"],
-		"NAME": "失窃的金币"
+		"NAME": "被盗的黄金"
 	},
 	"animator:StrategicInformationPower":
 	{
@@ -312,7 +312,7 @@
 	},
 	"animator:TheUnnamedCultistPower":
 	{
-		"DESCRIPTIONS": ["每有一个队友存活， 得到 #b", " 层反应装甲。"],
+		"DESCRIPTIONS": ["每有一个队友存活， 得到 #b", " 层魔法盔甲。"],
 		"NAME": "无名信徒"
 	},
 	"animator:TheUnnamedHatPower":
@@ -323,22 +323,22 @@
 	"animator:UltimateCrystalPower":
 	{
 		"DESCRIPTIONS": ["每当打出一张牌， 得到 #b", " #y力量。 NL NL #b", " 个回合过后， 召唤自己的复制。"],
-		"NAME": "终极水晶"
+		"NAME": "终极之晶"
 	},
 	"animator:UltimateCubePower":
 	{
 		"DESCRIPTIONS": ["每回合结束时，得到 #b", " 种随机Buff。 NL NL #b", " 个回合过后爆炸，造成 #b", " 点伤害。"],
-		"NAME": "终极立方"
+		"NAME": "终极之方"
 	},
 	"animator:UltimateWispPower":
 	{
 		"DESCRIPTIONS": ["每当它造成破防伤害时，添加 #b1 张 #y灼烧 到你的弃牌堆。 NL NL 每回合打出第一张牌 #y消耗 。"],
-		"NAME": "终极精灵"
+		"NAME": "终极之缕"
 	},
 	"animator:UnnamedDollPower":
 	{
 		"DESCRIPTIONS": ["接下来 #b", " 个回合， 每打出一张不以此角色为目标的牌， 得到 #b", " #y最大生命值 。 NL NL ", "死亡时，所有角色获得 #b", " #y力量 。"],
-		"NAME": "无名娃娃"
+		"NAME": "无名傀儡"
 	},
 	"animator:VitalityPower":
 	{

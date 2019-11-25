@@ -3,8 +3,8 @@
 	"Aether":
 	{
 		"DESCRIPTION": "充能球: 对所有敌人造成 #y穿刺 伤害。",
-		"NAMES": ["以太", "以太+"],
-		"PROPER_NAME": "以太"
+		"NAMES": ["凌风", "凌风+"],
+		"PROPER_NAME": "凌风"
 	},
 	"Agility":
 	{
@@ -33,8 +33,8 @@
 	"Constricted":
 	{
 		"DESCRIPTION": "每回合结束时受到伤害。",
-		"NAMES": ["压制"],
-		"PROPER_NAME": "压制"
+		"NAMES": ["缠绕"],
+		"PROPER_NAME": "缠绕"
 	},
 	"Cycle":
 	{
@@ -69,8 +69,8 @@
 	"Envenom":
 	{
 		"DESCRIPTION": "攻击破防时施加每层 #b1 点 #y中毒 。",
-		"NAMES": ["下毒"],
-		"PROPER_NAME": "下毒"
+		"NAMES": ["涂毒"],
+		"PROPER_NAME": "涂毒"
 	},
 	"Fire":
 	{
@@ -92,15 +92,15 @@
 	},
 	"Force":
 	{
-		"DESCRIPTION": "获得或失去 #y势 时， 获得或失去等量的 #y力量 。 每回合开始时失去 #b1 点 #y势 。",
-		"NAMES": ["势"],
-		"PROPER_NAME": "势"
+		"DESCRIPTION": "获得或失去 #y爆发 时， 获得或失去等量的 #y力量 。 每回合开始时失去 #b1 点 #y爆发 。",
+		"NAMES": ["爆发"],
+		"PROPER_NAME": "爆发"
 	},
 	"Intellect":
 	{
-		"DESCRIPTION": "获得或失去 #y智力 时， 获得或失去等量的 #y集中 。 每回合开始时失去 #b1 点 #y智力 。",
-		"NAMES": ["智力"],
-		"PROPER_NAME": "智力"
+		"DESCRIPTION": "获得或失去 #y专注 时， 获得或失去等量的 #y集中 。 每回合开始时失去 #b1 点 #y专注 。",
+		"NAMES": ["专注"],
+		"PROPER_NAME": "专注"
 	},
 	"Juggernaut":
 	{

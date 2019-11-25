@@ -2,127 +2,127 @@
 {
 	"animator:AlchemistGlove":
 	{
-		"DESCRIPTIONS": ["At the start of each combat, #yChannel 1 #yFire."],
-		"FLAVOR": "You can control the flames with the snap of a finger.",
-		"NAME": "Alchemist Glove"
+		"DESCRIPTIONS": ["每场战斗开始时， #y生成 1个 #y火焰充能球 。"],
+		"FLAVOR": "你可以通过一个响指控制火焰。",
+		"NAME": "炼金手套"
 	},
 	"animator:AncientMedallion":
 	{
-		"DESCRIPTIONS": ["At the start of each combat, Heal #b{0} HP. NL Upon pickup, #yUpgrade 2 random cards and a card of your choice. The chosen cards will be upgraded twice."],
-		"FLAVOR": "...",
-		"NAME": "Ancient Medallion"
+		"DESCRIPTIONS": ["每场战斗开始时，回复 #b{0} 点生命。 NL 捡起时， 随机 #y升级 2张牌并选择升级1张牌。如果被选中的牌可以被多次升级，则升级此牌2次。"],
+		"FLAVOR": "……",
+		"NAME": "上古挂坠"
 	},
 	"animator:BattleDrones":
 	{
-		"DESCRIPTIONS": ["Whenever a card #ySynergizes, deal #b{0} damage to a random enemy and gain #b{1} #yBlock."],
-		"FLAVOR": "Engineering perfection.",
-		"NAME": "Battle Drones"
+		"DESCRIPTIONS": ["每次同调时， 对随机一名敌人造成 #b{0} 点伤害并获得 #b{1} 点 #y格挡 。"],
+		"FLAVOR": "完美的工程学造物。",
+		"NAME": "战斗无人机"
 	},
 	"animator:Buoy":
 	{
-		"DESCRIPTIONS": ["If you end your turn below #b{0}% HP, gain #b{1} #yBlock."],
-		"FLAVOR": "When it comes to speed I'm the best there is, swift like the island breeze!",
-		"NAME": "Buoy"
+		"DESCRIPTIONS": ["如果你回合结束时的生命值低于 #b{0}% ，获得 #b{1} 点 #y格挡。"],
+		"FLAVOR": "我的速度天下第一, 迅如疾风!",
+		"NAME": "泳圈"
 	},
 	"animator:CerealBox":
 	{
-		"DESCRIPTIONS": ["#pRight #pClick to #yHeal #b{0} HP. NL Starts at #b{1} uses, gain #b{2} uses when entering a shop room. NL You can store up to #b{3} uses."],
-		"FLAVOR": "Whole Grain Guaranteed! Approved by Konayuki.",
-		"NAME": "Cereal Box"
+		"DESCRIPTIONS": ["#p右键使用， #y回复 #b{0} 点生命。 NL 初始获得 #b{1} 次使用次数，每次进入商店时获得 #b{2} 次使用次数 。 NL 最多存储 #b{3} 次使用次数。"],
+		"FLAVOR": "全麦产品! 冻空粉雪认证。",
+		"NAME": "谷物箱"
 	},
 	"animator:ColorlessFragment":
 	{
-		"DESCRIPTIONS": ["Replaces #yThe #yMissing #yPiece. Every #b{0} combats, receive improved card rewards. Chance to contain colorless cards."],
-		"FLAVOR": "The colors are slowly fading away...",
-		"NAME": "Colorless Fragment"
+		"DESCRIPTIONS": ["替换 #y遗失残片 。 每 #b{0} 场战斗，提高卡牌奖励。有几率获得无色牌。"],
+		"FLAVOR": "颜色正在慢慢褪去…",
+		"NAME": "无色残片"
 	},
 	"animator:CursedBlade":
 	{
-		"DESCRIPTIONS": ["Start each combat with #b{0} #yForce. Whenever you take unblocked Attack damage, add a #yWound to your hand."],
-		"FLAVOR": "Power comes at a price.",
-		"NAME": "Cursed Blade"
+		"DESCRIPTIONS": ["战斗开始时拥有 #b{0} 点 #y爆发 。 每当你受到未被格挡的攻击伤害时, 增加 #y伤口 到你的手中。"],
+		"FLAVOR": "力量都有代价。",
+		"NAME": "诅咒之刃"
 	},
 	"animator:CursedGlyph":
 	{
-		"DESCRIPTIONS": ["Upon pickup, #rlose #r{0} #rMax #rHP, all enemies start with additional Max HP. NL NL The card linked to this relic can #yNOT be duplicated."],
-		"FLAVOR": "Maybe it was a mistake...",
-		"NAME": "Cursed Glyph"
+		"DESCRIPTIONS": ["拾起时， #r失去 #r{0} 点 #r最大生命，提升所有敌人的生命上限。 NL NL 与此遗物连系的牌 #y不能 被复制。"],
+		"FLAVOR": "这可能是个错误……",
+		"NAME": "诅咒符文"
 	},
 	"animator:EngravedStaff":
 	{
-		"DESCRIPTIONS": ["Upon pickup, #yUpgrade a random #yRare card. Your #yForce, #yAgility and #yIntellect cannot decrease below #b2."],
-		"FLAVOR": "One of the most treasured possessions of the Guild.",
-		"NAME": "Engraved Staff"
+		"DESCRIPTIONS": ["拾起时， #y升级 1张随机 #y稀有 牌。 你的 #y爆发 ， #y灵动 和 #y专注 不会低于 #b2 。"],
+		"FLAVOR": "公会最宝贵的财产之一。",
+		"NAME": "铭文法杖"
 	},
 	"animator:ExquisiteBloodVial":
 	{
-		"DESCRIPTIONS": 
+		"DESCRIPTIONS":
 		[
-			"At the start of each combat, heal #b{0} HP. NL NL #y[Special #yRelic] NL #pRight #pClick at a rest site to start a special fight, winning it will activate this relic's true effect. NL NL You can click this after using a rest site option, Act 3 deck level suggested.", 
-			"At the start of each combat, gain #b{0} #yRegeneration and #b{1} Max HP. NL NL Lose all #yBlood #yVials, whenever you would obtain a #yBlood #yVial, improve this relic's effect instead."
+			"每场战斗开始时， 回复 #b{0} 点生命。 NL NL #y[特殊遗物] NL 在篝火处 #p右击 时，将开启一场特殊的战斗， 胜利后可以解锁该遗物的真正力量。 NL NL 战斗为第三幕难度。",
+			"战斗开始时, 获得 #b{0} 层 #y再生 和 #b{1} 点最大生命值。 NL NL 失去所有 #y小血瓶 ，每当你获得一个 #y小血瓶 时，只提升该遗物的效果。"
 		],
-		"FLAVOR": "A vial containing the blood of a pure and elder vampire.",
-		"NAME": "Exquisite Blood Vial"
+		"FLAVOR": "一个装着远古纯种吸血鬼血液的瓶子。",
+		"NAME": "精致的血瓶"
 	},
 	"animator:HallowedScabbard":
 	{
-		"DESCRIPTIONS": ["Once per combat, if you lose a total of #b{0} HP or more, gain #b{1} #yRegeneration and #b{2} #yForce."],
-		"FLAVOR": "The holder of the scabbard is granted potent healing, allowing for critical and fatal wound to be rapidly repaired.",
-		"NAME": "Hallowed Scabbard"
+		"DESCRIPTIONS": ["每场战斗一次，当你损失超过 #b{0} 点生命时， 获得 #b{1} 层 #y再生 和 #b{2} 点 #y爆发 。"],
+		"FLAVOR": "剑鞘的持有者被授予强力恢复能力，能够迅速恢复致命伤。",
+		"NAME": "阿瓦隆"
 	},
 	"animator:HeavyHalberd":
 	{
-		"DESCRIPTIONS": ["At the start of each turn, gain #b{0} #yForce for each enemy with #yVulnerable."],
-		"FLAVOR": "Ruling over death means ruling over life. Death is the climax of life. To have the best death, you must honor life.",
-		"NAME": "Heavy Halberd"
+		"DESCRIPTIONS": ["回合开始时， 每有一个敌人有易伤则获得 #b{0} 点 #y爆发 。"],
+		"FLAVOR": "统治死亡即统治生命，死即生之巅峰。崇敬生命，拥抱死亡。",
+		"NAME": "重戟"
 	},
 	"animator:Hoodie":
 	{
-		"DESCRIPTIONS": ["If you end a combat without taking unblocked damage, gain #b{0} #yMax #yHP."],
-		"FLAVOR": "With this, you might be admitted to the Hero association.",
-		"NAME": "Hoodie"
+		"DESCRIPTIONS": ["如果你在一场战斗没有受到伤害， 获得 #b{0} #y生命上限 。"],
+		"FLAVOR": "有了这个，你说不定会被英雄协会承认。",
+		"NAME": "披风"
 	},
 	"animator:InfinitePower":
 	{
-		"DESCRIPTIONS": ["Upon pickup, gain #b", " #yGold and #rlose #r", " #rMax #rHP. For every #b", " cards in your deck, obtain an #pUnnamed card reward."],
-		"FLAVOR": "Infinite Power! At a price...",
-		"NAME": "InfinitePower"
+		"DESCRIPTIONS": ["拾起时， 获得 #b", " 块 #y金币并 #r失去 #r", " 点 #r最大生命值。 牌组中每有 #b", " 张牌， 获得一个 #p无名 卡奖励。"],
+		"FLAVOR": "无穷之力！ ……也有代价。",
+		"NAME": "无穷之力"
 	},
 	"animator:LivingPicture":
 	{
-		"DESCRIPTIONS": ["Once per turn, when a card #ySynergizes, draw #b1 card."],
-		"FLAVOR": "It's always watching.",
-		"NAME": "Living Picture"
+		"DESCRIPTIONS": ["每回合一次，#y同调 时，抽 #b1 张牌。"],
+		"FLAVOR": "他...他在看着。",
+		"NAME": "活着的油画"
 	},
 	"animator:OldCoffin":
 	{
-		"DESCRIPTIONS": ["Starting from your #b4th turn, apply a random #yDebuff to a random enemy at the start of each turn."],
-		"FLAVOR": "Shocking Truth!",
-		"NAME": "Old Coffin"
+		"DESCRIPTIONS": ["第 #b4 回合开始， 每回合开始对一个随机敌人施加一层随机的 #y负面效果 。"],
+		"FLAVOR": "震惊的真相！",
+		"NAME": "旧棺材"
 	},
 	"animator:PurgingStone_Cards":
 	{
-		"DESCRIPTIONS": ["You may banish cards from appearing in future #ynormal rewards and shops. Gain #b1 use at the end of each combat, and #b2 uses against Elites or Bosses. Can store up to #b{0} uses."],
-		"FLAVOR": "Humans are helpless against curses, and can only redirect their influence.",
-		"NAME": "Purging Stone"
+		"DESCRIPTIONS": ["在 #y一般 卡牌奖励中，你可以放逐掉某些牌使它们不再在奖励和商店出现。每次战斗后获得 #b1 次，击败精英或者Boss后获得 #b2 次。可以存储 #b{0} 次。"],
+		"FLAVOR": "人类无法对抗诅咒，但可以利用它。",
+		"NAME": "解咒石"
 	},
 	"animator:PurgingStone_Series":
 	{
-		"DESCRIPTIONS": ["You may banish card #yseries from appearing in all future rewards and shops. Gain more uses after defeating a boss.", "Removed Series:"],
-		"FLAVOR": "Humans are helpless against curses, and can only redirect their influence.",
-		"NAME": "Purging Stone (Alt)"
+		"DESCRIPTIONS": ["你可以放逐 #y系列 使它们不再在奖励和商店出现。击败Boss后获得额外使用次数。", " 已放逐的系列："],
+		"FLAVOR": "人类无法对抗诅咒，但可以利用它。",
+		"NAME": "解咒石（变种）"
 	},
 	"animator:RacePiece":
 	{
-		"DESCRIPTIONS": ["Upon pickup, select #b1 card, then choose and #yTransform #b3 cards in your deck into #b3 cards of the selected card's #ySeries."],
-		"FLAVOR": "Did you see that coming Mr. Mind Reader? Checkmate.",
-		"NAME": "Race Piece"
+		"DESCRIPTIONS": ["拾起时，选择 #b1 张牌并选择你的牌库中的 #b3 张牌转化为与选中牌同 #y系列 的 #b3 张随机牌。"],
+		"FLAVOR": "读心者先生，你读到这一步了吗？将杀！",
+		"NAME": "种族棋子"
 	},
 	"animator:Readme":
 	{
-		"DESCRIPTIONS": ["Contains #yImportant #yInfo to play this character. NL #pRight #pClick to read."],
-		"FLAVOR": "Just a note, it disappears when clicked.",
-		"NAME": "Readme"
+		"DESCRIPTIONS": ["此角色有 #y重要信息 。 NL #p右键 阅读。"],
+		"FLAVOR": "只是一个说明，点击后消失。",
+		"NAME": "说明"
 	},
 	"animator:Rinne":
 	{
@@ -132,50 +132,50 @@
 	},
 	"animator:ShionDessert":
 	{
-		"DESCRIPTIONS": ["At the start of each turn, apply #b{0} #yPoison to the enemy with the most #yPoison"],
-		"FLAVOR": "Here, have a taste, how bad can it be?",
-		"NAME": "Shion's Dessert"
+		"DESCRIPTIONS": ["每回合开始时， 对 #y中毒 层数最多的敌人 施加 #b{0} 层 #y中毒 。"],
+		"FLAVOR": "来，尝尝吧，味道不会太差……吧？",
+		"NAME": "紫苑的甜品"
 	},
 	"animator:TheEgnaroPiece":
 	{
-		"DESCRIPTIONS": ["Gain [E] and draw 1 card at the start of each turn. NL Gain #b{0} #yTemporary #yHP at the end of each turn, then increase this number by #b1."],
-		"FLAVOR": "What is this thing?",
-		"NAME": "The Egnaro Piece"
+		"DESCRIPTIONS": ["每回合开始时， 获得 [E] 并抽1张牌。 NL 每回合结束时，获得 #b", " 点 #y暂时性生命, 并且将此数量增加 #b1。"],
+		"FLAVOR": "这是什么？",
+		"NAME": "橘色碎片"
 	},
 	"animator:TheEruzaStone":
 	{
-		"DESCRIPTIONS": ["Gain [E] [E] at the start of each turn. NL Whenever you play a #yPower, draw 1 card."],
-		"FLAVOR": "What is this thing?",
-		"NAME": "The Eruza Stone"
+		"DESCRIPTIONS": ["每回合开始时，获得 [E] [E] 。 NL 每当你打出1张 #y能力 牌，抽1张牌。"],
+		"FLAVOR": "这是什么？",
+		"NAME": "蓝色石头"
 	},
 	"animator:TheMissingPiece":
 	{
-		"DESCRIPTIONS": ["Every #b{0} combats, receive improved card rewards. You will have more chances of finding a series if you have multiple cards from that series."],
-		"FLAVOR": "What is this thing?",
-		"NAME": "The Missing Piece"
+		"DESCRIPTIONS": ["每 #b{0} 场战斗，获得一次同系列卡牌的奖励机会。当前牌组中数量多的系列出现几率会提高。"],
+		"FLAVOR": "这是什么？",
+		"NAME": "遗失残片"
 	},
 	"animator:TheWolleyCore":
 	{
-		"DESCRIPTIONS": ["Draw #b{0} cards at the start of each turn. NL Whenever you play a card, deal #b{1} damage to ALL enemies and gain #b{2} #yBlock."],
-		"FLAVOR": "What is this thing?",
-		"NAME": "The Wolley Core"
+		"DESCRIPTIONS": ["每回合开始时，抽 #b{0} 张牌。 NL 每当你打出1张牌, 对所有敌人造成 #b{1} 点伤害并且获得 #b{2} 点 #y格挡 。"],
+		"FLAVOR": "这是什么？",
+		"NAME": "绿色核心"
 	},
 	"animator:VividPicture":
 	{
-		"DESCRIPTIONS": ["Replaces #yThe #yLiving #yPicture. NL Once per turn, when a card #ySynergizes, draw #b1 card and gain [E]"],
-		"FLAVOR": "It's always watching.",
-		"NAME": "Vivid Picture"
+		"DESCRIPTIONS": ["代替 #y活着的油画。 NL 每轮一次， #y同调 时， 抽 #b1 张牌并获得 [E]"],
+		"FLAVOR": "他……他在看着。",
+		"NAME": "生动的油画"
 	},
 	"animator:WizardHat":
 	{
-		"DESCRIPTIONS": ["Start each combat with #b{0} #yIntellect. Once per combat, if you end your turn with at least #b{1} unspent energy, deal #b{2} damage to ALL enemies."],
-		"FLAVOR": "Explosion magic is the strongest magic. But that also means it takes time to prepare.",
-		"NAME": "Wizard Hat"
+		"DESCRIPTIONS": ["战斗开始时拥有 #b{0} 点 #y专注 。 一场战斗一次，如果回合结束时有剩余能量 #b{1} 点， 对所有敌人造成 #b{2} 点伤害。"],
+		"FLAVOR": "爆裂魔法天下第一！ ……当然，需要时间准备。",
+		"NAME": "巫师帽"
 	},
 	"animator:WornHelmet":
 	{
-		"DESCRIPTIONS": ["Start each combat with #b{0} #yBlock. At the end of each turn, gain #b{1} #yBlock for every #yStatus and #yCurse in your hand."],
-		"FLAVOR": "Goblins.",
-		"NAME": "Worn Helmet"
+		"DESCRIPTIONS": ["每场战斗开始时获得 #b{0} 点 #y格挡 。 每回合结束时，手中每有一张 #y状态 牌或者 #y诅咒 牌得到 #b{1} 点 #y格挡。"],
+		"FLAVOR": "哥布林。",
+		"NAME": "破碎的头盔"
 	}
 }

@@ -2,32 +2,32 @@
 {
 	"animator:Earth":
 	{
-		"NAME": "Earth",
+		"NAME": "大地",
 		"DESCRIPTION":
 		[
-			"#yPassive: At the end of turn, gain #b",
-			" temporary #yThorns. NL #yEvoke: Deal #b",
-			" damage randomly split amongst ALL enemies. NL After #b",
-			" turns have passed, automatically #yEvoke this Orb."
+			"#y被动 : 每回合结束时，获得 #b",
+			" 临时 #y荆棘。 NL #y激发: 对所有敌人随机分配 #b",
+			" 点伤害。 NL #b",
+			" 回合后，自动 #y激发 此充能球。"
 		]
 	},
 	"animator:Air":
 	{
-		"NAME": "Air",
+		"NAME": "凌风",
 		"DESCRIPTION":
 		[
-			"#yPassive: At the end of turn, deal #b", " #yPiercing damage to ALL enemies. NL #yEvoke: Draw #b",
-			" cards."
+			"#y被动 : 每回合结束时，对所有敌人造成 #b", " 点 #y穿刺 伤害。 NL #y激发 : 抽 #b",
+			" 牌。"
 		]
 	},
 	"animator:Fire":
 	{
-		"NAME": "Fire",
+		"NAME": "烈火",
 		"DESCRIPTION":
 		[
-			"#yPassive: At the end of turn, deal #b", " damage to the highest health enemy and apply #b",
-			" #yBurning. NL #yEvoke: Apply #b",
-			" #yBurning to ALL enemies."
+			"#y被动 : 每回合结束时，对生命值最高的敌人造成 #b", " 伤害并施加 #b",
+			" 层 #y燃烧 。 NL #y激发 : 对所有敌人施加 #b",
+			" 层 #y燃烧 。"
 		]
 	}
 }

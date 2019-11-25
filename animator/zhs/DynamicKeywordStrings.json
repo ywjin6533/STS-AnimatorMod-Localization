@@ -2,35 +2,35 @@
 {
 	"martial artist":
 	{
-		"animator:Ara"         			: "For every point of #yDexterity, NL deal #b1 additional damage.",
-		"animator:Azekura"    			: "Every #b2 points of #yDexterity, NL gain #b1 additional #yThorns.",
-		"animator:Emonzaemon"  			: "For every point of #yDexterity, NL deal #b1 additional damage.",
-		"animator:Hakurou"     			: "For every point of #yDexterity, NL deal #b1 additional damage.",
-		"animator:IchigoBankai"     	: "For every point of #yDexterity, NL deal #b1 additional damage.",
-		"animator:IchigoKurosaki"   	: "Every #b4 points of #yDexterity, NL gain #b1 additional #yForce.",
-		"animator:Lancer"     			: "For every point of #yDexterity, NL deal #b1 additional damage.",
-		"animator:Shichika"    			: "Every #b3 points of #yDexterity, NL gain #b1 additional #yForce.",
-		"animator:ShichikaKyotouryuu"   : "For every point of #yDexterity, NL deal #b1 additional damage.",
-		"animator:SilverFang"  			: "For every point of #yDexterity, NL deal #b1 additional damage.",
-		"animator:Sonic"       			: "Every #b6 points of #yDexterity, NL obtain #b1 additional NL #yThrowing-Knife.",
-		"animator:Souei"       			: "For every point of #yDexterity, NL apply #b1 additional #yPoison.",
-		"animator:ZankiKiguchi"			: "For every point of #yDexterity, NL deal #b2 additional damage."
+		"animator:Ara"         			: "每点 #y敏捷 ， NL 造成 #b1 点额外伤害。",
+		"animator:Azekura"    			: "每 #b2 点 #y敏捷 ， NL 获得 #b1 层额外 #y荆棘 。",
+		"animator:Emonzaemon"  			: "每点 #y敏捷 ， NL 造成 #b1 点额外伤害。",
+		"animator:Hakurou"     			: "每点 #y敏捷 ， NL 造成 #b1 点额外伤害。",
+		"animator:IchigoBankai"     	: "每点 #y敏捷 ， NL 造成 #b1 点额外伤害。",
+		"animator:IchigoKurosaki"   	: "每 #b4 点 #y敏捷 ， NL 获得 #b1 点额外 #y爆发 。",
+		"animator:Lancer"     			: "每点 #y敏捷 ， NL 造成 #b1 点额外伤害。",
+		"animator:Shichika"    			: "每 #b3 点 #y敏捷 ， NL 获得 #b1 点额外 #y爆发 。",
+		"animator:ShichikaKyotouryuu"   : "每点 #y敏捷 ， NL 造成 #b1 点额外伤害。",
+		"animator:SilverFang"  			: "每点 #y敏捷 ， NL 造成 #b1 点额外伤害。",
+		"animator:Sonic"       			: "每 #b6 点 #y敏捷 ， NL 获得 #b1 张额外 NL #y飞刀 。",
+		"animator:Souei"       			: "每点 #y敏捷 ， NL 施加 #b1 层额外 #y中毒 。",
+		"animator:ZankiKiguchi"			: "每点 #y敏捷 ， NL 造成 #b2 点额外伤害。"
 	},
-	
+
 	"spellcaster":
 	{
-		"animator:Ain"    	    : "For every point of #yFocus, NL deal #b1 additional damage.",
-		"animator:Aisha"  	    : "For every point of #yFocus, NL deal #b1 additional damage.",
-		"animator:Arpeggio"	    : "Every #b6 points of #yFocus, NL gain #b1 additional #yIntellect.",
-		"animator:Caster"       : "Every #b2 points of #yFocus, NL steal #b1 additional #yStrength.",
-		"animator:DwarfShaman"  : "For every point of #yFocus, NL deal #b2 additional damage.",
-		"animator:Evileye"      : "Every #b3 points of #yFocus, NL draw #b1 additional card.",
-		"animator:Jibril"       : "For every point of #yFocus, NL deal #b1 additional damage.",
-		"animator:LeleiLaLalena": "Every #b6 points of #yFocus, NL #yChannel #b1 additional #yFrost.",
-		"animator:Megumin"      : "For every point of #yFocus, NL deal #b4 additional damage.",
-		"animator:RinTohsaka"   : "Every #b6 points of #yFocus, NL #yChannel #b1 additional Orb.",
-		"animator:Witch"        : "Every #b2 points of #yFocus, NL apply #b1 additional #yBurning.",
-		"animator:YunYun"       : "For every point of #yFocus, NL deal #b1 additional damage.",
-		"animator:Zero"         : "Every #b6 points of #yFocus, NL play this card #b1 additional time."
+		"animator:Ain"    	    : "每点 #y集中 ， NL 造成 #b1 点额外伤害。",
+		"animator:Aisha"  	    : "每点 #y集中 ， NL 造成 #b1 点额外伤害。",
+		"animator:Arpeggio"	    : "每 #b6 点 #y集中 ， NL 得到 #b1 点额外 #y专注 。",
+		"animator:Caster"       : "每 #b2 点 #y集中 ， NL 偷走 #b1 点额外 #y力量 。",
+		"animator:DwarfShaman"  : "每点 #y集中 ， NL 造成 #b2 点额外伤害。",
+		"animator:Evileye"      : "每 #b3 点 #y集中 ， NL 抽 #b1 点额外的牌。",
+		"animator:Jibril"       : "每点 #y集中 ， NL 造成 #b1 点额外伤害。",
+		"animator:LeleiLaLalena": "每 #b6 点 #y集中 ， NL 生成 #b1 个额外 #y冰霜 充能球。",
+		"animator:Megumin"      : "每点 #y集中 ， NL 造成 #b4 点额外伤害。",
+		"animator:RinTohsaka"   : "每 #b6 点 #y集中 ， NL 生成 #b1 个额外充能球。",
+		"animator:Witch"        : "每 #b2 点 #y集中 ， NL 得到 #b1 层额外 #y燃烧 。",
+		"animator:YunYun"       : "每点 #y集中 ， NL 造成 #b1 点额外伤害。",
+		"animator:Zero"         : "每 #b6 点 #y集中 ， NL 再打出 #b1 次这张牌。"
 	}
 }

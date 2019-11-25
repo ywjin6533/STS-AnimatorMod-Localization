@@ -1,27 +1,27 @@
 {
   "animator:Doomed":
   {
-    "NAME": "Doomed",
-    "DESCRIPTION": [ "Die at the end of your #b{0}th turn. This effect cannot be prevented." ]
+    "NAME": "湮灭",
+    "DESCRIPTION": [ "你的第 #b{0} 个回合结束时死亡。此效果不可阻挡。" ]
   },
   "animator:Haunted":
   {
-    "NAME": "Haunted",
-    "DESCRIPTION": [ "That was a bad idea." ]
+    "NAME": "神出鬼没",
+    "DESCRIPTION": [ "这是个坏主意。" ]
   },
   "animator:UltimateCrystal":
   {
-    "NAME": "Ultimate Crystal",
-    "DESCRIPTION": [ "At the start of each combat, move #b{0} cards from your hand to your draw pile." ]
+    "NAME": "终极之晶",
+    "DESCRIPTION": [ "战斗开始时，从你的手牌中移动 #b{0} 张牌到抽牌堆。" ]
   },
   "animator:UltimateCube":
   {
-    "NAME": "Ultimate Cube",
-    "DESCRIPTION": [ "At the end of your first turn, take #b{0} damage." ]
+    "NAME": "终极之方",
+    "DESCRIPTION": [ "第一个回合结束时，受到 #b{0} 伤害。" ]
   },
   "animator:UltimateWisp":
   {
-    "NAME": "Ultimate Wisp",
-    "DESCRIPTION": [ "Whenever you shuffle your deck, add #b{0} #yVoid to your draw pile." ]
+    "NAME": "终极之缕",
+    "DESCRIPTION": [ "每当你洗牌时，增加 #b{0} 张 #y虚空 至抽牌堆。" ]
   }
 }
