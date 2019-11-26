@@ -1,232 +1,129 @@
-[
+
+{
+	"Augmentable":
 	{
-		"DESCRIPTION": "S'active si la dernière carte joué et de la même série.",
-		"NAMES": ["synergie", "synergy", "synergies", "synergize", "synergizes", "synergiser", "synergisez"],
-		"PROPERNAME": "Synergie"
-	},
-	{
-		"DESCRIPTION": "S'active quand cette carte est épuisé.",
-		"NAMES": ["héritage"],
-		"PROPERNAME": "Héritage"
-	},
-	{
-		"DESCRIPTION": "Quand cette carte entrerait dans la défausse, elle est remise dans votre pioche.",
-		"NAMES": ["loyale"],
-		"PROPERNAME": "Loyale"
-	},
-	{
-		"DESCRIPTION": "Quand cette carte entrerait dans la défausse, elle est remise dans votre pioche.",
-		"NAMES": ["persistant", "persistante"],
-		"PROPERNAME": "Persistant"
-	},
-	{
-		"DESCRIPTION": "Subit un #yDebuff ou Effect quand recoit des dommages. dure 1 turn.",
-		"NAMES": ["mark", "marks"],
-		"PROPERNAME": "Mark"
-	},
-	{
-		"DESCRIPTION": "Si la cible à moins de #b50% PV, fait des double damage.",
-		"NAMES": ["cherchecoeur"],
-		"PROPERNAME": "ChercheCoeur"
-	},
-	{
-		"DESCRIPTION": "Ignore l'Armure et les Epines.",
-		"NAMES": ["perçant", "perçant(s)"],
-		"PROPERNAME": "Perçant"
-	},
-	{
-		"DESCRIPTION": "Si vous devez mourir et que cette carte est dans votre Pioche ou votre Défausse, annule les dommage puis est retiré définitivement de votre deck",
-		"NAMES": ["resurrection"],
-		"PROPERNAME": "Resurrection"
-	},
-	{
-		"DESCRIPTION": "Est réduit de #b1 chaque fois que cette carte est #yjoué ou #ydéfaussé, arrivé à #b0, active l'effet et reset le Cooldown. NL Resets à la fin de chaque combat.",
-		"NAMES": ["cooldown"],
-		"PROPERNAME": "Cooldown"
-	},
-	{
-		"DESCRIPTION": "Ne peut agir pour #b1 tour.",
-		"NAMES": ["stun", "stunned", "stslib:stunned", "assome", "assomé", "assomer","assomez","assomés"],
-		"PROPERNAME": "Stun"
-	},
-	{
-		"DESCRIPTION": "Pour chaque carte joué ce tour, l'ennemi subit #b10% de dégats supplémentaire des #yAttaques.",
-		"NAMES": ["slow"],
-		"PROPERNAME": "Slow"
-	},
-	{
-		"DESCRIPTION": "Synergiser avec toutes les cartes.",
-		"NAMES": ["changeforme"],
-		"PROPERNAME": "Changeforme"
-	},
-	{
-		"DESCRIPTION": "Défausser puis piocher autant de carte.",
-		"NAMES": ["cycle", "recyclez", "recycle"],
-		"PROPERNAME": "Recyclez"
-	},
-	{
-		"DESCRIPTION": "Peut s'améliorer un nombre infini de fois.",
+		"DESCRIPTION": "Can be upgraded any number of times.",
 		"NAMES": ["augmentable"],
-		"PROPERNAME": "Augmentable"
+		"PROPER_NAME": "Augmentable"
 	},
+	"Boost":
 	{
-		"DESCRIPTION": "En recevant des dégats, gagner de #yl'Armure. #L'Armure gagner augmente à chaque gain. Reset au début du tour.",
-		"NAMES": ["malleable"],
-		"PROPERNAME": "Malléable"
-	},
-	{
-		"DESCRIPTION": "Subit des dégâts à chaque fin de tour.",
-		"NAMES": ["restreinte", "constriction"],
-		"PROPERNAME": "Restreinte"
-	},
-	{
-		"DESCRIPTION": "S'active quand une carte est Défaussé ou Recyclé.",
-		"NAMES": ["rappel"],
-		"PROPERNAME": "Rappel"
-	},
-	{
-		"DESCRIPTION": "S'active quand un ennemi perd son armure durant cette attaque.",
-		"NAMES": ["overrun"],
-		"PROPERNAME": "Overrun"
-	},
-	{
-		"DESCRIPTION": "Tant que le compter est supérieur à 0, NL active l'effet puis diminue de 1. Resets à chaque fin de combat.",
+		"DESCRIPTION": "This effect activates a limited number of times.",
 		"NAMES": ["boost"],
-		"PROPERNAME": "Boost"
+		"PROPER_NAME": "Boost"
 	},
+	"Cooldown":
 	{
-		"NAMES": ["terrestre", "terrestres", "terrestre(s)"],
-		"DESCRIPTION": "Orbe: Gagne des #yÉpines quand #yCanalisé. Automatiquement #yEvoqué après 3 tours et inflige des dégâts répartis entre les ennemis.",
-		"PROPERNAME": "Orbe Terrestre"
+		"DESCRIPTION": "Whenever you play or discard a card, reduce its #yCooldown by 1. If the #yCooldown is at 0, activate its effect instead.",
+		"NAMES": ["cooldown"],
+		"PROPER_NAME": "Cooldown"
 	},
+	"Flaming Weapon":
 	{
-		"NAMES": ["incendiaire", "incendiaires", "incendiare(s)"],
-		"DESCRIPTION": "Orbe: Inflige de la #yBrûlure et blesse l'ennemi qui a le plus haut PV.",
-		"PROPERNAME": "Orbe Incendiare"
+		"DESCRIPTION": "Whenever an attack deals unblocked damage, apply #b1 #yBurning.",
+		"NAMES": ["flaming weapon", "flaming_weapon"],
+		"PROPER_NAME": "Flaming Weapon"
 	},
+	"Heartseeker":
 	{
-		"NAMES": ["aérien", "aériens", "aérien(s)"],
-		"DESCRIPTION": "Orbe: Inflige des dégâts #yPerçants à tous les ennemis.",
-		"PROPERNAME": "Orbe Aérien"
+		"DESCRIPTION": "If the target has less than #b50% HP, deal double damage.",
+		"NAMES": ["heartseeker"],
+		"PROPER_NAME": "Heartseeker"
 	},
+	"Lazy":
 	{
-		"NAMES": ["flou"],
-		"DESCRIPTION": "Votre #yArmure will ne s'enlève pas au prochain tour.",
-		"PROPERNAME": "Flou"
+		"DESCRIPTION": "This card's damage will be delayed by a random number of turns.",
+		"NAMES": ["lazy"],
+		"PROPER_NAME": "Lazy"
 	},
+	"Legacy":
 	{
-		"NAMES": ["burning", "brûlure"],
-		"DESCRIPTION": "Subit des dommages en début de tour. Subit #b4% de dégats en plus des #yAttaques par brûlure. Se réduit de 1 par tour.",
-		"PROPERNAME": "Brûlure"
+		"DESCRIPTION": "Triggers when this card is exhausted.",
+		"NAMES": ["legacy"],
+		"PROPER_NAME": "Legacy"
 	},
+	"Loyal":
 	{
-		"NAMES": ["envenom", "envenimer", "d'envenimer"],
-		"DESCRIPTION": "Tout dégats non bloqué, inflige #b1 Poison par coup.",
-		"PROPERNAME": "Envenimer"
+		"DESCRIPTION": "Whenever this card would enter your discard pile, shuffle it into your draw pile.",
+		"NAMES": ["loyal"],
+		"PROPER_NAME": "Loyal"
 	},
+	"Martial Artist":
 	{
-		"NAMES": ["métallisation"],
-		"DESCRIPTION": "Gagnez autant #yd'Armure au début du combat.",
-		"PROPERNAME": "Métallisation"
+		"DESCRIPTION": "This card's damage is enhanced by #yDexterity.",
+		"NAMES": ["martial artist", "martial_artist"],
+		"PROPER_NAME": "Martial Artist"
 	},
+	"Motivate":
 	{
-		"NAMES": ["choked"],
-		"DESCRIPTION": "Quand vous jouer une carte, perd 1 PV.",
-		"PROPERNAME": "Choked"
+		"DESCRIPTION": "Reduce the cost of a random card in hand by 1 until played. Repeated N times.",
+		"NAMES": ["motivate"],
+		"PROPER_NAME": "Motivate"
 	},
+	"Orb Core":
 	{
-		"NAMES": ["noyau d'orbe", "noyau_d'orbe", "noyaux d'orbe", "noyaux_d'orbe", "noyau_incendiaire", "noyau_terrestre", "noyau_kéraunique", "noyau_plasmique", "noyau_chaotique", "noyau_glacial"],
-		"DESCRIPTION": "#yPouvoir: #yCanalisez 1 orbe à l'utilisation, octroyant un bonus à la seconde #ySynergie de chaque tour.",
-		"PROPER_NAME": "Noyau d'orbe"
+		"DESCRIPTION": "#yPower: #yChannel 1 orb on use, gain a bonus effect on your second #ySynergy each turn.",
+		"NAMES": ["orb core", "orb_core", "orb cores", "orb_cores", "fire_core", "earth_core", "lightning_core", "plasma_core", "fire_core", "frost_core"],
+		"PROPER_NAME": "Orb Core"
 	},
+	"Overrun":
 	{
-		"PROPER_NAME": "Armure Plaquée",
-		"NAMES": ["armure plaquée", "armure_plaquée", "d'armure plaquée", "d'armure_plaquée"],
-		"DESCRIPTION": "Gagnez autant #yd'Armure à la fin de votre tour. Réduit de #b1 par dégat non bloqué."
+		"DESCRIPTION": "Activates for each enemy that loses its block during this attack.",
+		"NAMES": ["overrun"],
+		"PROPER_NAME": "Overrun"
 	},
+	"Persistent":
 	{
-		"PROPER_NAME": "Armure Enchantée",
-		"NAMES": ["armure enchantée", "armure_enchantée", "d'armure enchantée", "d'armure_enchantée","d'armure ench", "d'armure_ench"],
-		"DESCRIPTION": "Subissez moins de dégâts de TOUTES les sources. De moins en moins efficaces."
+		"DESCRIPTION": "Whenever this card would enter your discard pile, shuffle it into your draw pile.",
+		"NAMES": ["persistent"],
+		"PROPER_NAME": "Persistent"
 	},
+	"Recall":
 	{
-		"PROPER_NAME": "Artiste Martial",
-		"NAMES": ["artiste martial", "artiste_martial", "artiste martiale", "artiste_martiale", "maître des arts martiaux", "maître_des_arts_martiaux"],
-		"DESCRIPTION": "Les dégats de cette carte augmentent avec la #yDexterité."
+		"DESCRIPTION": "Trigger when this card is manually discarded or cycled.",
+		"NAMES": ["recall"],
+		"PROPER_NAME": "Recall"
 	},
+	"Reload":
 	{
-		"PROPER_NAME": "Jeteur de Sorts",
-		"NAMES": ["jeteur de sorts", "jeteur_de_sorts", "jeteuse de sorts", "jeteuse_de_sorts"],
-		"DESCRIPTION": "Les dégâts de cette carte augmentent avec la #yConcentration."
+		"DESCRIPTION": "Discard any number of cards, activate this effect that many times.",
+		"NAMES": ["reload"],
+		"PROPER_NAME": "Reload"
 	},
+	"Resurrect":
 	{
-		"PROPER_NAME": "Rechargement",
-		"NAMES": ["rechargement"],
-		"DESCRIPTION": "Défausse n'importe quel nombre de cartes, ative cet effet autant de fois."
+		"DESCRIPTION": "If you would die, and this card is anywhere in your deck, prevent all Damage and permanently lose this card. Will not work if Exhausted or Purged.",
+		"NAMES": ["resurrect"],
+		"PROPER_NAME": "Resurrect"
 	},
+	"Shapeshifter":
 	{
-		"PROPER_NAME": "Paresse",
-		"NAMES": ["paresse", "paresseux"],
-		"DESCRIPTION": "Les dégats de cette cartes peuvent être retardé de plusieurs tours."
+		"DESCRIPTION": "Synergizes with any card.",
+		"NAMES": ["shapeshifter", "shapeshift"],
+		"PROPER_NAME": "Shapeshifter"
 	},
+	"Spellcaster":
 	{
-		"PROPER_NAME": "Barrière de flamme",
-		"NAMES": ["barrière de flamme", "barrière_de_flamme"],
-		"DESCRIPTION": "Jusqu'au prochain tour, chaque fois que vous subissez des dommages, inflige 1 dégat à l'ennemi."
+		"DESCRIPTION": "This card's damage is enhanced by #yFocus.",
+		"NAMES": ["spellcaster"],
+		"PROPER_NAME": "Spellcaster"
 	},
+	"Support Damage":
 	{
-		"PROPER_NAME": "Rebound",
-		"NAMES": ["rebound"],
-		"DESCRIPTION": "La prochaine carte que vous jouer retourne sur le haut de votre pioche."
+		"DESCRIPTION": "Deal damage to the enemy with lowest HP at the end of each turn.",
+		"NAMES": ["support damage", "support_damage"],
+		"PROPER_NAME": "Support Damage"
 	},
+	"Synergy":
 	{
-		"PROPER_NAME": "Couteau de jet",
-		"NAMES": ["couteau de jet", "couteau_de_jet", "couteaux de jet", "couteaux_de_jet"],
-		"DESCRIPTION": "Les couteaux de jets sont des cartes d'Attaque qui coûtent 0 appliquant un debuff et s'épuisent."
+		"DESCRIPTION": "A card #ySynergizes if the card previously played this turn was from the same series, or if they were both #ySpellcasters or #yMartial #yArtists.",
+		"NAMES": ["synergy", "synergies", "synergize", "synergizes", "synergized"],
+		"PROPER_NAME": "Synergy"
 	},
+	"Throwing-Knife":
 	{
-		"PROPER_NAME": "Découvrir",
-		"NAMES": ["découvrir"],
-		"DESCRIPTION": "Choisir 1 carte parmis 3 cartes aléatoires à ajouter à votre main. Elle coute 0 ce tour."
-	},
-	{
-		"PROPER_NAME": "PV Temporaire",
-		"NAMES": ["temp. hp", "temp._hp", "temp._pv", "temp. pv","pv temp.","pv_temp." ],
-		"DESCRIPTION": "Les PV Temporaires disparaissent à la fin du combat."
-	},
-	{
-		"PROPER_NAME": "Vol",
-		"NAMES": ["vol"],
-		"DESCRIPTION": "Subit 50% moins de dégats d'#yAttaque. Perd 1 charge quand vous subissez des dégats, se reset en début de tour, disparait à 0 charge."
-	},
-	{
-		"PROPER_NAME": "Arme Enflammée",
-		"NAMES": ["arme enflammée", "arme_enflammée"],
-		"DESCRIPTION": "Tout dégats non bloqué, inflige #b1 Brûlure par coup."
-	},
-	{
-		"PROPER_NAME": "Demon Form",
-		"NAMES": ["demon form", "demon_form", "forme démoniaque", "forme_démoniaque"],
-		"DESCRIPTION": "Au début de chaque tour, gagnez 1 de #yForce."
-	},
-	{
-		"PROPER_NAME": "Juggernaut",
-		"NAMES": ["juggernaut"],
-		"DESCRIPTION": "Quand vous gagnez de #yl'Armure, infligé des dégats à un ennemi aléatoire."
-	},
-	{
-		"PROPER_NAME": "Dégât de Soutien",
-		"NAMES": ["support damage", "support_damage", "dégât de soutien", "dégât_de_soutien"],
-		"DESCRIPTION": "Inflige des dégats à l'ennemi avec le moins de PV."
-	},
-	{
-		"PROPER_NAME": "Motiver",
-		"NAMES": ["motiver", "motivation"],
-		"DESCRIPTION": "Reduit le coût d'une carte aléatoire de votre main par 1 jusqu'à ce qu'elle soit jouée. Répète N fois."
-	},
-	{
-		"PROPER_NAME": "animator:Unique",
-		"NAMES": ["animator:unique"],
-		"DESCRIPTION": "Unique|Peut s'améliorer un nombre infini de fois. Vous ne pouvez avoir qu'une copie de cette carte, les copies additionnelles #yAmélioreront cette carte à la place."
+		"DESCRIPTION": "0-Cost #yAttack which applies a randomized debuff.",
+		"NAMES": ["throwing-knife", "throwing-knives", "throwing-knife+", "throwing-knives+"],
+		"PROPER_NAME": "Throwing-Knife"
 	}
-]
+}

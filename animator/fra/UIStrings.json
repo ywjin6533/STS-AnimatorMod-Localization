@@ -1,9 +1,10 @@
+
 {
 	"animator:Synergies":
 	{
-		"TEXT": 
+		"TEXT":
 		[
-			"[Changeforme]",
+			"[Shapeshifter]",
 			"Elsword",
 			"Kantai Collection",
 			"Hitsugi no Chaika",
@@ -38,133 +39,138 @@
 			"Tate no Yuusha",
 			"Symphogear",
 			"Call Of Cthulhu",
-			"Chuunibyou demo Koi ga Shitai!"
+			"Chuunibyou demo Koi ga Shitai!",
+			"FLCL"
 		]
 	},
-		
+
 	"animator:Tips":
 	{
 		"TEXT":
 		[
-			"Même si les trophées et les synergies vous incitent à construire votre deck autour d’une série, il est bon de mélanger différentes séries et même un deck sans synergie pourrait réussir.",
-			"You can press 'Shift' while hovering certain cards to see a preview of related cards or alternate card forms."
+			"-",
+			"General", "Each of these Notes disappears permanently once clicked. The mod is updated often, so you might see them again whenever there is an important change.",
+			"Synergies", "Certain cards have effects that trigger on #ySynergy. A card #ySynergizes if the previous card played this turn was from the same series, or if they both have a #ySpellcaster or #yMartial #yArtist keyword.",
+			"Badges", "Cards in this mod have a secondary effect which is #ynever affected by #yUpgrades and is represented by a badge on the card. Hold #bRight #bClick at any moment and anywhere on the screen to check them, or press #bControl to toggle them.",
+			"Controller", "While playing with a controller, you can press #bRight #bStick in situations where #bRight #bClick would be required."
 		]
 	},
-	
+
 	"animator:Actions":
 	{
-		"TEXT": 
+		"TEXT":
 		[
-			"Cherche des cartes avec la même Synergie.",
-			"Défausse et pioche X cartes.",
-			"activé X fois cet effet.",
-			"réduit son coût pour le combat.",
-			"pioche # carte(s).",
-			"Transform en "
+			"fetch Cards with the same synergy.",
+			"discard and draw that many cards.",
+			"activate this card's effect that many times.",
+			"reduce its cost for this combat.",
+			"Draw # card/s.",
+			"Transform into ",
+			"move to your draw pile."
 		]
 	},
-	
-	"animator:TetAction": 
+
+	"animator:TetAction":
 	{
-		"TEXT": 
+		"TEXT":
 		[
-		  "Bouge jusqu'à # carte(s) à votre Défausse.",
-		  "Mélange # carte(s) dans votre Pioche."
+			"Move up to {0} card/s to your Discard Pile.",
+			"Shuffle {0} card/s into your Draw Pile."
 		]
 	},
-	
+
 	"animator:TheUnnamedReign":
 	{
 		"TEXT": 
 		[
-			"Le Règne du Sans-Nom"
+			"The Unnamed Reign"
 		]
 	},
 
 	"animator:SpecialEffects":
 	{
-		"TEXT": 
+		"TEXT":
 		[
-			"Attaquer",
-			"Defendre",
-			"Preparer",
-			"Améliorez TOUTES les cartes de votre main.",
-			"Infligez !D! dégât(s) à un ennemi aléatoire !M! fois.",
-			"Infligez !D! dégât(s) à TOUS les ennemis.",
-			"Gagnez !B! d'Armure.",
-			"Gagnez !M! de Force.",
-			"Gagnez !M! de Dextérité.",
-			"Gagnez !M! d'Épines.",
-			"Motiver de !M!.",
-			"Inflige !M! Faiblesse à TOUS les ennemis.",
-			"Inflige !M! Vulnérabilité à TOUS les ennemis.",
-			"Recyclez !M! carte(s)",
-			"Piochez !M! carte(s).",
-			"Gagnez !M! de Temp._PV.",
-			"Gagnez !M! de Concentration.",
-			"Gagnez !M! d'Énergie.",
-			"Inflige !M! de Poison à TOUS les ennemis.",
-			"Inflige !M! de [#EFC851]Brûlure à TOUS les ennemis.",
-			"Gagnez !M! d'Intangible",
-			"Gagnez !M! d'Artéfact. NL Enlevez TOUS vos debuffs.",
-			"Jouez la carte sur le haut de votre pioche.",
-			"Canalisez !M! des Orbes aléatoire.",
-			"Jouez la carte sur le haut de votre pioche deux fois."
+			"Attack",
+			"Defend",
+			"Prepare",
+			"Upgrade all cards NL in your hand.",
+			"Deal !D! damage NL to a random NL enemy !M! times.",
+			"Deal !D! damage NL to ALL enemies.",
+			"Gain !B! Block.",
+			"Gain !M! Force.",
+			"Gain !M! Agility.",
+			"Gain !M! Thorns.",
+			"Motivate !M!.",
+			"Apply !M! Weak NL to ALL enemies.",
+			"Apply !M! Vulnerable NL to ALL enemies.",
+			"Cycle !M! cards",
+			"Draw !M! cards.",
+			"Gain !M! Temp._HP.",
+			"Gain !M! Intellect.",
+			"Gain !M! Energy.",
+			"Apply !M! Poison NL to ALL enemies.",
+			"Apply !M! Burning NL to ALL enemies.",
+			"Gain !M! Intangible. NL Lose this Power.",
+			"Gain !M! Artifact. NL Remove all of NL your debuffs.",
+			"Play the top NL card of your NL draw pile.",
+			"Channel !M! NL random Orbs.",
+			"Play the top NL card of your NL draw pile twice."
 		]
 	},
-	
+
 	"animator:Trophies":
 	{
-		"TEXT": 
+		"TEXT":
 		[
 			"Bronze",
-			"Argent",
-			"Or",
-			"Choisissez ce deck de départ et complétez l'Acte 4.",
-			"Complétez l'Acte 4 avec la #ymoitié des cartes provenant de cette série dans votre deck.",
-			"Complétez l'Acte 4 avec #b8 cartes #ydifférentes provenant de cette série dans votre deck.",
-			"Complétez l'Acte 4 avec des cartes provenant de #b7 séries #ydifférentes. (Cartes sans couleur ne comptent pas)",
-			"Complétez l'Acte 4 avec des cartes provenant de #b10 séries #ydifférentes, sans bannir aucune carte. (Cartes sans couleur ne comptent pas)",
-			"Complétez l'Acte 4 avec #b20 cartes dans votre deck, sans aucune réplique.",
-			"Complétez l'Acte 4 avec #b30 cartes dans votre deck, sans aucune réplique.",
-			"Ce trophée sera révélé une fois obtenu. #yIndice: Collectez les 3 Clés.",
-			"Vainquez le Sans-Nom. NL Augmentez de façon permanente la chance de trouver les cartes #pUltrarares lorsque vous obtenez ce trophée, NL les hauts niveaux d'ascension augmentent le bonus par un plus grand montant. NL NL Le Règne du Sans-Nom est maintenant disponible pour toutes les classes.",
-			"Platine"
+			"Silver",
+			"Gold",
+			"Choose this starting deck and complete act 4.",
+			"Complete act 4 with at least #yhalf of the cards in your deck being from this series.",
+			"Complete act 4 with at least #b8 #ydifferent cards from this series in your deck.",
+			"Complete act 4 with at least #b7 #ydifferent card series in your deck. (Colorless cards will not count)",
+			"Complete act 4 with at least #b10 #ydifferent card series in your deck, and without banishing any card. (Colorless cards will not count)",
+			"Complete act 4 with at least #b20 cards in your deck, and without any duplicate.",
+			"Complete act 4 with at least #b30 cards in your deck, and without any duplicate.",
+			"This Trophy will be revealed once it is obtained. #yHint: Collect all 3 keys.",
+			"Defeat The Unnamed. NL Whenever you obtain this trophy, permanently increase the chance to find #pUltra #pRare cards, higher ascension increases this bonus by a larger amount. NL NL #yThe #yUnnamed #yReign is now available to all characters.",
+			"Platinum"
 		]
 	},
-	
+
 	"animator:Rewards":
 	{
-		"TEXT": 
+		"TEXT":
 		[
-			"Contient des carte uniquement avec cette Synergie. AVERTISSEMENT: une fois que vous cliquez dessus, les deux autres récompenses disparaîtront.",
-			"Relique en prime",
-			"Relique maudite"
+			"Only contains Cards with this synergy. WARNING: once you click on this, the other 2 Card rewards will disappear.",
+			"Bonus Relic",
+			"Cursed Relic"
 		]
 	},
-		
+
 	"animator:CardSelect":
 	{
-		"TEXT": 
+		"TEXT":
 		[
-			"Bannir"
+			"Banish"
 		]
 	},
-	
+
 	"animator:CharacterSelect":
 	{
-		"TEXT": 
+		"TEXT":
 		[
-			"Carte de départ: ",
+			"Starting Cards: ",
 			"###############",
-			"Se débloque au Niveau ",
-			" (Vous êtes au Niveau ",
+			"Unlocks at Level ",
+			" (You are Level ",
 			")",
-			"Recommandé.",
-			"Départ équilibré.",
-			"Départ fort.",
-			"Départ trés fort.",
-			"Spécial: Plus d'or"
+			"Recommended.",
+			"Balanced start.",
+			"Strong start.",
+			"Very strong start.",
+			"Special: More Gold"
 		]
 	}
 

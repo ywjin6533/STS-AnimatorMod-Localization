@@ -2,183 +2,178 @@
 {
 	"animator:AinzPower":
 	{
-		"DESCRIPTIONS": ["Au début de votre tour active 1 parmis 4 effects aléatoire #b", " fois."],
+		"DESCRIPTIONS": ["At the start of your turn activate 1 of 4 random effects #b", " time/s."],
 		"NAME": "Ainz Ooal Gown"
 	},
 	"animator:ArcherPower":
 	{
-		"DESCRIPTIONS": ["A la fin de votre tour, inflige #b", " dégat(s) à tous les ennemis pour chaque Debuff qu'ils ont."],
+		"DESCRIPTIONS": ["At the end of your turn, deal #b", " damage to all enemies for each Debuff they have."],
 		"NAME": "Archer"
 	},
 	"animator:AzrielPower":
 	{
-		"DESCRIPTIONS": ["Quand vous infligez un debuff a un ennemi, gagnez #b", " Force."],
+		"DESCRIPTIONS": ["Whenever you apply a debuff, gain #b", " Strength."],
 		"NAME": "Azriel"
 	},
 	"animator:BiyorigoPower":
 	{
-		"DESCRIPTIONS": ["Toutes 4 #yAttaques joué, gagnez #b", " Force et #b", " Dextérité."],
+		"DESCRIPTIONS": ["Whenever you gain #yDexterity, also gain #b", " #yForce."],
 		"NAME": "Bito Kanzashi"
 	},
 	"animator:BorosPower":
 	{
-		"DESCRIPTIONS": ["TOUS les #yPouvoirs seront joués deux fois."],
+		"DESCRIPTIONS": ["All #yPowers are played twice."],
 		"NAME": "Boros"
 	},
 	"animator:BozesPower":
 	{
-		"DESCRIPTIONS": ["Quand une carte #ySynergizes, gagnez #b", " d'Armure Plaquée."],
+		"DESCRIPTIONS": ["When a card #ySynergizes, gain #b", " #yPlated #yArmor."],
 		"NAME": "Bozes Co Palesti"
 	},
 	"animator:BurningPower":
 	{
-		"DESCRIPTIONS": ["Subissez #b", " dégat(s) à la fin du tour. Recevez #b", "% dégats sur #yAttaques supplémentaires ."],
-		"NAME": "Brûlure"
+		"DESCRIPTIONS": ["Take #b", " damage at the end of turn. Receive #b", "% more #yAttack damage."],
+		"NAME": "Burning"
 	},
 	"animator:ChlammyZellPower":
 	{
-		"DESCRIPTIONS": ["Quand vous joué les types de carte de manière altenatives , infligez #b", " dégat(s) à TOUS les ennemis et #yRecycler #b1 carte. NL NL Dernier type joué: #y"],
-		"NAME": "Chlammy Zell"
+		"DESCRIPTIONS": ["Whenever you play alternating card types this turn, deal #b", " damage to ALL enemies and #yCycle #b1 card. NL NL Last Type played: #y"],
+		"NAME": "Kurami"
 	},
 	"animator:CursedStabsPower":
 	{
-		"DESCRIPTIONS": ["À chaque fois que cet ennemi inflige des dégâts non bloqués, ajoutez une #yDouleur dans votre pioche."],
-		"NAME": "Poignards Maudits"
+		"DESCRIPTIONS": ["Whenever it deals unblocked damage, add 1 #yPain to your draw pile."],
+		"NAME": "Cursed Stabs"
 	},
 	"animator:DarkCrystalPower":
 	{
-		"DESCRIPTIONS": ["Lorsqu'une carte cible cet ennemi, applique #b", " de #yConstriction à TOUS les autres personnages."],
-		"NAME": "Crystal Tenébreux"
+		"DESCRIPTIONS": ["When targeted by a card, apply #b", " #yConstricted to ALL other characters."],
+		"NAME": "Dark Crystal"
 	},
 	"animator:DarkCubePower":
 	{
-		"DESCRIPTIONS": ["À la fin de chaque tour, applique #b", " de #yConstriction à l'ennemi."],
-		"NAME": "Cube Tenébreux"
+		"DESCRIPTIONS": ["At the end of each turn, apply #b", " #yConstricted to the enemy."],
+		"NAME": "Dark Cube"
 	},
 	"animator:DarkWispPower":
 	{
-		"DESCRIPTIONS": ["À la mort, applique #b", " de #yConstriction à TOUS les personnages."],
-		"NAME": "Fragment Tenébreux"
+		"DESCRIPTIONS": ["On death, apply #b", " #yConstricted to ALL characters."],
+		"NAME": "Dark Wisp"
 	},
 	"animator:DarknessPower":
 	{
-		"DESCRIPTIONS": ["La prochaine #b", " fois que vous recevez des dégâts, ajoutez 1 #yAdrénaline à votre pioche."],
+		"DESCRIPTIONS": ["The next #b", " time(s) you take damage, add 1 #yAdrenaline to your draw pile."],
 		"NAME": "Dustiness Ford Lalatina"
 	},
 	"animator:DelayedHealPower":
 	{
-		"DESCRIPTIONS": ["Soigner #g", " PV au début de votre prochain tour."],
-		"NAME": "Soin retardé"
-	},
-	"animator:DemiurgePower":
-	{
-		"DESCRIPTIONS": ["Prendre #b", " dégâts à la fin de votre tour."],
-		"NAME": "Demiurge"
+		"DESCRIPTIONS": ["Heal #g", " HP at the start of your next turn."],
+		"NAME": "Delayed Heal"
 	},
 	"animator:EarthenThornsPower":
 	{
-		"DESCRIPTIONS": ["Quand attaqué, inflige #b", " dégat(s) en retour."],
-		"NAME": "Epine de terre"
+		"DESCRIPTIONS": ["When attacked, deal #b", " damage back."],
+		"NAME": "Earthen Thorns"
 	},
 	"animator:EmiyaShirouPower":
 	{
-		"DESCRIPTIONS": ["Quand un ennemi perd son armure, gagnez #b1 energie et piochez #b1 #yAttaque aléatoire."],
+		"DESCRIPTIONS": ["Whenever an enemy loses its block this turn, gain #b1 energy and draw #b1 random #yAttack."],
 		"NAME": "Unlimited Blade Works"
 	},
 	"animator:EnchantedArmorPower":
 	{
-		"DESCRIPTIONS": ["Reçoit #b", "% moins de dégât(s) de TOUTES les sources."],
-		"NAME": "Armure Enchantée"
+		"DESCRIPTIONS": ["Take #b", "% less damage."],
+		"NAME": "Enchanted Armor"
 	},
 	"animator:EntouJyuuPower":
 	{
-		"DESCRIPTIONS": ["Sur votre prochain #b", " #yAttaque(s) ce tour, piochez #b", " carte(s) et appliquez #b", " de #yBrûlure à TOUS les ennemis."],
+		"DESCRIPTIONS": ["On your next #b", " #yAttack(s) this turn, draw #b1 card and apply #b1 #yBurning to ALL enemies."],
 		"NAME": "Entou Jyuu"
 	},
 	"animator:EnvyPower":
 	{
-		"DESCRIPTIONS": ["La première #b", " carte joué chaque tour Synergize."],
+		"DESCRIPTIONS": ["The first #b", " card(s) you play each turn will Synergize."],
 		"NAME": "Envy"
 	},
 	"animator:EvePower":
 	{
-		"DESCRIPTIONS": ["Quand une carte #ySynergizes, inflige #b", " dégats à un ennemi aléatoire, puis augmente ces dégats de 1."],
+		"DESCRIPTIONS": ["Whenever a card #ySynergizes, deal #b", " damage to a random enemy, then increase this damage by 1."],
 		"NAME": "Eve"
 	},
 	"animator:FeridBathoryPower":
 	{
-		"DESCRIPTIONS": ["Quand une carte est épuisé gagnez #b", " Force et Soignez #b", " PV."],
+		"DESCRIPTIONS": ["Whenever a card is Exhausted, a random enemy loses #b", " HP and you gain #b", " #yTemporary #yHp."],
 		"NAME": "Ferid Bathory"
 	},
 	"animator:FireCrystalPower":
 	{
-		"DESCRIPTIONS": ["Lorsqu'une carte cible cet ennemi, TOUS les autres personnages #b", " de #yForce et de #yBrûlure."],
-		"NAME": "Crystal Ardent"
+		"DESCRIPTIONS": ["When targeted by a card, ALL other characters gain #b", " #yStrength and #yBurning."],
+		"NAME": "Fire Crystal"
 	},
 	"animator:FireCubePower":
 	{
-		"DESCRIPTIONS": ["À la fin de chaque tour, TOUS les alliés reçoivent #b", " de #yForce et de #yBrûlure."],
-		"NAME": "Cube Ardent"
+		"DESCRIPTIONS": ["At the end of each turn, ALL allies gain #b", " #yStrength and #yBurning."],
+		"NAME": "Fire Cube"
 	},
 	"animator:FireWispPower":
 	{
-		"DESCRIPTIONS": ["À la mort, TOUS les personnages reçoivent #b", " de #yForce et de #yBrûlure."],
-		"NAME": "Fragment Ardent"
+		"DESCRIPTIONS": ["On death, ALL characters gain #b", " #yStrength and #yBurning."],
+		"NAME": "Fire Wisp"
 	},
 	"animator:FlamingWeaponPower":
 	{
-		"DESCRIPTIONS": ["Tout dégats non bloqué, inflige #b", " Brûlure."],
-		"NAME": "Arme Enflammé"
+		"DESCRIPTIONS": ["Whenever you deal unblocked damage to an enemy, apply #b", " #yBurning."],
+		"NAME": "Flaming Weapon"
 	},
 	"animator:FrostCrystalPower":
 	{
-		"DESCRIPTIONS": ["Lorsqu'une carte cible cet ennemi, TOUS les autres personnages gagne #b", " #yd'Armure #yPlaquée."],
-		"NAME": "Crystal Glacial"
+		"DESCRIPTIONS": ["When targeted by a card, All other characters gain #b", " #yPlated #yArmor."],
+		"NAME": "Frost Crystal"
 	},
 	"animator:FrostCubePower":
 	{
-		"DESCRIPTIONS": ["À la fin de chaque tour, TOUS les alliés reçoivent #b", " #yd'Armure #yPlaquée."],
-		"NAME": "Cube Glacial"
+		"DESCRIPTIONS": ["At the end of each turn, All allies gain #b", " #yPlated #yArmor."],
+		"NAME": "Frost Cube"
 	},
 	"animator:FrostWispPower":
 	{
-		"DESCRIPTIONS": ["À la mort, TOUS les personnages reçoivent #b", " #yd'Armure #yPlaquée."],
-		"NAME": "Fragment Glacial"
+		"DESCRIPTIONS": ["On death, All characters gain #b", " #yPlated #yArmor."],
+		"NAME": "Frost Wisp"
 	},
 	"animator:GazelDwargonPower":
 	{
-		"DESCRIPTIONS": ["Gardez la moitié de votre armure au début de votre tour, Quand vous joué une #yAttaque, gagnez #b", " d'Armure."],
+		"DESCRIPTIONS": ["Maintain half of your #yBlock at the start of each turn."],
 		"NAME": "Gazel Dwargon"
 	},
 	"animator:GeassPower":
 	{
-		"DESCRIPTIONS": ["Ce tour l'ennemi va s'attaquer lui-même."],
+		"DESCRIPTIONS": ["Will attack itself this turn."],
 		"NAME": "Geass"
 	},
 	"animator:GuildGirlPower":
 	{
-		"DESCRIPTIONS": ["Au début de votre tour Recycler #b", " cartes."],
-		"NAME": "Comptabilité"
+		"DESCRIPTIONS": ["At the start of your turn Cycle #b", " cards."],
+		"NAME": "Guild Girl"
 	},
 	"animator:HandSizePower":
 	{
-		"DESCRIPTIONS": ["Quantité maximale de cartes dans ta main: #b", "."],
-		"NAME": "Qté. max. de cartes dans la main"
+		"DESCRIPTIONS": ["Your current maximum hand size is #b", "."],
+		"NAME": "Hand Size"
 	},
 	"animator:HealingCrystalPower":
 	{
-		"DESCRIPTIONS": ["Lorsqu'une carte cible cet ennemi, TOUS les autres personnages gagne #b", " PV."],
-		"NAME": "Crystal Curatif"
+		"DESCRIPTIONS": ["When targeted by a card, ALL other characters heal #b", " HP."],
+		"NAME": "Healing Crystal"
 	},
 	"animator:HealingCubePower":
 	{
-		"DESCRIPTIONS": ["À la fin de chaque tour, TOUS les alliés reçoivent #b", " PV."],
-		"NAME": "Cube Curatif"
+		"DESCRIPTIONS": ["At the end of each turn, ALL allies heal #b", " HP."],
+		"NAME": "Healing Cube"
 	},
 	"animator:HealingWispPower":
 	{
-		"DESCRIPTIONS": ["À la mort, TOUS les personnages reçoivent #b", " PV."],
-		"NAME": "Fragment Curatif"
+		"DESCRIPTIONS": ["On death, ALL characters heal #b", " HP."],
+		"NAME": "Healing Wisp"
 	},
 	"animator:HigakiRinnePower":
 	{
@@ -187,82 +182,82 @@
 	},
 	"animator:HiteiPower":
 	{
-		"DESCRIPTIONS": ["Au début de votre tour gagnez un #yBuff aléatoire, puis Choisissez et Epuisé #b", " cartes de votre deck."],
+		"DESCRIPTIONS": ["At the start of your turn, choose and Exhaust #b", " card/s in your deck."],
 		"NAME": "Princess Hitei"
 	},
 	"animator:InfinitePower":
 	{
-		"DESCRIPTIONS": ["- Avant de prendre des dégâts non-bloqués: Gagnez autant #yd'Armure #yEnchantée. NL - En recevant les Debuffs: Gagnez autant de #yRegénération. NL - Lorsque l'ennemi reçoit un Buff: Gagnez autant de #yForce. NL - Ces Buffs seront diminués de moitié à chaque fin de tour."],
-		"NAME": "Pouvoir Infini"
+		"DESCRIPTIONS": ["Before taking unblocked damage: Gains that much #yEnchanted #yArmor. NL When receiving a debuff: Gains that much #yRegeneration. NL When the enemy receives a buff: Gains that much #yStrength. NL Loses half of these stats at the end of each turn."],
+		"NAME": "Infinite Power"
 	},
 	"animator:KaijinPower":
 	{
-		"DESCRIPTIONS": ["À la fin du tour, Conservez 1 carte et augmentez sa quantité de dégâts et d'Armure par #b", " pour ce combat."],
+		"DESCRIPTIONS": ["At the end of each turn, #yRetain a card and increase its damage and #yBlock by #b", " this combat."],
 		"NAME": "Kaijin"
 	},
 	"animator:LightningCrystalPower":
 	{
-		"DESCRIPTIONS": ["Lorsqu'une carte cible cet ennemi, TOUS les autres personnages reçoivent #b", " dégâts #yPerçants."],
-		"NAME": "Crystal Foudroyant"
+		"DESCRIPTIONS": ["When targeted by a card, ALL other characters take #b", " #yPiercing damage."],
+		"NAME": "Lightning Crystal"
 	},
 	"animator:LightningCubePower":
 	{
-		"DESCRIPTIONS": ["À la fin de chaque tour, inflige #b", " dégâts #yPerçants à l'ennemi."],
-		"NAME": "Cube Foudroyant"
+		"DESCRIPTIONS": ["At the end of each turn, deal #b", " #yPiercing damage to the enemy."],
+		"NAME": "Lightning Cube"
 	},
 	"animator:LightningWispPower":
 	{
-		"DESCRIPTIONS": ["À la mort, TOUS les personnages reçoivent #b", " dégâts #yPerçants."],
-		"NAME": "Fragment Foudroyant"
+		"DESCRIPTIONS": ["On death, ALL characters take #b", " #yPiercing damage."],
+		"NAME": "Lightning Wisp"
 	},
 	"animator:MarkOfPoisonPower":
 	{
-		"DESCRIPTIONS": ["Quand vous subissez des sommages, subissez aussi #b", " #yPoison."],
-		"NAME": "Marque de Poison"
+		"DESCRIPTIONS": ["Whenever you receive damage also receive #b", " #yPoison."],
+		"NAME": "Mark of Poison"
 	},
 	"animator:NextTurnDexterityPower":
 	{
-		"DESCRIPTIONS": ["Au prochain tour, gagnez #b", " #yDextérité temporaire."],
-		"NAME": "Dextérité au prochain tour"
+		"DESCRIPTIONS": ["Next turn, gain #b", " Temporary #yDexterity."],
+		"NAME": "Next Turn Dexterity"
 	},
 	"animator:OrbCore_ChaosPower":
 	{
-		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, #yDécouvre #b", " cartes."],
-		"NAME": "Noyau de Chaos"
+		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, #yDiscover #b", " card/s."],
+		"NAME": "Chaos Core"
 	},
 	"animator:OrbCore_DarkPower":
 	{
-		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, piochez #b", " carte, puis défaussé #b1 carte."],
-		"NAME": "Noyau de Tenèbre"
+		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, draw #b", " cards, then discard #b1 card."],
+		"NAME": "Dark Core"
 	},
 	"animator:OrbCore_EarthPower":
 	{
-		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, gagnez #b", " #yEpine temporaire."],
-		"NAME": "Noyau de Terre"
+		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, gain #b", " Temporary #yThorns."],
+		"NAME": "Earth Core"
 	},
 	"animator:OrbCore_FirePower":
 	{
-		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, infligez #b", " #yBrûlure à TOUS les ennemis."],
-		"NAME": "Noyau de Feu"
+		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, apply #b", " #yBurning to ALL enemies."],
+		"NAME": "Fire Core"
 	},
 	"animator:OrbCore_FrostPower":
 	{
-		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, gagnez #b", " d'#yArmure #yPlaquée."],
-		"NAME": "Noyau de Gel"
+		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, gain #b", " #yPlated #yArmor."],
+		"NAME": "Frost Core"
 	},
 	"animator:OrbCore_LightningPower":
 	{
-		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, inflige #b", " dégat(s) à TOUS les ennemis."],
-		"NAME": "Noyau de Foudre"
+		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, deal #b", " damage to ALL enemies."],
+		"NAME": "Lightning Core"
 	},
 	"animator:OrbCore_PlasmaPower":
 	{
-		"DESCRIPTIONS": ["Vos prochaines #b", " #ySynergies ce tour, gagnez #b", " #yTemporaire #yPV."],
-		"NAME": "Noyau de Plasma"
+		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, gain #b", " #yTemporary #yHP."],
+		"NAME": "Plasma Core"
 	},
 	"animator:PinaCoLadaPower":
 	{
-		"DESCRIPTIONS": ["Votre première #b", " carte coûtant #y0 sera joué deux fois."],
+		"DESCRIPTIONS": ["Your next #b", " #y0-Cost card/s are played twice."],
 		"NAME": "Piña Co Lada"
 	},
 	"animator:PlayerStatistics":
@@ -272,47 +267,47 @@
 	},
 	"animator:PoisonAffinityPower":
 	{
-		"DESCRIPTIONS": ["Quand vous infligez #yPoison, appliquez #b", " de #yPoison supplémentaire."],
-		"NAME": "Affinité au Poison"
+		"DESCRIPTIONS": ["Whenever you apply #yPoison, apply an additional #b", " #yPoison."],
+		"NAME": "Poison Affinity"
 	},
 	"animator:PridePower":
 	{
-		"DESCRIPTIONS": ["Jusqu'à votre prochain tour, tous dégats non bloqué, diminuera les dégats de votre Orbe des #yTenèbres à la place."],
-		"NAME": "Fierté"
+		"DESCRIPTIONS": ["Until your next turn, when you would take unblocked damage, your rightmost #yDark Orb loses that much damage instead."],
+		"NAME": "Pride"
 	},
 	"animator:RoryMercuryPower":
 	{
-		"DESCRIPTIONS": ["Vos #yAttaques ce tour inflige #b", "% dégat(s) supplémentaires."],
+		"DESCRIPTIONS": ["Your #yAttacks this turn deal #b", "% more damage."],
 		"NAME": "Rory Mercury"
 	},
 	"animator:ShikizakiKikiPower":
 	{
-		"DESCRIPTIONS": ["La #yForce affecte toutes les cartes #b", " fois."],
+		"DESCRIPTIONS": ["#yStrength affects ALL cards #b", " times."],
 		"NAME": "Shikizaki Kiki"
 	},
 	"animator:ShiroPower":
 	{
-		"DESCRIPTIONS": ["Au début de votre tour gagnez #b", " Energie."],
+		"DESCRIPTIONS": ["At the start of you turn gain #b", " energy."],
 		"NAME": "Shiro"
 	},
 	"animator:SonicPower":
 	{
-		"DESCRIPTIONS": ["Au début de vos #b", " prochains tours, gagnez 1 de #yDextérité et ajoutez un #yCouteau #yde #yJet à votre main."],
+		"DESCRIPTIONS": ["At the start of your next #b", " turns, gain #b1 #yDexterity and add #b1 #yThrowing-Knives to your hand."],
 		"NAME": "Speed-o'-Sound Sonic"
 	},
 	"animator:StolenGoldPower":
 	{
-		"DESCRIPTIONS": ["Vous avez volé #b", " Or. Vous pouvez encore volé #b", " Or."],
+		"DESCRIPTIONS": ["You stole #b", " Gold. You can steal #b", " more Gold."],
 		"NAME": "Stolen Gold"
 	},
 	"animator:StrategicInformationPower":
 	{
-		"DESCRIPTIONS": ["Vos prochaine #b", " fois que vous défaussé une carte, gagnez #b", " d'#yArmure et infligez #b", " dégats à l'ennemi le plus bas en PV."],
+		"DESCRIPTIONS": ["The next #b", " time/s you discard a card, gain #b", " #yBlock and deal #b", " damage to the lowest health enemy."],
 		"NAME": "Strategic Information"
 	},
 	"animator:SupportDamagePower":
 	{
-		"DESCRIPTIONS": ["Infligez #b", " dégats à l'ennemi le plus bas en PV à la fin de votre tour."],
+		"DESCRIPTIONS": ["Deal #b", " damage to the enemy with lowest HP at the end of your turn."],
 		"NAME": "Support Damage"
 	},
 	"animator:TheUnnamedCultistPower":
@@ -322,32 +317,37 @@
 	},
 	"animator:TheUnnamedHatPower":
 	{
-		"DESCRIPTIONS": ["À le début de chaque tour, TOUS les alliés reçoivent #b", " PV. NL NL À la mort, appliquez #yEnchevêtré a l'ennemi."],
+		"DESCRIPTIONS": ["At the end of each turn, all allies heal #b", " HP. NL NL On death, apply #yEntangle to the opponent."],
 		"NAME": "H4T"
 	},
 	"animator:UltimateCrystalPower":
 	{
-		"DESCRIPTIONS": ["Lorsqu'une carte est jouée, gagnez #b", " de #yForce. NL NL Après #b", " tour(s), invoque une copie de soi-même."],
-		"NAME": "Crystal Ultime"
+		"DESCRIPTIONS": ["Whenever a card is played, gains #b", " #yStrength. NL NL After #b", " turn(s), summons a copy of itself."],
+		"NAME": "Ultimate Crystal"
 	},
 	"animator:UltimateCubePower":
 	{
-		"DESCRIPTIONS": ["À la fin de chaque tour, gagne #b", " Buffs aléatoire. NL NL Explose après #b", " tours, causant #b", " dégâts."],
-		"NAME": "Cube Ultime"
+		"DESCRIPTIONS": ["At the end of each turn, gains #b", " random Buff. NL NL Explodes after #b", " turns, dealing #b", " damage."],
+		"NAME": "Ultimate Cube"
 	},
 	"animator:UltimateWispPower":
 	{
-		"DESCRIPTIONS": ["Lorsque cet ennemi vous inflige des dégâts, ajoutez #b1 #yBrûlure à votre défausse. NL NL La première carte jouée à chaque tour est #yÉpuisée."],
-		"NAME": "Fragment Ultime"
+		"DESCRIPTIONS": ["Whenever it deals unblocked damage, add #b1 #yBurn to your discard pile. NL NL The first card played each turn is #yExhausted."],
+		"NAME": "Ultimate Wisp"
 	},
 	"animator:UnnamedDollPower":
 	{
-		"DESCRIPTIONS": ["Au prochain #b", " tours, lorsqu'une carte qui ne cible pas seulement ce personnage est jouée, gagnez #b", " de #yMax #yPV. NL NL ", "À la mort, TOUS les autres personnages reçoivent #b", " de #yForce."],
-		"NAME": "Poupée Sans Nom"
+		"DESCRIPTIONS": ["For the next #b", " turns, when playing a card which does not target this character, gains #b", " #yMax #yHP. NL NL ", "On death, ALL characters gain #b", " #yStrength."],
+		"NAME": "Unnamed Doll"
+	},
+	"animator:VitalityPower":
+	{
+		"DESCRIPTIONS": ["Whenever you are attacked this turn, gain #b", " #yTemporary #HP."],
+		"NAME": "Vitality"
 	},
 	"animator:YukoShionjiPower":
 	{
-		"DESCRIPTIONS": ["Révèle la carte au dessus de votre deck, NL #pClic-Gauche pour la piocher ( #b", " utilisations ), ou #pClic-Droit pour la défaussé ( #b", " utilisations)."],
+		"DESCRIPTIONS": ["Reveal the top card of your draw pile, NL you may #pLeft-Click to draw it ( #b", " use/s ), or #pRight-Click to discard it ( #b", " use/s)."],
 		"NAME": "Yuko Shionji"
 	}
 }

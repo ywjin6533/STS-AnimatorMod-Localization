@@ -2,183 +2,178 @@
 {
 	"animator:AinzPower":
 	{
-		"DESCRIPTIONS": ["在你的回合開始時隨機發動4個效果中的其中1個", " 次"],
-		"NAME": "安兹·烏爾·恭"
+		"DESCRIPTIONS": ["At the start of your turn activate 1 of 4 random effects #b", " time/s."],
+		"NAME": "Ainz Ooal Gown"
 	},
 	"animator:ArcherPower":
 	{
-		"DESCRIPTIONS": ["在你的回合結束時對所有敵人造成 #b", " 傷害 並給予負面效果."],
+		"DESCRIPTIONS": ["At the end of your turn, deal #b", " damage to all enemies for each Debuff they have."],
 		"NAME": "Archer"
 	},
 	"animator:AzrielPower":
 	{
-		"DESCRIPTIONS": ["每當給予一個敵人負面效果時, 獲得 #b", " 點 力量."],
+		"DESCRIPTIONS": ["Whenever you apply a debuff, gain #b", " Strength."],
 		"NAME": "Azriel"
 	},
 	"animator:BiyorigoPower":
 	{
-		"DESCRIPTIONS": ["每當打出 4 #y次攻擊牌 ， 獲得 #b", " 力量 和 #b", " 敏捷。"],
-		"NAME": "微刀．釵"
+		"DESCRIPTIONS": ["Whenever you gain #yDexterity, also gain #b", " #yForce."],
+		"NAME": "Bito Kanzashi"
 	},
 	"animator:BorosPower":
 	{
-		"DESCRIPTIONS": ["所有 #y能力 將會被打出兩次。"],
-		"NAME": "波羅斯"
+		"DESCRIPTIONS": ["All #yPowers are played twice."],
+		"NAME": "Boros"
 	},
 	"animator:BozesPower":
 	{
-		"DESCRIPTIONS": ["每當一張牌在本回合中觸發同調， 獲得 #b", " 點 多層護甲 。"],
-		"NAME": "波賽斯·戈·芭蕾絲蒂"
+		"DESCRIPTIONS": ["When a card #ySynergizes, gain #b", " #yPlated #yArmor."],
+		"NAME": "Bozes Co Palesti"
 	},
 	"animator:BurningPower":
 	{
-		"DESCRIPTIONS": ["在回合結束時受到 #b", " 點傷害 。 獲得 #b", "% 更多 #y攻擊傷害 。"],
-		"NAME": "燃燒"
+		"DESCRIPTIONS": ["Take #b", " damage at the end of turn. Receive #b", "% more #yAttack damage."],
+		"NAME": "Burning"
 	},
 	"animator:ChlammyZellPower":
 	{
-		"DESCRIPTIONS": ["當你交替打出不同類型的牌時 ， 循環 1 張牌 並 對所有敵人造成 #b", " 點 傷害 。 NL NL 你上一次打出的牌的類型是 : #y"],
-		"NAME": "克拉米·杰爾"
+		"DESCRIPTIONS": ["Whenever you play alternating card types this turn, deal #b", " damage to ALL enemies and #yCycle #b1 card. NL NL Last Type played: #y"],
+		"NAME": "Kurami"
 	},
 	"animator:CursedStabsPower":
 	{
-		"DESCRIPTIONS": ["當這個敵人對你造成傷害時, 在你的抽牌堆裡添加1張 #y疼痛 。"],
-		"NAME": "詛咒戳刺"
+		"DESCRIPTIONS": ["Whenever it deals unblocked damage, add 1 #yPain to your draw pile."],
+		"NAME": "Cursed Stabs"
 	},
 	"animator:DarkCrystalPower":
 	{
-		"DESCRIPTIONS": ["被牌指定時, 所有其他角色承受 #b", " 層 #y纏繞 ."],
-		"NAME": "暗黑之晶"
+		"DESCRIPTIONS": ["When targeted by a card, apply #b", " #yConstricted to ALL other characters."],
+		"NAME": "Dark Crystal"
 	},
 	"animator:DarkCubePower":
 	{
-		"DESCRIPTIONS": ["每輪結束時, 敵人承受 #b", " 層 #y纏繞 ."],
-		"NAME": "暗黑之方"
+		"DESCRIPTIONS": ["At the end of each turn, apply #b", " #yConstricted to the enemy."],
+		"NAME": "Dark Cube"
 	},
 	"animator:DarkWispPower":
 	{
-		"DESCRIPTIONS": ["死亡時, 所有角色承受 #b", " 層 #y纏繞 ."],
-		"NAME": "暗黑之縷"
+		"DESCRIPTIONS": ["On death, apply #b", " #yConstricted to ALL characters."],
+		"NAME": "Dark Wisp"
 	},
 	"animator:DarknessPower":
 	{
-		"DESCRIPTIONS": ["下 #b", " 次受傷時， 在抽牌堆裡添加一張 腎上腺素 。"],
-		"NAME": "拉拉蒂娜"
+		"DESCRIPTIONS": ["The next #b", " time(s) you take damage, add 1 #yAdrenaline to your draw pile."],
+		"NAME": "Dustiness Ford Lalatina"
 	},
 	"animator:DelayedHealPower":
 	{
-		"DESCRIPTIONS": ["下回合開始時治療 #g", "點生命。"],
-		"NAME": "延遲治療"
-	},
-	"animator:DemiurgePower":
-	{
-		"DESCRIPTIONS": ["在本回合結束時 ， 受到 #b", " 點 傷害 。"],
-		"NAME": "Demiurge"
+		"DESCRIPTIONS": ["Heal #g", " HP at the start of your next turn."],
+		"NAME": "Delayed Heal"
 	},
 	"animator:EarthenThornsPower":
 	{
-		"DESCRIPTIONS": ["每次受到 #y攻擊 傷害時，就造成 #b", " 點反傷"],
-		"NAME": "臨時荊棘"
+		"DESCRIPTIONS": ["When attacked, deal #b", " damage back."],
+		"NAME": "Earthen Thorns"
 	},
 	"animator:EmiyaShirouPower":
 	{
-		"DESCRIPTIONS": ["每當打破任意目標的 格擋 時, 獲得 1點能量並抽一張 #y攻擊 牌 。 該效果不疊加 。"],
-		"NAME": "無限劍制"
+		"DESCRIPTIONS": ["Whenever an enemy loses its block this turn, gain #b1 energy and draw #b1 random #yAttack."],
+		"NAME": "Unlimited Blade Works"
 	},
 	"animator:EnchantedArmorPower":
 	{
-		"DESCRIPTIONS": ["受到的所有傷害減少 #b", "% 。"],
-		"NAME": "魔法盔甲"
+		"DESCRIPTIONS": ["Take #b", "% less damage."],
+		"NAME": "Enchanted Armor"
 	},
 	"animator:EntouJyuuPower":
 	{
-		"DESCRIPTIONS": ["接下來的 #b", " 次你在這輪攻擊中 ， 抽一張牌 並 對所有敵人施加 1 層 燃燒 。"],
-		"NAME": "炎刃·銃"
+		"DESCRIPTIONS": ["On your next #b", " #yAttack(s) this turn, draw #b1 card and apply #b1 #yBurning to ALL enemies."],
+		"NAME": "Entou Jyuu"
 	},
 	"animator:EnvyPower":
 	{
-		"DESCRIPTIONS": ["每回合打出的第一張 #b", " 牌觸發自己的同調。"],
-		"NAME": "忌妒"
+		"DESCRIPTIONS": ["The first #b", " card(s) you play each turn will Synergize."],
+		"NAME": "Envy"
 	},
 	"animator:EvePower":
 	{
-		"DESCRIPTIONS": ["當 #y同調 發動時對隨機敵人造成 ", " 點 傷害 。"],
-		"NAME": "依芙的覺醒"
+		"DESCRIPTIONS": ["Whenever a card #ySynergizes, deal #b", " damage to a random enemy, then increase this damage by 1."],
+		"NAME": "Eve"
 	},
 	"animator:FeridBathoryPower":
 	{
-		"DESCRIPTIONS": ["一回合兩次，當一張牌被消耗時增加", "點力量和 回復", " 點生命。"],
-		"NAME": "費里德·巴特利"
+		"DESCRIPTIONS": ["Whenever a card is Exhausted, a random enemy loses #b", " HP and you gain #b", " #yTemporary #yHp."],
+		"NAME": "Ferid Bathory"
 	},
 	"animator:FireCrystalPower":
 	{
-		"DESCRIPTIONS": ["被牌指定時, 一名隨機角色獲得s #b", " #y力量 和 #y燃燒 ."],
-		"NAME": "火焰之晶"
+		"DESCRIPTIONS": ["When targeted by a card, ALL other characters gain #b", " #yStrength and #yBurning."],
+		"NAME": "Fire Crystal"
 	},
 	"animator:FireCubePower":
 	{
-		"DESCRIPTIONS": ["每輪結束時, 所有盟友獲得 #b", " #y力量 和 #y燃燒 ."],
-		"NAME": "火焰之方"
+		"DESCRIPTIONS": ["At the end of each turn, ALL allies gain #b", " #yStrength and #yBurning."],
+		"NAME": "Fire Cube"
 	},
 	"animator:FireWispPower":
 	{
-		"DESCRIPTIONS": ["死亡時, 所有角色獲得 #b", " #y力量 和 #y燃燒 ."],
-		"NAME": "火焰之縷"
+		"DESCRIPTIONS": ["On death, ALL characters gain #b", " #yStrength and #yBurning."],
+		"NAME": "Fire Wisp"
 	},
 	"animator:FlamingWeaponPower":
 	{
-		"DESCRIPTIONS": ["每有一次攻擊造成未被格擋的傷害，就給予 #b", " 層 燃燒 。"],
-		"NAME": "火紅的武器"
+		"DESCRIPTIONS": ["Whenever you deal unblocked damage to an enemy, apply #b", " #yBurning."],
+		"NAME": "Flaming Weapon"
 	},
 	"animator:FrostCrystalPower":
 	{
-		"DESCRIPTIONS": ["被牌指定時, 一名隨機角色獲得 #b", " 層 #y多層護甲."],
-		"NAME": "冰霜之晶"
+		"DESCRIPTIONS": ["When targeted by a card, All other characters gain #b", " #yPlated #yArmor."],
+		"NAME": "Frost Crystal"
 	},
 	"animator:FrostCubePower":
 	{
-		"DESCRIPTIONS": ["每輪結束時, 所有盟友獲得 #b", " 層 #y多層護甲."],
-		"NAME": "冰霜之方"
+		"DESCRIPTIONS": ["At the end of each turn, All allies gain #b", " #yPlated #yArmor."],
+		"NAME": "Frost Cube"
 	},
 	"animator:FrostWispPower":
 	{
-		"DESCRIPTIONS": ["死亡時, 所有角色獲得 #b", " 層 #y多層護甲."],
-		"NAME": "冰霜之縷"
+		"DESCRIPTIONS": ["On death, All characters gain #b", " #yPlated #yArmor."],
+		"NAME": "Frost Wisp"
 	},
 	"animator:GazelDwargonPower":
 	{
-		"DESCRIPTIONS": ["在每輪開始時 ， 保持一半的點 格擋 。 無論何時你玩一張能耗2或者以上的卡 ， 獲得 #b", " 點 格擋 。"],
-		"NAME": "矮人王"
+		"DESCRIPTIONS": ["Maintain half of your #yBlock at the start of each turn."],
+		"NAME": "Gazel Dwargon"
 	},
 	"animator:GeassPower":
 	{
-		"DESCRIPTIONS": ["這一輪，敵人會攻擊自己。"],
+		"DESCRIPTIONS": ["Will attack itself this turn."],
 		"NAME": "Geass"
 	},
 	"animator:GuildGirlPower":
 	{
-		"DESCRIPTIONS": ["在你的回合開始時循環 ", " 張牌。"],
-		"NAME": "簿記"
+		"DESCRIPTIONS": ["At the start of your turn Cycle #b", " cards."],
+		"NAME": "Guild Girl"
 	},
 	"animator:HandSizePower":
 	{
-		"DESCRIPTIONS": ["你的手牌上限為#b", "。"],
-		"NAME": "手牌上限"
+		"DESCRIPTIONS": ["Your current maximum hand size is #b", "."],
+		"NAME": "Hand Size"
 	},
 	"animator:HealingCrystalPower":
 	{
-		"DESCRIPTIONS": ["被牌指定時, 一名隨機角色修復 #b", " 點生命值."],
-		"NAME": "治愈之晶"
+		"DESCRIPTIONS": ["When targeted by a card, ALL other characters heal #b", " HP."],
+		"NAME": "Healing Crystal"
 	},
 	"animator:HealingCubePower":
 	{
-		"DESCRIPTIONS": ["每輪結束時, 所有盟友修復 #b", " 點生命值."],
-		"NAME": "治愈之方"
+		"DESCRIPTIONS": ["At the end of each turn, ALL allies heal #b", " HP."],
+		"NAME": "Healing Cube"
 	},
 	"animator:HealingWispPower":
 	{
-		"DESCRIPTIONS": ["死亡時, 所有角色修復 #b", " 點生命值."],
-		"NAME": "治愈之縷"
+		"DESCRIPTIONS": ["On death, ALL characters heal #b", " HP."],
+		"NAME": "Healing Wisp"
 	},
 	"animator:HigakiRinnePower":
 	{
@@ -187,167 +182,172 @@
 	},
 	"animator:HiteiPower":
 	{
-		"DESCRIPTIONS": ["在你的回合開始時獲得隨機 #y積極影響, 選擇並且消耗", " 張隨機牌 。"],
-		"NAME": "否定姫"
+		"DESCRIPTIONS": ["At the start of your turn, choose and Exhaust #b", " card/s in your deck."],
+		"NAME": "Princess Hitei"
 	},
 	"animator:InfinitePower":
 	{
-		"DESCRIPTIONS": ["- 受到未被格擋的傷害前: 獲得此數量的 #y魔法護甲 . NL - 受到 負面效果 時: 獲得此數量的 #y再生 . NL - 當敵人獲得 積極影響 時: 獲得此數量的 #y力量 . NL - 這些加成會在每回合結束時減半."],
-		"NAME": "無盡之力"
+		"DESCRIPTIONS": ["Before taking unblocked damage: Gains that much #yEnchanted #yArmor. NL When receiving a debuff: Gains that much #yRegeneration. NL When the enemy receives a buff: Gains that much #yStrength. NL Loses half of these stats at the end of each turn."],
+		"NAME": "Infinite Power"
 	},
 	"animator:KaijinPower":
 	{
-		"DESCRIPTIONS": ["在每輪結束時， 保留1張卡 并使其造成的傷害與獲得的格擋量在本場戰鬥中提高 #b", " 點 。"],
-		"NAME": "凱·金"
+		"DESCRIPTIONS": ["At the end of each turn, #yRetain a card and increase its damage and #yBlock by #b", " this combat."],
+		"NAME": "Kaijin"
 	},
 	"animator:LightningCrystalPower":
 	{
-		"DESCRIPTIONS": ["被牌指定時, 一名隨機角色承受 #b", " 點 #y穿刺 傷害."],
-		"NAME": "雷電之晶"
+		"DESCRIPTIONS": ["When targeted by a card, ALL other characters take #b", " #yPiercing damage."],
+		"NAME": "Lightning Crystal"
 	},
 	"animator:LightningCubePower":
 	{
-		"DESCRIPTIONS": ["每輪結束時, 對敵人造成 #b", " 點 #y穿刺 傷害."],
-		"NAME": "雷電之方"
+		"DESCRIPTIONS": ["At the end of each turn, deal #b", " #yPiercing damage to the enemy."],
+		"NAME": "Lightning Cube"
 	},
 	"animator:LightningWispPower":
 	{
-		"DESCRIPTIONS": ["死亡時, 所有角色承受 #b", " 點 #y穿刺 傷害."],
-		"NAME": "雷電之縷"
+		"DESCRIPTIONS": ["On death, ALL characters take #b", " #yPiercing damage."],
+		"NAME": "Lightning Wisp"
 	},
 	"animator:MarkOfPoisonPower":
 	{
-		"DESCRIPTIONS": ["當你受到傷害同時也會獲得", " 層中毒。"],
-		"NAME": "毒之印記"
+		"DESCRIPTIONS": ["Whenever you receive damage also receive #b", " #yPoison."],
+		"NAME": "Mark of Poison"
 	},
 	"animator:NextTurnDexterityPower":
 	{
-		"DESCRIPTIONS": ["下一輪 ， 獲得 #b", " 層 臨時 #y敏捷 。"],
-		"NAME": "下一輪 敏捷"
+		"DESCRIPTIONS": ["Next turn, gain #b", " Temporary #yDexterity."],
+		"NAME": "Next Turn Dexterity"
 	},
 	"animator:OrbCore_ChaosPower":
 	{
-		"DESCRIPTIONS": ["本回合中，你接下来第 #b", " 次觸發 #y同調後，#y發現 #b", " 張牌。"],
-		"NAME": "混沌充能球"
+		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, #yDiscover #b", " card/s."],
+		"NAME": "Chaos Core"
 	},
 	"animator:OrbCore_DarkPower":
 	{
-		"DESCRIPTIONS": ["本回合中，你接下来第 #b", " 次觸發 #y同調後，抽 #b", " 張牌, 然後 丢 #b1 張牌。"],
-		"NAME": "黑暗充能球"
+		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, draw #b", " cards, then discard #b1 card."],
+		"NAME": "Dark Core"
 	},
 	"animator:OrbCore_EarthPower":
 	{
-		"DESCRIPTIONS": ["本回合中，你接下来第 #b", " 次觸發 #y同調後，獲得 #b", " 點 臨時 #y荆棘。"],
-		"NAME": "大地充能球"
+		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, gain #b", " Temporary #yThorns."],
+		"NAME": "Earth Core"
 	},
 	"animator:OrbCore_FirePower":
 	{
-		"DESCRIPTIONS": ["本回合中，你接下来第 #b", "次觸發 #y同調後，给予所有敵人 #b層 ", " #y燃燒。"],
-		"NAME": "火焰充能球"
+		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, apply #b", " #yBurning to ALL enemies."],
+		"NAME": "Fire Core"
 	},
 	"animator:OrbCore_FrostPower":
 	{
-		"DESCRIPTIONS": ["本回合中，你接下来第 #b", "次觸發 #y同調後, 獲得 #b", " 層 #y多層護甲。"],
-		"NAME": "冰霜充能球"
+		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, gain #b", " #yPlated #yArmor."],
+		"NAME": "Frost Core"
 	},
 	"animator:OrbCore_LightningPower":
 	{
-		"DESCRIPTIONS": ["本回合中，你接下来第 #b", "次觸發 #y同調後， 對所有敵人造成 #b點", " 傷害。"],
-		"NAME": "閃電充能球"
+		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, deal #b", " damage to ALL enemies."],
+		"NAME": "Lightning Core"
 	},
 	"animator:OrbCore_PlasmaPower":
 	{
-		"DESCRIPTIONS": ["本回合中，你接下来第 #b", "次觸發 #y同調後", " 點 #y臨時生命"],
-		"NAME": "等離子充能球"
+		"DESCRIPTIONS": ["On your next #b", " #ySynergies this turn, gain #b", " #yTemporary #yHP."],
+		"NAME": "Plasma Core"
 	},
 	"animator:PinaCoLadaPower":
 	{
-		"DESCRIPTIONS": ["下一張 #b", " #y打出的無號能牌打出兩次。"],
-		"NAME": "平娜·戈·蘭達"
+		"DESCRIPTIONS": ["Your next #b", " #y0-Cost card/s are played twice."],
+		"NAME": "Piña Co Lada"
 	},
 	"animator:PlayerStatistics":
 	{
-		"DESCRIPTIONS": ["隱藏玩家統計數據的力量。"],
-		"NAME": "玩家統計數據"
+		"DESCRIPTIONS": ["Hidden Player Statistics power."],
+		"NAME": "Player Statistics"
 	},
 	"animator:PoisonAffinityPower":
 	{
-		"DESCRIPTIONS": ["當你造成一層中毒時，再度造成一層", " 中毒。"],
-		"NAME": "毒素親合"
+		"DESCRIPTIONS": ["Whenever you apply #yPoison, apply an additional #b", " #yPoison."],
+		"NAME": "Poison Affinity"
 	},
 	"animator:PridePower":
 	{
-		"DESCRIPTIONS": ["直到你的下個回合 ， 當你受到格擋外的傷害時 ， 你的傷害的黑暗充能球抵消這個傷害並損失同等的傷害充能 。"],
-		"NAME": "傲慢"
+		"DESCRIPTIONS": ["Until your next turn, when you would take unblocked damage, your rightmost #yDark Orb loses that much damage instead."],
+		"NAME": "Pride"
 	},
 	"animator:RoryMercuryPower":
 	{
-		"DESCRIPTIONS": ["你的攻擊本輪會造成 #b", " % 更多傷害。"],
-		"NAME": "蘿莉·麥丘利-"
+		"DESCRIPTIONS": ["Your #yAttacks this turn deal #b", "% more damage."],
+		"NAME": "Rory Mercury"
 	},
 	"animator:ShikizakiKikiPower":
 	{
-		"DESCRIPTIONS": ["#y力量 影響所有卡 #b", " 次"],
-		"NAME": "四季崎·記纪"
+		"DESCRIPTIONS": ["#yStrength affects ALL cards #b", " times."],
+		"NAME": "Shikizaki Kiki"
 	},
 	"animator:ShiroPower":
 	{
-		"DESCRIPTIONS": ["你的回合開始時獲得 #b", " 點能量。"],
-		"NAME": "白"
+		"DESCRIPTIONS": ["At the start of you turn gain #b", " energy."],
+		"NAME": "Shiro"
 	},
 	"animator:SonicPower":
 	{
-		"DESCRIPTIONS": ["在接下來的 #b", " 個回合開始時 ， 獲得 1 層 敏捷 並 增加 1 張 飛刃 到你的手牌"],
-		"NAME": "音速索尼克"
+		"DESCRIPTIONS": ["At the start of your next #b", " turns, gain #b1 #yDexterity and add #b1 #yThrowing-Knives to your hand."],
+		"NAME": "Speed-o'-Sound Sonic"
 	},
 	"animator:StolenGoldPower":
 	{
-		"DESCRIPTIONS": ["你偷了 #b", " 個金幣。 你可以再盜取 #b", " 個金幣。"],
-		"NAME": "被盜的黃金"
+		"DESCRIPTIONS": ["You stole #b", " Gold. You can steal #b", " more Gold."],
+		"NAME": "Stolen Gold"
 	},
 	"animator:StrategicInformationPower":
 	{
-		"DESCRIPTIONS": ["下#b", " 次你丟棄這張牌，獲得 #b", " 點格擋和對生命值最低的敵人造成 #b", " 點傷害。"],
-		"NAME": "戰略信息"
+		"DESCRIPTIONS": ["The next #b", " time/s you discard a card, gain #b", " #yBlock and deal #b", " damage to the lowest health enemy."],
+		"NAME": "Strategic Information"
 	},
 	"animator:SupportDamagePower":
 	{
-		"DESCRIPTIONS": ["回合結束時對生命值最低的敵人造成 ", " 點傷害。"],
-		"NAME": "輔助傷害"
+		"DESCRIPTIONS": ["Deal #b", " damage to the enemy with lowest HP at the end of your turn."],
+		"NAME": "Support Damage"
 	},
 	"animator:TheUnnamedCultistPower":
 	{
-		"DESCRIPTIONS": ["場上還存在盟友時, 為每一名獲得 #b", " 層 魔法護甲 。"],
+		"DESCRIPTIONS": ["While there are other allies alive, gains #b", " Enchanted Armor for each."],
 		"NAME": "Unnamed Cultist"
 	},
 	"animator:TheUnnamedHatPower":
 	{
-		"DESCRIPTIONS": ["每輪開始時, 所有盟友回复 #b", " 點生命值。 NL NL 死亡時， 將 #y纏身 應用於對手。"],
+		"DESCRIPTIONS": ["At the end of each turn, all allies heal #b", " HP. NL NL On death, apply #yEntangle to the opponent."],
 		"NAME": "H4T"
 	},
 	"animator:UltimateCrystalPower":
 	{
-		"DESCRIPTIONS": ["擊出卡牌時, 獲得#b", " 層 #y力量。 NL NL #b", " 回合後, 召喚一個自己的鏡像。"],
-		"NAME": "終極之晶"
+		"DESCRIPTIONS": ["Whenever a card is played, gains #b", " #yStrength. NL NL After #b", " turn(s), summons a copy of itself."],
+		"NAME": "Ultimate Crystal"
 	},
 	"animator:UltimateCubePower":
 	{
-		"DESCRIPTIONS": ["回合結束時, 獲得 #b", " 層隨機的積極影響。 NL NL #b", " 輪後爆炸，造成 #b", " 點傷害。"],
-		"NAME": "終極之方"
+		"DESCRIPTIONS": ["At the end of each turn, gains #b", " random Buff. NL NL Explodes after #b", " turns, dealing #b", " damage."],
+		"NAME": "Ultimate Cube"
 	},
 	"animator:UltimateWispPower":
 	{
-		"DESCRIPTIONS": ["當這個敵人對你造成傷害時, 在你的棄牌堆裡添加1張 #y燒傷 。 每輪擊出的第一張牌將 #y消耗 。"],
-		"NAME": "終極之縷"
+		"DESCRIPTIONS": ["Whenever it deals unblocked damage, add #b1 #yBurn to your discard pile. NL NL The first card played each turn is #yExhausted."],
+		"NAME": "Ultimate Wisp"
 	},
 	"animator:UnnamedDollPower":
 	{
-		"DESCRIPTIONS": ["接下來的 #b", " 輪比賽, 在播放不僅僅針對此角色的卡片時， 獲得#b", " 點 #y生命上限。 NL NL ", "死亡時， 所有角色獲得 #b", " #y力量 。"],
-		"NAME": "無名傀儡"
+		"DESCRIPTIONS": ["For the next #b", " turns, when playing a card which does not target this character, gains #b", " #yMax #yHP. NL NL ", "On death, ALL characters gain #b", " #yStrength."],
+		"NAME": "Unnamed Doll"
+	},
+	"animator:VitalityPower":
+	{
+		"DESCRIPTIONS": ["Whenever you are attacked this turn, gain #b", " #yTemporary #HP."],
+		"NAME": "Vitality"
 	},
 	"animator:YukoShionjiPower":
 	{
-		"DESCRIPTIONS": ["查看抽牌堆頂部的牌，NL 點滑鼠#p左鍵 把牌加入手牌中( #b", " 次 )， 或者 點滑鼠#p右鍵 丟棄 ( #b", " 使用)."],
-		"NAME": "紫苑寺有子"
+		"DESCRIPTIONS": ["Reveal the top card of your draw pile, NL you may #pLeft-Click to draw it ( #b", " use/s ), or #pRight-Click to discard it ( #b", " use/s)."],
+		"NAME": "Yuko Shionji"
 	}
 }

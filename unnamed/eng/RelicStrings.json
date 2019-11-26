@@ -1,0 +1,9 @@
+
+{
+	"unnamed:InfinitePower":
+	{
+		"DESCRIPTIONS": ["Start each combat with #b{0} #yTemporary #yHP. When you obtain a card, heal #b{1} HP."],
+		"FLAVOR": "Infinite Power! At a cost...",
+		"NAME": "Infinite Power"
+	}
+}

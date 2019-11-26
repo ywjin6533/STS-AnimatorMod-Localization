@@ -1,78 +1,78 @@
-﻿
+
 {
-	"animator:Darkness_Cube_0":
+	"animator:Dark_Cube_0":
 	{
 		"MOVES": [],
-		"NAME": "¾ÏÈæ Cube (S)",
+		"NAME": "Dark Cube (S)",
 		"DIALOG": [""]
 	},
-	"animator:Darkness_Cube_1":
+	"animator:Dark_Cube_1":
 	{
 		"MOVES": [],
-		"NAME": "¾ÏÈæ Cube (M)",
+		"NAME": "Dark Cube (M)",
 		"DIALOG": [""]
 	},
-	"animator:Darkness_Cube_2":
+	"animator:Dark_Cube_2":
 	{
 		"MOVES": [],
-		"NAME": "¾ÏÈæ Cube (L)",
+		"NAME": "Dark Cube (L)",
 		"DIALOG": [""]
 	},
 
 	"animator:Lightning_Cube_0":
 	{
 		"MOVES": [],
-		"NAME": "¹ø°³ Cube (S)",
+		"NAME": "Lightning Cube (S)",
 		"DIALOG": [""]
 	},
 	"animator:Lightning_Cube_1":
 	{
 		"MOVES": [],
-		"NAME": "¹ø°³ Cube (M)",
+		"NAME": "Lightning Cube (M)",
 		"DIALOG": [""]
 	},
 	"animator:Lightning_Cube_2":
 	{
 		"MOVES": [],
-		"NAME": "¹ø°³ Cube (L)",
+		"NAME": "Lightning Cube (L)",
 		"DIALOG": [""]
 	},
 
 	"animator:Frost_Cube_0":
 	{
 		"MOVES": [],
-		"NAME": "³Ã±â Cube (S)",
+		"NAME": "Frost Cube (S)",
 		"DIALOG": [""]
 	},
 	"animator:Frost_Cube_1":
 	{
 		"MOVES": [],
-		"NAME": "³Ã±â Cube (M)",
+		"NAME": "Frost Cube (M)",
 		"DIALOG": [""]
 	},
 	"animator:Frost_Cube_2":
 	{
 		"MOVES": [],
-		"NAME": "³Ã±â Cube (L)",
+		"NAME": "Frost Cube (L)",
 		"DIALOG": [""]
 	},
 
 	"animator:Fire_Cube_0":
 	{
 		"MOVES": [],
-		"NAME": "ºÒ Cube (S)",
+		"NAME": "Fire Cube (S)",
 		"DIALOG": [""]
 	},
 	"animator:Fire_Cube_1":
 	{
 		"MOVES": [],
-		"NAME": "ºÒ Cube (M)",
+		"NAME": "Fire Cube (M)",
 		"DIALOG": [""]
 	},
 	"animator:Fire_Cube_2":
 	{
 		"MOVES": [],
-		"NAME": "ºÒ Cube (L)",
+		"NAME": "Fire Cube (L)",
 		"DIALOG": [""]
 	},
 
@@ -95,79 +95,79 @@
 		"DIALOG": [""]
 	},
 
-	"animator:Darkness_Crystal_0":
+	"animator:Dark_Crystal_0":
 	{
 		"MOVES": [],
-		"NAME": "¾ÏÈæ Crystal (S)",
+		"NAME": "Dark Crystal (S)",
 		"DIALOG": [""]
 	},
-	"animator:Darkness_Crystal_1":
+	"animator:Dark_Crystal_1":
 	{
 		"MOVES": [],
-		"NAME": "¾ÏÈæ Crystal (M)",
+		"NAME": "Dark Crystal (M)",
 		"DIALOG": [""]
 	},
-	"animator:Darkness_Crystal_2":
+	"animator:Dark_Crystal_2":
 	{
 		"MOVES": [],
-		"NAME": "¾ÏÈæ Crystal (L)",
+		"NAME": "Dark Crystal (L)",
 		"DIALOG": [""]
 	},
 
 	"animator:Lightning_Crystal_0":
 	{
 		"MOVES": [],
-		"NAME": "¹ø°³ Crystal (S)",
+		"NAME": "Lightning Crystal (S)",
 		"DIALOG": [""]
 	},
 	"animator:Lightning_Crystal_1":
 	{
 		"MOVES": [],
-		"NAME": "¹ø°³ Crystal (M)",
+		"NAME": "Lightning Crystal (M)",
 		"DIALOG": [""]
 	},
 	"animator:Lightning_Crystal_2":
 	{
 		"MOVES": [],
-		"NAME": "¹ø°³ Crystal (L)",
+		"NAME": "Lightning Crystal (L)",
 		"DIALOG": [""]
 	},
 
 	"animator:Frost_Crystal_0":
 	{
 		"MOVES": [],
-		"NAME": "³Ã±â Crystal (S)",
+		"NAME": "Frost Crystal (S)",
 		"DIALOG": [""]
 	},
 	"animator:Frost_Crystal_1":
 	{
 		"MOVES": [],
-		"NAME": "³Ã±â Crystal (M)",
+		"NAME": "Frost Crystal (M)",
 		"DIALOG": [""]
 	},
 	"animator:Frost_Crystal_2":
 	{
 		"MOVES": [],
-		"NAME": "³Ã±â Crystal (L)",
+		"NAME": "Frost Crystal (L)",
 		"DIALOG": [""]
 	},
 
 	"animator:Fire_Crystal_0":
 	{
 		"MOVES": [],
-		"NAME": "ºÒ Crystal (S)",
+		"NAME": "Fire Crystal (S)",
 		"DIALOG": [""]
 	},
 	"animator:Fire_Crystal_1":
 	{
 		"MOVES": [],
-		"NAME": "ºÒ Crystal (M)",
+		"NAME": "Fire Crystal (M)",
 		"DIALOG": [""]
 	},
 	"animator:Fire_Crystal_2":
 	{
 		"MOVES": [],
-		"NAME": "ºÒ Crystal (L)",
+		"NAME": "Fire Crystal (L)",
 		"DIALOG": [""]
 	},
 
@@ -190,79 +190,79 @@
 		"DIALOG": [""]
 	},
 
-	"animator:Darkness_Wisp_0":
+	"animator:Dark_Wisp_0":
 	{
 		"MOVES": [],
-		"NAME": "¾ÏÈæ Wisp (S)",
+		"NAME": "Dark Wisp (S)",
 		"DIALOG": [""]
 	},
-	"animator:Darkness_Wisp_1":
+	"animator:Dark_Wisp_1":
 	{
 		"MOVES": [],
-		"NAME": "¾ÏÈæ Wisp (M)",
+		"NAME": "Dark Wisp (M)",
 		"DIALOG": [""]
 	},
-	"animator:Darkness_Wisp_2":
+	"animator:Dark_Wisp_2":
 	{
 		"MOVES": [],
-		"NAME": "¾ÏÈæ Wisp (L)",
+		"NAME": "Dark Wisp (L)",
 		"DIALOG": [""]
 	},
 
 	"animator:Lightning_Wisp_0":
 	{
 		"MOVES": [],
-		"NAME": "¹ø°³ Wisp (S)",
+		"NAME": "Lightning Wisp (S)",
 		"DIALOG": [""]
 	},
 	"animator:Lightning_Wisp_1":
 	{
 		"MOVES": [],
-		"NAME": "¹ø°³ Wisp (M)",
+		"NAME": "Lightning Wisp (M)",
 		"DIALOG": [""]
 	},
 	"animator:Lightning_Wisp_2":
 	{
 		"MOVES": [],
-		"NAME": "¹ø°³ Wisp (L)",
+		"NAME": "Lightning Wisp (L)",
 		"DIALOG": [""]
 	},
 
 	"animator:Frost_Wisp_0":
 	{
 		"MOVES": [],
-		"NAME": "³Ã±â Wisp (S)",
+		"NAME": "Frost Wisp (S)",
 		"DIALOG": [""]
 	},
 	"animator:Frost_Wisp_1":
 	{
 		"MOVES": [],
-		"NAME": "³Ã±â Wisp (M)",
+		"NAME": "Frost Wisp (M)",
 		"DIALOG": [""]
 	},
 	"animator:Frost_Wisp_2":
 	{
 		"MOVES": [],
-		"NAME": "³Ã±â Wisp (L)",
+		"NAME": "Frost Wisp (L)",
 		"DIALOG": [""]
 	},
 
 	"animator:Fire_Wisp_0":
 	{
 		"MOVES": [],
-		"NAME": "ºÒ Wisp (S)",
+		"NAME": "Fire Wisp (S)",
 		"DIALOG": [""]
 	},
 	"animator:Fire_Wisp_1":
 	{
 		"MOVES": [],
-		"NAME": "ºÒ Wisp (M)",
+		"NAME": "Fire Wisp (M)",
 		"DIALOG": [""]
 	},
 	"animator:Fire_Wisp_2":
 	{
 		"MOVES": [],
-		"NAME": "ºÒ Wisp (L)",
+		"NAME": "Fire Wisp (L)",
 		"DIALOG": [""]
 	},
 
@@ -371,9 +371,9 @@
 			"How about you go back to sleep for another couple of centuries?",
 			"Guren? Are you being redesigned again?",
 			"I am almost scared of Nanami. Almost.",
-			"Goblins... Would you like me to ¼¯½À´Ï´Ù some goblins into your deck?",
-			"Kurami? Beware, you can only play 16 Ä«µåµé.",
-			"Want to see something TRULY erratical?",
+			"Goblins... Would you like me to shuffle some goblins into your deck?",
+			"Kurami? Beware, you can only play 16 cards.",
+			"Want to see something TRULY erratical? Actually... nevermind.",
 			"The clock is ticking...",
 			"Nice try. Do not do that again.",
 			"I am warning you...",
@@ -384,7 +384,9 @@
 			"Ahem... Cheerio?",
 			"You dare approach me?",
 			"That deck is too small, wait a second...",
-			"Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn."
+			"Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.",
+			"Intangible? I can become a spooky ghost as well.",
+			"Oh Look! It seems your time is over. Bye!"
 		]
 	}
 }

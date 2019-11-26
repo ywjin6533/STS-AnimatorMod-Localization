@@ -2,179 +2,176 @@
 {
 	"animator:AcuraAkari":
 	{
-		"DESCRIPTION": "丟棄 1 張牌 : NL 增加 !SV! 張 飛刃 到手牌 。 NL 獲得 !M! 點 臨時 塗毒 。",
-		"NAME": "阿卡莉",
-		"UPGRADE_DESCRIPTION": "丟棄 1 張牌 : NL 增加 !SV! 張 已升級 飛刃 到手牌 。 NL 獲得 !M! 點 臨時 塗毒 。"
+		"DESCRIPTION": "Discard 1 card NL to obtain !M! NL Throwing-Knives. || Semi-Limited. NL On Synergy, gain NL !SV! Temporary NL Envenom.",
+		"NAME": "Akari"
 	},
 	"animator:AcuraShin":
 	{
-		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 ， 並給予 !M! 層 中毒 。 獲得 1 層 [#EFC851]毒素親和[] 。",
-		"EXTENDED_DESCRIPTION": ["毒素親和", "每當給予敵人毒效果時 ， 額外給予一層毒 。"],
-		"NAME": "辛·亞裘拉"
+		"DESCRIPTION": "Apply !M! Poison. NL Deal !D! Piercing NL damage twice. || Whenever you apply Poison this combat, apply 1 additional Poison.",
+		"NAME": "Shin"
 	},
 	"animator:AcuraTooru":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 2 次 。 將 !SV! 張飛刀加入你的手牌。 同調 : 獲得 !B! 點 格擋 。",
-		"NAME": "托魯"
+		"DESCRIPTION": "Deal !D! damage NL twice. Obtain !SV! NL Throwing-Knives. || On Synergy, NL or when Discarded, NL gain !M! Block.",
+		"NAME": "Tooru"
 	},
 	"animator:Add":
 	{
-		"DESCRIPTION": "獲得 !M! 魔法護甲 。 任何地方中 消耗 1 張牌 。 加入一張 充能球核心 到抽牌堆。 虛無 。 消耗 。",
-		"NAME": "艾迪",
-		"UPGRADE_DESCRIPTION": "獲得 !M! 魔法護甲 。 任何地方中 消耗 1 張牌 。 加入一張 充能球核心 到抽牌堆。 消耗 。"
+		"DESCRIPTION": "Ethereal. NL Exhaust 1 card NL anywhere. Replace it NL with an Orb_Core. NL Exhaust. || On Synergy, NL double your NL Energy.",
+		"NAME": "Add",
+		"UPGRADE_DESCRIPTION": "Exhaust 1 card anywhere. Replace it with an Orb_Core. Exhaust. || On Synergy, NL double your NL Energy."
 	},
 	"animator:Ain":
 	{
-		"DESCRIPTION": "施法者 。 對所有敵人造成 !D! 傷害 !M! 次 。 獲得 1 點 集中 。",
-		"NAME": "艾因"
+		"DESCRIPTION": "Spellcaster. NL Deal !D! damage NL to ALL enemies NL !M! times. || Semi-Limited. NL On Synergy, or NL when Discarded, NL gain !SV! Intellect.",
+		"NAME": "Ain"
 	},
 	"animator:Ainz":
 	{
-		"DESCRIPTION": "每回合減少 1 點耗能。在你的回合開始時， 從 !M! 個 [#EFC851]特殊效果[] 中選擇一個。",
-		"NAME": "安茲·烏爾·恭"
+		"DESCRIPTION": "At the start of your NL turn, choose and NL execute 1 of 4 NL random #yEffects. || When Drawn, reduce NL this card's cost by NL 1, then randomly NL gain 1 Intellect, NL Force or Agility.",
+		"NAME": "Ainz Ooal Gown"
 	},
 	"animator:Aisha":
 	{
-		"DESCRIPTION": "施法者。 為每一個你擁有的充能球造成 !D! 傷害。 鼓舞 !M! : 獲得一個充能球槽位",
-		"NAME": "愛莎‧藍塔"
+		"DESCRIPTION": "Spellcaster. NL Deal !D! damage NL for each Orb NL you have. || Limited. NL If you don't have NL any empty Orb Slot, NL gain 1 Orb Slot.",
+		"NAME": "Aisha"
 	},
 	"animator:Albedo":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 獲得等同於傷害值的 魔法護甲 。 同調 : 返回抽牌堆 。",
-		"NAME": "雅兒貝德"
+		"DESCRIPTION": "Deal !D! Damage. NL Gain that much NL Enchanted_Armor. || If you played NL #yAinz[] #yOoal[] #yGown[] NL this combat, this NL card is Loyal.",
+		"NAME": "Albedo"
 	},
 	"animator:Alexander":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 對所有敵人造成 !D! 傷害 。 遺產 : 獲得 !M! 層 多層護甲 。",
-		"NAME": "亞歷山大大帝"
+		"DESCRIPTION": "Deal !D! damage NL to ALL enemies. NL Gain 1 Force. || When Exhausted, NL Deal !M! damage NL to ALL enemies.",
+		"NAME": "Alexander"
 	},
 	"animator:Aqua":
 	{
-		"DESCRIPTION": "回复 !M! 點生命。 在本場戰鬥中變成無用的廢物。",
-		"EXTENDED_DESCRIPTION": ["", "如果這張牌被 消耗 或 丟棄， 獲得 !SV! 點 暫時性生命 。"],
-		"NAME": "阿庫婭",
-		"UPGRADE_DESCRIPTION": "回复 !M! 點生命。 在本場戰鬥中變成有用的廢物。"
+		"DESCRIPTION": "Heal !M! HP. NL Draw 1 card. NL Becomes useless for the rest of this combat.",
+		"EXTENDED_DESCRIPTION": ["", "When this card is Exhausted or discarded, gain !SV! Temp._HP."],
+		"NAME": "Aqua",
+		"UPGRADE_DESCRIPTION": "Heal !M! HP. NL Draw 1 card. NL Becomes slightly less useless for the rest of this combat."
 	},
 	"animator:Ara":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 2 次 。 為敵人的每個 負面效果 抽 1 張牌 。 丟棄 1 張牌 。",
-		"NAME": "艾拉"
+		"DESCRIPTION": "Martial_Artist. NL Deal !D! damage twice. NL Draw 1 card for every NL Debuff on the enemy. NL Discard 1 card. || Semi-Limited. NL If you discarded a #yPower[], gain 1 Agility and 2 Force.",
+		"NAME": "Ara"
 	},
 	"animator:Archer":
 	{
-		"DESCRIPTION": "在你的回合結束時 ， 敵人每種的負面效果使其受到 !M! 點傷害，可被 力量 效果加成 。",
+		"DESCRIPTION": "At the end of your turn, deal !M! damage to all enemies for each #yDebuff[] they have. || On Synergy, NL apply 1 Vulnerable NL to ALL enemies.",
 		"NAME": "Archer"
 	},
 	"animator:Arpeggio":
 	{
-		"DESCRIPTION": "獲得 1 個 大地 充能球 。 獲得 1 點 集中 。 消耗 。",
-		"NAME": "阿爾貝吉歐",
-		"UPGRADE_DESCRIPTION": "獲得 1 個 大地 充能球 。 獲得一個充能球欄位 。 獲得 1 點 集中 。 消耗 。"
+		"DESCRIPTION": "Spellcaster 6. NL Gain !M! Intellect. NL Exhaust. || On Synergy, NL Channel 1 Earth.",
+		"NAME": "Arpeggio",
+		"UPGRADE_DESCRIPTION": "Spellcaster. NL Gain 1 Orb Slot. NL Gain !M! Intellect. NL Exhaust. || On Synergy, NL Channel 1 Earth."
 	},
 	"animator:Asuramaru":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 獲得 !B! 點 格擋 。 獲得 !M! 層 惡魔形態 。 獲得 !M! 敏捷 。 消耗 。",
-		"NAME": "阿修羅丸"
+		"DESCRIPTION": "Deal !D! damage. NL Gain !M! Demon_Form. NL Gain !M! Intellect. NL Gain !M! Agility. NL Exhaust.",
+		"NAME": "Asuramaru"
 	},
 	"animator:Azekura":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 2 次 。 獲得 !SV! 層 [＃EFC851]臨時荊棘[] 。 同調 : 獲得 !M! 層 多層護甲 。",
-		"NAME": "校倉必"
+		"DESCRIPTION": "Martial_Artist 2. NL Gain !B! Block twice. Gain !M! Temporary Thorns. || On Synergy, or NL when Exhausted, gain NL !SV! Plated_Armor.",
+		"NAME": "Azekura"
 	},
 	"animator:Azriel":
 	{
-		"DESCRIPTION": "獲得兩 2 層 飛行 。 NL 每當給予敵人負面效果時 ， 獲得 !M! 點 力量 。 虛無 。",
-		"NAME": "阿茲列爾",
-		"UPGRADE_DESCRIPTION": "獲得兩 2 層 飛行 。 NL 每當給予敵人負面效果時 ， 獲得 !M! 點 力量 。"
+		"DESCRIPTION": "Ethereal. NL Gain 2 Flight. || Whenever you NL apply a #yDebuff[], NL gain !M! Strength.",
+		"NAME": "Azriel",
+		"UPGRADE_DESCRIPTION": "Gain 2 Flight. || Whenever you NL apply a #yDebuff[], NL gain !M! Strength."
 	},
 	"animator:Benimaru":
 	{
-		"DESCRIPTION": "生成 1 個 火焰 充能球 。 對所有敵人造成 !D! 點 傷害 。 NL 為每一名帶有 燃燒 的敵人，獲得 !M! 點 臨時生命 。。",
-		"NAME": "紅丸"
+		"DESCRIPTION": "Channel 1 Fire. NL Deal !D! damage NL to ALL enemies. || Gain !M! Temp._HP NL for each enemy NL with Burning.",
+		"NAME": "Benimaru"
 	},
 	"animator:Berserker":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 如果這張牌殺死了敵人或者打破目標 格擋 ， 獲得 !B! 點 格擋 。",
+		"DESCRIPTION": "Deal !D! damage. NL If the enemy dies or loses its Block, NL gain !B! Block. || Limited. NL If you are below NL 10% HP, play this NL card twice.",
 		"NAME": "Berserker"
 	},
 	"animator:Biyorigo":
 	{
-		"DESCRIPTION": "獲得 1 層 人工制品 。 每次打出 4 張牌後 ， 獲得 !M! 點 力量 和 1 點 敏捷 。",
-		"NAME": "日和號"
+		"DESCRIPTION": "Whenever you gain NL 1 or more Dexterity, NL also gain 1 Force. || On Synergy, NL gain 1 Artifact.",
+		"NAME": "Biyorigo"
 	},
 	"animator:BlackLotus":
 	{
-		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 。 NL 獲得 !B! 點 格擋 。 NL 獲得 !M! 殘影 。",
-		"NAME": "黑蓮花"
+		"DESCRIPTION": "Deal !D! damage to NL ALL enemies. NL Gain !B! Block. NL Gain !M! Blur.",
+		"NAME": "Black Lotus"
 	},
 	"animator:Boros":
 	{
-		"DESCRIPTION": "獲得 !M! 點 力量 。 獲得 !SV! 點 臨時生命 。 所有 [#EFC851]能力[] 將會被 NL 打出兩次 。",
-		"NAME": "波羅斯"
+		"DESCRIPTION": "All #yPowers[] are NL played twice. || When Drawn, NL gain !M! Temp._HP NL and !SV! Force.",
+		"NAME": "Boros"
 	},
 	"animator:Bozes":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 每當一張牌在本回合中觸發同調， 獲得 !SV! 層 多層護甲 。 NL 激勵 !M! 。 消耗 。",
-		"NAME": "波賽斯"
+		"DESCRIPTION": "Deal !D! damage. NL Motivate !M!. NL Exhaust. || Whenever you NL Synergize this turn, NL gain 1 Plated_Armor.",
+		"NAME": "Bozes"
 	},
 	"animator:Caster":
 	{
-		"DESCRIPTION": "獲得 1 顆 黑暗充能球 。 NL 本回合從敵人身上奪取 !M! 點 力量 。 NL 遺贈 : 激發所有暗充能球 。",
+		"DESCRIPTION": "Spellcaster 2. NL Steal !M! Strength NL until end of turn. NL #yChannel 1 Dark. || When Exhausted, NL Evoke ALL your NL Dark Orbs.",
 		"NAME": "Caster"
 	},
 	"animator:ChaikaBohdan":
 	{
-		"DESCRIPTION": " [#EFC851]急躁[] NL !M! 。 造成 !D! 點 傷害 。 如果你的手是空的, 抽 !SV! 張牌",
-		"EXTENDED_DESCRIPTION": ["急躁", "當此牌在手牌中時，你打出的 #y攻擊 牌額外增加等同於急躁層數的傷害 。 使用後重置傷害 。"],
-		"NAME": "嘉依卡·布芙丹"
+		"DESCRIPTION": "Deal !D! damage. NL If your hand NL is empty, draw NL !M! cards. || Whenever you hit an enemy while this is in your hand, gain !SV! additional damage until played.",
+		"NAME": "Chaika Bohdan"
 	},
 	"animator:ChaikaTrabant":
 	{
-		"DESCRIPTION": "下一輪 ， 造成 !D! 點 傷害 並 給予目標 !M! 個隨機的 [#EFC851]負面效果[] 。 撤回 : 對所有敵人造成 !SV! 點 傷害 。",
-		"NAME": "嘉依卡·托勒龐特"
+		"DESCRIPTION": "Next turn, deal !D! damage and apply !SV! random #yDebuffs. || When Discarded, NL deal !M! damage NL to ALL enemies.",
+		"NAME": "Chaika Trabant"
 	},
 	"animator:ChlammyZell":
 	{
-		"DESCRIPTION": "當你交替打出不同類型的牌時 ， 循環 1 張牌 並 對所有敵人造成 !M! 點 傷害 。 消耗 。",
-		"NAME": "克拉米·傑爾",
-		"UPGRADE_DESCRIPTION": "固有 。 當你交替打出不同類型的牌時 ， 循環 1 張牌 並 對所有敵人造成 !M! 點 傷害 。 消耗 。"
+		"DESCRIPTION": "Draw 1 card. NL Gain !SV! Intellect. NL Exhaust. || When you play NL alternating card types NL this turn, Cycle 1 card NL and deal !M! damage to NL ALL enemies.",
+		"NAME": "Kurami"
 	},
 	"animator:Chomusuke":
 	{
-		"DESCRIPTION": "保留 。 獲得 [E] ， 本回合每消耗一張牌 ， 抽 !M! 牌 ( 本回合已消耗 !SV! ) 。 每回合可使用一次 。",
-		"NAME": "豆之助"
+		"DESCRIPTION": "Retain. || Semi-Limited. NL When Exhausted, NL return this card NL to your hand and NL gain [E] [E]",
+		"NAME": "Chomusuke",
+		"UPGRADE_DESCRIPTION": "Innate. NL Retain. || Semi-Limited. NL When Exhausted, NL return this card NL to your hand and NL gain [E] [E]"
 	},
 	"animator:Chris":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 偷3金幣 [#EFC851]*[] 。 冷卻 !SV! : 張0耗牌 。",
-		"EXTENDED_DESCRIPTION": ["* 注", "首領最多偷取 50 金幣 ， 從精英最多偷取 25 金幣 ， 從其他非爪牙敵人最多偷取 10 金幣 。"],
-		"NAME": "克里斯"
+		"DESCRIPTION": "Deal !D! damage. NL #ySteal[] !M! #yGold. || When Discarded, NL draw a #y0-Cost[] NL card.",
+		"EXTENDED_DESCRIPTION": ["Steal", "You can steal up to 50 #yGold from a boss, 25 #yGold from an elite, or 10 #yGold from other non-minion enemies."],
+		"NAME": "Chris"
 	},
 	"animator:Chung":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 這張牌每打出1次，在本場戰鬥中的其基礎 格擋 下降 !M! 點。 遺產 : 獲得 2 個 冰霜 充能球 。",
-		"NAME": "澄"
+		"DESCRIPTION": "Gain !B! Block. NL Decrease this NL card's Block by NL !M! this combat. || When Exhausted, NL Channel 1 Frost.",
+		"NAME": "Chung"
 	},
 	"animator:Cocytus":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 [#EFC851]吸收裝甲[] 。 同調 : All [#EFC851]Attacks in your hand gain !M! damage this combat.",
-		"EXTENDED_DESCRIPTION": ["吸收裝甲", "獲得敵人損失的格擋 。"],
-		"NAME": "科賽特斯"
+		"DESCRIPTION": "Deal !D! damage. NL Strength affects this NL card !M! times. || On Synergy, raise NL by 1 your lowest NL stat between Force NL and Plated_Armor. NL (Random if Equal)",
+		"NAME": "Cocytus"
 	},
 	"animator:CowGirl":
 	{
-		"DESCRIPTION": "獲得 !M! 臨時生命。 NL 獲得 [E] NL 消耗 。",
-		"NAME": "牧牛妹"
+		"DESCRIPTION": "Fetch a #y0-Cost[] card NL from your draw pile. NL Exhaust. || Limited. NL When Discarded, NL Motivate 1.",
+		"NAME": "'Cow Girl'",
+		"UPGRADE_DESCRIPTION": "Fetch a #y0-Cost[] card NL from your draw NL or discard pile. NL Exhaust. || Limited. NL When Discarded, NL Motivate 1."
 	},
 	"animator:CrowleyEusford":
 	{
-		"DESCRIPTION": "對一個隨機的敵人造成 !D! 點 傷害 !M! 次 。 NL 本回合每 消耗 1 張牌 ， 耗能就減少 1 。",
-		"NAME": "克羅里·尤斯福德"
+		"DESCRIPTION": "Apply !SV! Vulnerable. NL Deal !D! damage NL to a random NL enemy !M! times. || Costs 1 less for NL each card you NL Exhausted this turn.",
+		"NAME": "Crowley Eusford"
 	},
 	"animator:Crystallize":
 	{
-		"DESCRIPTION": "失去 !SV! 點生命值。 NL 獲得 !M! 層 金屬化 。消耗 。",
-		"NAME": "晶體化"
+		"DESCRIPTION": "Lose !SV! HP. NL Gain !M! Metallicize. NL Exhaust.",
+		"NAME": "Crystallize"
 	},
 	"animator:Cthulhu":
 	{
@@ -183,1009 +180,1000 @@
 	},
 	"animator:Darkness":
 	{
-		"DESCRIPTION": "獲得 !M! 點 多層護甲 。 下次受傷時，在抽牌堆裡添加一張 腎上腺素 。",
-		"EXTENDED_DESCRIPTION": ["腎上腺素", "獲得 1 點能量。 NL 抽 2 張牌。 NL #y消耗 。"],
-		"NAME": "達克尼斯"
+		"DESCRIPTION": "Gain !B! Block and NL !M! Plated_Armor. || The next time you NL take damage, add 1 NL #yAdrenaline to your NL draw pile.",
+		"NAME": "Darkness"
 	},
 	"animator:DarknessAdrenaline":
 	{
-		"DESCRIPTION": "獲得 [E] 。 NL 抽 2 牌。 NL 消耗 。",
-		"NAME": "腎上腺素",
-		"UPGRADE_DESCRIPTION": "獲得 [E] [E] 。 NL 抽 2 牌。 NL 消耗 。"
+		"DESCRIPTION": "Gain [E]. NL Draw 2 cards. NL Exhaust.",
+		"NAME": "Adrenaline",
+		"UPGRADE_DESCRIPTION": "Gain [E] [E]. NL Draw 2 cards. NL Exhaust."
 	},
 	"animator:Defend":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。",
-		"NAME": "防御"
+		"DESCRIPTION": "Gain !B! Block.",
+		"NAME": "Defend"
 	},
 	"animator:Defend_AccelWorld":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 撤回 : 獲得 !B! 點 格擋 。",
-		"NAME": "優越防禦"
+		"DESCRIPTION": "Gain !B! Block. || When Discarded, NL gain !M! Block.",
+		"NAME": "Improved Defend"
 	},
 	"animator:Defend_Elsword":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 下一輪 ， 獲得 !B! 點 格擋 。",
-		"NAME": "優越防禦"
+		"DESCRIPTION": "Gain !B! Block. NL Next turn, NL gain !M! Block.",
+		"NAME": "Improved Defend"
 	},
 	"animator:Defend_Fate":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 獲得 !M! 點 格擋 為每個敵人 。",
-		"NAME": "優越防禦"
+		"DESCRIPTION": "Gain !B! Block. NL Gain !M! additional NL Block for each enemy.",
+		"NAME": "Improved Defend"
 	},
 	"animator:Defend_FullmetalAlchemist":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 冷卻 !SV! : [#EFC851]產生[] 1 個 冰霜 充能球 。",
-		"NAME": "優越防禦"
+		"DESCRIPTION": "Gain !B! Block. NL Cooldown !SV!: NL #yChannel[] 1 Frost.",
+		"NAME": "Improved Defend"
 	},
 	"animator:Defend_GATE":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 保留 。",
-		"NAME": "優越防禦"
+		"DESCRIPTION": "Gain !B! Block. NL Retain.",
+		"NAME": "Improved Defend"
 	},
 	"animator:Defend_GoblinSlayer":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 消耗 。",
-		"NAME": "優越防禦"
+		"DESCRIPTION": "Gain !B! Block. NL Exhaust.",
+		"NAME": "Improved Defend"
 	},
 	"animator:Defend_HitsugiNoChaika":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 循環 1 張牌 。",
-		"NAME": "優越防禦"
+		"DESCRIPTION": "Gain !B! Block. NL Cycle 1 card.",
+		"NAME": "Improved Defend"
 	},
 	"animator:Defend_Kancolle":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 增強 !SV! : 獲得 !M! 金幣 。",
-		"NAME": "優越防禦"
+		"DESCRIPTION": "Gain !B! Block. NL Limited: NL Gain !M! #yGold[].",
+		"NAME": "Improved Defend"
 	},
 	"animator:Defend_Katanagatari":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 獲得 !M! 層  [＃EFC851]臨時荊棘[] 。",
-		"NAME": "優越防禦"
+		"DESCRIPTION": "Gain !B! Block. NL Gain !M! temporary Thorns.",
+		"NAME": "Improved Defend"
 	},
 	"animator:Defend_Konosuba":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 增強 !SV! : 回復 !M! 點 生命 。",
-		"NAME": "優越防禦"
+		"DESCRIPTION": "Gain !B! Block. NL Gain !M! Temp._HP.",
+		"NAME": "Improved Defend"
 	},
 	"animator:Defend_NoGameNoLife":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 保留 你最左邊的可玩牌 。",
-		"NAME": "優越防禦"
+		"DESCRIPTION": "Gain !B! Block. NL Retain your leftmost NL playable card.",
+		"NAME": "Improved Defend"
 	},
 	"animator:Defend_OnePunchMan":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 鼓舞 !SV! : 下一輪，獲得 [E] 。",
-		"NAME": "優越防禦"
+		"DESCRIPTION": "Gain !B! Block. NL Limited : Next NL turn, gain [E].",
+		"NAME": "Improved Defend"
 	},
 	"animator:Defend_Overlord":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 這場戰鬥使這張卡的格擋提高 !M! 點 。",
-		"NAME": "優越防禦"
+		"DESCRIPTION": "Gain !B! Block. NL Increase this NL card's Block by !M! NL this combat.",
+		"NAME": "Improved Defend"
 	},
 	"animator:Defend_OwariNoSeraph":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 遺產 : 給予所有敵人 !M! 層 虛弱 。",
-		"NAME": "優越防禦"
+		"DESCRIPTION": "Gain !B! Block. || When Exhausted, NL apply !M! Weak NL to ALL enemies.",
+		"NAME": "Improved Defend"
 	},
 	"animator:Defend_TenSura":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 2 次 。",
-		"NAME": "優越防禦"
+		"DESCRIPTION": "Gain !B! Block twice.",
+		"NAME": "Improved Defend"
 	},
 	"animator:Demiurge":
 	{
-		"DESCRIPTION": "獲得 [E] 。 在本回合結束時 ， 受到 !M! 點 傷害 。 遺產 : 獲得 [E]",
-		"NAME": "迪米烏哥斯",
-		"UPGRADE_DESCRIPTION": "獲得 [E] [E] 。 在本回合結束時 ， 受到 !SV! 點 傷害 。 遺產 : 獲得 [E] [E]"
+		"DESCRIPTION": "Gain [E]. NL Take !M! damage at NL the end of turn. || When Exhausted, NL Cycle 1 card and NL gain 1 Energy.",
+		"NAME": "Demiurge",
+		"UPGRADE_DESCRIPTION": "Gain [E]. NL Discard 1 card or NL take !M! damage at NL the end of turn. || When Exhausted, NL Cycle 1 card and NL gain 1 Energy."
 	},
 	"animator:DolaCouronne":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 同調 : 抽一張牌 。 遺產 : 獲得 1 點 敏捷 。",
-		"NAME": "克洛妮"
+		"DESCRIPTION": "Discard 1 card. NL Gain !B! Block. || Limited. NL When Exhausted, NL gain !M! Block NL and 1 Artifact.",
+		"NAME": "Couronne"
 	},
 	"animator:DolaRiku":
 	{
-		"DESCRIPTION": "消耗 一張卡 ， 選擇並獲得相同稀有度的 !M! 張卡中的 1 張 ， 費用減少 1 張 。",
-		"NAME": "裡克"
+		"DESCRIPTION": "Exhaust a card in your NL hand, choose and NL obtain 1 of !M! cards of NL the same rarity, NL it costs 1 less. || On Synergy, draw NL a #y0-Cost[] card.",
+		"NAME": "Riku"
 	},
 	"animator:DolaSchwi":
 	{
-		"DESCRIPTION": "造成 !M! 層 跟蹤鎖定 並 生成 !M! 個 閃電 充能球 。 NL 冷卻 !SV! : 造成 !D! 點 傷害 。",
-		"NAME": "休比"
+		"DESCRIPTION": "Apply !M! Lock-On. NL Cooldown !SV! : NL Deal !D! damage. || On Synergy, NL Channel 1 Lightning.",
+		"NAME": "Schwi"
 	},
 	"animator:DolaStephanie":
 	{
-		"DESCRIPTION": "選擇一張手牌， 從你的抽牌堆中取一張 同系 列的牌 。 消耗 。",
-		"NAME": "史蒂芬妮·多拉",
-		"UPGRADE_DESCRIPTION": "選擇一張手牌， 從抽牌堆中抽一張 同系 列的牌 。"
+		"DESCRIPTION": "Choose a card in your hand, Fetch 1 card with the same Synergy from your draw pile. Exhaust.",
+		"NAME": "Stephanie",
+		"UPGRADE_DESCRIPTION": "Choose a card in your hand, Fetch 1 card with the same Synergy from your draw pile."
 	},
 	"animator:DwarfShaman":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 獲得 1 個 大地 充能球 。 同調 : 手中升級1張卡 。",
-		"NAME": "矮人薩滿",
-		"UPGRADE_DESCRIPTION": "造成 !D! 點 傷害 。 NL 獲得 1 個 大地 充能球 。 同調 : 手中升級1張卡 。"
+		"DESCRIPTION": "Spellcaster. NL Deal !D! damage. NL Channel 1 Earth. || On Synergy, NL draw a card and NL Upgrade it.",
+		"NAME": "'Dwarf Shaman'"
 	},
 	"animator:Elesis":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 保留 。 每次抽到這張牌時，傷害增加 !M! 點 。",
-		"NAME": "愛利西斯"
+		"DESCRIPTION": "Deal !D! damage. NL Gain !M! Agility. NL Gain !M! Force. NL Exhaust. || When Drawn or NL Discarded, increase NL this card's damage NL by !SV! this combat.",
+		"NAME": "Elesis"
 	},
 	"animator:ElricAlphonse":
 	{
-		"DESCRIPTION": "虛無 。 獲得 !M! 點 臨時 集中 。 獲得 !B! 點 格擋 。 NL 遺產 : 獲得 [#EFC851]裝甲阿爾馮斯[] 。",
-		"NAME": "阿爾馮斯·艾力克",
-		"UPGRADE_DESCRIPTION": "虛無 。 獲得 !M! 點 臨時 集中 。 獲得 !B! 點 格擋 。 NL 遺產 : 獲得 [#EFC851]裝甲阿爾馮斯+[] 。"
+		"DESCRIPTION": "#yEthereal[]. NL If you have NL !M! or less Focus, NL gain 1 Intellect. || When Exhausted, add NL #yArmored #yAlphonse to NL your discard pile.",
+		"NAME": "Alphonse Elric"
 	},
 	"animator:ElricAlphonseAlt":
 	{
-		"DESCRIPTION": "獲得 !M! 層 多層護甲 。 NL 獲得 !B! 點 格擋 。 NL 同調 : 獲得 1 個閃電充能球 。",
-		"NAME": "裝甲阿爾馮斯"
+		"DESCRIPTION": "Channel 1 Lightning. NL Gain !M! Plated_Armor. NL Exhaust. || On Synergy, NL gain 1 Orb Slot.",
+		"NAME": "Armored Alphonse"
 	},
 	"animator:ElricEdward":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 循環 1 張牌 。 NL 根據你循環的卡片種類獲得一個 [#EFC851]額外充能球[] 。",
-		"EXTENDED_DESCRIPTION": ["額外充能球", "#y攻擊牌: 獲得1個閃電充能球 NL #y技能牌: 獲得1個冰霜充能球 NL #y能力牌: 獲得1個 土素 充能球"],
-		"NAME": "愛德華·艾力克"
+		"DESCRIPTION": "Deal !D! damage. NL Cycle 1 card. || #yChannel[] 1 Orb NL based on the card NL you cycled.",
+		"EXTENDED_DESCRIPTION": ["Bonus Effect", "#yAttack: Channel 1 #yLightning NL #ySkill: Channel 1 #yFrost NL #yPower: Channel 1 #yEarth"],
+		"NAME": "Edward Elric"
 	},
 	"animator:Elsword":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 如果敵人帶有 燃燒 ， 激勵 1 。 冷却 !SV! : [#EFC851]生成[] 1 個 火焰 充能球 。",
-		"NAME": "艾索德"
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Burning. NL Cycle 1 card. || When Discarded, NL if you have an NL empty Orb Slot, NL Channel 1 Fire.",
+		"NAME": "Elsword"
 	},
 	"animator:Emilia":
 	{
-		"DESCRIPTION": "獲得 1 個冰霜充能球 。為每一個 冰霜 充能球 生成 1 個 閃電 充能球 。 消耗 。",
+		"DESCRIPTION": "Channel 1 Frost. NL Channel 1 Lightning NL for each Frost Orb NL you have. Exhaust.",
 		"NAME": "Emilia",
-		"UPGRADE_DESCRIPTION": "獲得 1 個冰霜充能球 。為每一個 冰霜 充能球 生成 1 個 閃電 充能球 。"
+		"UPGRADE_DESCRIPTION": "Channel 1 Frost. NL Channel 1 Lightning NL for each Frost Orb NL you have."
 	},
 	"animator:EmiyaShirou":
 	{
-		"DESCRIPTION": "給予一個隨機敵人 !M! 點 格擋 和 1 層 易傷 。 本回合， 本回合，打破格擋時獲得 1 點 #y能量 和抽一張 隨機 #y攻擊牌 。",
-		"EXTENDED_DESCRIPTION": ["無限劍制", "本回合， 本回合，打破格擋時獲得 1 點 #y能量 和抽一張 隨機 #y攻擊牌 。"],
-		"NAME": "衛宮四郎"
+		"DESCRIPTION": "Give a random NL enemy !M! Block NL and 1 Vulnerable. Exhaust. || Semi-Limited. NL Whenever an enemy loses its Block this turn, gain [E] and draw an #yAttack[].",
+		"NAME": "Emiya Shirou",
+		"UPGRADE_DESCRIPTION": "Give a random NL enemy !M! Block NL and 1 Vulnerable. || Semi-Limited. NL Whenever an enemy loses its Block this turn, gain [E] and draw an #yAttack[]."
 	},
 	"animator:Emonzaemon":
 	{
-		"DESCRIPTION": "造成 !D! 點 穿刺 傷害 2 次 。 遺產 : 獲得獲得 [#EFC851]炎刀·銃[] 。",
-		"EXTENDED_DESCRIPTION": ["炎刀·銃", "一個特殊的無耗能的 #y能力 。"],
-		"NAME": "左右田右衛門左衛門",
-		"UPGRADE_DESCRIPTION": "造成 !D! 點 穿刺 傷害 2 次 。 遺產 : 獲得獲得 [#EFC851]炎刀·銃+[] 。"
+		"DESCRIPTION": "Martial_Artist. NL Deal !D! Piercing damage twice. || Limited. If this is your third attack in a row, add #yEntou #yJyuu to your draw pile.",
+		"NAME": "Emonzaemon"
 	},
 	"animator:Entoma":
 	{
-		"DESCRIPTION": "[#EFC851]唯一[] 。 造成 !D! 點 傷害與 !M! 層 中毒 。 [#EFC851]飢餓[] 。",
-		"EXTENDED_DESCRIPTION": ["飢餓", "每回合造成的傷害減少 #b1 點 。 如果這張牌消滅了非爪牙的敵人 ， 永久獲得 #b1 點傷害 和 #b2 點生命上限 。"],
-		"NAME": "艾多瑪"
+		"DESCRIPTION": "#yUnique. NL Deal !D! damage. NL Apply !M! Poison. NL Loses 1 damage NL each turn. || Limited. NL If this card kills an NL enemy, gain 2 Max HP NL and permanently NL Upgrade this card.",
+		"NAME": "Entoma"
 	},
 	"animator:EntouJyuu":
 	{
-		"DESCRIPTION": "每輪兩次， 打出 [#EFC851]攻擊牌[] 抽一張牌 並 對所有敵人施加 1 層 燃燒 。",
-		"NAME": "炎刀·銃"
+		"DESCRIPTION": "Gain !M! Agility. NL Whenever you deal NL unblocked damage, NL apply 1 Burning.",
+		"NAME": "Entou Jyuu"
 	},
 	"animator:Envy":
 	{
-		"DESCRIPTION": "變形者 。 治愈失去生命值的 !M! ％ 。 NL 每回合打出的第一張牌出觸發自己的 同調 效果 。",
-		"NAME": "恩維"
+		"DESCRIPTION": "Ethereal. NL Shapeshifter. NL The first card you NL play each turn NL will Synergize. || Gain 20% of your NL missing HP as NL Temporary_HP.",
+		"NAME": "Envy",
+		"UPGRADE_DESCRIPTION": "Shapeshifter. NL The first card you NL play each turn NL will Synergize. || Gain 20% of your NL missing HP as NL Temporary_HP."
 	},
 	"animator:Eris":
 	{
-		"DESCRIPTION": "治療 !M! 點 生命 。 消耗 。 根性 。",
-		"NAME": "厄里斯"
+		"DESCRIPTION": "Heal !M! HP. NL Exhaust. || Limited. If you would die while this card is in your hand, draw or discard pile, prevent all damage and permanently lose this card.",
+		"NAME": "Eris"
 	},
 	"animator:Eve":
 	{
-		"DESCRIPTION": "發揮 !SV! 充電球核心 。 每當觸發一次同調 ， 對隨機敵人造成 !M! 點 傷害並增加這張牌 1 點 傷害 。",
-		"NAME": "伊芙"
+		"DESCRIPTION": "Play 1 Orb_Core. NL Gain !M! Metallicize. NL Gain !SV! Orb Slot. || Limited. NL When you Synergize, NL deal 1 damage to an NL enemy and increase NL this damage by 1.",
+		"NAME": "Eve"
 	},
 	"animator:Evileye":
 	{
-		"DESCRIPTION": "施法者。 造成 !D! 點傷害 。 NL 抽一張牌 。 NL 重新裝填 : 使用你最右側的1個充能球的被動能力 。",
-		"NAME": "邪眼"
+		"DESCRIPTION": "Spellcaster 3. NL Draw !M! card(s). NL Reload: Trigger the NL passive ability of NL your next Orb. || Limited. NL On Synergy, gain NL 2 Intellect and NL 1 Orb Slot.",
+		"NAME": "Evileye"
 	},
 	"animator:Excalibur":
 	{
-		"DESCRIPTION": "保留 。 獲得 1 層 無實體 。 對所有敵人造成 !D! 點 傷害 。 消耗 。",
-		"NAME": "誓約勝利之劍"
+		"DESCRIPTION": "Retain. NL Gain 1 Intangible. NL Deal !D! damage NL to ALL enemies. NL Exhaust.",
+		"NAME": "Excalibur"
 	},
 	"animator:FeridBathory":
 	{
-		"DESCRIPTION": "Whenever a card is Exhausted, a random enemy loses !M! HP and you gain !M! Temp._HP.",
-		"NAME": "費里德·巴特利"
+		"DESCRIPTION": "Whenever a card is NL Exhausted, steal !M! HP NL from a random enemy NL as Temp._HP. || Limited. At the start of NL your turn, if you have NL at least 20 cards in NL your Exhaust pile, NL gain !SV! Strength.",
+		"NAME": "Ferid Bathory"
 	},
 	"animator:Fredrika":
 	{
-		"DESCRIPTION": "變形者 。 每個敵人使你獲得 !B! 點 格擋 。 撤回 : 此卡回到手牌並選擇其他型態 。",
-		"EXTENDED_DESCRIPTION": ["變形者 。 獲得 !B! 點 格擋 。", "變形者 。 造成 !D! 點傷害 2 次 。 獲得 2 層 金屬化 。 撤回 : 獲得 !M! 點 金属化 。", "變形者 。 造成 !D! 點 傷害 。 給予 1 層 虛弱 。 給予 1 層 易傷 。"],
-		"NAME": "芙蕾多妮卡"
+		"DESCRIPTION": "Shapeshifter. NL Gain !B! Block. NL Gain !M! additional Block for each enemy. || When Discarded, returns to your hand and changes Form until end of turn.",
+		"EXTENDED_DESCRIPTION": ["Shapeshifter. NL Gain !B! Block.", "Shapeshifter. NL Deal !D! damage twice. Gain 2 Metallicize.", "Shapeshifter. NL Deal !D! damage. NL Apply 1 Vulnerable. NL Apply 1 Weak."],
+		"NAME": "Fredrika"
 	},
 	"animator:GazelDwargon":
 	{
-		"DESCRIPTION": "在每輪開始時 ， 保持一半的點 格擋 。 每當你打出攻擊卡時 ， 獲得 !M! 點 格擋 。",
-		"NAME": "矮人王"
+		"DESCRIPTION": "Gain !M! Plated_Armor. NL Maintain half your Block at the start of each turn. || On Synergy, NL Motivate 1.",
+		"NAME": "Gazel Dwargon"
 	},
 	"animator:Genos":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害。 NL 給予 !M! 層 燒傷 。 增加 1 張 [#EFC851]燒傷[] 到你的手牌 。",
-		"EXTENDED_DESCRIPTION": ["過熱", "0能耗的 #yStatus ， 效果為 ： 傷害玩家並額外抽牌。"],
-		"NAME": "杰諾斯"
+		"DESCRIPTION": "Deal !D! Damage. NL Apply !M! Burning. NL Take !SV! damage at NL the end of turn. || Semi-Limited. NL On Synergy, Fetch NL a card which costs NL 3 or more Energy NL and Retain it.",
+		"NAME": "Genos"
 	},
 	"animator:Geryuganshoop":
 	{
-		"DESCRIPTION": "循環 !SV! 張牌 。 NL 抹除最多 !M! 張已 消耗 的牌 ， 獲得同樣數量的 [E] 。",
-		"EXTENDED_DESCRIPTION": ["選擇 @ 張牌抹除 ， 獲得同等的能量."],
-		"NAME": "戈留幹修普"
+		"DESCRIPTION": "Cycle !SV! Cards. NL Purge up to !M! cards in your Exhaust pile, gain that much [E]. || Limited. If you NL Purged #yMelzalgald[] or NL #yBoros[], return them NL to your hand.",
+		"EXTENDED_DESCRIPTION": ["Choose {0} cards to Purge, gain that much Energy."],
+		"NAME": "Geryuganshoop"
 	},
 	"animator:Gilgamesh":
 	{
-		"DESCRIPTION": "[#EFC851]唯一[] 。對一個敵人造成 !D! 點 傷害 3 次 。 NL [#EFC851]巴比倫的寶藏[] 。",
-		"EXTENDED_DESCRIPTION": ["巴比倫的寶藏", "每當你獲得遺物時升級這張牌並獲得 ", " 個金幣 。 買的遺物不會觸發該效果 。"],
-		"NAME": "英雄王·吉爾伽美什"
+		"DESCRIPTION": "#yUnique. NL Deal !D! damage NL 3 times. || When you obtain NL a non-shop relic, NL gain !SV! #yGold[] and NL Upgrade this card.",
+		"NAME": "Gilgamesh"
 	},
 	"animator:Gillette":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 下一輪 ， 獲得 [E] 。 撤回 : 給予所有敵人 !M! 層 虛弱 。",
-		"NAME": "亞伯力克·基烈特"
+		"DESCRIPTION": "Deal !D! damage. NL Next turn, NL gain [E]. || When Discarded, NL Apply 1 Weak NL to ALL enemies.",
+		"NAME": "Gillette"
 	},
 	"animator:Giselle":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 給予 !M! 層 燃燒 。 NL 對生命值低於 !SV! 點 的敵人造成三倍傷害 。",
+		"DESCRIPTION": "Deal !D! damage. NL Double the enemy's NL Burning amount. || At the start NL of each combat, NL Channel 1 Fire.",
 		"NAME": "Giselle"
 	},
 	"animator:Gluttony":
 	{
-		"DESCRIPTION": "消耗 手上最多!M! 張牌，根據你消耗的卡片種類發動一個 [#EFC851]額外效果[] 。 消耗 。",
-		"EXTENDED_DESCRIPTION": ["額外效果", "#y攻擊牌: 獲得 1 點 力量 NL #y技能: 獲得3 點 臨時生命 NL #y能力牌: 回復 7 點 生命 NL #y狀態牌: 獲得 1 點 能量 NL #y詛咒: 獲得 6 點 格擋"],
-		"NAME": "庫拉多尼"
+		"DESCRIPTION": "Exhaust the top !M! NL cards of your draw NL pile to gain !SV! Force NL and Heal !SV! HP. Exhaust. || This card cannot NL be played while you NL have less than 20 NL total cards in play.",
+		"EXTENDED_DESCRIPTION": ["Not enough cards in play."],
+		"NAME": "Gluttony"
 	},
 	"animator:GoblinChampion":
 	{
-		"DESCRIPTION": "在你的回合結束時 ， 往抽牌堆中加入1張隨機哥布林牌 。",
-		"NAME": "哥布林冠軍"
+		"DESCRIPTION": "At the end of your NL turn, shuffle 1 NL random Goblin into NL your draw pile.",
+		"NAME": "Goblin Champion"
 	},
 	"animator:GoblinKing":
 	{
-		"DESCRIPTION": "回合結束時 ， 往抽牌堆中加入如3張隨機哥布林牌 。",
-		"NAME": "哥布林王"
+		"DESCRIPTION": "At the end of your NL turn, shuffle 3 NL random Goblins into NL your draw pile.",
+		"NAME": "Goblin King"
 	},
 	"animator:GoblinShaman":
 	{
-		"DESCRIPTION": "抽到這張牌時 ， 額外抽一張牌 。 在你的回合結束時 ， 獲得1 層 脆弱 。",
-		"NAME": "哥布林薩滿"
+		"DESCRIPTION": "When you draw this, NL draw another card. At NL the end of your turn, NL gain 1 Frail.",
+		"NAME": "Goblin Shaman"
 	},
 	"animator:GoblinSlayer":
 	{
-		"DESCRIPTION": "[#EFC851]哥布林殺手[] 。 造成 !D! 點傷害 。 NL 獲得 !B! 點 格擋 。 NL 保留 。",
-		"EXTENDED_DESCRIPTION": ["哥布林殺手", "消耗所有位於手牌和棄牌堆中的狀態牌和詛咒牌 。 已消耗牌堆中每有一張牌 ， 額外造成 3 點 傷害 。 #y警告 : 哥布林將開始入侵你的牌堆 。"],
-		"NAME": "哥布林殺手"
+		"DESCRIPTION": "Retain. NL Deal !D! damage. NL Exhaust every Curse NL and Status in hand NL and discard pile. || Deal 3 additional NL damage for every card NL in your Exhaust pile. NL #yGoblins will start NL invading your deck.",
+		"NAME": "Goblin Slayer"
 	},
 	"animator:GoblinSoldier":
 	{
-		"DESCRIPTION": "抽到這張牌時 ， 額外抽一張牌 。 回合結束時 ， 受到 2 點 傷害 。",
-		"NAME": "哥布林小鬼"
+		"DESCRIPTION": "When you draw this, NL draw another card. At NL the end of your turn, NL take 2 damage.",
+		"NAME": "Goblin Soldier"
 	},
 	"animator:Greed":
 	{
-		"DESCRIPTION": "獲得 !SV! 層 多層護甲 。 NL 獲得 !M! 層 金屬化 。 NL 獲得 3 層 鍛鑄 。 NL [#EFC851]貪婪[] 。",
-		"EXTENDED_DESCRIPTION": ["貪婪", "如果這張卡在你的初始卡組中 ， 打出時獲得 #b8 個 #y金幣。你每擁有 #b100 個 #y金幣 ， 減少這張牌 1 點消耗 。"],
-		"NAME": "古利德"
+		"DESCRIPTION": "Gain !M! Plated_Armor. NL Gain !M! Metallicize. NL Gain !M! Malleable. || Limited. When NL Exhausted, gain !SV! NL #yGold[]. Costs 1 less NL for every 100 #yGold[] NL you have.",
+		"NAME": "Greed"
 	},
 	"animator:GuildGirl":
 	{
-		"DESCRIPTION": "回合開始時 ， 循環 1 張牌 。 當非爪牙的敵人死亡時 ， 獲得 !M! 枚金幣 。",
-		"NAME": "櫃台小姐"
+		"DESCRIPTION": "At the start NL of each turn, NL Cycle 1 card. || Whenever a NL non-minion enemy NL dies, gain !M! #yGold[]. NL Does not stack.",
+		"NAME": "'Guild Girl'"
 	},
 	"animator:Guren":
 	{
-		"DESCRIPTION": "打出抽牌堆頂部的三張牌， 消耗其中的所有 [#EFC851]攻擊[] 牌， [#EFC851]的狀態牌[] 和 [#EFC851]詛咒牌[] ， 每消耗一張牌， 獲得 !M! 點 支援傷害 。",
-		"NAME": "紅蓮"
+		"DESCRIPTION": "Play the top !M! NL cards of your draw NL pile. Exhaust each NL #yAttack[], #yStatus[] and NL #yCurse[] played. Exhaust. || Semi-Limited. Gain 1 NL Support_Damage for NL each card in your NL Exhaust pile.",
+		"NAME": "Guren",
+		"UPGRADE_DESCRIPTION": "Play the top !M! NL cards of your draw NL pile. Exhaust each NL #yAttack[], #yStatus[] and NL #yCurse[] played. || Semi-Limited. Gain 1 NL Support_Damage for NL each card in your NL Exhaust pile."
 	},
 	"animator:Guy":
 	{
-		"DESCRIPTION": "抽 !M! 張牌 。 NL 丟棄 !M! 張牌 。 NL 同調 ： 從抽牌堆頂丟棄 2 張牌。",
-		"NAME": "奇伊"
+		"DESCRIPTION": "Draw !M! card. NL Discard !M! card. || On Synergy, NL discard the top 2 NL cards of your NL draw pile.",
+		"NAME": "Guy",
+		"UPGRADE_DESCRIPTION": "Draw !M! cards. NL Discard !M! cards. || On Synergy, NL discard the top 2 NL cards of your NL draw pile."
 	},
 	"animator:Hakurou":
 	{
-		"DESCRIPTION": "武術家 。 造成 !D! 點傷害 !M! 次 。 NL [#EFC851]被抽到時[] : 獲得 !SV! 點 臨時 敏捷 。",
-		"NAME": "白老",
-		"UPGRADE_DESCRIPTION": "武術家 。 造成 !D! 點傷害 !M! 次 。 抽 1 張牌 並 升級 它。 NL [#EFC851]被抽到時[] : 獲得 !SV! 點 臨時 敏捷 。"
+		"DESCRIPTION": "Martial_Artist. NL Deal !D! damage NL !M! times. || On Synergy NL or when Drawn, NL gain 1 Agility.",
+		"EXTENDED_DESCRIPTION": ["martial artist", "#ySynergizes with #yMartial #yArtists. For every point of #yDexterity, deal #b1 additional damage."],
+		"NAME": "Hakurou"
+	},
+	"animator:HarukoHaruhara":
+	{
+		"DESCRIPTION": "Gain 1 Temporary NL Artifact. Play a NL random card from NL any class.",
+		"NAME": "Haruko Haruhara",
+		"UPGRADE_DESCRIPTION": "Gain 1 Temporary NL Artifact. Play a NL random Upgraded NL card from any NL class."
 	},
 	"animator:Hero":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害. NL 抽 !M! 張牌 。 NL 位於牌組中時, 增加獲得 [#EFC851]遺物獎勵[] 的機會 。",
-		"NAME": "勇者'"
+		"DESCRIPTION": "Deal !D! Damage. NL Draw !M! Cards. || While in your NL deck, greatly increase NL the chances of NL #yBonus #yRelics.",
+		"NAME": "'Hero'"
 	},
 	"animator:Hibiki":
 	{
-		"DESCRIPTION": "隨機對敵人造成 !D! 點傷害 !M! 次 。 每次使用後 ， 這張牌的攻擊次數加 !SV! 。",
-		"NAME": "響"
+		"DESCRIPTION": "Deal !D! damage to a random enemy !M! times. Increase this card's hit count by !SV! this combat.",
+		"NAME": "Hibiki"
 	},
 	"animator:HigakiRinne":
 	{
-		"DESCRIPTION": "變形者 。 NL 布朗運動愛好者。。。 NL (觸發隨機效果)",
-		"NAME": "彼我木輪回",
-		"UPGRADE_DESCRIPTION": "變形者 。 NL 真·布朗運動愛好者。。。 NL (觸發更多隨機效果)"
+		"DESCRIPTION": "Shapeshifter. NL Behaves erratically... || On Synergy, or when Drawn, Discarded or Exhausted, this card behaves erratically.",
+		"NAME": "Higaki Rinne",
+		"UPGRADE_DESCRIPTION": "Shapeshifter. NL Behaves very erratically... || On Synergy, or when Drawn, Discarded or Exhausted, this card behaves erratically."
 	},
 	"animator:HighElfArcher":
 	{
-		"DESCRIPTION": "造成 !D! 點 穿刺 傷害 。 獲得 !M! 點 臨時 敏捷 。",
-		"NAME": "精靈弓手"
+		"DESCRIPTION": "Deal !D! Piercing NL damage. Boost !SV!: NL Gain 1 Agility. || Limited. NL On Synergy, NL draw 1 card and NL gain 1 Agility.",
+		"NAME": "'High Elf Archer'"
 	},
 	"animator:HiiragiShinya":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 獲得 !M! 點 支援傷害 。 從你的棄牌堆中取一張牌並保留它, 此牌本輪能耗加1 。",
-		"NAME": "柊深夜"
+		"DESCRIPTION": "Gain !B! Block. NL Fetch a card from NL your discard pile and NL Retain it, it costs 1 NL more this turn. || On Synergy, gain !M! NL Support_Damage.",
+		"NAME": "Shinya Hiiragi"
 	},
 	"animator:HiiragiTenri":
 	{
-		"DESCRIPTION": "獲得 !M! 點 臨時生命 。 NL 打出並 消耗 棄牌堆中所有牌 。 消耗 。",
-		"NAME": "柊天利"
+		"DESCRIPTION": "Gain !M! Temp._HP. NL Play and Exhaust NL ALL cards in your discard pile. || Limited. NL When Exhausted, NL shuffle your Exhaust NL pile into your NL draw pile.",
+		"NAME": "Tenri Hiiragi"
 	},
 	"animator:Hitei":
 	{
-		"DESCRIPTION": "在你的回合開始時 獲 得隨機 [#EFC851]積極影響[] 。 選擇並且 消耗 抽牌堆 1 到 !M! 張的隨機卡牌 。",
-		"NAME": "否定姬"
+		"DESCRIPTION": "At the start of each turn, Exhaust 1 of !M! random cards in your draw or discard pile. || On Synergy, NL gain 2 Intellect, NL gain 2 Agility, NL gain 2 Force.",
+		"NAME": "Hitei"
 	},
 	"animator:HououinKyouma":
 	{
-		"DESCRIPTION": "選擇 1 張本場戰鬥中使用過的牌 ， 並將它的複制加入到手牌中 [#EFC851]*[] 。 抹除 。",
-		"EXTENDED_DESCRIPTION": ["* 注", "你不能複制這張牌 ， 因為這是石頭門的選擇 。"],
-		"NAME": "鳳凰院兇真",
-		"UPGRADE_DESCRIPTION": "選擇 1 張本場戰鬥中使用過的牌 ， 並將它的複制加入到手牌中 [#EFC851]*[] 。在此輪， 將這張牌的能耗減1。 抹除 。"
+		"DESCRIPTION": "Choose 1 card you NL played this combat. #y*[] NL Add a copy of it NL to your hand and NL Retain it. Purge.",
+		"EXTENDED_DESCRIPTION": ["* Note", "You cannot select another copy of this card. Because that would cause a paradox."],
+		"NAME": "Hououin Kyouma"
+	},
+	"animator:IchigoBankai":
+	{
+		"DESCRIPTION": "Martial_Artist. NL Deal !D! damage NL to ALL enemies. NL Multiplied by X. NL Exhaust.",
+		"NAME": "Ichigo Bankai"
+	},
+	"animator:IchigoKurosaki":
+	{
+		"DESCRIPTION": "Martial_Artist. NL Gain !M! Force. NL Exhaust. || When Exhausted, NL if you have at NL least !SV! Strength, NL add #yIchigo[] #yBankai[] NL to your draw pile.",
+		"NAME": "Ichigo Kurosaki",
+		"UPGRADE_DESCRIPTION": "Martial_Artist. NL Gain !M! Force. NL Gain 1 Agility. Exhaust. || When Exhausted, NL if you have at NL least !SV! Strength, NL add #yIchigo[] #yBankai[] NL to your draw pile."
 	},
 	"animator:Illya":
 	{
-		"DESCRIPTION": "獲得 1 層 易傷 。 NL 將抽牌堆中傷害最高的 [#EFC851]攻擊[] 牌 打出 。 消耗 。",
-		"NAME": "伊莉雅",
-		"UPGRADE_DESCRIPTION": "獲得 1 層 易傷 。 NL 將抽牌堆中傷害最高的 [#EFC851]攻擊[] 牌 打出 。"
+		"DESCRIPTION": "Play the highest NL damage #yAttack from NL your draw pile. NL Take !M! damage at NL the end of turn. || When Exhausted, NL draw #yBerserker[] NL from any pile NL and gain [E].",
+		"NAME": "Illya"
 	},
 	"animator:ItamiYouji":
 	{
-		"DESCRIPTION": "抽 !M! 張牌 。 同調 : 再抽一張卡片 。 每抽一張牌造成 !D! 點 傷害。",
-		"NAME": "伊丹耀司"
+		"DESCRIPTION": "Draw !M! cards. NL Deal !D! Piercing NL damage for each NL card drawn. || Limited. NL On Synergy, NL Motivate 1.",
+		"NAME": "Itami Youji"
 	},
 	"animator:IzunaHatsuse":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 給予 1 層 虛弱 。 NL [#EFC851]血液破壞[] 。",
-		"EXTENDED_DESCRIPTION": ["血液破壞", "當你的HP低於25％時， 這張卡將成為一個特殊的0耗能 #攻擊牌 。", "造成 !D! 點 傷害 兩次 。 NL 回復 !M! 點 生命 。"],
-		"NAME": "初賴伊剛",
-		"UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 NL 給予 1 層 虛弱 。 NL [#EFC851]血液破壞+[] 。"
+		"DESCRIPTION": "Gain !B! Block. NL Apply 1 Weak. || While you are below 25% max HP, this card will change its form.",
+		"EXTENDED_DESCRIPTION": ["Deal !D! damage twice. NL Heal !M! HP."],
+		"NAME": "Izuna Hatsuse"
 	},
 	"animator:JeanneDArc":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 獲得 !M! 點 臨時生命 。 NL 獲得 !M! 點 魔法護甲 。 NL 隨機消耗一個狀態牌或詛咒牌 。",
-		"NAME": "聖女貞德"
+		"DESCRIPTION": "Gain !B! Block. NL Deal !D! Damage. NL Exhaust a random NL Status or Curse. || At the start of NL each combat, gain NL !M! Temporary_HP.",
+		"NAME": "Jeanne D'Arc"
 	},
 	"animator:Jibril":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 為每一種不同的充能球抽 1 張牌 并 造成 !M! 點 額外傷害。",
-		"NAME": "吉普莉爾"
+		"DESCRIPTION": "Spellcaster. NL Deal !D! damage NL to ALL enemies. || Semi-Limited. NL When Drawn, trigger NL the passive ability of NL your next Orb.",
+		"NAME": "Jibril"
 	},
 	"animator:Kaijin":
 	{
-		"DESCRIPTION": "在每輪結束時， 保留1張卡 并使其造成的傷害與獲得的格擋量在本場戰鬥中提高 !M! 點 。",
-		"NAME": "凱·金",
-		"UPGRADE_DESCRIPTION": "固有 。 在每輪結束時， 保留1張卡 和 使其造成的傷害與獲得的格擋量在本場戰鬥中提高 !M! 點 。"
+		"DESCRIPTION": "At the end of each NL turn, Retain 1 card NL and increase its NL damage and Block NL by !M! this combat. || When you add this card to your deck, permanently Upgrade a random Basic card.",
+		"NAME": "Kaijin"
 	},
 	"animator:Kazuma":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 循環 1 張牌 。 NL 同調 : 隨機對敵人造成 !M! 點 傷害 。",
-		"NAME": "和真"
+		"DESCRIPTION": "Gain !B! Block. NL Cycle 1 card. || On Synergy, NL deal !M! damage to NL a random enemy.",
+		"NAME": "Kazuma"
 	},
 	"animator:Kira":
 	{
-		"DESCRIPTION": "虛無 。 敵人很快就會死去 [#EFC851]*[] 。 NL 給予敵人 !SV! 層 力量。 NL 消耗 。",
-		"EXTENDED_DESCRIPTION": ["* 注", "這張卡片的文字會在針對敵人時發生變化 ， 生命值較多的敵人將會存活更長時間 。 忽略 #y人工製品 。", "虛無 。 敵人將在 @ 回合後死亡 。 NL 消耗 。"],
-		"NAME": "夜神月"
+		"DESCRIPTION": "Ethereal. NL The enemy gains !M! NL Strength and will die NL in a few turns. #y*[] NL Exhaust.",
+		"EXTENDED_DESCRIPTION": ["* Note", "The number of turns is determined by the enemy's current HP.", "The enemy will NL die in {0} turn(s)."],
+		"NAME": "Light Yagami"
 	},
 	"animator:Konayuki":
 	{
-		"DESCRIPTION": "若至少擁有10 點力量 ， 造成 !D! 點傷害 , 否則獲得 !M! 點 力量 。",
-		"NAME": "凍空粉雪"
+		"DESCRIPTION": "If you have at least NL 10 Strength, deal !D! NL damage, otherwise NL gain !M! Force. || Semi-Limited. NL When Drawn, if you NL have no Strength, NL reduce this card's NL cost by 1 this turn.",
+		"NAME": "Konayuki"
 	},
 	"animator:KrulTepes":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 給予 !M! 層 虛弱 。 若這張牌消滅了一個精英或王 ， 獲得 [#EFC851]小血瓶[] [#EFC851]*[] 。",
-		"EXTENDED_DESCRIPTION": ["*備註", "若本場戰鬥中有多個精英存在 ， 只能獲得一次遺物 。"],
-		"NAME": "克魯魯·采佩西"
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. || Limited. NL If this card kills NL an Elite or Boss, NL obtain a #yBlood #yVial.",
+		"NAME": "Krul Tepes"
 	},
 	"animator:Kuribayashi":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 造成 !SV! 點 勒脖 。 同調 : 本回合目標失去 !M! 點 力量 。",
-		"NAME": "栗林志乃"
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable. NL Apply !SV! Choked. || Semi-Limited. On NL Synergy, the enemy NL loses 4 Strength NL this turn.",
+		"NAME": "Kuribayashi"
 	},
 	"animator:Kuroyukihime":
 	{
-		"DESCRIPTION": "丟棄 !M! 張牌 : 將 [#EFC851]黑蓮花[] 加入到你的手牌中 。 消耗 。",
-		"EXTENDED_DESCRIPTION": ["黑蓮花", "特殊的1耗 #y攻擊牌 。"],
-		"NAME": "黑雪公主"
+		"DESCRIPTION": "Discard !M! cards to NL add #yBlack #yLotus NL to your hand. NL Exhaust.",
+		"EXTENDED_DESCRIPTION": ["Black Lotus", "A special 1-cost #yAttack which deals damage to ALL enemies and grants #yBlock and #yBlur."],
+		"NAME": "Kuroyukihime"
 	},
 	"animator:Kyubey":
 	{
-		"DESCRIPTION": "獲得 [E] [E] NL 抽 !M! 張牌 。 NL 在你的棄牌堆中添加 2 個隨機詛咒 。 消耗 。",
-		"NAME": "QB",
-		"UPGRADE_DESCRIPTION": "獲得 [E] [E] NL 抽 !M! 張牌 。 NL 在你的棄牌堆中添加 2 個隨機詛咒 。"
+		"DESCRIPTION": "Gain [E] [E]. NL Draw !M! Cards. NL Exhaust. || At the start of combat, add 1 random Curse to your discard pile.",
+		"NAME": "Kyubey"
 	},
 	"animator:Lancer":
 	{
-		"DESCRIPTION": "造成 !D! 點 穿刺 傷害 。 嗜血 。 同調 : 獲得 [E] 。",
+		"DESCRIPTION": "Martial_Artist. NL Deal !D! Piercing NL damage. Double NL damage to enemies NL below 50% HP. || If the enemy has NL Block, apply 1 Weak NL and Vulnerable.",
 		"NAME": "Lancer"
 	},
 	"animator:Layla":
 	{
-		"DESCRIPTION": "造成 !D! 點 穿刺 傷害 。 NL 重新裝填 : 對一個隨機的敵人給予 !M! 層 中毒  。",
-		"NAME": "蕾拉"
+		"DESCRIPTION": "Deal !D! Piercing NL damage. Reload: NL Apply !M! Poison to a NL random enemy. || This card deals !SV! NL additional damage NL for each #yDebuff[] NL on the enemy.",
+		"NAME": "Layla"
 	},
 	"animator:LeleiLaLalena":
 	{
-		"DESCRIPTION": "隨機丟棄1張牌： 生成 !M! 個 冰霜 充能球。 NL 同調 : 給予所有敵人 !SV! 層 虛弱 。 ",
-		"NAME": "蕾萊·拉·列娜",
-		"UPGRADE_DESCRIPTION": "丟棄1張牌： 生成 !M! 個 冰霜 充能球。 NL 同調 : 給予所有敵人 !SV! 層 虛弱 。"
+		"DESCRIPTION": "Spellcaster 6. Discard NL a random card to NL #yChannel !M! Frost. || On Synergy, NL apply 1 Weak NL to ALL enemies.",
+		"NAME": "Lelei La Lalena",
+		"UPGRADE_DESCRIPTION": "Spellcaster 6. NL Discard a card to NL #yChannel !M! Frost. || On Synergy, NL apply 1 Weak NL to ALL enemies."
 	},
 	"animator:Lelouch":
 	{
-		"DESCRIPTION": "消耗 你手中的所有攻擊卡。 這一輪 ， 所有敵人都會攻擊自己 。 NL 抹除 。 [#EFC851]*[]",
-		"EXTENDED_DESCRIPTION": ["* 注", "若有敵人未有打算攻擊，擊暈它們"],
-		"NAME": "魯路修"
+		"DESCRIPTION": "Exhaust !M! random NL cards in your hand. NL ALL enemies will NL attack themselves NL this turn. #y*[] Purge.",
+		"EXTENDED_DESCRIPTION": ["* Note", "Enemies that do not plan to attack will be #yStunned instead."],
+		"NAME": "Lelouch"
 	},
 	"animator:LimeBell":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 重新裝填 : 下一輪 ， 回復 !M! 點 生命 。 NL 消耗 。",
+		"DESCRIPTION": "Gain !B! Block. NL Reload: Gain !M! NL Temporary_HP. NL Exhaust.",
 		"NAME": "Lime Bell"
 	},
 	"animator:LizardPriest":
 	{
-		"DESCRIPTION": "使一個敵人的 格擋 值變為 !M! ， 獲得 !B! 點 格擋 。 同調 : 保留 !SV! 張牌 。",
-		"NAME": "蜥蜴僧侶"
+		"DESCRIPTION": "Gain !B! Block. NL Set the Block of NL the enemy to 1. || On Synergy, NL Retain 2 Cards.",
+		"NAME": "'Lizard Priest'"
 	},
 	"animator:MaesHughes":
 	{
-		"DESCRIPTION": "為您牌組中的每 !M! 張牌抽一張牌 。 激勵 1 。 遺產 : 給予所有敵人 !SV! 層 燃燒 。",
-		"NAME": "馬斯休斯"
+		"DESCRIPTION": "Draw 1 card NL for every !M! cards NL in your draw pile. NL Motivate 1. || When Exhausted, NL draw #yRoy #yMustang NL from any pile, it costs NL 1 less this turn.",
+		"NAME": "Maes Hughes"
 	},
 	"animator:Megumin":
 	{
-		"DESCRIPTION": "[#EFC851]唯一[] 。 對所有敵人造成 !D! 點傷害 。 消耗 。 NL 同調 : 永久 升級 這張牌 。",
-		"NAME": "惠惠"
+		"DESCRIPTION": "Spellcaster. #yUnique. NL Deal !D! damage NL to ALL Enemies. NL Exhaust. || Limited. On Synergy, NL Permanently Upgrade NL this card.",
+		"EXTENDED_DESCRIPTION": ["spellcaster", "If you have #b4 or more focus, this card will not #yExhaust."],
+		"NAME": "Megumin"
 	},
 	"animator:Melzalgald":
 	{
-		"DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害 。 NL 分裂成3張不同的 [#EFC851]攻擊[] 。 消耗 。",
-		"NAME": "梅魯扎嘎魯多",
-		"UPGRADE_DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害 。 NL 分裂成3張不同的升級 [#EFC851]攻擊[] 。 消耗 。"
+		"DESCRIPTION": "Shapeshifter. NL Deal !D! Damage. NL Splits into 3 NL #yAttacks. Exhaust.",
+		"NAME": "Melzalgald",
+		"UPGRADE_DESCRIPTION": "Shapeshifter. NL Deal !D! Damage. NL Splits into 3 Upgraded NL #yAttacks. Exhaust."
 	},
 	"animator:MelzalgaldAlt_1":
 	{
-		"DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害。 NL 獲得 !M! 層 力量 。 NL 消耗 。",
-		"NAME": "梅魯扎嘎魯多"
+		"DESCRIPTION": "Shapeshifter. NL Deal !D! Damage. NL Gain !M! Force. NL Exhaust.",
+		"NAME": "Melzalgald"
 	},
 	"animator:MelzalgaldAlt_2":
 	{
-		"DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害。 NL 獲得 !M! 層 敏捷 。 NL 消耗 。",
-		"NAME": "梅魯扎嘎魯多"
+		"DESCRIPTION": "Shapeshifter. NL Deal !D! Damage. NL Gain !M! Intellect. NL Exhaust.",
+		"NAME": "Melzalgald"
 	},
 	"animator:MelzalgaldAlt_3":
 	{
-		"DESCRIPTION": "穿越者 。 NL 造成 !D! 點 傷害。 NL 獲得 !M! 層 再生 。 NL 消耗 。",
-		"NAME": "梅魯扎嘎魯多"
+		"DESCRIPTION": "Shapeshifter. NL Deal !D! Damage. NL Gain !M! Agility. NL Exhaust.",
+		"NAME": "Melzalgald"
 	},
 	"animator:MetalKnight":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 產生 1 等離子 充能球 。 NL 鼓舞 !SV! : 獲得 !M! 層 金屬化 。",
-		"NAME": "金屬騎士"
+		"DESCRIPTION": "Deal !D! Damage. NL Channel 1 Plasma. NL Boost !SV! : Gain !M! Metallicize. || When Discarded, NL gain 2 Block for NL each of your Orbs.",
+		"NAME": "Metal Knight"
 	},
 	"animator:Mikaela":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 給予 !M! 層 中毒 。 從你的棄牌堆中選擇並 消耗 一張牌 。",
-		"NAME": "米迦爾"
+		"DESCRIPTION": "Deal !D! damage. NL Exhaust a card in NL your discard pile. || If you Exhausted NL a Status or Curse, NL apply !M! Poison.",
+		"NAME": "Mikaela"
 	},
 	"animator:Millim":
 	{
-		"DESCRIPTION": "[#EFC851]唯一[] 。NL 造成 !D! 點 傷害 。 抽 !M! 張牌  NL 同調 : 獲得 [E] 。",
-		"NAME": "米莉姆"
+		"DESCRIPTION": "#yUnique. NL Deal !D! damage. NL Apply !M! Burning. NL Apply !M! Poison. || On Synergy, NL draw 2 cards.",
+		"NAME": "Millim"
 	},
 	"animator:MisaKurobane":
 	{
-		"DESCRIPTION": "獲得 1 個 火素 充能球 。 NL 抽 1 張牌 。 NL 將 [#EFC851]西森柚咲[] 加到你的棄牌堆。 NL 消耗 。",
-		"NAME": "黑羽美砂"
+		"DESCRIPTION": "Channel 1 Fire. NL Draw !M! card. NL Add #yYusarin to your discard pile. Exhaust.",
+		"NAME": "Misa Kurobane",
+		"UPGRADE_DESCRIPTION": "Channel 1 Fire. NL Draw !M! cards. NL Add #yYusarin to your discard pile. Exhaust."
 	},
 	"animator:Mitsuba":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 若目標生命值比你高 ， 獲得 !B! 點 格擋 。 遺產 : 抽 !M! 張牌 。",
-		"NAME": "三宮三葉"
+		"DESCRIPTION": "Deal !D! damage. NL If the enemy had NL more health than NL you, gain !B! Block. || When Exhausted, NL draw !M! Cards.",
+		"NAME": "Mitsuba"
 	},
 	"animator:Mitsurugi":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 , 僅當敵人意圖為攻擊時可被打出 。 遺產 : 獲得 !M! 點 力量 。",
-		"EXTENDED_DESCRIPTION": ["敵人不打算攻擊"],
-		"NAME": "御劍響夜"
+		"DESCRIPTION": "If the enemy NL intends to attack, NL deal !D! damage. || On Synergy, or NL when Exhausted, NL gain 1 Force.",
+		"EXTENDED_DESCRIPTION": ["The enemy does not intend to attack."],
+		"NAME": "Mitsurugi"
 	},
 	"animator:MumenRider":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害。 NL 消耗 。 這張牌會在隨機回合後回到你的手裡 。",
-		"NAME": "無證騎士",
-		"UPGRADE_DESCRIPTION": "造成 !D! 點 傷害 。 NL 抽1張牌 。 NL 消耗 。 這張牌會在隨機回合後回到你的手裡 。"
+		"DESCRIPTION": "Deal !D! damage. NL Exhaust. || When Exhausted, NL this card returns NL to your draw pile NL after a random NL number of turns.",
+		"NAME": "Mumen Rider",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Draw 1 card. NL Exhaust. || When Exhausted, NL this card returns NL to your draw pile NL after a random NL number of turns."
 	},
 	"animator:Nanami":
 	{
-		"DESCRIPTION": "根據敵人的意圖觸發一個 [#EFC851]效果[] 。 [#c6be6f]選擇目標時[] ， [#c6be6f]這段敘述會變為效果敘述[] 。",
-		"EXTENDED_DESCRIPTION": ["造成 # 點 傷害。", "獲得 # 點 格擋 。", "獲得 # 點 力量 。", "造成 # 點 虛弱 。", "造成 # 點 易傷 。 ", "暈眩 敵人 。", "生成 # 個隨機充能球 。", "UNUSED", "UNUSED", "造成 # 點 中毒 。", "獲得 [E]", "獲得 # 暫時生命 。", "抽 # 張牌 。"],
-		"NAME": "鑢七實",
-		"UPGRADE_DESCRIPTION": "根據敵人的意圖觸發一個 [#EFC851]效果+[] 。 [#c6be6f]選擇目標時[] ， [#c6be6f]這段敘述會變為效果敘述] 。"
+		"DESCRIPTION": "#yCounter the NL enemy intent. NL Exhaust.",
+		"EXTENDED_DESCRIPTION": ["Counter", "This card will have a different text and effect based on the enemy you are targeting.", "Deal # Damage.", "Gain # Block.", "Gain # Force.", "Apply # Weak.", "Apply # Vulnerable.", "Stun the enemy.", "Channel # Random Orb/s.", "UNUSED", "UNUSED", "Apply # Poison.", "Gain [E].", "Gain # Temp._HP.", "Draw # cards."],
+		"NAME": "Nanami",
+		"UPGRADE_DESCRIPTION": "Strongly #yCounter NL the enemy intent. NL Exhaust."
 	},
 	"animator:NarberalGamma":
 	{
-		"DESCRIPTION": "生成 !M! 個 閃電 充能球 。 抽1張牌 。 NL 變形者 。",
-		"NAME": "娜貝拉爾·伽瑪",
-		"UPGRADE_DESCRIPTION": "生成 !M! 個 閃電 充能球 。 抽1張牌 。 NL 變形者 。 閃電 本回合擊中所有敵人。"
+		"DESCRIPTION": "Shapeshifter. NL Channel !M! Lightning. || Semi-Limited. NL Lightning hits ALL NL enemies this turn.",
+		"NAME": "Gamma Narberal",
+		"UPGRADE_DESCRIPTION": "Shapeshifter. NL Channel !M! Lightning. NL Draw 1 card. || Semi-Limited. NL Lightning hits ALL enemies this turn."
 	},
 	"animator:NivaLada":
 	{
-		"DESCRIPTION": "冷卻 !SV! : NL 造成 300 點傷害 。 NL 每當你丟棄或消耗牌時 ， 減少 1 層 預熱 層數 。",
-		"NAME": "妮娃·莱妲"
+		"DESCRIPTION": "Cooldown !SV! : NL Deal 300 damage. || Whenever you Exhaust or discard a card, reduce this card's Cooldown by 1.",
+		"NAME": "Niva Lada"
 	},
 	"animator:OrbCore_Chaos":
 	{
-		"DESCRIPTION": "生成 !SV! 個 隨機 充能球 。 NL 每回合第二次同調時 ， 發現 1 張牌.",
-		"NAME": "Chaos 核心"
+		"DESCRIPTION": "Channel !SV! Random Orb. || On your second NL Synergy each turn, NL Discover 1 card.",
+		"NAME": "Chaos Core"
 	},
 	"animator:OrbCore_Dark":
 	{
-		"DESCRIPTION": "生成 !SV! 黑暗 充能球 。 NL 每回合第二次同調時 ， 抽 !M! 張牌 ， 然後丟棄 1 張牌 。",
-		"NAME": "黑暗 核心"
+		"DESCRIPTION": "Channel !SV! Dark. || On your second NL Synergy each turn, NL draw !M! cards, then NL discard 1 card.",
+		"NAME": "Dark Core"
 	},
 	"animator:OrbCore_Fire":
 	{
-		"DESCRIPTION": "產生 !SV! 火素 充能球 。 NL 每回合第二次同調時 ， 對所有敵人造成 !M! 點 燃燒 。",
-		"NAME": "火素 核心"
+		"DESCRIPTION": "Channel !SV! Fire. || On your second NL Synergy each turn, NL apply !M! Burning to NL ALL enemies.",
+		"NAME": "Fire Core"
 	},
 	"animator:OrbCore_Frost":
 	{
-		"DESCRIPTION": "產生 !SV! 冰霜 充能球 。 NL 每回合第二次同調時 ， 獲得 !M! 層 多層護甲 。",
-		"NAME": "冰霜 核心"
+		"DESCRIPTION": "Channel !SV! Frost. || On your second NL Synergy each turn, NL gain !M! Plated_Armor.",
+		"NAME": "Frost Core"
 	},
 	"animator:OrbCore_Lightning":
 	{
-		"DESCRIPTION": "產生 !SV! 閃電充 充能球 。 NL 每回合第二次同調時 ， 對所有敵人造成 !M! 點 傷害 。",
-		"NAME": "閃電充 核心"
+		"DESCRIPTION": "Channel !SV! Lightning. || On your second NL Synergy each turn, NL deal !M! damage NL to ALL enemies.",
+		"NAME": "Lightning Core"
 	},
 	"animator:OrbCore_Plasma":
 	{
-		"DESCRIPTION": "產生 !SV! 個 等離子 充能球 。 NL 每回合第二次同調時 ， 獲得 !M! 點 臨時生命",
-		"NAME": "等離子 核心"
+		"DESCRIPTION": "Channel !SV! Plasma. || On your second Synergy each turn, gain !M! Temp._HP.",
+		"NAME": "Plasma Core"
 	},
 	"animator:Overheat":
 	{
-		"DESCRIPTION": "抽 2 張牌 。 受到 !M! 點 傷害 。 所有同名卡均獲得 1 點 額外傷害 。",
+		"DESCRIPTION": "Draw 2 cards. NL Take !M! damage. NL ALL copies of this NL card gain 1 damage NL this combat.",
 		"NAME": "Overheat"
 	},
 	"animator:PandorasActor":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 變形者 。 NL Startup : 打這張牌 。",
-		"NAME": "潘多拉·亞克特"
+		"DESCRIPTION": "Shapeshifter. NL Gain !B! Block. || At the start NL of combat, play NL this card.",
+		"NAME": "Pandora's Actor"
 	},
 	"animator:PinaCoLada":
 	{
-		"DESCRIPTION": "你每輪打出的第一張無耗能張牌打出兩次 。",
-		"NAME": "平娜·戈·蘭達",
-		"UPGRADE_DESCRIPTION": "獲得 !B! 點 格擋 。 你每輪打出的第一張無耗能張牌打出兩次 。"
+		"DESCRIPTION": "The first #y0-Cost card you play each turn is played twice.",
+		"NAME": "Pina Co Lada",
+		"UPGRADE_DESCRIPTION": "Gain !B! Block. NL The first #y0-Cost card you play each turn is played twice."
 	},
 	"animator:Pride":
 	{
-		"DESCRIPTION": "變形者 。 [#EFC851]普萊德[] 。 NL  [#EFC851]生成[] !M! 顆黑暗充能球 。 NL 同調 : 賦予 !SV! 層 纏繞 。 ",
-		"EXTENDED_DESCRIPTION": ["普萊德", "直到你的下個回合 ， 當你受到未格擋的傷害時 ， 你最右邊的黑暗充能球失去該數值的傷害 。"],
-		"NAME": "普萊德"
+		"DESCRIPTION": "Shapeshifter. NL Apply !SV! Constricted. NL #yChannel !M! #yDark. NL Exhaust. || Until your next turn, your rightmost Dark Orb will absorb all unblocked damage you would take.",
+		"NAME": "Pride"
 	},
 	"animator:Priestess":
 	{
-		"DESCRIPTION": "獲得 !B! 點 臨時生命 。 受到格擋增幅影響 。",
-		"EXTENDED_DESCRIPTION": ["* 備註", "受到格擋增幅影響 。"],
-		"NAME": "女神官"
+		"DESCRIPTION": "Apply !SV! Weak. NL Gain !M! Temp._HP. || On Synergy NL Exhaust a random NL Status or Curse.",
+		"NAME": "'Priestess'"
 	},
 	"animator:QuestionMark":
 	{
-		"DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張隨機牌的複制 ， 並 帶有 變形者 。",
-		"NAME": "問號",
-		"UPGRADE_DESCRIPTION": "[#EFC851]被抽到時[] : 變成一張昇級過的隨機牌的複制 ， 並 帶有 變形者 。"
+		"DESCRIPTION": "When drawn, turns into a copy of a random card and gains Shapeshifter.",
+		"NAME": "Question Mark",
+		"UPGRADE_DESCRIPTION": "When drawn, turns into an Upgraded copy of a random card and gains Shapeshifter."
 	},
 	"animator:Raven":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 給予 !M! 層 虛弱 。 將抽牌堆中傷害最低 的 [#EFC851]攻擊[] 牌 加入手牌 。",
-		"NAME": "雷文"
+		"DESCRIPTION": "Deal !D! damage. NL Draw your lowest NL damage #yAttack[]. || If the enemy NL is attacking, apply NL 1 Weak, otherwise NL apply 1 Vulnerable.",
+		"NAME": "Raven"
 	},
 	"animator:Rena":
 	{
-		"DESCRIPTION": "獲得 1 層 殘影 ，獲得 !B! 點 格擋 。 撤回 與 同調 ： 下一輪，獲得 !B! 點 格擋 。",
-		"NAME": "蕾娜‧艾蘭黛"
+		"DESCRIPTION": "Gain !B! Block. NL Obtain 1 NL Throwing-Knife. || Semi-Limited. NL On Synergy or NL when Discarded, NL gain !SV! Blur.",
+		"NAME": "Rena"
 	},
 	"animator:Respite":
 	{
-		"DESCRIPTION": "Retain. NL Gain !M! Temp._HP. NL Delay certain doom by 1 turn. Purge.",
+		"DESCRIPTION": "Retain. NL Gain !M! Temp._HP. NL Delay certain doom NL by 1 turn. Purge.",
 		"NAME": "Respite"
 	},
 	"animator:Rimuru":
 	{
-		"DESCRIPTION": "當你打出一張牌時，變成打出的那張牌 。",
-		"NAME": "利姆魯",
-		"UPGRADE_DESCRIPTION": "保留 。 當你打出一張牌時 ， 變成打出的那張牌。"
+		"DESCRIPTION": "Whenever you play a card, turn this card into a copy of it.",
+		"NAME": "Rimuru",
+		"UPGRADE_DESCRIPTION": "Retain. Whenever you play a card, turn this card into a copy of it."
 	},
 	"animator:RinTohsaka":
 	{
-		"DESCRIPTION": "生成 1 個 隨機 充能球 。 獲得 !B! 點 格擋 。 同調 : 獲得 !M! 點 魔法護甲 。",
-		"NAME": "遠阪凜"
+		"DESCRIPTION": "Spellcaster 6. NL Channel !M! random NL Orb(s) you do not NL already have. Gain NL !B! Block. Exhaust. || Semi-Limited. NL When drawn, Gain NL 1 Temporary Artifact.",
+		"NAME": "Rin Tohsaka"
 	},
 	"animator:RoryMercury":
 	{
-		"DESCRIPTION": "隨機對敵人造成 !D! 點 傷害 2次 。 [#EFC851]被抽到時[] ； 獲得 !M! 點 臨時 力量 。",
-		"NAME": "蘿莉·麥丘利"
+		"DESCRIPTION": "Deal !D! damage NL to a random NL enemy twice. || When Drawn, NL gain 1 Force.",
+		"NAME": "Rory Mercury"
 	},
 	"animator:Rose":
 	{
-		"DESCRIPTION": "抽 !M! 張牌. NL 重新裝填 : 造成 !D! 點 穿刺 傷害 。若目標死亡， 對所有敵人造成 !SV! 點傷害 。",
+		"DESCRIPTION": "Draw !M! cards. NL Reload: Deal !D! NL Piercing damage. || If this card NL kills an enemy, NL deal !SV! damage NL to ALL enemies.",
 		"NAME": "Rose"
 	},
 	"animator:RoyMustang":
 	{
-		"DESCRIPTION": "對所有敵人造成 !D! 點傷害 。 每個敵人使你 [#EFC851]生成[] 1 個 火焰 充能球 。 NL 同調 : 獲得 !M! 層 火焰護盾 。",
-		"NAME": "羅伊·馬斯坦古"
+		"DESCRIPTION": "Deal !D! damage NL to ALL enemies. NL Channel 1 Fire NL for each enemy. || On Synergy, gain NL 4 Flame_Barrier.",
+		"NAME": "Roy Mustang"
 	},
 	"animator:Saber":
 	{
-		"DESCRIPTION": "忠誠 。 造成 !D! 點傷害 ， 當這張牌觸發 !M! 次 同調 效果後 ， 抹除並獲得 [#EFC851]誓約勝利之劍[] 。",
-		"NAME": "Saber"
+		"DESCRIPTION": "Loyal. NL Deal !D! damage. NL Cooldown !SV! : Purge, NL then add #yExcalibur[] NL to your hand. || On Synergy, NL reduce this card's NL Cooldown by an NL additional 2.",
+		"NAME": "Saber",
+		"UPGRADE_DESCRIPTION": "Innate. Loyal. NL Deal !D! damage. NL Cooldown !SV! : Purge, NL then add #yExcalibur[] NL to your hand. || On Synergy, NL reduce this card's NL Cooldown by an NL additional 2."
 	},
 	"animator:Saitama":
 	{
-		"DESCRIPTION": "每當玩這張牌時 ， 將其成本增加 1 並改變形式 。",
-		"EXTENDED_DESCRIPTION": ["抽 !M! 張牌 。 NL 獲得 !SV! 層 臨時 敏捷 。", "阻止下一次你受到的生命值損傷。", "獲得 !B! 點 格擋 。獲得 !M! 點 力量 。", "造成 !D! 點 傷害 !M! 次 。", "從敵人那裡刪除 無實體 。 NL 造成 !D! 點 穿刺 傷害 。 給予 眩暈 。"],
-		"NAME": "埼玉",
-		"UPGRADE_DESCRIPTION": "固有 。 每當玩這張牌時 ， 將其成本增加 1 並改變形式 。"
+		"DESCRIPTION": " || Whenever this card is played, increase its cost and change its effect for this combat.",
+		"EXTENDED_DESCRIPTION": ["Draw !M! cards. NL Gain !SV! Agility.", "Prevent the next NL time you would NL lose HP.", "Gain !M! Force. NL Gain !B! Block.", "Deal !D! damage NL !M! times.", "Remove Intangible. NL Deal !D! damage. NL Stun the enemy."],
+		"NAME": "Saitama",
+		"UPGRADE_DESCRIPTION": "Innate. || Whenever this card is played, increase its cost and change its effect for this combat."
 	},
 	"animator:Scar":
 	{
-		"DESCRIPTION": "造成 !D! 點 穿刺 傷害 。 When an Orb is Evoked, draw this card and reduce its cost by 1 this turn.",
-		"NAME": "斯卡"
+		"DESCRIPTION": "Deal !D! Piercing damage. When an Orb is Evoked, draw this card and reduce its cost by 1 this turn. || Limited. If this kills NL an enemy before NL your third turn, NL permanently Upgrade NL a random card.",
+		"NAME": "Scar"
 	},
 	"animator:Sebas":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 獲得相當於手牌總能耗數量的額外 臨時生命 。 消耗 。",
+		"DESCRIPTION": "For each enemy who NL intends to attack, NL gain !B! Block and !M! NL temporary Thorns. NL Exhaust. || When Discarded, NL gain !SV! Temp._HP.",
 		"NAME": "Sebas"
 	},
 	"animator:SeriousSaitama":
 	{
-		"DESCRIPTION": "眩暈 所有敵人 。 獲得 X 點 力量 。 抹除 。",
-		"NAME": "認真的埼玉",
-		"UPGRADE_DESCRIPTION": "眩暈 所有敵人 。 獲得 X+1 點 力量 。 抹除 。"
+		"DESCRIPTION": "Stun ALL enemies. NL Gain X Strength. NL Purge.",
+		"NAME": "Serious Saitama",
+		"UPGRADE_DESCRIPTION": "Stun ALL enemies. NL Gain X+1 Strength. NL Purge."
 	},
 	"animator:Shalltear":
 	{
-		"DESCRIPTION": "[#EFC851]嗜血[] 。 對所有敵人造成 !D! 點傷害 。 NL 同調 : 所有攻擊目標失去1點 力量，獲得等量的 力量 。",
-		"EXTENDED_DESCRIPTION": ["嗜血", "如果這張牌消滅了一個非爪牙的敵人 ， 恢復 3 點 生命 並 獲得 [E]"],
-		"NAME": "夏提雅",
-		"UPGRADE_DESCRIPTION": "[#EFC851]嗜血[] 。 對所有敵人造成 !D! 點傷害 。 NL 所有攻擊目標失去1點 力量， 獲得等量的 力量 。"
+		"DESCRIPTION": " Gain !M! NL Temporary_HP. NL ALL enemies NL lose !D! HP. || On Synergy, NL steal 1 Strength NL from each enemy.",
+		"NAME": "Shalltear"
 	},
 	"animator:Shichika":
 	{
-		"DESCRIPTION": "獲得 !SV! 點 荊棘 和 !M! 點 力量 。 增加 [#EFC851]虛刀流[] 到你的手牌 。 消耗 ",
-		"EXTENDED_DESCRIPTION": ["虛刀流", "特殊的1能耗多次 攻擊，消耗."],
-		"NAME": "鑢七花",
-		"UPGRADE_DESCRIPTION": "獲得 !SV! 點 荊棘 和 !M! 點 力量 。 增加 [#EFC851]虛刀流+[] 到你的手牌 。 消耗 "
+		"DESCRIPTION": "Martial_Artist 3. NL Gain !M! Force. NL Add #yKyotouryuu[] NL to your hand. NL Exhaust. || On Synergy, NL gain 1 Agility NL and 2 Thorns.",
+		"NAME": "Shichika"
 	},
 	"animator:ShichikaKyotouryuu":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 !M! 次 。 如果你有至少3點 敏捷 ， 抽 1 張牌 並 獲得 [E] 。 消耗 。",
-		"NAME": "虛刀流"
+		"DESCRIPTION": "Martial_Artist. NL Deal !D! damage NL !M! times. Exhaust.",
+		"NAME": "Kyotouryuu"
 	},
 	"animator:Shigure":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害。 遺產 和 同調 : 獲得 !M! 點 支援 。",
-		"NAME": "時雨"
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Poison. || On Synergy or when NL Exhausted, gain !SV! NL Support_Damage.",
+		"NAME": "Shigure"
 	},
 	"animator:ShikizakiKiki":
 	{
-		"DESCRIPTION": "在本場戰鬥中 升級 你的所有牌 。 力量 影響所有卡 2 次 。",
-		"NAME": "四季崎·記纪",
-		"UPGRADE_DESCRIPTION": "固有 。 在本場戰鬥中 升級 你的所有牌 。 力量 影響所有卡 2 次 。"
+		"DESCRIPTION": "Upgrade ALL cards NL for the rest of NL this combat. || ALL cards NL are affected NL by Strength NL !M! times.",
+		"NAME": "Shikizaki Kiki",
+		"UPGRADE_DESCRIPTION": "Innate. NL Upgrade ALL cards NL for the rest of NL this combat. || ALL cards NL are affected NL by Strength NL !M! times."
 	},
 	"animator:Shimakaze":
 	{
-		"DESCRIPTION": "抽 !M! 張牌 。 NL 造成 !D! 點 傷害 。 NL 獲得 !B! 點 格擋 。 NL 將一張 暈眩 放入你的抽牌堆中 。",
-		"NAME": "島風"
+		"DESCRIPTION": "Deal !D! damage. NL Gain !B! Block. NL Draw !M! cards. NL Add 1 Dazed to NL your draw pile.",
+		"NAME": "Shimakaze"
 	},
 	"animator:Shinoa":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 並 給予所有敵人 !M! 層 易傷 。 NL 同調 : 額外給予 !M! 層 虛弱 。",
-		"NAME": "柊筱婭"
+		"DESCRIPTION": "Gain !B! Block. NL Apply !M! Vulnerable NL to ALL enemies. || On Synergy NL or when Exhausted, NL apply !M! Weak NL to ALL enemies.",
+		"NAME": "Shinoa"
 	},
 	"animator:Shiro":
 	{
-		"DESCRIPTION": "這回合發動的 同調 減少此牌 1 點 耗能 。 每回合開始時獲得 [E] 。",
-		"NAME": "白"
+		"DESCRIPTION": "Costs 1 less for each NL time you Synergized NL this turn. At the start of each turn, gain [E] || Add #ySora[] from NL your draw pile NL to your hand.",
+		"NAME": "Shiro"
 	},
 	"animator:Shizu":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 獲得 火紅的武器 。 NL 如果這會殺死敵人 ， 則為每層 燃燒 治療 1 點 。",
-		"NAME": "靜"
+		"DESCRIPTION": "Deal !D! Damage. NL Whenever an #yAttack[] NL deals unblocked NL damage this combat, NL apply 1 Burning. || If this card kills NL a non-minion NL enemy, heal for its NL Burning amount.",
+		"NAME": "Shizu"
 	},
 	"animator:Shuna":
 	{
-		"DESCRIPTION": "抽 !M! 張牌 。 獲得 !B! 點 格擋 。 [#EFC851]被抽到時[] : 獲得 !B! 點 格擋 。",
-		"NAME": "朱菜"
+		"DESCRIPTION": "Gain !M! NL Temporary_HP. NL Draw 1 card. || On Synergy NL or when Drawn, NL gain !B! Block.",
+		"NAME": "Shuna"
 	},
 	"animator:SilverFang":
 	{
-		"DESCRIPTION": "拳師 。 NL 造成 !D! 點 傷害 。 NL 獲得 !B! 層 格擋 。 NL 下一輪, 獲得 !M! 層 臨時 敏捷 。",
-		"NAME": "銀色獠牙"
+		"DESCRIPTION": "Martial_Artist. NL Deal !D! Damage. NL Gain !B! Block. || On Synergy, NL gain 1 Agility.",
+		"NAME": "Silver Fang"
 	},
 	"animator:SirTouchMe":
 	{
-		"DESCRIPTION": "獲得 !M! 勢不可當 。 NL 造成 !D! 點傷害 。 NL 獲得 !SV! 層 多層護甲 。 NL 獲得 !B! 點 格擋 。",
-		"NAME": "塔其米"
+		"DESCRIPTION": "Deal !D! damage. NL Gain !M! Juggernaut. NL Gain !B! Block. || At the start of NL each combat, gain NL !SV! Plated_Armor.",
+		"NAME": "Sir Touch Me"
 	},
 	"animator:Sloth":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 給予 !M! 層 易傷 。 NL 獲得 !B! 格擋 。 [#EFC851]懶惰[] 。",
-		"EXTENDED_DESCRIPTION": ["懶惰", "每回合開始時，將這張牌的格擋和傷害提高 #b2 點 對於你擁有的每個orb插槽。 每次使用後， 將這張牌的 #y格擋 與傷害減半。"],
-		"NAME": "斯洛斯"
+		"DESCRIPTION": "Deal !D! Damage. NL Cannot be played NL for !M! Turn(s). NL Exhaust. || When Exhausted, NL gain 2 Force.",
+		"EXTENDED_DESCRIPTION": ["Deal !D! Damage. NL Exhaust."],
+		"NAME": "Sloth"
 	},
 	"animator:Sonic":
 	{
-		"DESCRIPTION": "在接下來的 !M! 個回合開始時 ， 獲得 1 層 敏捷 並 增加 1 張 飛刃 到你的手牌 。",
-		"NAME": "音速索尼克"
+		"DESCRIPTION": "Martial_Artist 4. NL Obtain !M! NL Throwing-Knives. NL Gain !SV! Agility. || On Synergy, NL gain !B! Block NL and 1 Blur.",
+		"NAME": "Sonic"
 	},
 	"animator:Sora":
 	{
-		"DESCRIPTION": "選擇並觸發 !M! 次自定義效果 。 同調 : 選擇一個額外效果 。",
-		"NAME": "索拉"
+		"DESCRIPTION": "Choose 1 out of 3 NL random Effects NL !M! times. || Add #yShiro[] from NL your draw pile NL to your hand.",
+		"NAME": "Sora"
 	},
 	"animator:Souei":
 	{
-		"DESCRIPTION": "造成 !M! 點 中毒 。 NL 觸發所有敵人的 中毒 效果 ， 如果有敵人被消滅 ， 獲得 無實體 。",
-		"NAME": "蒼影"
+		"DESCRIPTION": "Martial_Artist 2. NL Apply !M! Poison. NL Trigger the Poison NL of ALL enemies. || If this card kills NL 1 or more enemies, NL gain 1 Intangible.",
+		"NAME": "Souei"
 	},
 	"animator:Spearman":
 	{
-		"DESCRIPTION": "造成 !D! 點 穿刺 傷害 。 處理與你的格擋相等的額外傷害 。 刪除所有 擋相 點 。",
-		"NAME": "斯皮爾曼",
-		"UPGRADE_DESCRIPTION": "造成 !D! 點 穿刺 傷害 。 處理與你的格擋相等的額外傷害 。 將您的 擋相 設置為 !B! 。"
+		"DESCRIPTION": "Deal !D! Piercing NL damage. Add 1 NL Wound to your NL hand. || Semi-Limited. NL If you have more NL Strength than the NL enemy, Motivate 1.",
+		"NAME": "'Spearman'"
 	},
 	"animator:Strike":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。",
-		"NAME": "打擊"
+		"DESCRIPTION": "Deal !D! damage.",
+		"NAME": "Strike",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage."
 	},
 	"animator:Strike_AccelWorld":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 撤回 : 造成 !M! 點 傷害 對一個隨機的敵人",
-		"NAME": "優越打擊"
+		"DESCRIPTION": "Deal !D! damage. || When Discarded, NL Deal !M! damage NL to a random enemy.",
+		"NAME": "Improved Strike"
 	},
 	"animator:Strike_Elsword":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 獲得 !M! 點 臨時 力量 。",
-		"NAME": "優越打擊"
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Burning.",
+		"NAME": "Improved Strike"
 	},
 	"animator:Strike_Fate":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 如果你手中的卡少於 3 張 ， 獲得 [E] 。",
-		"NAME": "優越打擊"
+		"DESCRIPTION": "Deal !D! damage. NL If you have less NL than 3 cards in NL hand, gain [E].",
+		"NAME": "Improved Strike"
 	},
 	"animator:Strike_FullmetalAlchemist":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 冷卻 !SV! : NL [#EFC851]產生[] 1 個 閃電 充能球 。",
-		"NAME": "優越打擊"
+		"DESCRIPTION": "Deal !D! damage. NL Cooldown !SV!: NL Channel 1 Lightning.",
+		"NAME": "Improved Strike"
 	},
 	"animator:Strike_GATE":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 下一輪 ， 抽一張牌 。",
-		"NAME": "優越打擊"
+		"DESCRIPTION": "Deal !D! damage. NL Next turn, NL draw 1 card.",
+		"NAME": "Improved Strike"
 	},
 	"animator:Strike_GoblinSlayer":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 消耗 。",
-		"NAME": "優越打擊"
+		"DESCRIPTION": "Deal !D! damage. NL Exhaust.",
+		"NAME": "Improved Strike"
 	},
 	"animator:Strike_HitsugiNoChaika":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 造成 !M! 點 中毒 。",
-		"NAME": "優越打擊"
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Poison.",
+		"NAME": "Improved Strike"
 	},
 	"animator:Strike_Kancolle":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 增強 !SV! : 獲得 !M! 金幣 。",
-		"NAME": "優越打擊"
+		"DESCRIPTION": "Deal !D! damage. NL Limited: NL Gain !M! #yGold[].",
+		"NAME": "Improved Strike"
 	},
 	"animator:Strike_Katanagatari":
 	{
-		"DESCRIPTION": "造成 !D! 點 穿刺 傷害 。",
-		"NAME": "優越打擊"
+		"DESCRIPTION": "Deal !D! Piercing damage.",
+		"NAME": "Improved Strike"
 	},
 	"animator:Strike_Konosuba":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 獲得 !B! 點 格擋 。",
-		"NAME": "優越打擊"
+		"DESCRIPTION": "Deal !D! damage. NL Gain !B! Block.",
+		"NAME": "Improved Strike"
 	},
 	"animator:Strike_NoGameNoLife":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 保留 你最右的可玩牌 。",
-		"NAME": "優越打擊"
+		"DESCRIPTION": "Deal !D! damage. NL Retain your rightmost NL playable card.",
+		"NAME": "Improved Strike"
 	},
 	"animator:Strike_OnePunchMan":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害。 NL 獲得 !M! 點臨時 敏捷 。",
-		"NAME": "優越打擊"
+		"DESCRIPTION": "Deal !D! damage. NL Draw a #yStrike[].",
+		"NAME": "Improved Strike"
 	},
 	"animator:Strike_Overlord":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 這場戰鬥使這張卡的傷害提高 !M! 點 。",
-		"NAME": "優越打擊"
+		"DESCRIPTION": "Deal !D! damage. NL Increase this card's NL damage by !M! this NL combat.",
+		"NAME": "Improved Strike"
 	},
 	"animator:Strike_OwariNoSeraph":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害 。 NL 遺產 : 給予所有敵人 !M! 層 易傷 。",
-		"NAME": "優越打擊"
+		"DESCRIPTION": "Deal !D! damage. || When Exhausted, apply !M! Vulnerable NL to ALL enemies.",
+		"NAME": "Improved Strike"
 	},
 	"animator:Strike_TenSura":
 	{
-		"DESCRIPTION": "造成 !D! 點伤害 。 NL 獲得 !M! 點 臨時生命 。",
-		"NAME": "優越打擊"
+		"DESCRIPTION": "Deal !D! damage. NL Gain !M! Temp._HP.",
+		"NAME": "Improved Strike"
 	},
 	"animator:SwordMaiden":
 	{
-		"DESCRIPTION": "獲得 !M! 層 [#EFC851]再生[] 。 移除你身上的所有負面效果 。 NL 消耗 。",
-		"NAME": "劍之聖女"
+		"DESCRIPTION": "Gain !M! Temp._HP. NL Remove your NL rightmost Debuff. NL Exhaust. || Limited. NL At the start of NL combat, randomly NL gain 2 Intellect, NL Agility, or Force.",
+		"NAME": "'Sword Maiden'",
+		"UPGRADE_DESCRIPTION": "Gain !M! Temp._HP. NL Remove your NL rightmost Debuff. || Limited. NL At the start of NL combat, randomly NL gain 2 Intellect, NL Agility, or Force."
 	},
 	"animator:TakanashiRikka":
 	{
-		"DESCRIPTION": "Create a 0-Cost copy of every [#EFC851]Attack in your hand, they deal !M! damage and Purge on use. Exhaust.",
+		"DESCRIPTION": "Create a 0-Cost copy of every #yAttack in your hand, they deal !M! damage and Purge on use. Exhaust.",
 		"NAME": "Rikka Takanashi"
 	},
 	"animator:TanyaDegurechaff":
 	{
-		"DESCRIPTION": "造成 !D! 傷害。 NL 丟棄所有 [#EFC851]技能[] 並且為每一個技能獲得 !M! 格擋。 Upon pickup, add [#EFC851]95號兵器[] to your deck.",
-		"NAME": "譚雅·提古雷查夫"
+		"DESCRIPTION": "Gain !B! Block. NL Discard all #ySkills[]. NL Deal !D! damage NL for each. || Limited. NL At the start of NL combat, add #yType[] #y95[] NL to your draw pile.",
+		"NAME": "Tanya Degurechaff"
 	},
 	"animator:TanyaDegurechaff_Type95":
 	{
-		"DESCRIPTION": "產生 1 等離子 充能球 。 NL Reset this card's cost. [#EFC851]Drawn and Recall: Decrease this card's cost by 1.",
-		"NAME": "95號兵器"
+		"DESCRIPTION": "Channel 1 Plasma. || When Drawn or NL Discarded, decrease NL this card's cost NL by 1 until played.",
+		"NAME": "Type 95"
 	},
 	"animator:Tatsumaki":
 	{
-		"DESCRIPTION": "產生 1 個 空氣 充能球 。 NL 獲得 !M! 點臨時 集中 。 NL 同調 ： 下一輪 ， 獲得 [E] 。",
-		"NAME": "龍捲"
+		"DESCRIPTION": "Channel 1 Air. NL Gain !M! Intellect. || Limited. If you have NL 3 or more unique NL Orbs, draw 2 cards NL and gain [E] [E].",
+		"NAME": "Tatsumaki"
 	},
 	"animator:Tet":
 	{
-		"DESCRIPTION": "在你的抽牌堆中選擇 2 張牌 。 將 2 張牌從丟棄堆中移到您的抽籤堆中 。",
-		"NAME": "特圖",
-		"UPGRADE_DESCRIPTION": "保留 。 在你的抽牌堆中選擇 2 張牌 。 將 2 張牌從丟棄堆中移到您的抽籤堆中 。"
+		"DESCRIPTION": "Discard up to 2 cards from your draw pile. Move 2 cards from your discard pile to your draw pile. || On Synergy, NL Motivate 1.",
+		"NAME": "Tet",
+		"UPGRADE_DESCRIPTION": "Retain. Discard up to 2 cards from your draw pile. Move 2 cards from your discard pile to your draw pile. || On Synergy, NL Motivate 1."
 	},
 	"animator:TheHaunt":
 	{
-		"DESCRIPTION": "獲得 !M! [#EFC851]金幣。 NL 鬼更加作祟。 NL 虛無 。 消耗 。",
-		"NAME": "鬼出沒"
+		"DESCRIPTION": "Gain !M! #yGold. NL Become more haunted. NL Ethereal. Exhaust.",
+		"NAME": "The Haunt"
 	},
 	"animator:ThrowingKnife_0":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! 層 虛弱 。 NL 抹除 。 撤回 : 打這張牌。",
-		"NAME": "飛刃"
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Weak. NL Purge. || When Discarded, NL play this card on NL a random enemy.",
+		"NAME": "Throwing-Knife"
 	},
 	"animator:ThrowingKnife_1":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! 層 易傷 。 NL 抹除 。 撤回 : 打這張牌。",
-		"NAME": "飛刃"
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable. NL Purge. || When Discarded, NL play this card on NL a random enemy.",
+		"NAME": "Throwing-Knife"
 	},
 	"animator:ThrowingKnife_2":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 NL 造成 !M! 層 中毒 。 NL 抹除 。 撤回 : 打這張牌。",
-		"NAME": "飛刃"
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Poison. NL Purge. || When Discarded, NL play this card on NL a random enemy.",
+		"NAME": "Throwing-Knife"
 	},
 	"animator:Togame":
 	{
-		"DESCRIPTION": "抽 !M! 張牌 。 NL 您可以選擇並 消耗 一張牌來再抽 1 張卡 。",
-		"NAME": "咎兒"
+		"DESCRIPTION": "Draw !M! cards. NL You may Exhaust NL a card to draw 1 NL additional card. || Semi-Limited. NL If you Exhausted NL a Status or Curse, NL Motivate 1.",
+		"NAME": "Togame"
 	},
 	"animator:Truth":
 	{
-		"DESCRIPTION": "獲得 1 點 集中 。 NL 獲得 2 點 能量 。 NL 抽 3 張牌 。 NL 獲得 4 點 力量 。 NL [#EFC851]真相[] 。",
-		"EXTENDED_DESCRIPTION": ["真相", "如果您擁有至少 3 種不同充能球 ， 失去所有充能球 。否則選擇牌組中的一張牌而且永久的將那張牌用 #y傷口 代替 。"],
-		"NAME": "真相"
+		"DESCRIPTION": "Gain 1 Focus. NL Gain 2 Energy. NL Draw 3 cards. NL Gain 4 Strength. || If you have at least 3 NL unique Orbs, remove all NL your orbs, otherwise NL choose and permanently NL replace a card in your NL deck with a Wound.",
+		"EXTENDED_DESCRIPTION": ["Truth", "If you have at least 3 unique orbs, remove all your orbs, otherwise choose and permanently replace a card in your deck with a #yWound."],
+		"NAME": "Truth"
 	},
 	"animator:TukaLunaMarceau":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。你的手牌上限在此輪減 !SV!。",
-		"NAME": "杜嘉"
+		"DESCRIPTION": "Gain !B! Block. NL If you had no Block, NL draw 1 card. || When Discarded, NL gain !M! Block.",
+		"NAME": "Tuka"
 	},
 	"animator:Tyuule":
 	{
-		"DESCRIPTION": "給予所有敵人 !M! 層 中毒 和 1 層 易傷 。",
-		"NAME": "蒂尤蕾",
-		"UPGRADE_DESCRIPTION": "給予所有敵人 !M! 層 中毒 和 1 層 易傷 。 增強 !SV! : 獲得 [E]"
+		"DESCRIPTION": "Apply !M! Poison NL and 1 Vulnerable NL to ALL enemies. || When Exhausted, NL trigger the Poison NL of ALL enemies.",
+		"NAME": "Tyuule"
 	},
 	"animator:Urushihara":
 	{
-		"DESCRIPTION": "產生 1 個黑暗充能球 ， NL 對所有敵人造成 !D! 傷害 。 懶惰 。",
-		"NAME": "漆原半藏",
-		"UPGRADE_DESCRIPTION": "產生 1 個黑暗充能球 ， NL 對所有敵人造成 !D! 傷害 。 略微更勤勞了 。"
+		"DESCRIPTION": "Lazy. NL Channel 1 Dark. NL Deal !D! damage NL to ALL enemies.",
+		"NAME": "Urushihara",
+		"UPGRADE_DESCRIPTION": "Slightly less Lazy. NL Channel 1 Dark. NL Deal !D! damage NL to ALL enemies."
 	},
 	"animator:Vanir":
 	{
-		"DESCRIPTION": "變形者 。 [#EFC851]巴尼爾[] 。 造成 !D! 點傷害. 鼓舞 !SV! : 造成 !M! 點 傷害 。",
-		"EXTENDED_DESCRIPTION": ["巴尼爾", "如果這張卡被消耗了 ， 將手牌中的一張牌變為這張牌的複制 。"],
-		"NAME": "巴尼爾"
+		"DESCRIPTION": "Shapeshifter. NL Deal !D! Damage. NL Boost !SV! : Deal !M! additional damage. || When Exhausted, NL choose a card in your draw pile and turn it into a new copy of this card.",
+		"NAME": "Vanir"
 	},
 	"animator:Veldora":
 	{
-		"DESCRIPTION": "獲得 !SV! 點 集中 。 NL 激發 所有 充能球 !M! 次 。 [#EFC851]被抽到時[] : 生成 2 個 隨機 充能球 。",
-		"NAME": "暴風龍·维鲁德拉"
+		"DESCRIPTION": "Gain !SV! Intellect. NL Evoke ALL orbs NL !M! times. || When Drawn, NL Channel 2 random NL orbs.",
+		"NAME": "Veldora"
 	},
 	"animator:Vesta":
 	{
-		"DESCRIPTION": "研究1瓶 [#EFC851]靈藥[] ， NL !M! 輪後獲得此研究成果 。 消耗 。",
-		"EXTENDED_DESCRIPTION": ["靈藥", "0 能耗 #y技能 ， 擁有不同的特殊功效 。"],
-		"NAME": "該部"
+		"DESCRIPTION": "Research an #yElixir, NL it will be completed after !M! turns. NL Exhaust.",
+		"EXTENDED_DESCRIPTION": ["Elixir", "0-cost #ySkill with an effect of your choice."],
+		"NAME": "Vesta"
 	},
 	"animator:Vesta_Elixir":
 	{
 		"DESCRIPTION": "",
-		"EXTENDED_DESCRIPTION": ["完成時間減少 1 輪", "抽 {0} 張牌。", "獲得 {0} 層 集中 。", "獲得 {0} 層 力量 。", "獲得 {0} 層 敏捷 。", "獲得 {0} 充能球欄位 。", "獲得 {0} 暫時性生命 。", "獲得 {0} 層 金屬化 。", "獲得 {0} 能量 。", "消耗 {0} 張牌 :", "丟棄 {0} 張牌 :", "抹除."],
-		"NAME": "該部"
+		"EXTENDED_DESCRIPTION": ["Takes 1 less turn NL to complete.", "Draw {0} Cards.", "Gain {0} Intellect.", "Gain {0} Force.", "Gain {0} Agility.", "Gain {0} Orb slots.", "Gain {0} Temp._HP.", "Gain {0} Metallicize.", "Gain {0} Energy.", "Exhaust {0} Cards:", "Discard {0} Cards:", "Purge."],
+		"NAME": "Elixir"
 	},
 	"animator:Viivi":
 	{
-		"DESCRIPTION": "對隨機敵人造成 !D! 點 傷害 !M! 次 。 撤回 : 增加 1 張 飛刃 到手牌 。",
-		"NAME": "薇薇·荷羅派涅"
+		"DESCRIPTION": "Deal !D! damage NL to a random NL Enemy !M! times. || When Discarded, NL obtain 1 NL Throwing-Knife.",
+		"NAME": "Viivi"
 	},
 	"animator:Witch":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 給予所有敵人 !M! 層 燃燒 。 NL 遺產 : 獲得1瓶隨機藥水 。",
-		"NAME": "魔女"
+		"DESCRIPTION": "Spellcaster 2. NL Apply !M! Burning NL to ALL enemies. NL Gain !B! Block. || At the start of each NL Elite combat, obtain NL a random Potion.",
+		"NAME": "'Witch'"
 	},
 	"animator:Wiz":
 	{
-		"DESCRIPTION": "消耗 一張牌， 從已 消耗 的牌中選擇一張加入你的手牌 。 抹除 [#EFC851]*[] 。",
-		"EXTENDED_DESCRIPTION": ["* 注", "不能在被消耗牌中選另一張<維茲> 。"],
-		"NAME": "維茲",
-		"UPGRADE_DESCRIPTION": "消耗 一張牌， 從已 消耗 的牌中選擇一張加入你的手牌。 使用 !M! 次後 抹除 [#EFC851]*[] 。"
+		"DESCRIPTION": "Exhaust 1 card. NL Choose a card from NL your Exhaust pile NL and add a copy to NL your hand. Purge. || Limited. NL On Synergy, NL this card will NL not Purge.",
+		"NAME": "Wiz"
 	},
 	"animator:YaoHaDucy":
 	{
-		"DESCRIPTION": "對所有敵人造成 !D! 點傷害 。 該卡的所有同名牌均獲得 1 點 傷害 。",
-		"NAME": "姚·漢·蒂修"
-	},
-	"animator:YukoShionji":
-	{
-		"DESCRIPTION": "顯示您的抽牌堆的頂部卡片 。 每回合一次 ， 您可以抽出或丟棄它 [#EFC851]*[] 。",
-		"EXTENDED_DESCRIPTION": ["* 注意", "您可以左鍵單擊卡片進行抽出 ， 也可以右鍵單擊它以丟棄它 。"],
-		"NAME": "紫苑寺有子"
+		"DESCRIPTION": "Deal !D! damage. NL If the enemy is NL attacking, it loses NL !M! Strength this turn. || When Discarded, NL deal !SV! damage NL to ALL enemies.",
+		"NAME": "Yao Ha Ducy"
 	},
 	"animator:YunYun":
 	{
-		"DESCRIPTION": "對所有敵人造成 !D! 點 傷害 。 手牌中每有一張別的 [#EFC851]攻擊[] 牌， 增加一點消耗 。",
-		"NAME": "芸芸"
+		"DESCRIPTION": "Spellcaster. NL Deal !D! damage to ALL enemies. Costs 1 more for each other #yAttack in your hand. || When Exhausted, NL Channel 1 Lightning.",
+		"NAME": "YunYun"
 	},
 	"animator:Yusarin":
 	{
-		"DESCRIPTION": "激勵 !SV! 。 NL 抽 !M! 張牌。 NL 消耗 。",
-		"NAME": "西森柚咲"
+		"DESCRIPTION": "Motivate !SV!. NL Draw !M! card. NL Exhaust.",
+		"NAME": "Yusarin",
+		"UPGRADE_DESCRIPTION": "Motivate !SV!. NL Draw !M! cards. NL Exhaust."
 	},
 	"animator:Yuuichirou":
 	{
-		"DESCRIPTION": "造成 !D! 點 傷害 。 遺產 : 將一張 [#EFC851]阿修羅丸[] 和 伤口 放到你的棄牌堆 。",
-		"EXTENDED_DESCRIPTION": ["阿修羅丸", "特殊的 2 耗 #y攻擊 牌 。"],
-		"NAME": "百夜優一郎",
-		"UPGRADE_DESCRIPTION": "造成 !D! 點 傷害 。 遺產 : 將一張 [#EFC851]阿修羅丸[] 和 晕眩 放到你的棄牌堆 。"
+		"DESCRIPTION": "Deal !D! damage. NL Draw 1 card. || When Exhausted, NL add #yAsuramaru and NL 2 Wounds to your NL discard pile.",
+		"NAME": "Yuuichirou"
 	},
 	"animator:ZankiKiguchi":
 	{
-		"DESCRIPTION": "武術家 。 造成 !D! 點 傷害 。 NL 同調 : 將 !M! 點 格擋 轉換為 1 點 敏捷 。",
-		"NAME": "汽口慚愧"
+		"DESCRIPTION": "Martial_Artist. NL Deal !D! Damage. || Limited. NL When Exhausted, NL move this card to NL your hand and NL gain !M! Agility.",
+		"NAME": "Zanki Kiguchi"
 	},
 	"animator:Zero":
 	{
-		"DESCRIPTION": "從你的抽牌堆中打出一張隨機的 [#EFC851]技能牌[] 。 消耗 。",
-		"NAME": "零",
-		"UPGRADE_DESCRIPTION": "從你的抽牌堆中打出一張隨機的 [#EFC851]技能牌[] 。 "
+		"DESCRIPTION": "Spellcaster. NL Play a random #ySkill NL from your draw pile. NL Exhaust.",
+		"NAME": "Zero",
+		"UPGRADE_DESCRIPTION": "Spellcaster. NL Play a random #ySkill NL from your draw pile."
 	}
 }
