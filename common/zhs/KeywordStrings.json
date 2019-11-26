@@ -111,8 +111,8 @@
 	"Limited":
 	{
 		"DESCRIPTION": "一场战斗中， 此效果仅能触发一次。 包含所有同名牌。",
-		"NAMES": ["限定"],
-		"PROPER_NAME": "限定"
+		"NAMES": ["一击"],
+		"PROPER_NAME": "一击"
 	},
 	"Malleable":
 	{

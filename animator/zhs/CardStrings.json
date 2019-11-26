@@ -92,7 +92,7 @@
 	},
 	"animator:Berserker":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害。 NL 施加 !M! 层 易伤 。 NL 获得 !M! 点 爆发 。 || 如果这张牌杀死了敌人 NL 或者打破格挡 ， NL 获得 !SV!点 格挡 。",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 获得 !M! 点 爆发 。 || 如果敌人死亡 NL 或者失去格挡 ， NL 获得 !SV! 点 格挡 。",
 		"NAME": "Berserker"
 	},
 	"animator:Biyorigo":
@@ -796,8 +796,9 @@
 	},
 	"animator:Priestess":
 	{
-		"DESCRIPTION": "Apply !SV! Weak. NL Gain !M! Temp._HP. || On Synergy NL Exhaust a random NL Status or Curse.",
-		"NAME": "女神官"
+		"DESCRIPTION": "获得 !M! 点 紧急治疗 。 NL 施加 !SV! 层 虚弱 。 || 同调： NL 随机消耗 1 张 NL 状态牌或诅咒牌 。",
+		"NAME": "女神官",
+		"UPGRADE_DESCRIPTION": "获得 !M! 点 紧急治疗 。 NL 对所有敌人 NL 施加 !SV! 层 虚弱 。 || 同调： NL 随机消耗 1 张 NL 状态牌或诅咒牌 。"
 	},
 	"animator:QuestionMark":
 	{
@@ -955,13 +956,13 @@
 	},
 	"animator:Souei":
 	{
-		"DESCRIPTION": "Martial_Artist. NL Apply !M! Poison. NL Trigger the Poison NL of ALL enemies. || If this card kills NL 1 or more enemies, NL gain 1 Intangible.",
+		"DESCRIPTION": "武师 2 。 NL 施加 !M! 层 中毒 。 NL 触发所有敌人的 NL 中毒 效果 。|| 如果杀死了敌人，获得 1 层 无实体 。",
 		"NAME": "苍影"
 	},
 	"animator:Spearman":
 	{
 		"DESCRIPTION": "Deal !D! Piercing NL damage. Add 1 NL Wound to your NL hand. || Semi-Limited. NL If you have more NL Strength than the NL enemy, Motivate 1.",
-		"NAME": "斯皮尔曼"
+		"NAME": "长枪手"
 	},
 	"animator:Strike":
 	{
@@ -1072,9 +1073,9 @@
 	},
 	"animator:Tet":
 	{
-		"DESCRIPTION": "Discard up to 2 cards from your draw pile. Move 2 cards from your discard pile to your draw pile. || On Synergy, NL Motivate 1.",
+		"DESCRIPTION": "最多选择抽牌堆 NL 中的 2 张牌丢弃。 NL 将弃牌堆中的 2 张牌 NL 移入抽牌堆。 || 单发。 NL 同调： NL 获得 [E] 。",
 		"NAME": "特图",
-		"UPGRADE_DESCRIPTION": "Retain. Discard up to 2 cards from your draw pile. Move 2 cards from your discard pile to your draw pile. || On Synergy, NL Motivate 1."
+		"UPGRADE_DESCRIPTION": "保留。 NL 最多选择抽牌堆 NL 中的 2 张牌丢弃。 NL 将弃牌堆中的 2 张牌 NL 移入抽牌堆。 || 单发。 NL 同调： NL 获得 [E] 。"
 	},
 	"animator:TheHaunt":
 	{
