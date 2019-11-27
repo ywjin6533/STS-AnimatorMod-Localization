@@ -98,15 +98,15 @@
 	},
 	"Intellect":
 	{
-		"DESCRIPTION": "获得或失去 #y专注 时， 获得或失去等量的 #y集中 。 每回合开始时失去 #b1 点 #y专注 。",
-		"NAMES": ["专注"],
-		"PROPER_NAME": "专注"
+		"DESCRIPTION": "获得或失去 #y智慧 时， 获得或失去等量的 #y集中 。 每回合开始时失去 #b1 点 #y智慧 。",
+		"NAMES": ["智慧"],
+		"PROPER_NAME": "智慧"
 	},
 	"Juggernaut":
 	{
 		"DESCRIPTION": "每当获得 #y格挡 时， 对随机敌人造成伤害。",
-		"NAMES": ["势不可挡"],
-		"PROPER_NAME": "势不可挡"
+		"NAMES": ["战神"],
+		"PROPER_NAME": "战神"
 	},
 	"Limited":
 	{
