@@ -8,9 +8,9 @@
 	},
 	"Agility":
 	{
-		"DESCRIPTION": "获得或失去 #y灵动 时， 获得或失去等量的 #y敏捷 。 每回合开始时失去 #b1 点 #y灵动 。",
-		"NAMES": ["灵动"],
-		"PROPER_NAME": "灵动"
+		"DESCRIPTION": "获得或失去 #y机敏 时， 获得或失去等量的 #y敏捷 。 每回合开始时失去 #b1 点 #y机敏 。",
+		"NAMES": ["机敏"],
+		"PROPER_NAME": "机敏"
 	},
 	"Blur":
 	{
@@ -20,13 +20,13 @@
 	},
 	"Burning":
 	{
-		"DESCRIPTION": "没回合开始时受到伤害并受到每层 #b4% 的额外 #y攻击 伤害。 每回合减少一层。",
-		"NAMES": ["燃烧"],
-		"PROPER_NAME": "燃烧"
+		"DESCRIPTION": "每回合开始时受到伤害并受到每层 #b4% 的额外 #y攻击 伤害。 每回合减少1层。",
+		"NAMES": ["点燃"],
+		"PROPER_NAME": "点燃"
 	},
 	"Choked":
 	{
-		"DESCRIPTION": "回合内每打出一张牌， 目标敌人失去一点生命。",
+		"DESCRIPTION": "回合内每打出一张牌， 目标敌人失去1点生命。",
 		"NAMES": ["勒脖"],
 		"PROPER_NAME": "勒脖"
 	},
@@ -50,75 +50,75 @@
 	},
 	"Discover":
 	{
-		"DESCRIPTION": "随机牌三选一加入手牌。 本回合0消耗。",
+		"DESCRIPTION": "随机牌三选一加入手牌。 本回合0耗能。",
 		"NAMES": ["发现"],
 		"PROPER_NAME": "发现"
 	},
 	"Earth":
 	{
-		"DESCRIPTION": "充能球: #y生成 时获得临时 #y荆棘 。 3回合后自动 #y激发 并对所有敌人随机分配伤害。",
+		"DESCRIPTION": "充能球: #y生成 时获得临时 #y荆棘 。 3回合后自动 #y激发 并对所有敌人造成随机分配伤害。",
 		"NAMES": ["大地", "大地+"],
 		"PROPER_NAME": "大地"
 	},
 	"Enchanted Armor":
 	{
-		"DESCRIPTION": "百分比减少来自任何来源的伤害。 高层数的效果不佳。",
-		"NAMES": ["反应装甲", "反应装甲", "反应装甲", "反应装甲"],
-		"PROPER_NAME": "反应装甲"
+		"DESCRIPTION": "百分比减少所有伤害。 层数越高收益越低。",
+		"NAMES": ["魔法盔甲"],
+		"PROPER_NAME": "魔法盔甲"
 	},
 	"Envenom":
 	{
-		"DESCRIPTION": "攻击破防时施加每层 #b1 点 #y中毒 。",
+		"DESCRIPTION": "每次攻击造成未被格挡的伤害时，给予 #b1 层 #y中毒 。",
 		"NAMES": ["涂毒"],
 		"PROPER_NAME": "涂毒"
 	},
 	"Fire":
 	{
-		"DESCRIPTION": "充能球: 对生命值最高的敌人施加 #y燃烧 和伤害。",
-		"NAMES": ["火焰", "火焰+"],
-		"PROPER_NAME": "火焰"
+		"DESCRIPTION": "充能球: 对生命值最高的敌人给予 #y点燃 并造成伤害。",
+		"NAMES": ["烈火", "烈火+"],
+		"PROPER_NAME": "烈火"
 	},
 	"Flame Barrier":
 	{
-		"DESCRIPTION": "每当你这回合被攻击时， 造成 #b1 点反伤。",
+		"DESCRIPTION": "每当本回合被攻击时，造成 #b1 点反伤。",
 		"NAMES": ["火焰屏障", "火焰屏障"],
 		"PROPER_NAME": "火焰屏障"
 	},
 	"Flight":
 	{
-		"DESCRIPTION": "减少50%受到的 #y攻击 伤害。 回合内受到伤害时失去1层层数， 0层时失去此能力。",
+		"DESCRIPTION": "减少50%受到的 #y攻击 伤害。 回合内每次受到伤害时失去1层。0层时结束效果。",
 		"NAMES": ["飞行"],
 		"PROPER_NAME": "飞行"
 	},
 	"Force":
 	{
-		"DESCRIPTION": "获得或失去 #y爆发 时， 获得或失去等量的 #y力量 。 每回合开始时失去 #b1 点 #y爆发 。",
-		"NAMES": ["爆发"],
-		"PROPER_NAME": "爆发"
+		"DESCRIPTION": "获得或失去 #y武力 时， 获得或失去等量的 #y力量 。 每回合开始时失去 #b1 点 #y武力 。",
+		"NAMES": ["武力"],
+		"PROPER_NAME": "武力"
 	},
 	"Intellect":
 	{
-		"DESCRIPTION": "获得或失去 #y智慧 时， 获得或失去等量的 #y集中 。 每回合开始时失去 #b1 点 #y智慧 。",
-		"NAMES": ["智慧"],
-		"PROPER_NAME": "智慧"
+		"DESCRIPTION": "获得或失去 #y智力 时， 获得或失去等量的 #y集中 。 每回合开始时失去 #b1 点 #y智力 。",
+		"NAMES": ["智力"],
+		"PROPER_NAME": "智力"
 	},
 	"Juggernaut":
 	{
 		"DESCRIPTION": "每当获得 #y格挡 时， 对随机敌人造成伤害。",
-		"NAMES": ["战神"],
-		"PROPER_NAME": "战神"
+		"NAMES": ["势不可挡"],
+		"PROPER_NAME": "势不可挡"
 	},
 	"Limited":
 	{
-		"DESCRIPTION": "一场战斗中， 此效果仅能触发一次。 包含所有同名牌。",
-		"NAMES": ["一击"],
-		"PROPER_NAME": "一击"
+		"DESCRIPTION": "一场战斗中，本效果仅能触发一次。包括所有同名牌。",
+		"NAMES": ["昙现"],
+		"PROPER_NAME": "昙现"
 	},
 	"Malleable":
 	{
 		"DESCRIPTION": "受到伤害时得到 #y格挡 。 每次触发都得到更多 #y格挡 。 回合开始时重置。",
-		"NAMES": ["千锤百炼"],
-		"PROPER_NAME": "千锤百炼"
+		"NAMES": ["柔韧"],
+		"PROPER_NAME": "柔韧"
 	},
 	"Metallicize":
 	{
@@ -134,9 +134,9 @@
 	},
 	"Plated Armor":
 	{
-		"DESCRIPTION": "回合结束时获得 #y护甲 。 每次经受伤害减少 #b1 层层数。",
-		"NAMES": ["多重护甲", "多重护甲"],
-		"PROPER_NAME": "多重护甲"
+		"DESCRIPTION": "回合结束时获得 #y格挡 。每次受伤减少 #b1 层。",
+		"NAMES": ["多层护甲", "多层护甲"],
+		"PROPER_NAME": "多层护甲"
 	},
 	"Rebound":
 	{
@@ -147,8 +147,8 @@
 	"Semi-Limited":
 	{
 		"DESCRIPTION": "一个回合内， 此效果仅能触发一次。 包含所有同名牌。",
-		"NAMES": ["单发"],
-		"PROPER_NAME": "单发"
+		"NAMES": ["有限"],
+		"PROPER_NAME": "有限"
 	},
 	"Slow":
 	{
@@ -159,14 +159,14 @@
 	"Stun":
 	{
 		"DESCRIPTION": " #b1 回合不能行动。",
-		"NAMES": ["眩晕", "眩晕", "stslib:stunned"],
-		"PROPER_NAME": "眩晕"
+		"NAMES": ["击晕", "stslib:stunned"],
+		"PROPER_NAME": "击晕"
 	},
 	"Temporary HP":
 	{
-		"DESCRIPTION": "紧急治疗在战斗结束后消失。",
-		"NAMES": ["紧急治疗", "紧急治疗", "紧急治疗", "紧急治疗"],
-		"PROPER_NAME": "紧急治疗"
+		"DESCRIPTION": "临时生命将在战斗结束后消失。",
+		"NAMES": ["临时生命"],
+		"PROPER_NAME": "临时生命"
 	},
 	"~Preview":
 	{
@@ -176,8 +176,8 @@
 	},
 	"~Unique":
 	{
-		"DESCRIPTION": "可以多次 #y升级 。 此牌在卡组中只能存在一张， 多余的复制将视为此牌的一次 #y升级 。",
+		"DESCRIPTION": "可被多次 #y升级 。此牌只能在牌组中存在一张，加入同名牌会将本牌 #y升级 。",
 		"NAMES": ["~"],
-		"PROPER_NAME": "特殊"
+		"PROPER_NAME": "独一"
 	}
 }
