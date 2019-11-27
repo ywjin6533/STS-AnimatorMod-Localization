@@ -355,7 +355,7 @@
 	},
 	"animator:Entoma":
 	{
-		"DESCRIPTION": "#y唯一 。 NL 造成 !D! 点 伤害。 NL 施加 !M! 点 中毒 。 NL 每回合失去 1 点伤害。|| 一击 ：如果 NL 这张牌消灭了敌人： NL 获得 2 点最大生命 NL 并永久 升级 。",
+		"DESCRIPTION": "#y唯一 。 NL 造成 !D! 点 伤害。 NL 施加 !M! 点 中毒 。 NL 每回合失去 1 点伤害。 || 一击 ：如果 NL 这张牌消灭了敌人： NL 获得 2 点最大生命 NL 并永久 升级 。",
 		"NAME": "艾多玛"
 	},
 	"animator:EntouJyuu":
