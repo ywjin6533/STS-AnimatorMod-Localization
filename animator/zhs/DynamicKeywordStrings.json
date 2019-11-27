@@ -21,7 +21,7 @@
 	{
 		"animator:Ain"    	    : "每点 #y集中 ， NL 造成 #b1 点额外伤害。",
 		"animator:Aisha"  	    : "每点 #y集中 ， NL 造成 #b1 点额外伤害。",
-		"animator:Arpeggio"	    : "每 #b6 点 #y集中 ， NL 得到 #b1 点额外 #y专注 。",
+		"animator:Arpeggio"	    : "每 #b6 点 #y集中 ， NL 得到 #b1 点额外 #y智慧 。",
 		"animator:Caster"       : "每 #b2 点 #y集中 ， NL 偷走 #b1 点额外 #y力量 。",
 		"animator:DwarfShaman"  : "每点 #y集中 ， NL 造成 #b2 点额外伤害。",
 		"animator:Evileye"      : "每 #b3 点 #y集中 ， NL 抽 #b1 点额外的牌。",
