@@ -6,13 +6,13 @@
   },
   "animator:Haunted":
   {
-    "NAME": "神出鬼没",
+    "NAME": "见鬼",
     "DESCRIPTION": [ "这是个坏主意。" ]
   },
   "animator:UltimateCrystal":
   {
     "NAME": "终极之晶",
-    "DESCRIPTION": [ "战斗开始时，从你的手牌中移动 #b{0} 张牌到抽牌堆。" ]
+    "DESCRIPTION": [ "战斗开始时，将 #b{0} 张手牌牌放入抽牌堆。" ]
   },
   "animator:UltimateCube":
   {
@@ -22,6 +22,6 @@
   "animator:UltimateWisp":
   {
     "NAME": "终极之缕",
-    "DESCRIPTION": [ "每当你洗牌时，增加 #b{0} 张 #y虚空 至抽牌堆。" ]
+    "DESCRIPTION": [ "每当你洗牌时，将 #b{0} 张 #y虚空 加入抽牌堆。" ]
   }
 }
