@@ -12,12 +12,12 @@
 	},
 	"animator:AzrielPower":
 	{
-		"DESCRIPTIONS": ["每当你施加负面效果时，得到 #b", " 点力量。"],
+		"DESCRIPTIONS": ["每当你给予负面效果时，得到 #b", " 点力量。"],
 		"NAME": "阿兹莉尔"
 	},
 	"animator:BiyorigoPower":
 	{
-		"DESCRIPTIONS": ["每当你得到 #y敏捷 时，也得到 #b", " 点 #y爆发 。"],
+		"DESCRIPTIONS": ["每当你得到 #y敏捷 时，也得到 #b", " 点 #y武力 。"],
 		"NAME": "微刀・钗"
 	},
 	"animator:BorosPower":
@@ -27,13 +27,13 @@
 	},
 	"animator:BozesPower":
 	{
-		"DESCRIPTIONS": ["同调时得到 #b", " 层 #y支援伤害。"],
+		"DESCRIPTIONS": ["同调 时得到 #b", " 层 #y支援伤害 。"],
 		"NAME": "波赛斯·戈·芭蕾丝蒂"
 	},
 	"animator:BurningPower":
 	{
 		"DESCRIPTIONS": ["回合结束受到 #b", " 伤害。 受到额外 #b", "% 的 #y攻击 伤害。"],
-		"NAME": "燃烧"
+		"NAME": "点燃"
 	},
 	"animator:ChlammyZellPower":
 	{
@@ -42,27 +42,27 @@
 	},
 	"animator:CursedStabsPower":
 	{
-		"DESCRIPTIONS": ["每当造成破防伤害， 增加1张 #y痛苦 到抽牌堆。"],
+		"DESCRIPTIONS": ["每当造成破防伤害， 增加1张 #y疼痛 到抽牌堆。"],
 		"NAME": "诅咒匕首"
 	},
 	"animator:DarkCrystalPower":
 	{
-		"DESCRIPTIONS": ["被指定为目标时对所有角色施加 #b", " #y压制 。"],
+		"DESCRIPTIONS": ["被指定为目标时对所有角色给予 #b", " #y压制 。"],
 		"NAME": "暗黑之晶"
 	},
 	"animator:DarkCubePower":
 	{
-		"DESCRIPTIONS": ["回合结束时对敌人施加 #b", " #y压制 。"],
+		"DESCRIPTIONS": ["回合结束时对敌人给予 #b", " #y压制 。"],
 		"NAME": "暗黑之方"
 	},
 	"animator:DarkWispPower":
 	{
-		"DESCRIPTIONS": ["死亡时对所有角色施加 #b", " #y压制 。"],
+		"DESCRIPTIONS": ["死亡时对所有角色给予 #b", " #y压制 。"],
 		"NAME": "暗黑之缕"
 	},
 	"animator:DarknessPower":
 	{
-		"DESCRIPTIONS": ["在接下来 #b", " 次受伤时， 增加1张 #yAdrenaline 到抽牌堆。"],
+		"DESCRIPTIONS": ["在接下来 #b", " 次受伤时， 增加1张 #y肾上腺素 到抽牌堆。"],
 		"NAME": "达克妮丝"
 	},
 	"animator:DelayedHealPower":
@@ -87,7 +87,7 @@
 	},
 	"animator:EntouJyuuPower":
 	{
-		"DESCRIPTIONS": ["本回合内接下来的 #b", " 次 #y攻击 时, 抽 #b1 张牌并对所有敌人施加 #b1 层 #y燃烧 。"],
+		"DESCRIPTIONS": ["本回合内接下来的 #b", " 次 #y攻击 时, 抽 #b1 张牌并对所有敌人给予 #b1 层 #y点燃 。"],
 		"NAME": "炎刃·铳"
 	},
 	"animator:EnvyPower":
@@ -102,42 +102,42 @@
 	},
 	"animator:FeridBathoryPower":
 	{
-		"DESCRIPTIONS": ["每当一张牌 #y消耗 时，一个随机敌人失去 #b", " 点生命，然后获得 #b", " 点 #y紧急治疗。"],
+		"DESCRIPTIONS": ["每当一张牌 #y消耗 时，一个随机敌人失去 #b", " 点生命，然后获得 #b", " 点 #y临时生命。"],
 		"NAME": "费里德·巴特利"
 	},
 	"animator:FireCrystalPower":
 	{
-		"DESCRIPTIONS": ["被指定为目标时，所有其他角色获得 #b", " 点 #y力量 和 #y燃烧。 "],
+		"DESCRIPTIONS": ["被指定为目标时，所有其他角色获得 #b", " 点 #y力量 和 #y点燃 。 "],
 		"NAME": "火焰之晶"
 	},
 	"animator:FireCubePower":
 	{
-		"DESCRIPTIONS": ["回合结束时， 所有队友获得 #b", " 点 #y力量 和 #y燃烧。 "],
+		"DESCRIPTIONS": ["回合结束时， 所有队友获得 #b", " 点 #y力量 和 #y点燃 。 "],
 		"NAME": "火焰之方"
 	},
 	"animator:FireWispPower":
 	{
-		"DESCRIPTIONS": ["死亡时， 所有角色得到 #b", " 点 #y力量 和 #y燃烧。 "],
+		"DESCRIPTIONS": ["死亡时， 所有角色得到 #b", " 点 #y力量 和 #y点燃 。 "],
 		"NAME": "火焰之缕"
 	},
 	"animator:FlamingWeaponPower":
 	{
-		"DESCRIPTIONS": ["每次破防时， 施加 #b", " 层 #y燃烧 。"],
+		"DESCRIPTIONS": ["每次破防时， 给予 #b", " 层 #y点燃 。"],
 		"NAME": "炎刃"
 	},
 	"animator:FrostCrystalPower":
 	{
-		"DESCRIPTIONS": ["被指定为目标时，所有其他角色获得 #b", " 层 #y多重护甲 。"],
+		"DESCRIPTIONS": ["被指定为目标时，所有其他角色获得 #b", " 层 #y多层护甲 。"],
 		"NAME": "冰霜之晶"
 	},
 	"animator:FrostCubePower":
 	{
-		"DESCRIPTIONS": ["回合结束时， 所有队友获得 #b", " 层 #y多重护甲 。"],
+		"DESCRIPTIONS": ["回合结束时， 所有队友获得 #b", " 层 #y多层护甲 。"],
 		"NAME": "冰霜之方"
 	},
 	"animator:FrostWispPower":
 	{
-		"DESCRIPTIONS": ["死亡时， 所有角色得到 #b", " 层 #y多重护甲 。"],
+		"DESCRIPTIONS": ["死亡时， 所有角色得到 #b", " 层 #y多层护甲 。"],
 		"NAME": "冰霜之缕"
 	},
 	"animator:GazelDwargonPower":
@@ -162,17 +162,17 @@
 	},
 	"animator:HealingCrystalPower":
 	{
-		"DESCRIPTIONS": ["被指定为目标时，所有其他角色受到 #b", " 点 #y治疗 。"],
+		"DESCRIPTIONS": ["被指定为目标时，所有其他角色回复 #b", " 生命 。"],
 		"NAME": "治疗之晶"
 	},
 	"animator:HealingCubePower":
 	{
-		"DESCRIPTIONS": ["回合结束时， 所有队友获得 #b", " 点 #y治疗 。"],
+		"DESCRIPTIONS": ["回合结束时， 所有队友回复 #b", " 点 生命 。"],
 		"NAME": "治疗之方"
 	},
 	"animator:HealingWispPower":
 	{
-		"DESCRIPTIONS": ["死亡时， 所有角色得到 #b", " 点 #y治疗 。"],
+		"DESCRIPTIONS": ["死亡时， 所有角色回复 #b", " 点 生命 。"],
 		"NAME": "治疗之缕"
 	},
 	"animator:HigakiRinnePower":
@@ -182,12 +182,12 @@
 	},
 	"animator:HiteiPower":
 	{
-		"DESCRIPTIONS": ["回合开始时，从卡组中选择 #b", " 张牌消耗。"],
+		"DESCRIPTIONS": ["回合开始时，从卡组中选择 #b", " 张牌消耗 。"],
 		"NAME": "否定姫"
 	},
 	"animator:InfinitePower":
 	{
-		"DESCRIPTIONS": ["受到未被阻挡的伤害前：获得等量的 #y魔法盔甲 。 NL 受到负面效果时：获得等量的 #y再生 。 NL 敌人获得buff时: 获得等量的 #y力量。 NL 回合结束时数据减半。"],
+		"DESCRIPTIONS": ["受到未被阻挡的伤害前：获得等量的 #y魔法盔甲 。 NL 受到负面效果时：获得等量的 #y再生 。 NL 敌人获得增益时: 获得等量的 #y力量。 NL 回合结束时数据减半。"],
 		"NAME": "无尽之力"
 	},
 	"animator:KaijinPower":
@@ -237,12 +237,12 @@
 	},
 	"animator:OrbCore_FirePower":
 	{
-		"DESCRIPTIONS": ["本回合接下来 #b", " 次 #y同调 ，对所有敌人施加 #b", " 层 #y燃烧 。"],
+		"DESCRIPTIONS": ["本回合接下来 #b", " 次 #y同调 ，对所有敌人给予 #b", " 层 #y点燃 。"],
 		"NAME": "烈焰核心"
 	},
 	"animator:OrbCore_FrostPower":
 	{
-		"DESCRIPTIONS": ["本回合接下来 #b", " 次 #y同调 ，获得 #b", " 层 #y多重护甲 。"],
+		"DESCRIPTIONS": ["本回合接下来 #b", " 次 #y同调 ，获得 #b", " 层 #y多层护甲 。"],
 		"NAME": "冰霜核心"
 	},
 	"animator:OrbCore_LightningPower":
@@ -252,7 +252,7 @@
 	},
 	"animator:OrbCore_PlasmaPower":
 	{
-		"DESCRIPTIONS": ["本回合接下来 #b", " 次 #y同调 ，获得 #b", " 点 #y紧急治疗 。"],
+		"DESCRIPTIONS": ["本回合接下来 #b", " 次 #y同调 ，获得 #b", " 点 #y临时生命 。"],
 		"NAME": "等离子核心"
 	},
 	"animator:PinaCoLadaPower":
@@ -267,7 +267,7 @@
 	},
 	"animator:PoisonAffinityPower":
 	{
-		"DESCRIPTIONS": ["每当你施加 #y中毒 时, 额外施加一层 #b", " #y中毒 。"],
+		"DESCRIPTIONS": ["每当你给予 #y中毒 时, 额外给予一层 #b", " #y中毒 。"],
 		"NAME": "毒素亲和"
 	},
 	"animator:PridePower":
@@ -282,7 +282,7 @@
 	},
 	"animator:ShikizakiKikiPower":
 	{
-		"DESCRIPTIONS": ["#y力量 影响所有卡 #b", " 次。"],
+		"DESCRIPTIONS": ["#y力量 在所有牌中发挥 #b", " 倍效果。"],
 		"NAME": "四季崎 记纪"
 	},
 	"animator:ShiroPower":
@@ -317,7 +317,7 @@
 	},
 	"animator:TheUnnamedHatPower":
 	{
-		"DESCRIPTIONS": ["每回合结束时， 所有队友获得 #b", " 点治疗。 NL NL 死亡时， 施加 #b", " 点 #y穿刺 伤害 。对对手施加 #y勒脖 。"],
+		"DESCRIPTIONS": ["每回合结束时， 所有队友获得 #b", " 点治疗。 NL NL 死亡时， 给予 #b", " 点 #y穿刺 伤害 。对对手给予 #y勒脖 。"],
 		"NAME": "H4T"
 	},
 	"animator:UltimateCrystalPower":
@@ -327,7 +327,7 @@
 	},
 	"animator:UltimateCubePower":
 	{
-		"DESCRIPTIONS": ["每回合结束时，得到 #b", " 种随机Buff。 NL NL #b", " 个回合过后爆炸，造成 #b", " 点伤害。"],
+		"DESCRIPTIONS": ["每回合结束时，得到 #b", " 种随机增益。 NL NL #b", " 个回合过后爆炸，造成 #b", " 点伤害。"],
 		"NAME": "终极之方"
 	},
 	"animator:UltimateWispPower":
@@ -337,17 +337,17 @@
 	},
 	"animator:UnnamedDollPower":
 	{
-		"DESCRIPTIONS": ["接下来 #b", " 个回合， 每打出一张不以此角色为目标的牌， 得到 #b", " #y最大生命值 。 NL NL ", "死亡时，所有角色获得 #b", " #y力量 。"],
+		"DESCRIPTIONS": ["接下来 #b", " 个回合， 每打出一张不以此角色为目标的牌， 得到 #b", " #y最大生命 。 NL NL ", "死亡时，所有角色获得 #b", " #y力量 。"],
 		"NAME": "无名傀儡"
 	},
 	"animator:VitalityPower":
 	{
-		"DESCRIPTIONS": ["本回合每当你被攻击时， 获得 #b", " 点 #y紧急治疗 。"],
+		"DESCRIPTIONS": ["本回合每当你被攻击时， 获得 #b", " 点 #y临时生命 。"],
 		"NAME": "生生不息"
 	},
 	"animator:YukoShionjiPower":
 	{
-		"DESCRIPTIONS": ["揭示抽牌堆顶的牌， NL 你可以 #p鼠标左键 抽取它 ( #b", " 次)， 或者 #p鼠标右键 弃置它 ( #b", " 次)。"],
+		"DESCRIPTIONS": ["查看抽牌堆顶的牌， NL 你可以 #p左键 抽取 ( #b", " 次)， 或者 #p右键 丢弃 ( #b", " 次)。"],
 		"NAME": "紫苑寺有子"
 	}
 }

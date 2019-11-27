@@ -14,21 +14,21 @@
 	},
 	"Cooldown":
 	{
-		"DESCRIPTION": "每打出或弃置一次减少一层 #y预热 层数， 当  #y预热 层数为0时，打出时触发 #y预热 效果，并重置 #y预热 层数。",
-		"NAMES": ["预热"],
-		"PROPER_NAME": "预热"
+		"DESCRIPTION": "每打出或弃置一次减少一层 #y冷却 层数， 当  #y冷却 层数为0时，打出时触发 #y冷却 效果，并重置 #y冷却 层数。",
+		"NAMES": ["冷却"],
+		"PROPER_NAME": "冷却"
 	},
 	"Flaming Weapon":
 	{
-		"DESCRIPTION": "如果突破格挡，给予 #b1 层 #y燃烧 。",
+		"DESCRIPTION": "如果造成未被格挡的伤害，给予 #b1 层 #y点燃 。",
 		"NAMES": ["炎刃", "炎刃"],
 		"PROPER_NAME": "炎刃"
 	},
 	"Heartseeker":
 	{
 		"DESCRIPTION": "如果目标的血量低于 50% , 造成双倍伤害。",
-		"NAMES": ["渴血"],
-		"PROPER_NAME": "渴血"
+		"NAMES": ["嗜血"],
+		"PROPER_NAME": "嗜血"
 	},
 	"Lazy":
 	{
@@ -56,14 +56,14 @@
 	},
 	"Motivate":
 	{
-		"DESCRIPTION": "随机减少手中1张牌1点能量消耗直到被打出，重复 N 次。",
+		"DESCRIPTION": "随机减少手中1张牌直到被打出的1点耗能，重复 N 次。",
 		"NAMES": ["激励"],
 		"PROPER_NAME": "激励"
 	},
 	"Orb Core":
 	{
-		"DESCRIPTION": " #y能量 : #y生成 1个充能球。 每回合第二次 #y同调 时得到一个额外效果。",
-		"NAMES": ["充能球", "充能球", "充能球", "充能球", "火焰充能球", "大地充能球", "闪电充能球", "等离子充能球", "冰霜充能球", "凌风充能球"],
+		"DESCRIPTION": " #y能力 : #y生成 1个充能球。 每回合第二次 #y同调 时得到一个额外效果。",
+		"NAMES": ["充能球", "火焰充能球", "大地充能球", "闪电充能球", "等离子充能球", "冰霜充能球", "凌风充能球"],
 		"PROPER_NAME": "充能球"
 	},
 	"Overrun":
@@ -111,19 +111,19 @@
 	"Support Damage":
 	{
 		"DESCRIPTION": "每回合结束时，对血量最低的敌人造成伤害。受伤害调节影响。",
-		"NAMES": ["支援伤害", "支援伤害"],
+		"NAMES": ["支援伤害"],
 		"PROPER_NAME": "支援伤害"
 	},
 	"Synergy":
 	{
 		"DESCRIPTION": "连续使用同一系列的牌或者 #y法师 或者 #y武师 时触发 #y同调 。",
-		"NAMES": ["同调", "同调", "同调", "同调", "同调"],
+		"NAMES": ["同调"],
 		"PROPER_NAME": "同调"
 	},
 	"Throwing-Knife":
 	{
-		"DESCRIPTION": "带有随机debuff的0耗能 #y攻击 牌。",
-		"NAMES": ["飞刀", "飞刀", "飞刀+", "飞刀+"],
+		"DESCRIPTION": "带有随机负面效果的0耗能 #y攻击 牌。",
+		"NAMES": ["飞刀", "飞刀+"],
 		"PROPER_NAME": "飞刀"
 	}
 }
