@@ -26,7 +26,7 @@
 	},
 	"Choked":
 	{
-		"DESCRIPTION": "回合内每打出一张牌， 目标敌人失去1点生命。",
+		"DESCRIPTION": "回合内每打出一张牌，目标敌人失去1点生命。",
 		"NAMES": ["勒脖"],
 		"PROPER_NAME": "勒脖"
 	},
@@ -104,7 +104,7 @@
 	},
 	"Juggernaut":
 	{
-		"DESCRIPTION": "每当获得 #y格挡 时， 对随机敌人造成伤害。",
+		"DESCRIPTION": "每当获得 #y格挡 时，对随机敌人造成伤害。",
 		"NAMES": ["势不可挡"],
 		"PROPER_NAME": "势不可挡"
 	},
@@ -116,7 +116,7 @@
 	},
 	"Malleable":
 	{
-		"DESCRIPTION": "受到伤害时得到 #y格挡 。 每次触发都得到更多 #y格挡 。 回合开始时重置。",
+		"DESCRIPTION": "受到伤害时得到 #y格挡 。每次触发会得到更多 #y格挡 。回合开始时重置。",
 		"NAMES": ["柔韧"],
 		"PROPER_NAME": "柔韧"
 	},
@@ -170,14 +170,14 @@
 	},
 	"~Preview":
 	{
-		"DESCRIPTION": "按 #pSHIFT 键浏览相关卡牌。",
+		"DESCRIPTION": "按 #pSHIFT 浏览相关卡牌。",
 		"NAMES": ["~"],
 		"PROPER_NAME": "卡牌预览"
 	},
 	"~Unique":
 	{
 		"DESCRIPTION": "可被多次 #y升级 。此牌只能在牌组中存在一张，加入同名牌会将本牌 #y升级 。",
-		"NAMES": ["~"],
+		"NAMES": ["独一"],
 		"PROPER_NAME": "独一"
 	}
 }
