@@ -2,33 +2,33 @@
 {
 	"animator:AcuraAkari":
 	{
-		"DESCRIPTION": "丢弃 2 张牌 NL 获得 !M! NL 张 飞刀 。 || 有限 。 NL 同调 时获得 NL !SV! 点临时 NL 涂毒 。",
+		"DESCRIPTION": "丢弃 2 张牌 NL 获得 !M! NL 张 飞刀 。 || 有限 。 NL 同调 时 ， 获得 NL !SV! 点临时 NL 涂毒 。",
 		"NAME": "阿卡莉"
 	},
 	"animator:AcuraShin":
 	{
-		"DESCRIPTION": "给予 !M! 中毒 。 NL 造成 !D! 点穿透 NL 伤害两次。 || 每当给予 中毒 时， NL 额外给予一层 中毒 。",
+		"DESCRIPTION": "给予 !M! 中毒 。 NL 造成 !D! 点穿透 NL 伤害两次。 || 每当给予 中毒 时 ， NL 额外给予一层 中毒 。",
 		"NAME": "辛·亚裘拉"
 	},
 	"animator:AcuraTooru":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害两次。 NL 获得 !SV! NL 张 飞刀 。 || 同调 时， NL 或者弃牌时， NL 获得 !M! 点 格挡 。",
+		"DESCRIPTION": "造成 !D! 点伤害两次。 NL 获得 !SV! NL 张 飞刀 。 || 同调 时 ， NL 或者被丢弃时 ， NL 获得 !M! 点 格挡 。",
 		"NAME": "托鲁"
 	},
 	"animator:Add":
 	{
-		"DESCRIPTION": "虚无 。 NL 从任何地方选择 NL 消耗 1 张牌。 将这张牌替换为 NL 一张 充能球核心 。 NL 消耗 。 || 同调 时， NL 翻倍能量。",
+		"DESCRIPTION": "虚无 。 NL 从任何地方选择 NL 消耗 1 张牌。 将这张牌替换为 NL 一张 充能球核心 。 NL 消耗 。 || 同调 时 ， NL 翻倍能量。",
 		"NAME": "艾迪",
-		"UPGRADE_DESCRIPTION": "从任何地方选择 NL 消耗 1 张牌。 将这张牌替换为 NL 一张 充能球核心 。 NL 消耗 。 || 同调 时， NL 翻倍能量 。"
+		"UPGRADE_DESCRIPTION": "从任何地方选择 NL 消耗 1 张牌。 将这张牌替换为 NL 一张 充能球核心 。 NL 消耗 。 || 同调 时 ， NL 翻倍能量 。"
 	},
 	"animator:Ain":
 	{
-		"DESCRIPTION": "法师 。 NL 对所有敌人造成 NL 造成 !D! 点伤害 NL !M! 次 。 || 有限 。 NL 同调 时， NL 或者弃牌时， NL 获得 !SV! 智力 。",
+		"DESCRIPTION": "法师 。 NL 对所有敌人造成 NL 造成 !D! 点伤害 NL !M! 次 。 || 有限 。 NL 同调 时 ， NL 或者弃牌时 ， NL 获得 !SV! 智力 。",
 		"NAME": "艾因"
 	},
 	"animator:Ainz":
 	{
-		"DESCRIPTION": "回合开始时， NL 四种随机 效果 NL 中选择一种触发 。 || 抽到时， 减少 NL 这张牌的耗能 NL 1点， 然后随机 NL 获得 1点 智力， NL 武力 或者 机敏 。",
+		"DESCRIPTION": "回合开始时 ， NL 四种随机 效果 NL 中选择一种触发 。 || 抽到时 ， 减少 NL 这张牌的耗能 NL 1点， 然后随机 NL 获得 1点 智力， NL 武力 或者 机敏 。",
 		"NAME": "安兹·乌尔·恭"
 	},
 	"animator:Aisha":
@@ -49,7 +49,7 @@
 	"animator:Aqua":
 	{
 		"DESCRIPTION": "回复 !M! 点生命。 NL 抽 1 张牌。 NL 在本场战斗中变成 NL 无用的废物。",
-		"EXTENDED_DESCRIPTION": ["", " 被 消耗 时 或 被丢弃时 ： NL 获得 !SV! 点 临时生命 。"],
+		"EXTENDED_DESCRIPTION": ["", " 被 消耗 时 或 被丢弃时 ， NL 获得 !SV! 点 临时生命 。"],
 		"NAME": "阿库娅",
 		"UPGRADE_DESCRIPTION": "回复 !M! 点生命。 NL 抽 1 张牌。 NL 在本场战斗中变成 NL 有用的废物。"
 	},
@@ -60,14 +60,14 @@
 	},
 	"animator:Archer":
 	{
-		"DESCRIPTION": "在你的回合结束时 ， NL 敌人每有一种负面效果 NL 就对所有敌人 NL 造成 !M! 点伤害 。 || 同调 时， NL 对所有敌人 NL 给予 1 层 易伤 。",
+		"DESCRIPTION": "在你的回合结束时 ， NL 敌人每有一种负面效果 NL 就对所有敌人 NL 造成 !M! 点伤害 。 || 同调 时 ， NL 对所有敌人 NL 给予 1 层 易伤 。",
 		"NAME": "Archer"
 	},
 	"animator:Arpeggio":
 	{
-		"DESCRIPTION": "法师 6 。 NL 获得 !M! 点 智力 。 NL 消耗 。 || 同调 时，NL 生成 1 个 大地 充能球。",
+		"DESCRIPTION": "法师 6 。 NL 获得 !M! 点 智力 。 NL 消耗 。 || 同调 时 ， NL 生成 1 个 大地 充能球。",
 		"NAME": "阿尔蓓吉欧",
-		"UPGRADE_DESCRIPTION": "法师 6 。 NL 获得 !M! 点 智力 。 NL 获得 !SV! 个充能球栏位。 NL 消耗 。 || 同调 时， NL 生成 1 个 大地 充能球。"
+		"UPGRADE_DESCRIPTION": "法师 6 。 NL 获得 !M! 点 智力 。 NL 获得 !SV! 个充能球栏位。 NL 消耗 。 || 同调 时 ， NL 生成 1 个 大地 充能球。"
 	},
 	"animator:Asuramaru":
 	{
@@ -76,14 +76,14 @@
 	},
 	"animator:Azekura":
 	{
-		"DESCRIPTION": "武师 2 。 NL 获得 !B! 点 格挡 2 次 。 NL 获得 !M! 层 临时 荆棘 。 || 同调 或 被 消耗 时 ： NL 获得 !SV! 层 多层装甲 。",
+		"DESCRIPTION": "武师 2 。 NL 获得 !B! 点 格挡 2 次 。 NL 获得 !M! 层 临时 荆棘 。 || 同调 或 被 消耗 时 ， NL 获得 !SV! 层 多层装甲 。",
 		"NAME": "校仓必"
 	},
 	"animator:Azriel":
 	{
-		"DESCRIPTION": "虚无。 NL 获得 2 层 飞行 。 || 每当对敌人给予 NL 负面效果 时， NL 获得 !M! 点 力量 。",
+		"DESCRIPTION": "虚无。 NL 获得 2 层 飞行 。 || 每当对敌人给予 NL 负面效果 时 ， NL 获得 !M! 点 力量 。",
 		"NAME": "阿兹列尔",
-		"UPGRADE_DESCRIPTION": "获得 2 层 飞行 。 || 每当对敌人给予 NL 负面效果 时， NL 获得 !M! 点 力量 。"
+		"UPGRADE_DESCRIPTION": "获得 2 层 飞行 。 || 每当对敌人给予 NL 负面效果 时 ， NL 获得 !M! 点 力量 。"
 	},
 	"animator:Benimaru":
 	{
@@ -107,12 +107,12 @@
 	},
 	"animator:Boros":
 	{
-		"DESCRIPTION": "所有 能力牌 NL 会被打出两次。 || 被抽到时， NL 获得 !M! 点 临时生命 NL 以及 !SV! 点 武力 。",
+		"DESCRIPTION": "所有 能力牌 NL 会被打出两次。 || 被抽到时 ， NL 获得 !M! 点 临时生命 NL 以及 !SV! 点 武力 。",
 		"NAME": "波罗斯"
 	},
 	"animator:Bozes":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害。 NL 激励 !M! 。 NL 消耗 。 || 本回合每次 同调 ， NL 获得 !SV! 点 NL 支援伤害 。",
+		"DESCRIPTION": "造成 !D! 点 伤害。 NL 激励 !M! 。 NL 消耗 。 || 本回合每次 同调 时 ， NL 获得 !SV! 点 NL 支援伤害 。",
 		"NAME": "波赛斯"
 	},
 	"animator:Caster":
@@ -132,29 +132,29 @@
 	},
 	"animator:ChlammyZell":
 	{
-		"DESCRIPTION": "抽 1 张牌。 NL 获得 !SV! 点 智力 。 NL 消耗 。 || 当你交替打出不同类型的牌时， NL 循环 1 张牌并对所有敌人 NL 造成 !M! 点伤害。",
+		"DESCRIPTION": "抽 1 张牌。 NL 获得 !SV! 点 智力 。 NL 消耗 。 || 当你交替打出不同类型的牌时 ， NL 循环 1 张牌并对所有敌人 NL 造成 !M! 点伤害。",
 		"NAME": "克拉米·杰尔"
 	},
 	"animator:Chomusuke":
 	{
-		"DESCRIPTION": "保留。 || 有限 。 NL 被 消耗 时： NL 将这张牌返回手牌 NL 并获得 [E] [E] 。",
+		"DESCRIPTION": "保留。 || 有限 。 NL 被 消耗 时 ， NL 将这张牌返回手牌 NL 并获得 [E] [E] 。",
 		"NAME": "豆之助",
-		"UPGRADE_DESCRIPTION": "固有。 NL 保留。 || 有限 。 NL 被 消耗 时： NL 将这张牌返回手牌 NL 并获得 [E] [E] 。"
+		"UPGRADE_DESCRIPTION": "固有。 NL 保留。 || 有限 。 NL 被 消耗 时 ， NL 将这张牌返回手牌 NL 并获得 [E] [E] 。"
 	},
 	"animator:Chris":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害。 NL [*]偷窃  !M! 个 金币 。 || 被丢弃时： NL 抽 1 张 0 耗能的牌。",
+		"DESCRIPTION": "造成 !D! 点 伤害。 NL [*]偷窃  !M! 个 金币 。 || 被丢弃时 ， NL 抽 1 张 0 耗能的牌。",
 		"EXTENDED_DESCRIPTION": ["偷窃", "最多偷boss 50 金币；最多偷boss 25 金币, 或者 最多偷非爪牙 10 #y金币 。"],
 		"NAME": "克里斯"
 	},
 	"animator:Chung":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 本场战斗中降低这张牌 NL 的 格挡 !M! 点。 || 被 消耗 时： NL 生成 1 个 冰霜 充能球。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 本场战斗中降低这张牌 NL 的 格挡 !M! 点。 || 被 消耗 时 ， NL 生成 1 个 冰霜 充能球。",
 		"NAME": "澄"
 	},
 	"animator:Cocytus":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害。 NL 获得 1 点 武力 。 NL 力量 在这张牌中发挥 !M! 倍效果。 || 同调 ： NL 随机获得 1 NL 层 多层护甲 NL 或者 1 层 荆棘 。",
+		"DESCRIPTION": "造成 !D! 点 伤害。 NL 获得 1 点 武力 。 NL 力量 在这张牌中发挥 !M! 倍效果。 || 同调 时 ， NL 随机获得 1 NL 层 多层护甲 NL 或者 1 层 荆棘 。",
 		"NAME": "科赛特斯"
 	},
 	"animator:CowGirl":
@@ -180,7 +180,7 @@
 	},
 	"animator:Curse_Greed":
 	{
-		"DESCRIPTION": "不能被打出 。 NL 被抽到时， NL 本回合提高 NL 随机一张手牌的 NL 耗能 1 点。",
+		"DESCRIPTION": "不能被打出 。 NL 被抽到时 ， NL 本回合提高 NL 随机一张手牌的 NL 耗能 1 点。",
 		"NAME": "贪婪"
 	},
 	"animator:Curse_Nutcracker":
@@ -190,7 +190,7 @@
 	},
 	"animator:Darkness":
 	{
-		"DESCRIPTION": "获得 !B! 点格挡和 NL !M! 点 多层护甲 。 || 下次受伤时， NL 在抽牌堆里添加 NL 一张 肾上腺素 。",
+		"DESCRIPTION": "获得 !B! 点格挡和 NL !M! 点 多层护甲 。 || 下次受伤时 ， NL 在抽牌堆里添加 NL 一张 肾上腺素 。",
 		"NAME": "达克妮丝"
 	},
 	"animator:DarknessAdrenaline":
@@ -281,9 +281,9 @@
 	},
 	"animator:Demiurge":
 	{
-		"DESCRIPTION": "获得 [E] 。 NL 在本回合结束时， NL 受到 !M! 点伤害。 || 被 消耗 时: NL 循环 1 张牌并 NL 获得 1 点 能量 。",
+		"DESCRIPTION": "获得 [E] 。 NL 在本回合结束时 ， NL 受到 !M! 点伤害。 || 被 消耗 时: NL 循环 1 张牌并 NL 获得 1 点 能量 。",
 		"NAME": "迪米乌哥斯",
-		"UPGRADE_DESCRIPTION": "获得 [E] 。NL 丢 1 张牌或 在本回合结束时， NL 受到 !M! 点伤害。 || 被 消耗 时: NL 循环 1 张牌并 NL 获得 1 点 能量 。"
+		"UPGRADE_DESCRIPTION": "获得 [E] 。NL 丢 1 张牌或 在本回合结束时 ， NL 受到 !M! 点伤害。 || 被 消耗 时: NL 循环 1 张牌并 NL 获得 1 点 能量 。"
 	},
 	"animator:DolaCouronne":
 	{
@@ -292,12 +292,12 @@
 	},
 	"animator:DolaRiku":
 	{
-		"DESCRIPTION": "消耗 一张手牌 NL 从 !M! 张牌中选择 NL 并获得相同 NL 稀有度的 1 张牌， NL 它的耗能 1 点。 || 同调 ： 抽 1 张 NL 0耗能[] 牌。",
+		"DESCRIPTION": "消耗 一张手牌 NL 从 !M! 张牌中选择 NL 并获得相同 NL 稀有度的 1 张牌， NL 它的耗能 1 点。 || 同调 时 ， 抽 1 张 NL 0耗能[] 牌。",
 		"NAME": "里克"
 	},
 	"animator:DolaSchwi":
 	{
-		"DESCRIPTION": "给予 !M! 层 跟踪锁定 。 NL 冷却 !SV! : NL 造成 !D! 点伤害。 || 同调 ： NL 生成 1 个闪电 充能球 。",
+		"DESCRIPTION": "给予 !M! 层 跟踪锁定 。 NL 冷却 !SV! : NL 造成 !D! 点伤害。 || 同调 时 ， NL 生成 1 个闪电 充能球 。",
 		"NAME": "休比"
 	},
 	"animator:DolaStephanie":
@@ -313,7 +313,7 @@
 	},
 	"animator:Elesis":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害。 NL 获得 !M! 点 NL 机敏 和 武力 。 NL 消耗 。 || 抽到或 被丢弃时 ： NL 这场战斗中， NL 增加 !SV! 点伤害。",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 获得 !M! 点 NL 机敏 和 武力 。 NL 消耗 。 || 抽到或 被丢弃时 ， NL 这场战斗中， NL 增加 !SV! 点伤害。",
 		"NAME": "爱利西斯"
 	},
 	"animator:ElricAlphonse":
@@ -334,7 +334,7 @@
 	},
 	"animator:Elsword":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层 点燃 。。 NL 循环 !SV! 张牌。 || 被丢弃时：如果你 NL 有 1 个空栏位 NL 生成 1 个 火焰 充能球 。",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层 点燃 。。 NL 循环 !SV! 张牌。 || 被丢弃时 ，如果你 NL 有 1 个空栏位 NL 生成 1 个 火焰 充能球 。",
 		"NAME": "艾索德"
 	},
 	"animator:Emilia":
@@ -360,7 +360,7 @@
 	},
 	"animator:EntouJyuu":
 	{
-		"DESCRIPTION": "获得 !M! 点 机敏 。 NL 当你造成未被格挡的伤害时， NL 给予 1 层 点燃 。",
+		"DESCRIPTION": "获得 !M! 点 机敏 。 NL 当你造成未被格挡的伤害时 ， NL 给予 1 层 点燃 。",
 		"NAME": "炎刀·铳"
 	},
 	"animator:Envy":
@@ -376,13 +376,13 @@
 	},
 	"animator:Eve":
 	{
-		"DESCRIPTION": "打出 1 张 充能球核心 。 NL 获得 !M! 个 充能栏位。 || 昙现 。 NL 同调 ： NL 对 1 个敌人 NL 造成 1 点伤害 NL 并提高 1 点伤害。",
+		"DESCRIPTION": "打出 1 张 充能球核心 。 NL 获得 !M! 个 充能栏位。 || 昙现 。 NL 同调 时 ， NL 对 1 个敌人 NL 造成 1 点伤害 NL 并提高 1 点伤害。",
 		"NAME": "伊芙",
-		"UPGRADE_DESCRIPTION": "打出 1 张 充能球核心 。 NL 获得 !SV! 层 金属化 。 NL 获得 !M! 个 充能栏位。 || 昙现 。 NL 同调 ： NL 对 1 个敌人 NL 造成 1 点伤害 NL 并提高 1 点伤害。"
+		"UPGRADE_DESCRIPTION": "打出 1 张 充能球核心 。 NL 获得 !SV! 层 金属化 。 NL 获得 !M! 个 充能栏位。 || 昙现 。 NL 同调 时 ， NL 对 1 个敌人 NL 造成 1 点伤害 NL 并提高 1 点伤害。"
 	},
 	"animator:Evileye":
 	{
-		"DESCRIPTION": "法师 3 。 NL 抽 !M! 张牌。 NL 重装： 触发 NL 最右边充能球 NL 的被动效果 。 || 昙现 。 NL 同调 ： NL 获得 2 点 集中 NL 1 个充能栏位。",
+		"DESCRIPTION": "法师 3 。 NL 抽 !M! 张牌。 NL 重装： 触发 NL 最右边充能球 NL 的被动效果 。 || 昙现 。 NL 同调 时 ， NL 获得 2 点 集中 NL 1 个充能栏位。",
 		"NAME": "邪眼"
 	},
 	"animator:Excalibur":
@@ -392,23 +392,23 @@
 	},
 	"animator:FeridBathory":
 	{
-		"DESCRIPTION": "每消耗 1 张牌， NL 随机一名敌人 NL 失去 !M! 生命， NL 你获得 !M! 临时生命 。 || 昙现 。 NL 回合开始时， NL 如果消耗牌堆 NL 有至少 20 张牌， NL 获得 !SV! 点 力量 。",
+		"DESCRIPTION": "每消耗 1 张牌， NL 随机一名敌人 NL 失去 !M! 生命， NL 你获得 !M! 临时生命 。 || 昙现 。 NL 回合开始时 ， NL 如果消耗牌堆 NL 有至少 20 张牌， NL 获得 !SV! 点 力量 。",
 		"NAME": "费里德·巴特利"
 	},
 	"animator:Fredrika":
 	{
-		"DESCRIPTION": "穿越者 。 NL 获得 !B! 点 格挡 。 NL 每个敌人使你额外 NL 获得 !M! 点 格挡 。 || 被丢弃时： 回合结束前， NL 回到手中并切换形态。",
+		"DESCRIPTION": "穿越者 。 NL 获得 !B! 点 格挡 。 NL 每个敌人使你额外 NL 获得 !M! 点 格挡 。 || 被丢弃时 ， 回合结束前， NL 回到手中并切换形态。",
 		"EXTENDED_DESCRIPTION": ["穿越者 。  NL 获得 !B! 点 格挡 。", "穿越者 。 NL 造成 !D! 点伤害 2 次 。 NL 获得 2 点 金属化 。", "穿越者 。 NL 造成 !D! 点伤害。 NL 给予 1 点 易伤 。 NL 给予 1 点 虚弱 。"],
 		"NAME": "芙蕾多妮卡"
 	},
 	"animator:GazelDwargon":
 	{
-		"DESCRIPTION": "获得 !M! 层 多层护甲 。 NL 在每回合开始时， NL 保留一半的 格挡 。 || 同调 ： NL 激励 1 。",
+		"DESCRIPTION": "获得 !M! 层 多层护甲 。 NL 在每回合开始时 ， NL 保留一半的 格挡 。 || 同调 时 ， NL 激励 1 。",
 		"NAME": "矮人王"
 	},
 	"animator:Genos":
 	{
-		"DESCRIPTION": "造成 !D! 伤害。 NL 给予 !M! 层 点燃 。 NL 回合结束时受到 NL !SV! 点伤害。 || 有限 。 NL 同调 ： 检索 1 张 NL 3 耗能以上的牌 NL 并保留它。",
+		"DESCRIPTION": "造成 !D! 伤害。 NL 给予 !M! 层 点燃 。 NL 回合结束时受到 NL !SV! 点伤害。 || 有限 。 NL 同调 时 ， 检索 1 张 NL 3 耗能以上的牌 NL 并保留它。",
 		"NAME": "杰诺斯"
 	},
 	"animator:Geryuganshoop":
@@ -419,7 +419,7 @@
 	},
 	"animator:Gilgamesh":
 	{
-		"DESCRIPTION": "独一 。 NL 对一个敌人造成 NL !D! 点伤害 3 次。 || 每当你在非商店处 NL 获得遗物时， NL 升级 这张牌 NL 并获得 !SV! 金币 。",
+		"DESCRIPTION": "独一 。 NL 对一个敌人造成 NL !D! 点伤害 3 次。 || 每当你在非商店处 NL 获得遗物时 ， NL 升级 这张牌 NL 并获得 !SV! 金币 。",
 		"NAME": "吉尔伽美什"
 	},
 	"animator:Gillette":
@@ -429,9 +429,9 @@
 	},
 	"animator:Giselle":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害 。 NL 使敌人的 点燃 NL 层数翻两倍。 || 每场战斗开始时， NL 生成 1 个 火焰 充能球 。",
+		"DESCRIPTION": "造成 !D! 点伤害 。 NL 使敌人的 点燃 NL 层数翻两倍。 || 每场战斗开始时 ， NL 生成 1 个 火焰 充能球 。",
 		"NAME": "吉赛尔",
-		"UPGRADE_DESCRIPTION": "造成 !D! 点伤害 。 NL 使敌人的 点燃 NL 层数翻三倍。 || 每场战斗开始时， NL 生成 1 个 火焰 充能球 。"
+		"UPGRADE_DESCRIPTION": "造成 !D! 点伤害 。 NL 使敌人的 点燃 NL 层数翻三倍。 || 每场战斗开始时 ， NL 生成 1 个 火焰 充能球 。"
 	},
 	"animator:Gluttony":
 	{
@@ -441,17 +441,17 @@
 	},
 	"animator:GoblinChampion":
 	{
-		"DESCRIPTION": "在你的回合结束时， NL 将 1 张随机哥布林牌 NL 加入你的抽牌堆。",
+		"DESCRIPTION": "在你的回合结束时 ， NL 将 1 张随机哥布林牌 NL 加入你的抽牌堆。",
 		"NAME": "哥布林勇士"
 	},
 	"animator:GoblinKing":
 	{
-		"DESCRIPTION": "在你的回合结束时， NL 将 3 张随机哥布林牌 NL 加入你的抽牌堆。",
+		"DESCRIPTION": "在你的回合结束时 ， NL 将 3 张随机哥布林牌 NL 加入你的抽牌堆。",
 		"NAME": "哥布林王"
 	},
 	"animator:GoblinShaman":
 	{
-		"DESCRIPTION": "抽到这张牌时， NL 额外抽一张牌。 NL 在你的回合结束时，获得1 层 脆弱 。",
+		"DESCRIPTION": "抽到这张牌时 ， NL 额外抽一张牌。 NL 在你的回合结束时 ，获得1 层 脆弱 。",
 		"NAME": "哥布林萨满"
 	},
 	"animator:GoblinSlayer":
@@ -461,17 +461,17 @@
 	},
 	"animator:GoblinSoldier":
 	{
-		"DESCRIPTION": "抽到这张牌时， NL 额外抽一张牌。 NL 回合结束时， NL 受到 2 点伤害。",
+		"DESCRIPTION": "抽到这张牌时 ， NL 额外抽一张牌。 NL 回合结束时 ， NL 受到 2 点伤害。",
 		"NAME": "哥布林战士"
 	},
 	"animator:Greed":
 	{
-		"DESCRIPTION": "获得 !M! 层 多层护甲 。 NL 获得 !M! 层 金属化 。 NL 获得 !M! 层 柔韧 。 || 每场战斗开始时， NL 获得 !SV! 金币 。 NL 每拥有 #b100 金币 ， NL 减少这张牌 1 点消耗 。",
+		"DESCRIPTION": "获得 !M! 层 多层护甲 。 NL 获得 !M! 层 金属化 。 NL 获得 !M! 层 柔韧 。 || 每场战斗开始时 ， NL 获得 !SV! 金币 。 NL 每拥有 #b100 金币 ， NL 减少这张牌 1 点消耗 。",
 		"NAME": "贪婪"
 	},
 	"animator:GuildGirl":
 	{
-		"DESCRIPTION": "每回合开始时， NL 循环 1 张牌 。 || 当非爪牙的敌人死亡时， NL 获得 !M! 金币 。 NL 效果不叠加。",
+		"DESCRIPTION": "每回合开始时 ， NL 循环 1 张牌 。 || 当非爪牙的敌人死亡时 ， NL 获得 !M! 金币 。 NL 效果不叠加。",
 		"NAME": "柜台小姐"
 	},
 	"animator:Guren":
@@ -482,14 +482,14 @@
 	},
 	"animator:Guy":
 	{
-		"DESCRIPTION": "抽 !M! 张牌 。 NL 丢弃 !M! 张牌 。 || 同调 ： NL 从抽牌堆顶 NL 丢弃 2 张牌。",
+		"DESCRIPTION": "抽 !M! 张牌 。 NL 丢弃 !M! 张牌 。 || 同调 时 ， NL 从抽牌堆顶 NL 丢弃 2 张牌。",
 		"NAME": "奇伊",
-		"UPGRADE_DESCRIPTION": "抽 !M! 张牌 。 NL 丢弃 !M! 张牌 。 || 同调 ： NL 从抽牌堆顶 NL 丢弃 2 张牌。 "
+		"UPGRADE_DESCRIPTION": "抽 !M! 张牌 。 NL 丢弃 !M! 张牌 。 || 同调 时 ， NL 从抽牌堆顶 NL 丢弃 2 张牌。 "
 	},
 	"animator:Hakurou":
 	{
 		"DESCRIPTION": "武师 。 NL 造成 !D! 点伤害 NL !M! 次 。 || 被抽到或 同调 : NL 获得 1 机敏 。",
-		"EXTENDED_DESCRIPTION": ["武师", "与 武师 同调 。 每有 1 点 敏捷 ， 造成 #b1 点额外伤害。"],
+		"EXTENDED_DESCRIPTION": ["武师", "与 武师 同调 时 ， 每有 1 点 敏捷 ， 造成 #b1 点额外伤害。"],
 		"NAME": " "
 	},
 	"animator:HarukoHaruhara":
@@ -500,7 +500,7 @@
 	},
 	"animator:Hero":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害。 NL 抽 !M! 张牌 。 || 这张牌位于牌组中时， NL 大幅增加获得 NL 额外遗物 的几率 。",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 抽 !M! 张牌 。 || 这张牌位于牌组中时 ， NL 大幅增加获得 NL 额外遗物 的几率 。",
 		"NAME": "英雄"
 	},
 	"animator:Hibiki":
@@ -510,28 +510,28 @@
 	},
 	"animator:HigakiRinne":
 	{
-		"DESCRIPTION": "穿越者。 NL 布朗运动爱好者。 NL （触发随机效果）|| 被抽到或同调， NL 布朗运动爱好者。 NL （触发随机效果）",
+		"DESCRIPTION": "穿越者。 NL 布朗运动爱好者。 NL （触发随机效果）|| 被抽到或同调 时 ， NL 布朗运动爱好者。 NL （触发随机效果）",
 		"NAME": "彼我木轮回",
-		"UPGRADE_DESCRIPTION": "穿越者。 NL 真·布朗运动爱好者。 NL （触发更多随机效果）|| 同调 ，被 抽到 ， NL 丢弃 或 消耗 ， NL 布朗运动爱好者。 NL （触发随机效果）"
+		"UPGRADE_DESCRIPTION": "穿越者。 NL 真·布朗运动爱好者。 NL （触发更多随机效果）|| 被抽到或同调 时 ， NL 丢弃 或 消耗 ， NL 布朗运动爱好者。 NL （触发随机效果）"
 	},
 	"animator:HighElfArcher":
 	{
-		"DESCRIPTION": "造成 !D! 点 穿刺 伤害。 NL 仓促 !SV! : NL 获得 1 点 机敏 。 || 昙现 。 同调 ： NL 抽 1 张牌并 NL 获得 1 点 机敏 。",
+		"DESCRIPTION": "造成 !D! 点 穿刺 伤害。 NL 仓促 !SV! : NL 获得 1 点 机敏 。 || 昙现 。 同调 时 ， NL 抽 1 张牌并 NL 获得 1 点 机敏 。",
 		"NAME": "精灵弓手"
 	},
 	"animator:HiiragiShinya":
 	{
-		"DESCRIPTION": "获得 !B! 格挡 。 NL 从弃牌堆检索 NL 1 张牌 并 保留 。 NL 本回合耗能加 1 。 || 同调 ： NL 获得 !M! NL 支援伤害。",
+		"DESCRIPTION": "获得 !B! 格挡 。 NL 从弃牌堆检索 NL 1 张牌 并 保留 。 NL 本回合耗能加 1 。 || 同调 时 ， NL 获得 !M! NL 支援伤害。",
 		"NAME": "柊深夜"
 	},
 	"animator:HiiragiTenri":
 	{
-		"DESCRIPTION": "获得 !M! 点 临时生命 。 NL 打出并 消耗 NL 弃牌堆中所有牌 。 || 昙现 。 NL 被 消耗 时， NL 将已消耗牌堆 NL 洗入抽牌堆。",
+		"DESCRIPTION": "获得 !M! 点 临时生命 。 NL 打出并 消耗 NL 弃牌堆中所有牌 。 || 昙现 。 NL 被 消耗 时 ， NL 将已消耗牌堆 NL 洗入抽牌堆。",
 		"NAME": "柊天利"
 	},
 	"animator:Hitei":
 	{
-		"DESCRIPTION": "每回合开始时， NL 从抽牌堆与弃牌堆 NL 的随机 !M! 张牌中 NL 选择 1 张消耗 。 || 同调 ： NL 获得 2 点 集中， NL 机敏 和 武力 。",
+		"DESCRIPTION": "每回合开始时 ， NL 从抽牌堆与弃牌堆 NL 的随机 !M! 张牌中 NL 选择 1 张消耗 。 || 同调 时 ， NL 获得 2 点 集中， NL 机敏 和 武力 。",
 		"NAME": "否定姬"
 	},
 	"animator:HououinKyouma":
@@ -547,39 +547,39 @@
 	},
 	"animator:IchigoKurosaki":
 	{
-		"DESCRIPTION": "武师 。 NL 获得 !M! 点 武力 。 NL 消耗 。 || 被 消耗 时， NL 如果你拥有至少 NL !SV! 点 力量 ， NL 添加 1 张 NL 天锁斩月 NL 到抽牌堆 。",
+		"DESCRIPTION": "武师 。 NL 获得 !M! 点 武力 。 NL 消耗 。 || 被 消耗 时 ， NL 如果你拥有至少 NL !SV! 点 力量 ， NL 添加 1 张 NL 天锁斩月 NL 到抽牌堆 。",
 		"NAME": "黑崎一护",
-		"UPGRADE_DESCRIPTION": "武师 。 NL 获得 !M! 点 武力 。NL 获得 !M! 点 机敏 。 NL 消耗 。 || 被 消耗 时， NL 如果你拥有至少 NL !SV! 点 力量 ， NL 添加 1 张 NL 天锁斩月 NL 到抽牌堆 。"
+		"UPGRADE_DESCRIPTION": "武师 。 NL 获得 !M! 点 武力 。NL 获得 !M! 点 机敏 。 NL 消耗 。 || 被 消耗 时 ， NL 如果你拥有至少 NL !SV! 点 力量 ， NL 添加 1 张 NL 天锁斩月 NL 到抽牌堆 。"
 	},
 	"animator:Illya":
 	{
-		"DESCRIPTION": "打出抽牌堆中 NL 伤害最高的 攻击 牌 。 NL 回合结束时 NL 受到 !M! 点 伤害 。 || 被 消耗 时， NL 从抽牌堆抽 1 张 NL berserker NL 并获得 [E] 。",
+		"DESCRIPTION": "打出抽牌堆中 NL 伤害最高的 攻击 牌 。 NL 回合结束时 NL 受到 !M! 点 伤害 。 || 被 消耗 时 ， NL 从抽牌堆抽 1 张 NL berserker NL 并获得 [E] 。",
 		"NAME": "伊莉雅"
 	},
 	"animator:ItamiYouji":
 	{
-		"DESCRIPTION": "抽 !M! 张牌 。 NL 每抽一张牌造成 NL !D! 点 穿刺 伤害。 || 同调 ：每有一个敌人 NL 获得 !SV! 点 支援伤害 。",
+		"DESCRIPTION": "抽 !M! 张牌 。 NL 每抽一张牌造成 NL !D! 点 穿刺 伤害。 || 同调 时 ，每有一个敌人 NL 获得 !SV! 点 支援伤害 。",
 		"NAME": "伊丹耀司"
 	},
 	"animator:IzunaHatsuse":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 给予 1 层 虚弱 。 || 自身HP低于25％时， NL 这张牌将改变形态 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 给予 1 层 虚弱 。 || 自身HP低于25％时 ， NL 这张牌将改变形态 。",
 		"EXTENDED_DESCRIPTION": ["造成 !D! 点伤害两次 。 NL 恢复 !M! 生命 。"],
 		"NAME": "初濑伊纲"
 	},
 	"animator:JeanneDArc":
 	{
-		"DESCRIPTION": "获得 !B! 格挡 。 NL 造成 !D! 点伤害 。 NL 随机消耗一张 NL 状态牌或诅咒牌 。 || 战斗开始时， 获得 !M! 点 临时生命 。",
+		"DESCRIPTION": "获得 !B! 格挡 。 NL 造成 !D! 点伤害 。 NL 随机消耗一张 NL 状态牌或诅咒牌 。 || 战斗开始时 ， 获得 !M! 点 临时生命 。",
 		"NAME": "圣女贞德"
 	},
 	"animator:Jibril":
 	{
-		"DESCRIPTION": "法师 。 NL 对所有敌人 NL 造成 !D! 点伤害。 || 有限 。 NL 被抽到时， 触发 NL 最右边充能球的被动。",
+		"DESCRIPTION": "法师 。 NL 对所有敌人 NL 造成 !D! 点伤害。 || 有限 。 NL 被抽到时 ， 触发 NL 最右边充能球的被动。",
 		"NAME": "吉普莉尔"
 	},
 	"animator:Kaijin":
 	{
-		"DESCRIPTION": "每回合结束时， NL 保留 1 张牌并 NL 将其伤害与格挡 NL 在本场战斗中 NL 提高 !M! 点。 || 当你把这张牌加入牌组时， NL 永久随机升级一张基础牌。 ",
+		"DESCRIPTION": "每回合结束时 ， NL 保留 1 张牌并 NL 将其伤害与格挡 NL 在本场战斗中 NL 提高 !M! 点。 || 当你把这张牌加入牌组时 ， NL 永久随机升级一张基础牌。 ",
 		"NAME": "凯·金"
 	},
 	"animator:Kazuma":
@@ -595,7 +595,7 @@
 	},
 	"animator:Konayuki":
 	{
-		"DESCRIPTION": "若至少拥有 NL 10 点 力量 ， NL 造成 !D! 点伤害， 否则获得 !M! 点 力量 。 || 有限 。 NL 被抽到时， NL 如果你没有 武力 ，NL 本回合减少一点耗能。",
+		"DESCRIPTION": "若至少拥有 NL 10 点 力量 ， NL 造成 !D! 点伤害， 否则获得 !M! 点 力量 。 || 有限 。 NL 被抽到时 ， NL 如果你没有 武力 ，NL 本回合减少一点耗能。",
 		"NAME": "冻空粉雪"
 	},
 	"animator:KrulTepes":
@@ -605,7 +605,7 @@
 	},
 	"animator:Kuribayashi":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层 易伤 。 NL 给予 !SV! 层 勒脖 。 || 有限 。 NL 同调 ： 敌人 NL 本回合失去 NL 4 点 力量 。",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层 易伤 。 NL 给予 !SV! 层 勒脖 。 || 有限 。 NL 同调 时 ， 敌人 NL 本回合失去 NL 4 点 力量 。",
 		"NAME": "栗林志乃"
 	},
 	"animator:Kuroyukihime":
@@ -616,7 +616,7 @@
 	},
 	"animator:Kyubey":
 	{
-		"DESCRIPTION": "获得 [E] [E] 。 NL 抽 !M! 张牌。 NL 消耗 。 || 战斗开始时， NL 随机添加 1 张 NL 诅咒 牌到弃牌堆。",
+		"DESCRIPTION": "获得 [E] [E] 。 NL 抽 !M! 张牌。 NL 消耗 。 || 战斗开始时 ， NL 随机添加 1 张 NL 诅咒 牌到弃牌堆。",
 		"NAME": "QB"
 	},
 	"animator:Lancer":
@@ -653,7 +653,7 @@
 	},
 	"animator:MaesHughes":
 	{
-		"DESCRIPTION": "抽牌堆中 NL 每有 !M! 张牌， NL 抽一张牌。 NL 激励 1 。 || 被 消耗 时， NL 从任何牌堆抽 1 张 NL 罗伊·马斯坦古 。 NL 本回合减少 1 点耗能。",
+		"DESCRIPTION": "抽牌堆中 NL 每有 !M! 张牌， NL 抽一张牌。 NL 激励 1 。 || 被 消耗 时 ， NL 从任何牌堆抽 1 张 NL 罗伊·马斯坦古 。 NL 本回合减少 1 点耗能。",
 		"NAME": "马斯·休斯"
 	},
 	"animator:Megumin":
@@ -684,7 +684,7 @@
 	},
 	"animator:MetalKnight":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害。 NL 生成 1 个 NL 等离子 充能球 。 NL 鼓舞 !SV! : NL 获得 !M! 层 金属化 。 || 被丢弃时， NL 每有 1 个 充能球 NL 获得 2 点 格挡 。",
+		"DESCRIPTION": "造成 !D! 点 伤害。 NL 生成 1 个 NL 等离子 充能球 。 NL 鼓舞 !SV! : NL 获得 !M! 层 金属化 。 || 被丢弃时 ， NL 每有 1 个 充能球 NL 获得 2 点 格挡 。",
 		"NAME": "金属骑士"
 	},
 	"animator:Mikaela":
@@ -694,7 +694,7 @@
 	},
 	"animator:Millim":
 	{
-		"DESCRIPTION": " 独一 。 NL 造成 !D! 点伤害。 NL 给予 !M! 层 NL 点燃 和 中毒 。 || 同调 ： NL 抽 2 张牌。",
+		"DESCRIPTION": " 独一 。 NL 造成 !D! 点伤害。 NL 给予 !M! 层 NL 点燃 和 中毒 。 || 同调 时 ， NL 抽 2 张牌。",
 		"NAME": "米莉姆"
 	},
 	"animator:MisaKurobane":
@@ -705,12 +705,12 @@
 	},
 	"animator:Mitsuba":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害。 NL 如果目标生命值 NL 比你多， NL 获得 !B! 格挡 。 || 被 消耗 时， NL 抽 !M! 张牌。",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 如果目标生命值 NL 比你多， NL 获得 !B! 格挡 。 || 被 消耗 时 ， NL 抽 !M! 张牌。",
 		"NAME": "三宫三叶"
 	},
 	"animator:Mitsurugi":
 	{
-		"DESCRIPTION": "如果敌人的 NL 意图是攻击， NL 造成 !D! 点伤害。 || 同调 或被 消耗 时， NL 获得 1 点 武力 。",
+		"DESCRIPTION": "如果敌人的 NL 意图是攻击， NL 造成 !D! 点伤害。 || 同调 或被 消耗 时 ， NL 获得 1 点 武力 。",
 		"EXTENDED_DESCRIPTION": ["来敌不敢妄动。"],
 		"NAME": "御剑响夜"
 	},
@@ -735,42 +735,42 @@
 	},
 	"animator:NivaLada":
 	{
-		"DESCRIPTION": "冷却 !SV! : NL 造成 300 点伤害 。 || 每当你丢弃 NL 或 消耗 牌时， NL 减少这张牌 NL 1 层 冷却 。",
+		"DESCRIPTION": "冷却 !SV! : NL 造成 300 点伤害 。 || 每当你丢弃 NL 或 消耗 牌时 ， NL 减少这张牌 NL 1 层 冷却 。",
 		"NAME": "妮娃·莱妲"
 	},
 	"animator:OrbCore_Aether":
 	{
-		"DESCRIPTION": "生成 !SV! 个 NL 凌风 充能球 。 || 每回合第二次 NL 同调 时， NL 抽 !M! 张牌 ， NL 然后丢弃 1 张牌 。",
+		"DESCRIPTION": "生成 !SV! 个 NL 凌风 充能球 。 || 每回合第二次 NL 同调 时 ， NL 抽 !M! 张牌 ， NL 然后丢弃 1 张牌 。",
 		"NAME": "凌风核心"
 	},
 	"animator:OrbCore_Chaos":
 	{
-		"DESCRIPTION": "生成 !SV! 个 NL 随机充能球 。 || 每回合第二次 NL 同调 时， NL 发现 1 张牌 。",
+		"DESCRIPTION": "生成 !SV! 个 NL 随机充能球 。 || 每回合第二次 NL 同调 时 ， NL 发现 1 张牌 。",
 		"NAME": "混沌核心"
 	},
 	"animator:OrbCore_Dark":
 	{
-		"DESCRIPTION": "生成 !SV! 个 NL 暗黑 充能球 。 || 每回合第二次 NL 同调 时， NL 对 1 个随机敌人 NL 造成 !M! 层 NL 虚弱 和 易伤 。",
+		"DESCRIPTION": "生成 !SV! 个 NL 暗黑 充能球 。 || 每回合第二次 NL 同调 时 ， NL 对 1 个随机敌人 NL 造成 !M! 层 NL 虚弱 和 易伤 。",
 		"NAME": "暗黑核心"
 	},
 	"animator:OrbCore_Fire":
 	{
-		"DESCRIPTION": "生成 !SV! 个 NL 火焰 充能球 。 || 每回合第二次 NL 同调 时， NL 对所有敌人 NL 给予 !M! 层 点燃 。",
+		"DESCRIPTION": "生成 !SV! 个 NL 火焰 充能球 。 || 每回合第二次 NL 同调 时 ， NL 对所有敌人 NL 给予 !M! 层 点燃 。",
 		"NAME": "火焰核心"
 	},
 	"animator:OrbCore_Frost":
 	{
-		"DESCRIPTION": "生成 !SV! 个 NL 冰霜 充能球 。 || 每回合第二次 NL 同调 时， NL 获得 !M! 层 多层护甲 。",
+		"DESCRIPTION": "生成 !SV! 个 NL 冰霜 充能球 。 || 每回合第二次 NL 同调 时 ， NL 获得 !M! 层 多层护甲 。",
 		"NAME": "冰霜核心"
 	},
 	"animator:OrbCore_Lightning":
 	{
-		"DESCRIPTION": "生成 !SV! 个 NL 闪电 充能球 。  || 每回合第二次 NL 同调 时， NL 对所有敌人 NL 造成 !M! 点伤害。",
+		"DESCRIPTION": "生成 !SV! 个 NL 闪电 充能球 。  || 每回合第二次 NL 同调 时 ， NL 对所有敌人 NL 造成 !M! 点伤害。",
 		"NAME": "闪电核心"
 	},
 	"animator:OrbCore_Plasma":
 	{
-		"DESCRIPTION": "生成 !SV! 个 NL 等离子 充能球。 || 每回合第二次 NL 同调 时， NL 获得 !M! 临时生命 。",
+		"DESCRIPTION": "生成 !SV! 个 NL 等离子 充能球。 || 每回合第二次 NL 同调 时 ， NL 获得 !M! 临时生命 。",
 		"NAME": "等离子核心"
 	},
 	"animator:Overheat":
@@ -780,7 +780,7 @@
 	},
 	"animator:PandorasActor":
 	{
-		"DESCRIPTION": "穿越者 。 NL 获得 !B! 点 格挡 。 || 本场战斗开始时， NL 打出这张牌。",
+		"DESCRIPTION": "穿越者 。 NL 获得 !B! 点 格挡 。 || 本场战斗开始时 ， NL 打出这张牌。",
 		"NAME": "潘多拉·亚克特"
 	},
 	"animator:PinaCoLada":
@@ -791,20 +791,20 @@
 	},
 	"animator:Pride":
 	{
-		"DESCRIPTION": " 穿越者 。 NL 造成 !SV! 层 缠绕[] 。 NL #y生成 !M! 个 黑暗 充能球 。 NL 消耗 。 || 直到下一个 NL 回合， 当你受到 NL 未被格挡的伤害时， NL 你最右侧的暗黑 NL 充能球 失去 NL 等量的伤害充能。",
+		"DESCRIPTION": " 穿越者 。 NL 造成 !SV! 层 缠绕[] 。 NL #y生成 !M! 个 黑暗 充能球 。 NL 消耗 。 || 直到下一个 NL 回合， 当你受到 NL 未被格挡的伤害时 ， NL 你最右侧的暗黑 NL 充能球 失去 NL 等量的伤害充能。",
 		"NAME": "傲慢"
 	},
 	"animator:Priestess":
 	{
-		"DESCRIPTION": "获得 !M! 点 临时生命 。 NL 给予 !SV! 层 虚弱 。 || 同调 ： NL 随机 消耗 1 张 NL 状态牌或诅咒牌 。",
+		"DESCRIPTION": "获得 !M! 点 临时生命 。 NL 给予 !SV! 层 虚弱 。 || 同调 时 ， NL 随机 消耗 1 张 NL 状态牌或诅咒牌 。",
 		"NAME": "女神官",
-		"UPGRADE_DESCRIPTION": "获得 !M! 点 临时生命 。 NL 对所有敌人 NL 给予 !SV! 层 虚弱 。 || 同调 ： NL 随机消耗 1 张 NL 状态牌或诅咒牌 。"
+		"UPGRADE_DESCRIPTION": "获得 !M! 点 临时生命 。 NL 对所有敌人 NL 给予 !SV! 层 虚弱 。 || 同调 时 ， NL 随机消耗 1 张 NL 状态牌或诅咒牌 。"
 	},
 	"animator:QuestionMark":
 	{
-		"DESCRIPTION": "被抽到时， NL 变成一张 NL 随机牌的复制品， NL 并带有 穿越者 。",
+		"DESCRIPTION": "被抽到时 ， NL 变成一张 NL 随机牌的复制品， NL 并带有 穿越者 。",
 		"NAME": "问号",
-		"UPGRADE_DESCRIPTION": "被抽到时， NL 变成一张已升级的 NL 随机牌的复制品， NL 并带有 穿越者 。"
+		"UPGRADE_DESCRIPTION": "被抽到时 ， NL 变成一张已升级的 NL 随机牌的复制品， NL 并带有 穿越者 。"
 	},
 	"animator:Raven":
 	{
@@ -813,7 +813,7 @@
 	},
 	"animator:Rena":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 获得 1 张飞刀。 || 有限 。 NL 同调或被丢弃时， NL 得到 !SV! 层 残影 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 获得 1 张飞刀。 || 有限 。 NL 同调或被丢弃时 ， NL 得到 !SV! 层 残影 。",
 		"NAME": "蕾娜‧艾兰黛"
 	},
 	"animator:Respite":
@@ -823,13 +823,13 @@
 	},
 	"animator:Rimuru":
 	{
-		"DESCRIPTION": "当你打出一张牌时， NL 将这张牌变成 NL 那张牌的复制 。",
+		"DESCRIPTION": "当你打出一张牌时 ， NL 将这张牌变成 NL 那张牌的复制 。",
 		"NAME": "利姆鲁",
-		"UPGRADE_DESCRIPTION": "保留 。 当你打出一张牌时， NL 将这张牌变成 NL 那张牌的复制 。"
+		"UPGRADE_DESCRIPTION": "保留 。 当你打出一张牌时 ， NL 将这张牌变成 NL 那张牌的复制 。"
 	},
 	"animator:RinTohsaka":
 	{
-		"DESCRIPTION": "法师 6 。 NL 生成 !M! 个你还没有的随机充能球 。 获得 !B! 点 格挡 。 消耗 。 || 有限 。 被抽到时， 获得 NL 1 点 临时 人工制品 。",
+		"DESCRIPTION": "法师 6 。 NL 生成 !M! 个你还没有的随机充能球 。 获得 !B! 点 格挡 。 消耗 。 || 有限 。 被抽到时 ， 获得 NL 1 点 临时 人工制品 。",
 		"NAME": "远坂凛"
 	},
 	"animator:RoryMercury":
@@ -849,25 +849,25 @@
 	},
 	"animator:Saber":
 	{
-		"DESCRIPTION": "忠诚 。 NL 造成 !D! 点伤害。 NL 冷却 !SV! : 抹除 ， NL 并获得 誓约胜利之剑[] 。 || 同调 ： NL 额外降低这张牌的 冷却 2 点 。",
+		"DESCRIPTION": "忠诚 。 NL 造成 !D! 点伤害。 NL 冷却 !SV! : 抹除 ， NL 并获得 誓约胜利之剑[] 。 || 同调 时 ， NL 额外降低这张牌的 冷却 2 点 。",
 		"NAME": "Saber",
-		"UPGRADE_DESCRIPTION": "固有。 忠诚 。 NL 造成 !D! 点伤害。 NL 冷却 !SV! : 抹除 ， NL 并获得 誓约胜利之剑[] 。 || 同调 ： NL 额外降低这张牌的 冷却 2 点 。"
+		"UPGRADE_DESCRIPTION": "固有。 忠诚 。 NL 造成 !D! 点伤害。 NL 冷却 !SV! : 抹除 ， NL 并获得 誓约胜利之剑[] 。 || 同调 时 ， NL 额外降低这张牌的 冷却 2 点 。"
 	},
 	"animator:Saitama":
 	{
-		"DESCRIPTION": " || 每当打出 NL 这张牌时， NL 本场战斗增加 NL 其耗能并 NL 改变效果。",
+		"DESCRIPTION": " || 每当打出 NL 这张牌时 ， NL 本场战斗增加 NL 其耗能并 NL 改变效果。",
 		"EXTENDED_DESCRIPTION": ["抽 !M! 张牌 。 NL 获得 !SV! 层 机敏 。", "阻止下一次 NL 你受到的 NL 生命损伤。", "获得 !B! 点 格挡 。 NL 获得 !M! 点 武力 。", "造成 !D! 点伤害 !M! 次 。", "移除 无实体 。 NL 造成 !D! 点伤害。 NL 给予一层 眩晕 。"],
 		"NAME": "埼玉",
-		"UPGRADE_DESCRIPTION": "固有 。 || 每当打出这张牌时，本场战斗增加其耗能并改变效果。"
+		"UPGRADE_DESCRIPTION": "固有 。 || 每当打出这张牌时 ，本场战斗增加其耗能并改变效果。"
 	},
 	"animator:Scar":
 	{
-		"DESCRIPTION": "造成 !D! 点 穿刺 伤害。 当激发一个充能球时，抽出这张牌并将他的耗能本回合降低 1 点。 || 昙现 。 如果这张牌在前三个回合， NL 永久升级 1 张随机牌。",
+		"DESCRIPTION": "造成 !D! 点 穿刺 伤害。 当激发一个充能球时 ，抽出这张牌并将他的耗能本回合降低 1 点。 || 昙现 。 如果这张牌在前三个回合， NL 永久升级 1 张随机牌。",
 		"NAME": "斯卡"
 	},
 	"animator:Sebas":
 	{
-		"DESCRIPTION": "每有 1 个敌人 NL 企图攻击， NL 获得 !B! 点 格挡 。 NL 获得 !M! 层 荆棘 。 NL 消耗 。 || 被弃牌时， NL 获得 !SV! 点 NL 临时生命 。",
+		"DESCRIPTION": "每有 1 个敌人 NL 企图攻击， NL 获得 !B! 点 格挡 。 NL 获得 !M! 层 荆棘 。 NL 消耗 。 || 被弃牌时 ， NL 获得 !SV! 点 NL 临时生命 。",
 		"NAME": "塞巴斯"
 	},
 	"animator:SeriousSaitama":
@@ -883,7 +883,7 @@
 	},
 	"animator:Shichika":
 	{
-		"DESCRIPTION": "武师 3 。 NL 获得 !M! 点 武力 。 NL 获得 1 张 NL 虚刀流 。 NL 消耗 。 || 同调， NL 获得 1 点 机敏 NL 和 2 点 荆棘 。",
+		"DESCRIPTION": "武师 3 。 NL 获得 !M! 点 武力 。 NL 获得 1 张 NL 虚刀流 。 NL 消耗 。 || 同调 时 ， NL 获得 1 点 机敏 NL 和 2 点 荆棘 。",
 		"NAME": "鑢七花"
 	},
 	"animator:ShichikaKyotouryuu":
@@ -893,7 +893,7 @@
 	},
 	"animator:Shigure":
 	{
-		"DESCRIPTION": "造成 !M! 层 中毒 。 NL 造成 !D! 点 NL 穿刺 伤害。 || 同调 或 被 消耗 时， NL 获得 !SV! 点 支援伤害 。",
+		"DESCRIPTION": "造成 !M! 层 中毒 。 NL 造成 !D! 点 NL 穿刺 伤害。 || 同调 或 被 消耗 时 ， NL 获得 !SV! 点 支援伤害 。",
 		"NAME": "时雨"
 	},
 	"animator:ShikizakiKiki":
@@ -909,12 +909,12 @@
 	},
 	"animator:Shinoa":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 对所有敌人 NL 给予 !M! 层 易伤 。 || 同调 或被 消耗 ， NL 对所有敌人 NL 给予 !M! 层 虚弱 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 对所有敌人 NL 给予 !M! 层 易伤 。 || 同调 或被 消耗 ： NL 对所有敌人 NL 给予 !M! 层 虚弱 。",
 		"NAME": "柊筱娅"
 	},
 	"animator:Shiro":
 	{
-		"DESCRIPTION": "本回合每 NL 同调 1 次， NL 这张牌的耗能 NL 就减少 1 点。 NL 回合开始时， NL 获得 [E] 。 || 从抽牌堆 NL 抽 1 张 NL 索拉 。",
+		"DESCRIPTION": "本回合每 NL 同调 1 次， NL 这张牌的耗能 NL 就减少 1 点。 NL 回合开始时 ， NL 获得 [E] 。 || 从抽牌堆 NL 抽 1 张 NL 索拉 。",
 		"NAME": "白"
 	},
 	"animator:Shizu":
@@ -925,28 +925,28 @@
 	},
 	"animator:Shuna":
 	{
-		"DESCRIPTION": "获得 !M! 点 NL 临时生命 。 NL 抽 1 张牌。 || 同调 或被抽到: NL 获得 !B! 点 格挡 。",
+		"DESCRIPTION": "获得 !M! 点 NL 临时生命 。 NL 抽 1 张牌。 || 同调 或被抽到 ： NL 获得 !B! 点 格挡 。",
 		"NAME": "朱菜"
 	},
 	"animator:SilverFang":
 	{
-		"DESCRIPTION": "武师 。 NL 造成 !D! 点伤害。 NL 获得 !B! 点 格挡 。 || 同调 ： NL 获得 1 点 机敏 。",
+		"DESCRIPTION": "武师 。 NL 造成 !D! 点伤害。 NL 获得 !B! 点 格挡 。 || 同调 时 ， NL 获得 1 点 机敏 。",
 		"NAME": "银色獠牙"
 	},
 	"animator:SirTouchMe":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害。 NL 获得 !M! 层 战神 。 NL 获得 !B! 点 格挡 。 || 每场战斗 NL 开始时， 获得 NL !SV! 层 多层护甲 。",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 获得 !M! 层 战神 。 NL 获得 !B! 点 格挡 。 || 每场战斗 NL 开始时 ， 获得 NL !SV! 层 多层护甲 。",
 		"NAME": "塔其·米"
 	},
 	"animator:Sloth":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害。 NL !M! 回合内， NL 不能被打出。 NL 消耗 。 || 被 消耗 时， NL 获得 2 点 武力 。",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL !M! 回合内， NL 不能被打出。 NL 消耗 。 || 被 消耗 时 ， NL 获得 2 点 武力 。",
 		"EXTENDED_DESCRIPTION": ["造成 !D! 点伤害。 NL 消耗 。"],
 		"NAME": "懒惰"
 	},
 	"animator:Sonic":
 	{
-		"DESCRIPTION": "武师 6 。 NL 获得 !M! 张 飞刀 。 NL 获得 !SV! 点 机敏 。 || 同调， NL 获得 !B! 点 格挡 NL 和 1 层 残影 。",
+		"DESCRIPTION": "武师 6 。 NL 获得 !M! 张 飞刀 。 NL 获得 !SV! 点 机敏 。 || 同调 时 ， NL 获得 !B! 点 格挡 NL 和 1 层 残影 。",
 		"NAME": "音速索尼克"
 	},
 	"animator:Sora":
@@ -972,7 +972,7 @@
 	},
 	"animator:Strike_AccelWorld":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害 。 || 被丢弃时， NL 对随机一名敌人 NL 造成 !M! 点伤害。",
+		"DESCRIPTION": "造成 !D! 点伤害 。 || 被丢弃时 ， NL 对随机一名敌人 NL 造成 !M! 点伤害。",
 		"NAME": "改良打击"
 	},
 	"animator:Strike_Elsword":
@@ -1047,9 +1047,9 @@
 	},
 	"animator:SwordMaiden":
 	{
-		"DESCRIPTION": "获得 !M! 点 NL 临时生命 。 NL 移除最右边 NL 的负面效果。 NL 消耗 。 || 昙现 。 NL 战斗开始时， NL 随机获得 NL 2 点 智力， NL 机敏 或 武力 。",
+		"DESCRIPTION": "获得 !M! 点 NL 临时生命 。 NL 移除最右边 NL 的负面效果。 NL 消耗 。 || 昙现 。 NL 战斗开始时 ， NL 随机获得 NL 2 点 智力， NL 机敏 或 武力 。",
 		"NAME": "剑之圣女",
-		"UPGRADE_DESCRIPTION": "获得 !M! 点 NL 临时生命 。 NL 移除最右边 NL 的负面效果。 || 昙现 。 NL 战斗开始时， NL 随机获得 NL 2 点 智力， NL 机敏 或 武力 。"
+		"UPGRADE_DESCRIPTION": "获得 !M! 点 NL 临时生命 。 NL 移除最右边 NL 的负面效果。 || 昙现 。 NL 战斗开始时 ， NL 随机获得 NL 2 点 智力， NL 机敏 或 武力 。"
 	},
 	"animator:TakanashiRikka":
 	{
@@ -1058,7 +1058,7 @@
 	},
 	"animator:TanyaDegurechaff":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 丢弃所有 技能牌 。 NL 每丢弃一张 NL 造成 !D! 点伤害。 || 昙现 。 NL 战斗开始时， NL 将 1 张 NL 艾连穆姆九五式 NL 加入抽牌堆。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 丢弃所有 技能牌 。 NL 每丢弃一张 NL 造成 !D! 点伤害。 || 昙现 。 NL 战斗开始时 ， NL 将 1 张 NL 艾连穆姆九五式 NL 加入抽牌堆。",
 		"NAME": "谭雅·提古雷查夫"
 	},
 	"animator:TanyaDegurechaff_Type95":
@@ -1073,9 +1073,9 @@
 	},
 	"animator:Tet":
 	{
-		"DESCRIPTION": "最多选择抽牌堆 NL 中的 2 张牌丢弃。 NL 将弃牌堆中的 2 张牌 NL 移入抽牌堆。 || 有限 。 NL 同调 ： NL 获得 [E] 。",
+		"DESCRIPTION": "最多选择抽牌堆 NL 中的 2 张牌丢弃。 NL 将弃牌堆中的 2 张牌 NL 移入抽牌堆。 || 有限 。 NL 同调 时 ， NL 获得 [E] 。",
 		"NAME": "特图",
-		"UPGRADE_DESCRIPTION": "保留。 NL 最多选择抽牌堆 NL 中的 2 张牌丢弃。 NL 将弃牌堆中的 2 张牌 NL 移入抽牌堆。 || 有限 。 NL 同调 ： NL 获得 [E] 。"
+		"UPGRADE_DESCRIPTION": "保留。 NL 最多选择抽牌堆 NL 中的 2 张牌丢弃。 NL 将弃牌堆中的 2 张牌 NL 移入抽牌堆。 || 有限 。 NL 同调 时 ， NL 获得 [E] 。"
 	},
 	"animator:TheHaunt":
 	{
@@ -1084,17 +1084,17 @@
 	},
 	"animator:ThrowingKnife_0":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层 虚弱 。 NL 抹除 。 || 被丢弃时， NL 对随机敌人 NL 打出这张牌。",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层 虚弱 。 NL 抹除 。 || 被丢弃时 ， NL 对随机敌人 NL 打出这张牌。",
 		"NAME": "飞刀"
 	},
 	"animator:ThrowingKnife_1":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层 易伤 。 NL 抹除 。 || 被丢弃时， NL 对随机敌人 NL 打出这张牌。",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层 易伤 。 NL 抹除 。 || 被丢弃时 ， NL 对随机敌人 NL 打出这张牌。",
 		"NAME": "飞刀"
 	},
 	"animator:ThrowingKnife_2":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层 中毒 。 NL 抹除 。 || 被丢弃时， NL 对随机敌人 NL 打出这张牌。",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 给予 !M! 层 中毒 。 NL 抹除 。 || 被丢弃时 ， NL 对随机敌人 NL 打出这张牌。",
 		"NAME": "飞刀"
 	},
 	"animator:Togame":
@@ -1153,12 +1153,12 @@
 	},
 	"animator:Witch":
 	{
-		"DESCRIPTION": "法师 2 。 NL 对所有敌人 NL 给予 !M! 层 点燃 。 NL 获得 !B! 点 格挡 。 || 每场精英战 NL 开始时， 获得 NL 1 随机药水。",
+		"DESCRIPTION": "法师 2 。 NL 对所有敌人 NL 给予 !M! 层 点燃 。 NL 获得 !B! 点 格挡 。 || 每场精英战 NL 开始时 ， 获得 NL 1 随机药水。",
 		"NAME": "魔女"
 	},
 	"animator:Wiz":
 	{
-		"DESCRIPTION": "消耗 1 张牌， NL 从消耗堆中 NL 选择一张牌并 NL 获得它的复制。 NL 抹除 。 || 昙现 。 NL 同调 ：这张牌 NL 不会被抹除。",
+		"DESCRIPTION": "消耗 1 张牌， NL 从消耗堆中 NL 选择一张牌并 NL 获得它的复制。 NL 抹除 。 || 昙现 。 NL 同调 时 ，这张牌 NL 不会被抹除。",
 		"NAME": "维兹"
 	},
 	"animator:YaoHaDucy":
