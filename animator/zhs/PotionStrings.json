@@ -4,7 +4,15 @@
     "NAME": "虚命药剂",
     "DESCRIPTIONS":
 	[
-      "获得 #b"," 点 #y临时生命 。"
+      "获得 #b{0} 点 #y临时生命 。"
+    ]
+  },
+  "animator:GrowthPotion": 
+  {
+    "NAME": "Exp. Potion",
+    "DESCRIPTIONS": 
+	[ 
+      "Gain #b{0} #yForce, #yIntellect and #yAgility."
     ]
   }
 }

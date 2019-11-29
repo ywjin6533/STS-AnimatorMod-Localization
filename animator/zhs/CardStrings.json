@@ -547,9 +547,8 @@
 	},
 	"animator:IchigoKurosaki":
 	{
-		"DESCRIPTION": "武师 。 NL 获得 !M! 点 武力 。 NL 消耗 。 || 被 消耗 ： NL 如果你拥有至少 NL !SV! 点 力量 ， NL 添加 1 张 NL 天锁斩月 NL 到抽牌堆 。",
-		"NAME": "黑崎一护",
-		"UPGRADE_DESCRIPTION": "武师 。 NL 获得 !M! 点 武力 。NL 获得 !M! 点 机敏 。 NL 消耗 。 || 被 消耗 ： NL 如果你拥有至少 NL !SV! 点 力量 ， NL 添加 1 张 NL 天锁斩月 NL 到抽牌堆 。"
+		"DESCRIPTION": "武师 4 。 NL 获得 !M! 点 武力 。 NL 获得 !M! 点 机敏 。 NL 消耗 。 || 被 消耗 ： NL 如果你拥有至少 NL !SV! 点 力量 ， NL 添加 1 张 NL 天锁斩月 NL 到抽牌堆 。",
+		"NAME": "黑崎一护"
 	},
 	"animator:Illya":
 	{
