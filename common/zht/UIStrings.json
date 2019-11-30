@@ -4,12 +4,20 @@
   {
 	"TEXT":
 	[
-	  "You can hold #pRight #pClick at any moment to view this effect or you can press #pControl to toggle.",
-	  "Triggers on Synergy.",
-	  "Triggers when Discarded.",
-	  "Triggers when Exhausted.",
-	  "Triggers when Drawn.",
-	  "Special Effect."
-	]
+	  "可隨時 #b右鍵 或按 #bCtrl 查看效果。",
+	  " 同調 時觸發。",
+	  "丟棄時觸發。",
+	  " 消耗 時觸發。",
+	  "抽到時觸發。",
+	  "特殊效果。"
+	],
+  "EXTRA_TEXT":
+		[
+			" 同調 時",
+			"丟棄時",
+			" 消耗 時",
+			"抽到時",
+			"特殊"
+		]
   }
 }
