@@ -547,9 +547,8 @@
 	},
 	"animator:IchigoKurosaki":
 	{
-		"DESCRIPTION": "武师 。 NL 获得 !M! 点 武力 。 NL 消耗 。 || 被 消耗 ： NL 如果你拥有至少 NL !SV! 点 力量 ， NL 添加 1 张 NL 天锁斩月 NL 到抽牌堆 。",
-		"NAME": "黑崎一护",
-		"UPGRADE_DESCRIPTION": "武师 。 NL 获得 !M! 点 武力 。NL 获得 !M! 点 机敏 。 NL 消耗 。 || 被 消耗 ： NL 如果你拥有至少 NL !SV! 点 力量 ， NL 添加 1 张 NL 天锁斩月 NL 到抽牌堆 。"
+		"DESCRIPTION": "武师 4 。 NL 获得 !M! 点 武力 。 NL 获得 1 点 机敏 。 NL 消耗 。 || 被 消耗 ： NL 如果你拥有至少 NL !SV! 点 力量 ， NL 添加 1 张 NL 天锁斩月 NL 到抽牌堆 。",
+		"NAME": "黑崎一护"
 	},
 	"animator:Illya":
 	{
@@ -621,7 +620,7 @@
 	},
 	"animator:Lancer":
 	{
-		"DESCRIPTION": "武师 。 NL 造成 !D! 点 NL 穿刺 伤害。 NL 对低于50%生命 NL 的敌人造成 NL 双倍伤害。 || 如果敌人拥有格挡， NL 给予 1 层 NL 虚弱 和 易伤 。",
+		"DESCRIPTION": "武师 。 NL 造成 !D! 点 NL 穿刺 伤害。 NL 给予 !M! 层 易伤 。 || 这张牌的根据敌人损失的血量百分比增加伤害。",
 		"NAME": "Lancer"
 	},
 	"animator:Layla":
