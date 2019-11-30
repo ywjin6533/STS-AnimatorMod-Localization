@@ -38,13 +38,13 @@
 	},
 	"animator:CursedBlade":
 	{
-		"DESCRIPTIONS": ["战斗开始时拥有 #b{0} 点 #y武力 。 每当你受到未被格挡的攻击伤害时, 增加 #y伤口 到你的手中。"],
+		"DESCRIPTIONS": ["战斗开始时拥有 #b{0} 点 #y武力 。 每当你受到未被格挡的攻击伤害时, 增加 #y伤口 到你的手牌。"],
 		"FLAVOR": "力量都有代价。",
 		"NAME": "诅咒之刃"
 	},
 	"animator:CursedGlyph":
 	{
-		"DESCRIPTIONS": ["拾起时， #r失去 #r{0} 点 #r最大生命，提升所有敌人的生命上限。 NL NL 与此遗物连系的牌 #y不能 被复制。"],
+		"DESCRIPTIONS": ["拾起时， #r失去 #r{0} 点 #r最大生命，提升所有敌人的最大生命。 NL NL 与此遗物连系的牌 #y不能 被复制。"],
 		"FLAVOR": "这可能是个错误……",
 		"NAME": "诅咒符文"
 	},
@@ -72,13 +72,13 @@
 	},
 	"animator:HeavyHalberd":
 	{
-		"DESCRIPTIONS": ["回合开始时， 每有一个敌人有易伤则获得 #b{0} 点 #y武力 。"],
+		"DESCRIPTIONS": ["回合开始时， 每有一个敌人有 #y易伤 则获得 #b{0} 点 #y武力 。"],
 		"FLAVOR": "统治死亡即统治生命，死即生之巅峰。崇敬生命，拥抱死亡。",
 		"NAME": "重戟"
 	},
 	"animator:Hoodie":
 	{
-		"DESCRIPTIONS": ["如果你在一场战斗没有受到伤害， 获得 #b{0} #y生命上限 。"],
+		"DESCRIPTIONS": ["如果你在一场战斗没有受到伤害， 获得 #b{0} #y最大生命 。"],
 		"FLAVOR": "有了这个，你说不定会被英雄协会承认。",
 		"NAME": "披风"
 	},
@@ -162,7 +162,7 @@
 	},
 	"animator:VividPicture":
 	{
-		"DESCRIPTIONS": ["代替 #y活着的油画。 NL 每轮一次， #y同调 时， 抽 #b1 张牌并获得 [E]"],
+		"DESCRIPTIONS": ["代替 #y活着的油画。 NL 每回合一次， #y同调 时， 抽 #b1 张牌并获得 [E]"],
 		"FLAVOR": "他……他在看着。",
 		"NAME": "生动的油画"
 	},
@@ -174,7 +174,7 @@
 	},
 	"animator:WornHelmet":
 	{
-		"DESCRIPTIONS": ["每场战斗开始时获得 #b{0} 点 #y格挡 。 每回合结束时，手中每有一张 #y状态 牌或者 #y诅咒 牌得到 #b{1} 点 #y格挡 。"],
+		"DESCRIPTIONS": ["每场战斗开始时获得 #b{0} 点 #y格挡 。 每回合结束时，手牌每有一张 #y状态 牌或者 #y诅咒 牌得到 #b{1} 点 #y格挡 。"],
 		"FLAVOR": "哥布林。",
 		"NAME": "破碎的头盔"
 	}
