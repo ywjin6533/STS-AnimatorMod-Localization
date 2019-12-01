@@ -48,10 +48,10 @@
 	},
 	"animator:Aqua":
 	{
-		"DESCRIPTION": "回復 !M! 點生命。 NL 抽 1 張牌。 NL 在本場戰鬥中變得更加沒用。",
+		"DESCRIPTION": "回復 !M! 點生命。 NL 抽 1 張牌。 NL 在本場戰鬥中變得非常沒用。",
 		"EXTENDED_DESCRIPTION": ["", " 被 消耗  或 被丟棄 ： NL 獲得 !SV! 點 臨時生命 。"],
 		"NAME": "阿庫婭",
-		"UPGRADE_DESCRIPTION": "回復 !M! 點生命。 NL 抽 1 張牌。 NL 在本場戰鬥中慢些變得沒用。"
+		"UPGRADE_DESCRIPTION": "回復 !M! 點生命。 NL 抽 1 張牌。 NL 在本場戰鬥中變得沒用。"
 	},
 	"animator:Ara":
 	{
