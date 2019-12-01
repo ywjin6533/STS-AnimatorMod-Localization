@@ -490,7 +490,7 @@
 	{
 		"DESCRIPTION": "武师 。 NL 造成 !D! 点伤害 NL !M! 次 。 || 被抽到或 同调 : NL 获得 1 机敏 。",
 		"EXTENDED_DESCRIPTION": ["武师", "与 武师 同调 。 每有 1 点 敏捷 ， 造成 #b1 点额外伤害。"],
-		"NAME": " "
+		"NAME": "白老"
 	},
 	"animator:HarukoHaruhara":
 	{
