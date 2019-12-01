@@ -355,7 +355,7 @@
 	},
 	"animator:Entoma":
 	{
-		"DESCRIPTION": "独一 。 NL 造成 !D! 点 伤害。 NL 给予 !M! 层 中毒 。 NL 每回合失去 1 点伤害。 || 昙现 ：如果 NL 这张牌消灭了敌人： NL 获得 2 点最大生命 NL 并永久 升级 。",
+		"DESCRIPTION": " #y独一[] 。 NL 造成 !D! 点 伤害。 NL 给予 !M! 层 中毒 。 NL 每回合失去 1 点伤害。 || 昙现 ：如果 NL 这张牌消灭了敌人： NL 获得 2 点最大生命 NL 并永久 升级 。",
 		"NAME": "艾多玛"
 	},
 	"animator:EntouJyuu":
@@ -419,7 +419,7 @@
 	},
 	"animator:Gilgamesh":
 	{
-		"DESCRIPTION": "独一 。 NL 对一个敌人造成 NL !D! 点伤害 3 次。 || 每当你在非商店处 NL 获得遗物时， NL 升级 这张牌 NL 并获得 !SV! 金币 。",
+		"DESCRIPTION": " #y独一[] 。 NL 对一个敌人造成 NL !D! 点伤害 3 次。 || 每当你在非商店处 NL 获得遗物时， NL 升级 这张牌 NL 并获得 !SV! 金币 。",
 		"NAME": "吉尔伽美什"
 	},
 	"animator:Gillette":
@@ -657,7 +657,7 @@
 	},
 	"animator:Megumin":
 	{
-		"DESCRIPTION": "法师 。 独一 。 NL 对所有敌人造成 !D! 点伤害。 NL 消耗 。 || 昙现 。 NL 同调 : NL 永久 升级 。",
+		"DESCRIPTION": "法师 。 #y独一[] 。 NL 对所有敌人造成 !D! 点伤害。 NL 消耗 。 || 昙现 。 NL 同调 : NL 永久 升级 。",
 		"NAME": "惠惠"
 	},
 	"animator:Melzalgald":
@@ -693,7 +693,7 @@
 	},
 	"animator:Millim":
 	{
-		"DESCRIPTION": " 独一 。 NL 造成 !D! 点伤害。 NL 给予 !M! 层 NL 点燃 和 中毒 。 || 同调 ： NL 抽 2 张牌。",
+		"DESCRIPTION": " #y独一[] 。 NL 造成 !D! 点伤害。 NL 给予 !M! 层 NL 点燃 和 中毒 。 || 同调 ： NL 抽 2 张牌。",
 		"NAME": "米莉姆"
 	},
 	"animator:MisaKurobane":
