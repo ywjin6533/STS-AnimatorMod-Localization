@@ -159,9 +159,9 @@
 	},
 	"animator:CowGirl":
 	{
-		"DESCRIPTION": "从抽牌堆 NL 抽取 一张 0 耗能 的牌。 NL 消耗 。 || 昙现 : NL 被丢弃 NL 激励 1 。",
+		"DESCRIPTION": "从抽牌堆 NL 取出 一张 0 耗能 的牌。 NL 消耗 。 || 昙现 : NL 被丢弃 NL 激励 1 。",
 		"NAME": "奶牛妹",
-		"UPGRADE_DESCRIPTION": "从抽牌堆和弃牌堆 NL 抽取一张 0耗能 的牌。 NL 消耗 。 || 昙现 : NL 被丢弃 NL 激励 1 。"
+		"UPGRADE_DESCRIPTION": "从抽牌堆和弃牌堆 NL 取出一张 0耗能 的牌。 NL 消耗 。 || 昙现 : NL 被丢弃 NL 激励 1 。"
 	},
 	"animator:CrowleyEusford":
 	{
@@ -302,9 +302,9 @@
 	},
 	"animator:DolaStephanie":
 	{
-		"DESCRIPTION": "选择一张手牌， NL 抽取 1 张 NL 同系列的牌。 NL 消耗 。",
+		"DESCRIPTION": "选择一张手牌， NL 取出 1 张 NL 同系列的牌。 NL 消耗 。",
 		"NAME": "史蒂芬妮·多拉",
-		"UPGRADE_DESCRIPTION": "选择一张手牌， NL 抽取 1 张 NL 同系列的牌。"
+		"UPGRADE_DESCRIPTION": "选择一张手牌， NL 取出 1 张 NL 同系列的牌。"
 	},
 	"animator:DwarfShaman":
 	{
@@ -408,7 +408,7 @@
 	},
 	"animator:Genos":
 	{
-		"DESCRIPTION": "造成 !D! 伤害。 NL 给予 !M! 层 点燃 。 NL 回合结束时受到 NL !SV! 点伤害。 || 有限 。 NL 同调 ： 抽取 1 张 NL 3 耗能以上的牌 NL 并保留它。",
+		"DESCRIPTION": "造成 !D! 伤害。 NL 给予 !M! 层 点燃 。 NL 回合结束时受到 NL !SV! 点伤害。 || 有限 。 NL 同调 ： 取出 1 张 NL 3 耗能以上的牌 NL 并保留它。",
 		"NAME": "杰诺斯"
 	},
 	"animator:Geryuganshoop":
@@ -521,7 +521,7 @@
 	},
 	"animator:HiiragiShinya":
 	{
-		"DESCRIPTION": "获得 !B! 格挡 。 NL 从弃牌堆 抽取 NL 1 张牌 并 保留 。 NL 本回合耗能加 1 。 || 同调 ： NL 获得 !M! NL 支援伤害。",
+		"DESCRIPTION": "获得 !B! 格挡 。 NL 从弃牌堆 取出 NL 1 张牌 并 保留 。 NL 本回合耗能加 1 。 || 同调 ： NL 获得 !M! NL 支援伤害。",
 		"NAME": "柊深夜"
 	},
 	"animator:HiiragiTenri":
@@ -552,7 +552,7 @@
 	},
 	"animator:Illya":
 	{
-		"DESCRIPTION": "打出抽牌堆中 NL 伤害最高的 攻击 牌 。 NL 回合结束时 NL 受到 !M! 点 伤害 。 || 被 消耗 ： NL 从牌堆 抽取 1 张 NL berserker NL 并获得 [E] 。",
+		"DESCRIPTION": "打出抽牌堆中 NL 伤害最高的 攻击 牌 。 NL 回合结束时 NL 受到 !M! 点 伤害 。 || 被 消耗 ： NL 从牌堆 取出 1 张 NL berserker NL 并获得 [E] 。",
 		"NAME": "伊莉雅"
 	},
 	"animator:ItamiYouji":
@@ -652,7 +652,7 @@
 	},
 	"animator:MaesHughes":
 	{
-		"DESCRIPTION": "抽牌堆中 NL 每有 !M! 张牌， NL 抽一张牌。 NL 激励 1 。 || 被 消耗 ： NL 抽取 1 张 NL 罗伊·马斯坦古 。 NL 它的耗能本回合减少 1 点。",
+		"DESCRIPTION": "抽牌堆中 NL 每有 !M! 张牌， NL 抽一张牌。 NL 激励 1 。 || 被 消耗 ： NL 取出 1 张 NL 罗伊·马斯坦古 。 NL 它的耗能本回合减少 1 点。",
 		"NAME": "马斯·休斯"
 	},
 	"animator:Megumin":
@@ -861,7 +861,7 @@
 	},
 	"animator:Scar":
 	{
-		"DESCRIPTION": "造成 !D! 点 穿刺 伤害。 激发 充能球时， 抽取 这张牌并将他的耗能本回合降低 1 点。 || 昙现 。 如果这张牌在前三回合杀死了敌人， NL 永久 升级 1 张随机牌。",
+		"DESCRIPTION": "造成 !D! 点 穿刺 伤害。 激发 充能球时， 取出 这张牌并将他的耗能本回合降低 1 点。 || 昙现 。 如果这张牌在前三回合杀死了敌人， NL 永久 升级 1 张随机牌。",
 		"NAME": "斯卡"
 	},
 	"animator:Sebas":
@@ -913,7 +913,7 @@
 	},
 	"animator:Shiro":
 	{
-		"DESCRIPTION": "本回合每 NL 同调 1 次， NL 这张牌的耗能 NL 就减少 1 点。 NL 回合开始时， NL 获得 [E] 。 || 从抽牌堆 NL 抽取 1 张 NL 空 。",
+		"DESCRIPTION": "本回合每 NL 同调 1 次， NL 这张牌的耗能 NL 就减少 1 点。 NL 回合开始时， NL 获得 [E] 。 || 从抽牌堆 NL 取出 1 张 NL 空 。",
 		"NAME": "白"
 	},
 	"animator:Shizu":
@@ -950,7 +950,7 @@
 	},
 	"animator:Sora":
 	{
-		"DESCRIPTION": "从 3 种随机效果 NL 中选择使用 NL 1 种 !M! 次。 || 从抽牌堆 抽取 NL 1 张 白 。",
+		"DESCRIPTION": "从 3 种随机效果 NL 中选择使用 NL 1 种 !M! 次。 || 从抽牌堆 取出 NL 1 张 白 。",
 		"NAME": "空"
 	},
 	"animator:Souei":
