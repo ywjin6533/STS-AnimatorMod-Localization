@@ -11,7 +11,7 @@
 			" 回合後，自動 #y激發 此充能球。"
 		]
 	},
-	"animator:Air":
+	"animator:Aether":
 	{
 		"NAME": "凌風",
 		"DESCRIPTION":
