@@ -939,7 +939,7 @@
 	},
 	"animator:Sloth":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL Cannot be played NL for !M! Turn(s). NL Exhaust. || When Exhausted, NL gain 2 Force.",
+		"DESCRIPTION": "Deal !D! Damage. NL Cannot be played NL for !M! Turn(s). NL Exhaust. || When Exhausted, NL gain !SV! Force.",
 		"EXTENDED_DESCRIPTION": ["Deal !D! Damage. NL Exhaust."],
 		"NAME": "Sloth"
 	},
