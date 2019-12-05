@@ -435,7 +435,7 @@
 	},
 	"animator:Gluttony":
 	{
-		"DESCRIPTION": "消耗 抽牌堆顶部的 !M! 张牌并获得 !SV! 点 武力 同时回复 !SV! 生命。 消耗 。 || 这张牌在牌堆小于20张牌时 不能被打出 。",
+		"DESCRIPTION": "消耗 抽牌堆顶部的 !M! 张牌并获得 !M! 点 武力 同时回复 !M! 生命。 消耗 。 || 这张牌在牌堆小于 !SV! 张牌时 不能被打出 。",
 		"EXTENDED_DESCRIPTION": ["牌堆太小了。"],
 		"NAME": "暴食"
 	},
@@ -709,7 +709,7 @@
 	},
 	"animator:Mitsurugi":
 	{
-		"DESCRIPTION": "如果敌人的 NL 意图是攻击， NL 造成 !D! 点伤害。 || 同调 或被 消耗 ： NL 获得 1 点 武力 。",
+		"DESCRIPTION": "如果敌人的 NL 意图是攻击， NL 造成 !D! 点伤害 和  获得 !M! 点 武力。 || 被 消耗 ： NL 获得 !SV! 格挡 。",
 		"EXTENDED_DESCRIPTION": ["来敌不敢妄动。"],
 		"NAME": "御剑响夜"
 	},
@@ -923,7 +923,7 @@
 	},
 	"animator:Shuna":
 	{
-		"DESCRIPTION": "获得 !M! 点 NL 临时生命 。 NL 抽 1 张牌。 || 同调 或被抽到: NL 获得 !B! 点 格挡 。",
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 抽 1 张牌。 || 同调 或被抽到: NL 获得 !M! 点 NL 临时生命 。",
 		"NAME": "朱菜"
 	},
 	"animator:SilverFang":
@@ -938,8 +938,7 @@
 	},
 	"animator:Sloth":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害。 NL 在 !M! 回合内， NL 不能被打出。 NL 消耗 。 || 被 消耗 ： NL 获得 !SV! 点 武力 。",
-		"EXTENDED_DESCRIPTION": ["造成 !D! 点伤害。 NL 消耗 。"],
+		"DESCRIPTION": "获得 !B! 点 格挡 。 NL 造成 !D! 点伤害。 NL 下一回合 ， NL 少 抽 1 张牌 。|| 被 消耗 ： NL 获得 !SV! 点 武力 。",
 		"NAME": "懒惰"
 	},
 	"animator:Sonic":
