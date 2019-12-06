@@ -709,7 +709,7 @@
 	},
 	"animator:Mitsurugi":
 	{
-		"DESCRIPTION": "如果敵人的 NL 意圖是攻擊， NL 造成 !D! 點傷害 和 獲得 1 點 武力 。 || 被 消耗 ： NL 獲得 !B! 格擋 。",
+		"DESCRIPTION": "如果敵人的 NL 意圖是攻擊， NL 造成 !D! 點傷害並獲得 !M! 點 武力。 || 被 消耗 ： NL 獲得 !SV! 格擋 。",
 		"EXTENDED_DESCRIPTION": ["來敵不敢妄動。"],
 		"NAME": "御劍響夜"
 	},
@@ -861,7 +861,7 @@
 	},
 	"animator:Scar":
 	{
-		"DESCRIPTION": "造成 !D! 點 穿刺 傷害。 消耗一張隨機手牌。 消耗。 || 曇現 。 如果你的牌組中有不少於 !SV! 張牌，永久 升級 1 張隨機牌。",
+		"DESCRIPTION": "造成 !D! 點 穿刺 傷害。 消耗 一張隨機手牌。 消耗。 || 曇現 。 如果你的牌組中有不少於 !SV! 張牌，永久 升級 1 張隨機牌。",
 		"NAME": "斯卡"
 	},
 	"animator:Sebas":
@@ -897,7 +897,7 @@
 	},
 	"animator:ShikizakiKiki":
 	{
-		"DESCRIPTION": "At the start of each turn, add 1 of !M! random #yAttacks[] to your hand, gain Force equal to its cost. || Limited. NL Choose a card NL in your hand NL and Upgrade it NL permanently.",
+		"DESCRIPTION": "每回合開始時，從 !M! 張隨機 #y攻擊牌[] 中選擇一張加入手牌，獲得其能耗相同的 武力 。 || 曇現 。 NL 選擇一張手牌並將其永久 升級 。",
 		"NAME": "四季崎 記紀"
 	},
 	"animator:Shimakaze":
@@ -938,7 +938,7 @@
 	},
 	"animator:Sloth":
 	{
-		"DESCRIPTION": "獲得 !B! 點 格擋 。 造成 !D! 點傷害。 NL 下一回合 ， 少 抽 1 張牌 。 || 曇現 。 被 消耗 ： NL 獲得 !SV! 點 武力 。",
+		"DESCRIPTION": "獲得 !B! 點 格擋 。 NL 造成 !D! 點傷害。 NL 下一回合 ， NL 少抽 1 張牌 。 || 曇現 。 被 消耗 ： NL 獲得 !SV! 點 武力 。",
 		"NAME": "懶惰"
 	},
 	"animator:Sonic":
