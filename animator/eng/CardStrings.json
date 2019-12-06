@@ -609,7 +609,7 @@
 	},
 	"animator:Kuroyukihime":
 	{
-		"DESCRIPTION": "Discard !M! cards to NL add #yBlack #yLotus NL to your hand. NL Exhaust.",
+		"DESCRIPTION": "Discard !M! cards to NL add #yBlack #yLotus NL to your hand, NL then Exhaust.",
 		"EXTENDED_DESCRIPTION": ["Black Lotus", "A special 1-cost #yAttack which deals damage to ALL enemies and grants #yBlock and #yBlur."],
 		"NAME": "Kuroyukihime"
 	},
@@ -861,7 +861,7 @@
 	},
 	"animator:Scar":
 	{
-		"DESCRIPTION": "Deal !D! Piercing damage. When an Orb is Evoked, draw this card and reduce its cost by 1 this turn. || Limited. If this kills NL an enemy before NL your third turn, NL permanently Upgrade NL a random card.",
+		"DESCRIPTION": "Deal !D! Piercing NL damage. Exhaust a random card in your hand. Exhaust. || Limited. If your deck has !SV! or more cards, permanently Upgrade a random card.",
 		"NAME": "Scar"
 	},
 	"animator:Sebas":
@@ -938,12 +938,12 @@
 	},
 	"animator:Sloth":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Deal !D! Damage. NL Next turn, draw NL 1 less card. || When Exhausted, NL gain !SV! Force.",
+		"DESCRIPTION": "Gain !B! Block. NL Deal !D! Damage. NL Next turn, draw NL 1 less card. || Limited. NL When Exhausted, NL gain !SV! Force.",
 		"NAME": "Sloth"
 	},
 	"animator:Sonic":
 	{
-		"DESCRIPTION": "Martial_Artist 6. NL Obtain !M! NL Throwing-Knives. NL Gain !SV! Agility. || On Synergy, NL gain !B! Block NL and 1 Blur.",
+		"DESCRIPTION": "Martial_Artist 6. NL Obtain !M! NL Throwing-Knives. NL Gain !SV! Agility. || On Synergy, NL gain 3 Block NL and 1 Blur.",
 		"NAME": "Sonic"
 	},
 	"animator:Sora":
