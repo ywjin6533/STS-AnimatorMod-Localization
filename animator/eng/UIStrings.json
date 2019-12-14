@@ -41,7 +41,8 @@
 			"Call Of Cthulhu",
 			"Chuunibyou demo Koi ga Shitai!",
 			"FLCL",
-			"Kill la Kill"
+			"Kill la Kill",
+			"Touhou Project"
 		],
 		"EXTRA_TEXT":
 		[
@@ -61,26 +62,22 @@
 		]
 	},
 
-	"animator:Actions":
+	"animator:HandSelection":
 	{
 		"TEXT":
 		[
-			"fetch Cards with the same synergy.",
-			"discard and draw that many cards.",
-			"activate this card's effect that many times.",
-			"reduce its cost for this combat.",
-			"Draw # card/s.",
-			"Transform into ",
-			"move to your draw pile."
+			"move to your draw pile.",
+			"Fetch Cards with the same Synergy."
 		]
 	},
-
-	"animator:TetAction":
+	
+	"animator:GridSelection":
 	{
 		"TEXT":
 		[
-			"Move up to {0} card/s to your Discard Pile.",
-			"Shuffle {0} card/s into your Draw Pile."
+			"Discard up to {0} card(s).",
+			"Shuffle {0} card(s) into your Draw Pile.",
+			"Transform into a {0}"
 		]
 	},
 

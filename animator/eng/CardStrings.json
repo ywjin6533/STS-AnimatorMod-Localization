@@ -152,8 +152,13 @@
 		"DESCRIPTION": "Gain !B! Block. NL Decrease this NL card's Block by NL !M! this combat. || When Exhausted, NL Channel 1 Frost.",
 		"NAME": "Chung"
 	},
+	"animator:Cirno":
+	{
+		"DESCRIPTION": "Ethereal. NL Channel 1 Frost. NL Deal !D! damage NL to ALL enemies. || When Exhausted, NL Channel 1 Frost.",
+		"NAME": "Cirno"
+	},
 	"animator:Cocytus":
-	{                                                        
+	{
 		"DESCRIPTION": "Deal !D! damage. NL Gain 1 Force. NL Strength affects this NL card !M! times. || On Synergy, NL randomly gain 1 NL Plated_Armor or NL 1 Thorns.",
 		"NAME": "Cocytus"
 	},
@@ -413,7 +418,7 @@
 	},
 	"animator:Geryuganshoop":
 	{
-		"DESCRIPTION": "Cycle !SV! Cards. NL Purge up to !M! cards in your Exhaust pile, gain that much [E]. || Limited. If you NL Purged #yMelzalgald[] or NL #yBoros[], return them NL to your hand.",
+		"DESCRIPTION": "Cycle !SV! cards. NL Purge up to !M! cards in your Exhaust pile, gain that much [E]. || Limited. If you NL Purged #yMelzalgald[] or NL #yBoros[], return them NL to your hand.",
 		"EXTENDED_DESCRIPTION": ["Choose {0} cards to Purge, gain that much Energy."],
 		"NAME": "Geryuganshoop"
 	},
@@ -500,7 +505,7 @@
 	},
 	"animator:Hero":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL Draw !M! Cards. || While in your NL deck, greatly increase NL the chances of NL #yBonus #yRelics.",
+		"DESCRIPTION": "Deal !D! Damage. NL Draw !M! cards. || While in your NL deck, greatly increase NL the chances of NL #yBonus #yRelics.",
 		"NAME": "'Hero'"
 	},
 	"animator:Hibiki":
@@ -615,7 +620,7 @@
 	},
 	"animator:Kyubey":
 	{
-		"DESCRIPTION": "Gain [E] [E]. NL Draw !M! Cards. NL Exhaust. || At the start of combat, add 1 random Curse to your discard pile.",
+		"DESCRIPTION": "Gain [E] [E]. NL Draw !M! cards. NL Exhaust. || At the start of combat, add 1 random Curse to your discard pile.",
 		"NAME": "Kyubey"
 	},
 	"animator:Lancer":
@@ -647,7 +652,7 @@
 	},
 	"animator:LizardPriest":
 	{
-		"DESCRIPTION": "Gain !B! Block. NL Set the Block of NL the enemy to 1. || On Synergy, NL Retain 2 Cards.",
+		"DESCRIPTION": "Gain !B! Block. NL Set the Block of NL the enemy to 1. || On Synergy, NL Retain 2 cards.",
 		"NAME": "'Lizard Priest'"
 	},
 	"animator:MaesHughes":
@@ -700,11 +705,11 @@
 	{
 		"DESCRIPTION": "Channel 1 Fire. NL Draw !M! card. NL Add #yYusarin to your discard pile. Exhaust.",
 		"NAME": "Misa Kurobane",
-		"UPGRADE_DESCRIPTION": "Channel 1 Fire. NL Draw !M! cards. NL Add #yYusarin to your discard pile. Exhaust."
+		"UPGRADE_DESCRIPTION": "Channel 1 Fire. NL Draw !M! card. NL Add #yYusarin to your draw pile. Exhaust."
 	},
 	"animator:Mitsuba":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL If the enemy had NL more health than NL you, gain !B! Block. || When Exhausted, NL draw !M! Cards.",
+		"DESCRIPTION": "Deal !D! damage. NL If the enemy had NL more health than NL you, gain !B! Block. || When Exhausted, NL draw !M! cards.",
 		"NAME": "Mitsuba"
 	},
 	"animator:Mitsurugi":
@@ -1080,6 +1085,11 @@
 		"NAME": "Tet",
 		"UPGRADE_DESCRIPTION": "Retain. Discard up to 2 cards from your draw pile. Move 2 cards from your discard pile to your draw pile. || Semi-Limited. NL On Synergy, NL gain [E]."
 	},
+	"animator:TewiInaba":
+	{
+		"DESCRIPTION": "Discard 1 NL card randomly. NL Draw !M! cards. NL Exhaust. || On Synergy, Evoke your first Earth Orb and #yChannel[] 1 Earth.",
+		"NAME": "Tewi Inaba"
+	},
 	"animator:TheHaunt":
 	{
 		"DESCRIPTION": "Gain !M! #yGold. NL Become more haunted. NL Ethereal. Exhaust.",
@@ -1146,7 +1156,7 @@
 	"animator:Vesta_Elixir":
 	{
 		"DESCRIPTION": "",
-		"EXTENDED_DESCRIPTION": ["Takes 1 less turn NL to complete.", "Draw {0} Cards.", "Gain {0} Intellect.", "Gain {0} Force.", "Gain {0} Agility.", "Gain {0} Orb slots.", "Gain {0} Temp._HP.", "Gain {0} Metallicize.", "Gain {0} Energy.", "Exhaust {0} Cards:", "Discard {0} Cards:", "Purge."],
+		"EXTENDED_DESCRIPTION": ["Takes 1 less turn NL to complete.", "Draw {0} cards.", "Gain {0} Intellect.", "Gain {0} Force.", "Gain {0} Agility.", "Gain {0} Orb slots.", "Gain {0} Temp._HP.", "Gain {0} Metallicize.", "Gain {0} Energy.", "Exhaust {0} cards:", "Discard {0} cards:", "Purge."],
 		"NAME": "Elixir"
 	},
 	"animator:Viivi":
