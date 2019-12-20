@@ -798,6 +798,11 @@
 		"DESCRIPTION": "Shapeshifter. NL Gain !B! Block. || At the start NL of combat, play NL this card.",
 		"NAME": "Pandora's Actor"
 	},
+	"animator:Patchouli":
+	{
+		"DESCRIPTION": "Spellcaster. Deal !D! NL damage to a random NL enemy for each NL unique Orb Channeled NL this combat ( !M! ). || Limited. At the start NL of combat, add a NL random Orb_Core to your discard pile.",
+		"NAME": "Patchouli"
+	},
 	"animator:PinaCoLada":
 	{
 		"DESCRIPTION": "The first #y0-Cost card you play each turn is played twice.",
