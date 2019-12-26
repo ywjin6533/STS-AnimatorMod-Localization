@@ -17,7 +17,7 @@
 	},
 	"animator:Add":
 	{
-		"DESCRIPTION": "将 3 张 晶体化 加入抽牌堆。 NL 下一回合 ， 抽 !M! 张牌 和 获得 [E] [E] 。 消耗 。 ||  昙现 。 同调 时， 从任何地方选择 NL 消耗 1 张牌。 将这张牌替换为 NL 一张 充能球核心 。",
+		"DESCRIPTION": "将 3 张 晶体化 加入抽牌堆。 NL 下一回合 ， 抽 !M! 张牌 和 获得 [E] [E] 。 消耗 。 ||  同调 时， 从任何地方选择 NL 消耗 1 张牌。 将这张牌替换为 NL 一张 充能球核心 。",
 		"NAME": "艾迪"
 	},
 	"animator:Ain":
@@ -407,8 +407,9 @@
 	},
 	"animator:GazelDwargon":
 	{
-		"DESCRIPTION": "在每回合开始时， NL 保留 !M! 件 格挡 。",
-		"NAME": "矮人王"
+		"DESCRIPTION": "获得 X 层 多层护甲 。 NL 在每回合开始时， NL 保留 !M! 件 格挡 X 倍。",
+		"NAME": "矮人王",
+		"UPGRADE_DESCRIPTION": "获得 X+1 层 多层护甲 。 NL 在每回合开始时， NL 保留 !M! 件 格挡 X 倍。"
 	},
 	"animator:Genos":
 	{
