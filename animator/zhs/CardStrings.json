@@ -1187,12 +1187,12 @@
 	},
 	"animator:YaoHaDucy":
 	{
-		"DESCRIPTION": "造成 !D! 点伤害。 NL 如果目标的意图是 NL 攻击， 本回合 NL 目标失去 NL !M! 点 力量 。 || 昙现 。 NL 被丢弃 NL 获得 1 点 NL 机敏 和 !SV! 点 NL 支援伤害 。",
+		"DESCRIPTION": "造成 !D! 点伤害。 NL 如果目标的意图是 NL 攻击， 本回合 NL 目标失去 NL !M! 点 力量 。 || 同调 ： 如果你有任何支援伤害 ，获得 !SV! 点 支援伤害 。",
 		"NAME": "姚·汉·蒂修"
 	},
 	"animator:YunYun":
 	{
-		"DESCRIPTION": "法师 。 NL 对所有敌人 NL 造成 !D! 点伤害。 NL 手中每有 1 张 NL 其他的 攻击牌， NL 增加 1 点耗能。 || 被 消耗 ： NL 生成 1 个 NL 闪电 充能球。",
+		"DESCRIPTION": "法师 。 NL 对所有敌人 NL 造成 !D! 点伤害。 NL 手中每有 1 张 NL 其他的 攻击牌， NL 增加 1 点耗能。 || 每场精英战 NL 开始时， 生成 1 个 NL 闪电 充能球 。",
 		"NAME": "芸芸"
 	},
 	"animator:Yusarin":
