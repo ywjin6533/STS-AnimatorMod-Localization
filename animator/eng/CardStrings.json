@@ -471,7 +471,7 @@
 	},
 	"animator:Greed":
 	{
-		"DESCRIPTION": "Gain !M! Plated_Armor. NL Gain !M! Metallicize. NL Gain !M! Malleable. || Limited. For every NL !SV! #yGold you have, NL gain [E] next turn.",
+		"DESCRIPTION": "Gain !M! Plated_Armor. NL Gain !M! Metallicize. NL Gain !M! Malleable. || Limited. NL For every 150 #yGold[] NL you have, gain [E] NL next turn.",
 		"NAME": "Greed"
 	},
 	"animator:GuildGirl":
