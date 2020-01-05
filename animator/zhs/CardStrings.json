@@ -922,8 +922,9 @@
 	},
 	"animator:ShikizakiKiki":
 	{
-		"DESCRIPTION": "每回合开始时，从 !M! 张随机 #y攻击牌[] 中选择一张加入手牌，获得其能耗相同的 武力 。 || 昙现 。 NL 选择一张手牌并将其永久 升级 。",
-		"NAME": "四季崎 记纪"
+		"DESCRIPTION": "Ethereal. Fetch an NL #yAttack[] from your NL draw or discard pile. NL Double its damage NL until end of combat. || When Drawn, NL if you have !SV! or NL more Force and NL Agility, gain [E]",
+		"NAME": "四季崎 记纪",
+		"UPGRADE_DESCRIPTION": "Fetch an #yAttack[] NL from your draw NL or discard pile. NL Double its damage NL until end of combat."
 	},
 	"animator:Shimakaze":
 	{
