@@ -918,7 +918,7 @@
 	},
 	"animator:Shigure":
 	{
-		"DESCRIPTION": "Apply !M! Poison. NL Deal !D! Piercing NL damage. || On Synergy or when NL Exhausted, gain !SV! NL Support_Damage.",
+		"DESCRIPTION": "Deal !D! Piercing NL damage. Apply NL !M! Poison. || Limited. When NL Exhausted, gain !SV! NL Support_Damage.",
 		"NAME": "Shigure"
 	},
 	"animator:ShikizakiKiki":
