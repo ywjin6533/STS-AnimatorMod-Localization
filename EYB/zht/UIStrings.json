@@ -6,7 +6,7 @@
 		"TEXT": ["可隨時 #b右鍵 或按 #bCtrl 查看效果。", " 同調 時觸發。", "丟棄時觸發。", " 消耗 時觸發。", "抽到時觸發。", "特殊效果。"]
 	},
 	
-	"animator:HandSelection":
+	"EYB:HandSelection":
 	{
 		"TEXT":
 		[
@@ -14,7 +14,7 @@
 		]
 	},
 	
-	"animator:GridSelection":
+	"EYB:GridSelection":
 	{
 		"TEXT":
 		[
@@ -24,7 +24,7 @@
 		]
 	},
 
-	"animator:TheUnnamedReign":
+	"EYB:TheUnnamedReign":
 	{
 		"TEXT":
 		[
