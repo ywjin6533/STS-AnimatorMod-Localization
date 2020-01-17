@@ -78,9 +78,9 @@
 	},
 	"animator:HolyGrailRelic":
 	{
-		"DESCRIPTIONS": ["Upon pickup, gain #b{0} Max HP. At the start of each combat, add #yThe #yGrail to your hand."],
-		"FLAVOR": "'Reaching Akasha'. There is no greater purpose than this to us Tohsaka.",
-		"NAME": "Ancient Chalice"
+		"DESCRIPTIONS": ["拾起时，获得 #b{0} 点最大生命。 每场战斗开始时， 增加 #y圣杯 到你的手牌中。"],
+		"FLAVOR": "'抵达根源'， 是远坂家唯一的悲愿。",
+		"NAME": "原初圣杯"
 	},
 	"animator:Hoodie":
 	{
