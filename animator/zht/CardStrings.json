@@ -308,6 +308,7 @@
 	"animator:DolaStephanie":
 	{
 		"DESCRIPTION": "選擇一張手牌， NL 取出 1 張 NL 同系列的牌。 NL 消耗 。",
+		"EXTENDED_DESCRIPTION": ["抽取同系列的牌。"],
 		"NAME": "史蒂芬妮·多拉",
 		"UPGRADE_DESCRIPTION": "選擇一張手牌， NL 取出 1 張 NL 同系列的牌。"
 	},
@@ -504,7 +505,7 @@
 	},
 	"animator:Hero":
 	{
-		"DESCRIPTION": "造成 !D! 點傷害。 NL 抽 !M! 張牌 。 || 這張牌位於牌組中時， NL 大幅增加獲得 NL 額外遺物 的幾率 。",
+		"DESCRIPTION": "造成 !D! 點傷害。 NL 抽 !M! 張牌 。 || Limited. NL If this card kills an NL enemy, 40% chance to NL obtain a relic at NL the end of combat.",
 		"NAME": "「英雄」"
 	},
 	"animator:Hibiki":

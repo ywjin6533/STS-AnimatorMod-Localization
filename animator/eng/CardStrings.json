@@ -122,7 +122,7 @@
 	},
 	"animator:ChaikaBohdan":
 	{
-		"DESCRIPTION": "Deal !D! damage. NL If your hand NL is empty, draw NL !M! cards. || Whenever you hit an enemy while this is in your hand, gain !SV! additional damage until played.",
+		"DESCRIPTION": "Deal !D! damage. NL If your hand NL is empty, draw NL !M! cards. || Whenever you hit an NL enemy while this is in NL your hand, gain !SV! NL additional damage NL until played.",
 		"NAME": "Chaika Bohdan"
 	},
 	"animator:ChaikaTrabant":
@@ -309,6 +309,7 @@
 	"animator:DolaStephanie":
 	{
 		"DESCRIPTION": "Choose a card in your hand, Fetch 1 card with the same Synergy from your draw pile. Exhaust.",
+		"EXTENDED_DESCRIPTION": ["Fetch Cards with the same Synergy."],
 		"NAME": "Stephanie",
 		"UPGRADE_DESCRIPTION": "Choose a card in your hand, Fetch 1 card with the same Synergy from your draw pile."
 	},
@@ -504,7 +505,7 @@
 	},
 	"animator:Hero":
 	{
-		"DESCRIPTION": "Deal !D! Damage. NL Draw !M! cards. || While in your NL deck, greatly increase NL the chances of NL #yBonus #yRelics.",
+		"DESCRIPTION": "Deal !D! damage. NL Draw !M! cards. || Limited. NL If this card kills an NL enemy, 40% chance NL to obtain a relic at NL the end of combat.",
 		"NAME": "'Hero'"
 	},
 	"animator:Hibiki":
@@ -754,9 +755,8 @@
 	},
 	"animator:NononJakuzure":
 	{
-		"DESCRIPTION": "Cycle !SV! card. NL Motivate !M!. NL Exhaust. || Whenever you NL Synergize while this NL is in your hand, NL increase this card's NL Motivate by 1.",
-		"NAME": "Nonon Jakuzure",
-		"UPGRADE_DESCRIPTION": "Cycle !SV! cards. NL Motivate !M!. NL Exhaust. || Whenever you NL Synergize while this NL is in your hand, NL increase this card's NL Motivate by 1."
+		"DESCRIPTION": "Cycle !SV! cards. NL Motivate !M!. NL Exhaust. || Whenever you NL Synergize while this NL is in your hand, NL increase this card's NL Motivate by 1.",
+		"NAME": "Nonon Jakuzure"
 	},
 	"animator:OrbCore_Aether":
 	{
