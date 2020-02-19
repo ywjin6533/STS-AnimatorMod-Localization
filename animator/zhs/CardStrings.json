@@ -42,9 +42,9 @@
 	},
 	"animator:Alexander":
 	{
-		"DESCRIPTION": "对所有敌人 <GET> 武力. || 被 消耗 : 打出这张牌.",
+		"DESCRIPTION": "对所有敌人 <GET> 武力. || 被 消耗: 打出这张牌.",
 		"NAME": "亚历山大大帝",
-		"UPGRADE_DESCRIPTION": "对所有敌人 <GET> 武力. 在下一回合中不会失去 武力. || 被 消耗 : 打出这张牌."
+		"UPGRADE_DESCRIPTION": "对所有敌人 <GET> 武力. 在下一回合中不会失去 武力. || 被 消耗: 打出这张牌."
 	},
 	"animator:Aqua":
 	{
@@ -117,7 +117,7 @@
 	},
 	"animator:Caster":
 	{
-		"DESCRIPTION": "本回合从敌人身上 窃取 !M! 点 力量. 生成 1 个 黑暗 充能球. || 被 消耗 : 激发 所有的 暗黑 充能球.",
+		"DESCRIPTION": "本回合从敌人身上 窃取 !M! 点 力量. 生成 1 个 黑暗 充能球. || 被 消耗: 激发 所有的 暗黑 充能球.",
 		"NAME": "Caster"
 	},
 	"animator:ChaikaBohdan":
@@ -127,7 +127,7 @@
 	},
 	"animator:ChaikaTrabant":
 	{
-		"DESCRIPTION": "下一回合，并给予 !S! 个随机 负面效果. || 被丢弃 : 对所有敌人 造成 !M! 点伤害.",
+		"DESCRIPTION": "下一回合，并给予 !S! 个随机 负面效果. || 被丢弃: 对所有敌人 造成 !M! 点伤害.",
 		"NAME": "嘉依卡·托勒庞特"
 	},
 	"animator:ChlammyZell":
@@ -164,9 +164,9 @@
 	},
 	"animator:CowGirl":
 	{
-		"DESCRIPTION": "从抽牌堆 取出 一张 0 耗能 的牌. || <LIM> : 被丢弃 激励 1.",
+		"DESCRIPTION": "从抽牌堆 取出 一张 0 耗能 的牌. || <LIM>: 被丢弃 激励 1.",
 		"NAME": "奶牛妹",
-		"UPGRADE_DESCRIPTION": "从抽牌堆和弃牌堆 取出一张 0耗能 的牌. || <LIM> : 被丢弃 激励 1."
+		"UPGRADE_DESCRIPTION": "从抽牌堆和弃牌堆 取出一张 0耗能 的牌. || <LIM>: 被丢弃 激励 1."
 	},
 	"animator:CrowleyEusford":
 	{
@@ -206,7 +206,7 @@
 	},
 	"animator:Defend_AccelWorld":
 	{
-		"DESCRIPTION": " 被丢弃 : <GET-M> 格挡.",
+		"DESCRIPTION": "被丢弃: <GET-M> 格挡.",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_Elsword":
@@ -221,7 +221,7 @@
 	},
 	"animator:Defend_FullmetalAlchemist":
 	{
-		"DESCRIPTION": "冷却 !S! : 生成 1 个 冰霜 充能球.",
+		"DESCRIPTION": "冷却 !S!: 生成 1 个 冰霜 充能球.",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_GATE":
@@ -241,7 +241,7 @@
 	},
 	"animator:Defend_Kancolle":
 	{
-		"DESCRIPTION": "<LIM> : 获得 !M! 金币.",
+		"DESCRIPTION": "<LIM>: 获得 !M! 金币.",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_Katanagatari":
@@ -251,7 +251,7 @@
 	},
 	"animator:Defend_Konosuba":
 	{
-		"DESCRIPTION": "<LIM> : 回复 !M! 临时生命.",
+		"DESCRIPTION": "<LIM>: 回复 !M! 临时生命.",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_NoGameNoLife":
@@ -261,7 +261,7 @@
 	},
 	"animator:Defend_OnePunchMan":
 	{
-		"DESCRIPTION": "<LIM> : 下一回合，获得 [E].",
+		"DESCRIPTION": "<LIM>: 下一回合，获得 [E].",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_Overlord":
@@ -271,7 +271,7 @@
 	},
 	"animator:Defend_OwariNoSeraph":
 	{
-		"DESCRIPTION": " 被 消耗 : 给予所有敌人 !M! 层 虚弱.",
+		"DESCRIPTION": "被 消耗: 给予所有敌人 !M! 层 虚弱.",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_TenSura":
@@ -281,13 +281,13 @@
 	},
 	"animator:Demiurge":
 	{
-		"DESCRIPTION": "获得 [E]. 在本回合结束时，受到 !M! 点伤害. || <LIM>. 被 消耗 : 循环 1 张牌并 <GET> 能量.",
+		"DESCRIPTION": "获得 [E]. 在本回合结束时，受到 !M! 点伤害. || <LIM>. 被 消耗: 循环 1 张牌并 <GET> 能量.",
 		"NAME": "迪米乌哥斯",
-		"UPGRADE_DESCRIPTION": "获得 [E].丢弃 1 张牌或 在本回合结束时，受到 !M! 点伤害. || <LIM>. 被 消耗 : 循环 1 张牌并 <GET> 能量."
+		"UPGRADE_DESCRIPTION": "获得 [E].丢弃 1 张牌或 在本回合结束时，受到 !M! 点伤害. || <LIM>. 被 消耗: 循环 1 张牌并 <GET> 能量."
 	},
 	"animator:DolaCouronne":
 	{
-		"DESCRIPTION": "丢弃 1 张牌. || <LIM>. 被 消耗 : <GET-M> 格挡 和 1 层 人工制品.",
+		"DESCRIPTION": "丢弃 1 张牌. || <LIM>. 被 消耗: <GET-M> 格挡 和 1 层 人工制品.",
 		"NAME": "克洛妮"
 	},
 	"animator:DolaRiku":
@@ -297,7 +297,7 @@
 	},
 	"animator:DolaSchwi":
 	{
-		"DESCRIPTION": "<APP-M> 跟踪锁定. 冷却 !S! : || 同调: 生成 1 个闪电 充能球.",
+		"DESCRIPTION": "<APP-M> 跟踪锁定. 冷却 !S!: || 同调: 生成 1 个闪电 充能球.",
 		"NAME": "休比"
 	},
 	"animator:DolaStephanie":
@@ -309,7 +309,7 @@
 	},
 	"animator:DwarfShaman":
 	{
-		"DESCRIPTION": "生成 1 个 大地 充能球. || 同调 : 抽 1 张牌 并 升级.",
+		"DESCRIPTION": "生成 1 个 大地 充能球. || 同调: 抽 1 张牌 并 升级.",
 		"NAME": "矮人萨满"
 	},
 	"animator:Elesis":
@@ -329,7 +329,7 @@
 	},
 	"animator:ElricAlphonseAlt":
 	{
-		"DESCRIPTION": "生成 1 个 闪电 充能球.<GET-M> 多层护甲. || 同调 : 获得 1 个 充能球字段.",
+		"DESCRIPTION": "生成 1 个 闪电 充能球.<GET-M> 多层护甲. || 同调: 获得 1 个 充能球字段.",
 		"NAME": "阿尔冯斯护甲"
 	},
 	"animator:ElricEdward":
@@ -403,7 +403,7 @@
 	"animator:Fredrika":
 	{
 		"DESCRIPTION": "每个敌人使你额外 <GET-M> 格挡. || 被丢弃： 回合结束前，回到手中并切换形态.",
-		"EXTENDED_DESCRIPTION": ["", " 2 次. 获得 2 点 金属化.", "给予 1 点 易伤. 给予 1 点 虚弱."],
+		"EXTENDED_DESCRIPTION": ["", "2 次. 获得 2 点 金属化.", "给予 1 点 易伤. 给予 1 点 虚弱."],
 		"NAME": "芙蕾多妮卡"
 	},
 	"animator:GazelDwargon":
@@ -430,7 +430,7 @@
 	},
 	"animator:Gillette":
 	{
-		"DESCRIPTION": "下一回合，获得 [E]. || 被丢弃 : 对所有敌人<APP> 虚弱.",
+		"DESCRIPTION": "下一回合，获得 [E]. || 被丢弃: 对所有敌人<APP> 虚弱.",
 		"NAME": "基烈特"
 	},
 	"animator:Giselle":
@@ -494,7 +494,7 @@
 	},
 	"animator:Hakurou":
 	{
-		"DESCRIPTION": " !M! 次. || 被抽到或 同调 : 获得 1 机敏.",
+		"DESCRIPTION": "!M! 次. || 被抽到或 同调: 获得 1 机敏.",
 		"EXTENDED_DESCRIPTION": ["武师", "与 武师 同调. 每有 1 点 敏捷，造成 #b1 点额外伤害."],
 		"NAME": "白老"
 	},
@@ -515,9 +515,9 @@
 	},
 	"animator:HigakiRinne":
 	{
-		"DESCRIPTION": "布朗运动爱好者. （触发随机效果） || 被抽到或 同调 时： 布朗运动爱好者. （触发随机效果）",
+		"DESCRIPTION": "布朗运动爱好者.",
 		"NAME": "彼我木轮回",
-		"UPGRADE_DESCRIPTION": "真·布朗运动爱好者. （触发更多随机效果） || 同调 ，被 抽到，丢弃 或 消耗 时： 布朗运动爱好者. （触发随机效果）"
+		"UPGRADE_DESCRIPTION": "真·布朗运动爱好者."
 	},
 	"animator:HighElfArcher":
 	{
@@ -593,7 +593,7 @@
 	},
 	"animator:Kazuma":
 	{
-		"DESCRIPTION": "循环 1 张牌. || 同调 : 随机对敌人 造成 !M! 点伤害.",
+		"DESCRIPTION": "循环 1 张牌. || 同调: 随机对敌人 造成 !M! 点伤害.",
 		"NAME": "和真"
 	},
 	"animator:Kira":
@@ -609,7 +609,7 @@
 	},
 	"animator:KrulTepes":
 	{
-		"DESCRIPTION": "<APP-M> 虚弱. || <LIM>. 若这张牌击杀了 一个精英或 boss，获得 小血瓶.",
+		"DESCRIPTION": "<APP-M> 虚弱. || <LIM>. 若这张牌击杀了 一个精英或 boss， 获得 小血瓶.",
 		"NAME": "克鲁鲁·采佩西"
 	},
 	"animator:Kuribayashi":
@@ -630,19 +630,19 @@
 	},
 	"animator:Lancer":
 	{
-		"DESCRIPTION": "<APP-M> 易伤. || 这张牌的根据敌人损失的血量百分比增加伤害.",
+		"DESCRIPTION": "<APP-M> 易伤. || 这张牌的根据敌 人 损失的血 量百分比增加伤害.",
 		"NAME": "Lancer"
 	},
 	"animator:Layla":
 	{
-		"DESCRIPTION": "重装填 : 对随机一名敌人 <APP-M> 中毒. || 该敌人每有 一种 负面效果，这张牌造成 额外 !S! 点伤害.",
+		"DESCRIPTION": "重装填: 对随机一名敌人 <APP-M> 中毒. || 该敌人每有 一种 负面效果，这张牌造成 额外 !S! 点伤害.",
 		"NAME": "蕾拉"
 	},
 	"animator:LeleiLaLalena":
 	{
-		"DESCRIPTION": "随机丢弃1张牌： 生成 !M! 个 冰霜 充能球. || 同调 : <APP> 虚弱.",
+		"DESCRIPTION": "随机丢弃1张牌： 生成 !M! 个 冰霜 充能球. || 同调: <APP> 虚弱.",
 		"NAME": "蕾莱·拉·列娜",
-		"UPGRADE_DESCRIPTION": "丢弃1张牌： 生成 !M! 个 冰霜 充能球. || 同调 : <APP> 虚弱."
+		"UPGRADE_DESCRIPTION": "丢弃1张牌： 生成 !M! 个 冰霜 充能球. || 同调: <APP> 虚弱."
 	},
 	"animator:Lelouch":
 	{
@@ -652,12 +652,12 @@
 	},
 	"animator:LimeBell":
 	{
-		"DESCRIPTION": "重装填 : <GET-M> 临时生命.",
+		"DESCRIPTION": "重装填: <GET-M> 临时生命.",
 		"NAME": "青柠之铃"
 	},
 	"animator:LizardPriest":
 	{
-		"DESCRIPTION": "将一名敌人的 格挡 变为 1 点. || 同调 : 保留 2 张牌.",
+		"DESCRIPTION": "将一名敌人的 格挡 变为 1 点. || 同调: 保留 2 张牌.",
 		"NAME": "蜥蜴僧侣"
 	},
 	"animator:MaesHughes":
@@ -673,7 +673,7 @@
 	},
 	"animator:Megumin":
 	{
-		"DESCRIPTION": "{独一}. 对所有敌人 || <LIM>. 同调 : 永久 升级.",
+		"DESCRIPTION": "{独一}. 对所有敌人 || <LIM>. 同调: 永久 升级.",
 		"NAME": "惠惠"
 	},
 	"animator:Melzalgald":
@@ -750,7 +750,7 @@
 	},
 	"animator:NivaLada":
 	{
-		"DESCRIPTION": "冷却 !S! : 造成 300 点伤害. || 每当你丢弃 或 消耗 牌时，减少这张牌 1 层 冷却.",
+		"DESCRIPTION": "冷却 !S!: 造成 300 点伤害. || 每当你丢弃 或 消耗 牌时，减少这张牌 1 层 冷却.",
 		"NAME": "妮娃·莱妲"
 	},
 	"animator:NononJakuzure":
@@ -800,7 +800,7 @@
 	},
 	"animator:PandorasActor":
 	{
-		"DESCRIPTION": " 本场战斗开始时，打出这张牌.",
+		"DESCRIPTION": "本场战斗开始时，打出这张牌.",
 		"NAME": "潘多拉·亚克特"
 	},
 	"animator:Patchouli":
@@ -864,24 +864,24 @@
 	},
 	"animator:Rose":
 	{
-		"DESCRIPTION": "<DRW-M>. 重装填 : || 若目标死亡，对所有敌人 造成 !S! 点伤害.",
+		"DESCRIPTION": "<DRW-M>. 重装填: || 若目标死亡，对所有敌人 造成 !S! 点伤害.",
 		"NAME": "萝丝"
 	},
 	"animator:RoyMustang":
 	{
-		"DESCRIPTION": "对所有敌人 每个敌人使你 生成 1 个 火焰 充能球. || 同调 : 获得 4 层 火焰屏障.",
+		"DESCRIPTION": "对所有敌人 每个敌人使你 生成 1 个 火焰 充能球. || 同调: 获得 4 层 火焰屏障.",
 		"NAME": "罗伊·马斯坦"
 	},
 	"animator:Saber":
 	{
-		"DESCRIPTION": "忠诚. 冷却 !S! : 抹除，并获得 誓约胜利之剑. || 同调: 额外降低这张牌的 冷却 2 点.",
+		"DESCRIPTION": "忠诚. 冷却 !S!: 抹除，并获得 誓约胜利之剑. || 同调: 额外降低这张牌的 冷却 2 点.",
 		"NAME": "Saber",
-		"UPGRADE_DESCRIPTION": "固有. 忠诚. 对一个敌人 冷却 !S! : 抹除，并获得 誓约胜利之剑. || 同调: 额外降低这张牌的 冷却 2 点."
+		"UPGRADE_DESCRIPTION": "固有. 忠诚. 对一个敌人 冷却 !S!: 抹除，并获得 誓约胜利之剑. || 同调: 额外降低这张牌的 冷却 2 点."
 	},
 	"animator:Saitama":
 	{
-		"DESCRIPTION": " 每当打出 这张牌时，本场战斗增加 其耗能并 改变效果.",
-		"EXTENDED_DESCRIPTION": ["<DRW-M>. 获得 !S! 层 机敏.", "阻止下一次 你受到的 生命损伤.", "<GET-M> 武力.", " !M! 次.", "移除 无实体. <APP> 眩晕."],
+		"DESCRIPTION": "每当打出 这张牌时，本场战斗增加 其耗能并 改变效果.",
+		"EXTENDED_DESCRIPTION": ["<DRW-M>. 获得 !S! 层 机敏.", "阻止下一次 你受到的 生命损伤.", "<GET-M> 武力.", "!M! 次.", "移除 无实体. <APP> 眩晕."],
 		"NAME": "埼玉",
 		"UPGRADE_DESCRIPTION": "激励 1. || 每当打出这张牌时，本场战斗增加其耗能并改变效果."
 	},
@@ -892,7 +892,7 @@
 	},
 	"animator:Sebas":
 	{
-		"DESCRIPTION": "每有 1 个敌人 的意图是攻击，<GET-M> 荆棘. || 被弃牌时，获得 !S! 点 临时生命.",
+		"DESCRIPTION": "每有 1 个敌人 的意图是攻击， <GET-M> 荆棘. || 被弃牌时， 获得 !S! 点 临时生命.",
 		"NAME": "塞巴斯"
 	},
 	"animator:SeriousSaitama":
@@ -903,7 +903,7 @@
 	},
 	"animator:Shalltear":
 	{
-		"DESCRIPTION": "<GET-M> 临时生命. || 同调 : 从 每个敌人偷取 1 点 力量.",
+		"DESCRIPTION": "<GET-M> 临时生命. || 同调: 从 每个敌人偷取 1 点 力量.",
 		"NAME": "夏提雅"
 	},
 	"animator:Shichika":
@@ -996,7 +996,7 @@
 	},
 	"animator:Strike_AccelWorld":
 	{
-		"DESCRIPTION": " 被丢弃，对随机一名敌人 造成 !M! 点伤害.",
+		"DESCRIPTION": "被丢弃，对随机一名敌人 造成 !M! 点伤害.",
 		"NAME": "改良打击"
 	},
 	"animator:Strike_Elsword":
@@ -1011,7 +1011,7 @@
 	},
 	"animator:Strike_FullmetalAlchemist":
 	{
-		"DESCRIPTION": "冷却 !S! : 生成 1 个 闪电 充能球.",
+		"DESCRIPTION": "冷却 !S!: 生成 1 个 闪电 充能球.",
 		"NAME": "改良打击"
 	},
 	"animator:Strike_GATE":
@@ -1021,7 +1021,7 @@
 	},
 	"animator:Strike_GoblinSlayer":
 	{
-		"DESCRIPTION": "NL",
+		"DESCRIPTION": "",
 		"NAME": "改良打击"
 	},
 	"animator:Strike_HitsugiNoChaika":
@@ -1061,7 +1061,7 @@
 	},
 	"animator:Strike_OwariNoSeraph":
 	{
-		"DESCRIPTION": " 被 消耗: 对所有敌人 <APP-M> 易伤.",
+		"DESCRIPTION": "被 消耗: 对所有敌人 <APP-M> 易伤.",
 		"NAME": "改良打击"
 	},
 	"animator:Strike_TenSura":
@@ -1071,9 +1071,9 @@
 	},
 	"animator:SwordMaiden":
 	{
-		"DESCRIPTION": "<GET-M> 临时生命. 移除最右边 的负面效果. || <LIM>. 战斗开始时，随机获得 2 点 智力，机敏 或 武力.",
+		"DESCRIPTION": "<GET-M> 临时生命. 移除最右边 的负面效果. || <LIM>. 战斗开始时，随机获得 2 点 智力， 机敏 或 武力.",
 		"NAME": "剑之圣女",
-		"UPGRADE_DESCRIPTION": "<GET-M> 临时生命. 移除最右边 的负面效果. || <LIM>. 战斗开始时，随机获得 2 点 智力，机敏 或 武力."
+		"UPGRADE_DESCRIPTION": "<GET-M> 临时生命. 移除最右边 的负面效果. || <LIM>. 战斗开始时，随机获得 2 点 智力， 机敏 或 武力."
 	},
 	"animator:TakanashiRikka":
 	{
@@ -1082,7 +1082,7 @@
 	},
 	"animator:TanyaDegurechaff":
 	{
-		"DESCRIPTION": "丢弃所有 技能牌. 每丢弃一张 || <LIM>. 战斗开始时，将 1 张 艾连穆姆九五式 加入抽牌堆.",
+		"DESCRIPTION": "丢弃所有 技能牌. 每丢弃一张 || <LIM>. 战斗开始时， 将 1 张 艾连穆姆九五式 加入抽牌堆.",
 		"NAME": "谭雅·提古雷查夫"
 	},
 	"animator:TanyaDegurechaff_Type95":
@@ -1174,7 +1174,7 @@
 	"animator:Vesta_Elixir":
 	{
 		"DESCRIPTION": "",
-		"EXTENDED_DESCRIPTION": ["完成时间减少 1 轮.", "抽 {0} 张牌.", "获得 {0} 层 智力.", "获得 {0} 层 武力.", "获得 {0} 层 机敏.", "获得 {0} 充能球字段.", "获得 {0} 点 临时生命.", "获得 {0} 层 金属化.", "获得 {0} 能量.", "消耗 {0} 张牌 :", "丢弃 {0} 张牌 :", "抹除."],
+		"EXTENDED_DESCRIPTION": ["完成时间减少 1 轮.", "抽 {0} 张牌.", "获得 {0} 层 智力.", "获得 {0} 层 武力.", "获得 {0} 层 机敏.", "获得 {0} 充能球字段.", "获得 {0} 点 临时生命.", "获得 {0} 层 金属化.", "获得 {0} 能量.", "消耗 {0} 张牌:", "丢弃 {0} 张牌:", "抹除."],
 		"NAME": "灵药"
 	},
 	"animator:Viivi":
@@ -1215,7 +1215,7 @@
 	},
 	"animator:ZankiKiguchi":
 	{
-		"DESCRIPTION": " <LIM>. 被 消耗: 回手这张牌，<GET-M> 机敏.",
+		"DESCRIPTION": "<LIM>. 被 消耗: 回手这张牌，<GET-M> 机敏.",
 		"NAME": "汽口惭愧"
 	},
 	"animator:Zero":
