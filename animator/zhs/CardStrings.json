@@ -42,9 +42,9 @@
 	},
 	"animator:Alexander":
 	{
-		"DESCRIPTION": "对所有敌人 <GET> 武力. || 被 消耗: 打出这张牌.",
+		"DESCRIPTION": "在下一回合中 ** 不会失去 [F]. || 消耗: 打出这张牌.",
 		"NAME": "亚历山大大帝",
-		"UPGRADE_DESCRIPTION": "对所有敌人 <GET> 武力. 在下一回合中不会失去 武力. || 被 消耗: 打出这张牌."
+		"UPGRADE_DESCRIPTION": "获得 [F]. ** 在下一回合中 ** 不会失去 [F]. || 消耗: 打出这张牌."
 	},
 	"animator:Aqua":
 	{
