@@ -2,159 +2,170 @@
 {
 	"animator:AcuraAkari":
 	{
-		"DESCRIPTION": "丢弃 2 张牌 获得 !M! 张 飞刀. || <SLM>. 同调 时，将获得 !S! 点临时 涂毒.",
+		"DESCRIPTION": "丢弃 2 张牌 ** 获得 !M! 张 {飞刀}. || <SLM>. 同调 时， ** 将获得 !S! 点 {临时} 涂毒.",
 		"NAME": "阿卡莉"
 	},
 	"animator:AcuraShin":
 	{
-		"DESCRIPTION": "<APP-M> 中毒. 造成 !D! 点 穿刺 伤害两次. || 每当给予 中毒 时，额外<APP> 中毒.",
+		"DESCRIPTION": "<APP-M> 层中毒. || 本场战斗每当 ** 你施加中毒时， ** 额外 <APP> 中毒.",
 		"NAME": "辛·亚裘拉"
 	},
 	"animator:AcuraTooru":
 	{
-		"DESCRIPTION": "获得 !S! 张 飞刀. || 同调 时，或被丢弃时，<GET-M> 格挡.",
+		"DESCRIPTION": "获得 !S! 张 {飞刀}. || 同调时，或被丢弃时， ** 获得 [A] 和 !M! 层格挡.",
 		"NAME": "托鲁"
 	},
 	"animator:Add":
 	{
-		"DESCRIPTION": "将 3 张 晶体化 加入抽牌堆. 下一回合，<DRW-M> 和 获得 [E] [E]. || 同调 时，从任何地方选择 消耗 1 张牌. 将这张牌替换为 一张 充能球核心.",
+		"DESCRIPTION": "将 3 张 {晶体化} 加入抽牌堆. ** 下一回合，<DRW-M> ** 并获得 [E] [E]. || 同调 时，从任何地方 ** 选择消耗 1 张牌. ** 将这张牌替换为 ** 一张 {充能球核心}.",
 		"NAME": "艾迪"
 	},
 	"animator:Ain":
 	{
-		"DESCRIPTION": "对所有敌人造成 !M! 次. || <SLM>. 同调 或丢弃时，获得 !S! 点 智力.",
+		"DESCRIPTION": "生成 1 个随机的充能球. || 同调或被丢弃时， ** 获得 [I].",
 		"NAME": "艾因"
 	},
 	"animator:Ainz":
 	{
-		"DESCRIPTION": "回合开始时，四种随机 效果 中选择一种触发. || 抽到时： 减少 这张牌的耗能 1点，然后随机 获得 1点 智力 、 武力 或者 机敏.",
+		"DESCRIPTION": "你的回合开始时， ** 四种随机 {效果} 中选择一种触发. || 抽到时： 减少 ** 这张牌的耗能 1 点， ** 然后随机获得 **  [I]， [F] 或者 [A].",
 		"NAME": "安兹·乌尔·恭"
 	},
 	"animator:Aisha":
 	{
-		"DESCRIPTION": "每有一个充能球，|| <LIM>. 如果没有充能球字段，获得 1 个充能球字段.",
+		"DESCRIPTION": "每有 1 个充能球， ** 额外攻击1次.|| <SLM>. 如果这场战斗中 ** 你抵达过3[I]:  ** 获得 1 个充能槽.",
 		"NAME": "爱莎‧蓝塔"
 	},
 	"animator:Albedo":
 	{
-		"DESCRIPTION": "获得等同于伤害值的 魔法盔甲. || 同调 时，<GET> 临时 人工制品.",
+		"DESCRIPTION": "获得等于伤害值 ** 的 {魔法盔甲} . || 同调时，<GET> ** {临时} 人工制品.",
 		"NAME": "雅儿贝德"
 	},
 	"animator:Alexander":
 	{
-		"DESCRIPTION": "在下一回合中 ** 不会失去 [F]. || 消耗: 打出这张牌.",
+		"DESCRIPTION": "在下一回合中 ** 不会失去 [F]. || 被消耗: ** 打出这张牌.",
 		"NAME": "亚历山大大帝",
-		"UPGRADE_DESCRIPTION": "获得 [F]. ** 在下一回合中 ** 不会失去 [F]. || 消耗: 打出这张牌."
+		"UPGRADE_DESCRIPTION": "获得 [F]. || 被消耗时: ** 打出这张牌."
 	},
 	"animator:Aqua":
 	{
-		"DESCRIPTION": "回复 !M! 点生命. <DRW>. 在本场战斗中变得非常没用.",
-		"EXTENDED_DESCRIPTION": ["", "被 消耗 或 被丢弃: 获得 !S! 点 临时生命."],
+		"DESCRIPTION": "回复 !M! 点生命. <DRW>. ** 在本场战斗中变成 ** 废物.",
+		"EXTENDED_DESCRIPTION": ["", "被消耗或被丢弃: ** 获得 !S! 点 {临时生命} ."],
 		"NAME": "阿库娅",
-		"UPGRADE_DESCRIPTION": "回复 !M! 点生命. <DRW>. 在本场战斗中变得没用."
+		"UPGRADE_DESCRIPTION": "回复 !M! 点生命. <DRW>. ** 在本场战斗中变成 ** 咸鱼."
 	},
 	"animator:Ara":
 	{
-		"DESCRIPTION": "敌人每有一种负面效果，<DRW>. 丢弃 1 张牌. || <SLM>. 如果你丢弃的是 能力牌，<GET> 机敏 ，2 点 武力.",
+		"DESCRIPTION": "敌人每有一种 {负面效果} ，<DRW>. ** 丢弃 1 张牌. || 如果你丢弃的是{能力牌}: ** 获得 2 [F]和[A].",
 		"NAME": "爱拉"
 	},
 	"animator:Archer":
 	{
-		"DESCRIPTION": "在你的回合结束时，敌人每有一种负面效果 就对所有敌人 造成 !M! 点伤害. || 同调 时，对所有敌人 <APP> 易伤.",
+		"DESCRIPTION": "在你的回合结束时， ** 敌人每有一种 {负面效果} ** 就对每个敌人 ** 造成 !M! 点伤害. || 同调时，对所有敌人 ** 施加 1 层易伤.",
 		"NAME": "Archer"
 	},
 	"animator:Arpeggio":
 	{
-		"DESCRIPTION": "<GET-M> 智力. || 同调 时，生成 1 个 大地 充能球.",
-		"NAME": "阿尔蓓吉欧",
-		"UPGRADE_DESCRIPTION": "<GET-M> 智力. 获得 !S! 个充能球字段. || 同调 时，生成 1 个 大地 充能球."
+		"DESCRIPTION": "获得 !S! [I]. ** 获得 !M! 个充能槽. || <LIM>. 同调时， ** 生成 1 个大地充能球.",
+		"NAME": "阿尔蓓吉欧"
 	},
 	"animator:Asuramaru":
 	{
-		"DESCRIPTION": "<GET-M> 恶魔形态，<GET-M> 智力 和 机敏.",
+		"DESCRIPTION": "获得 2 层 {恶魔形态}. ** <GET-M> [F] [A] [I]. ** 获得 2 张 {伤口} .",
 		"NAME": "阿朱罗丸"
 	},
 	"animator:Azekura":
 	{
-		"DESCRIPTION": "<GET-M> 临时 荆棘. || 当 同调 或 被 消耗 时： 获得 !S! 层 多层护甲.",
+		"DESCRIPTION": "<GET-M> {临时} 荆棘. || 被 消耗 时： ** 获得 !S! 层 {多层护甲}.",
 		"NAME": "校仓必"
 	},
 	"animator:Azriel":
 	{
-		"DESCRIPTION": "获得 2 层 飞行. || 每当对敌人给予 负面效果 时，<GET-M> 力量.",
-		"NAME": "阿兹列尔",
-		"UPGRADE_DESCRIPTION": "获得 2 层 飞行. || 每当对敌人给予 负面效果 时，<GET-M> 力量."
+		"DESCRIPTION": "获得 2 层 飞行. || 每当对敌人给予 ** {负面效果} 时，<GET-M> 力量.",
+		"NAME": "阿兹列尔"
 	},
 	"animator:Benimaru":
 	{
-		"DESCRIPTION": "生成 1 个 火焰 充能球. 对所有敌人 || 每有一个带有 点燃 的敌人，<GET-M> 临时生命.",
+		"DESCRIPTION": "<APP-M> 燃烧. || <SLM>. 被抽到时: ** {生成} 1 个 火焰充能球.",
 		"NAME": "红丸"
 	},
 	"animator:Berserker":
 	{
-		"DESCRIPTION": "<GET-M> 武力. || 如果敌人死亡 或者失去格挡，获得 !S! 点 格挡.",
+		"DESCRIPTION": "<GET-M> <FOR>. || 如果敌人死亡 ** 或者失去格挡， ** 获得 !S! 点 格挡.",
 		"NAME": "Berserker"
 	},
 	"animator:Biyorigo":
 	{
-		"DESCRIPTION": "<GET-M> 人工制品. 每获得一次 敏捷，则获得 !S! 点 武力.",
+		"DESCRIPTION": "<GET> 人工制品. ** <GET-M> 荆棘. || 每回合结束时, ** 消耗 1 点剩余能量 ** 来获得 2 [F] [A].",
 		"NAME": "微刀钗"
 	},
 	"animator:BlackLotus":
 	{
-		"DESCRIPTION": "对所有敌人 <GET-M> 残影.",
+		"DESCRIPTION": "<GET-M> 残影.",
 		"NAME": "黑色睡莲"
 	},
 	"animator:Boros":
 	{
-		"DESCRIPTION": "所有 能力牌 会被打出两次. || 被抽到： 获得 !M! 临时生命 以及 !S! 点 武力.",
+		"DESCRIPTION": "所有 {能力牌} ** 会被打出两次. || <LIM>. 被消耗时， ** <GET-M> 重生.",
 		"NAME": "波罗斯"
 	},
 	"animator:Bozes":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害. 激励 !M!. || 本回合每次 同调，获得 !S! 点 支援伤害.",
+		"DESCRIPTION": "激励 !M!. || 本回合每次 同调，获得 !S! 点 {支援伤害}.",
 		"NAME": "波赛斯"
+	},
+	"animator:Canti":
+	{
+		"DESCRIPTION": "造成等同于 ** 目标敌人攻击力 ** 的伤害.",
+		"NAME": "健次"
 	},
 	"animator:Caster":
 	{
-		"DESCRIPTION": "本回合从敌人身上 窃取 !M! 点 力量. 生成 1 个 黑暗 充能球. || 被 消耗: 激发 所有的 暗黑 充能球.",
+		"DESCRIPTION": "窃取 1 点 力量. ** {生成} 1 个 黑暗充能球. || 同调: 激发 ** 你下一个充能球.",
 		"NAME": "Caster"
 	},
 	"animator:ChaikaBohdan":
 	{
-		"DESCRIPTION": "如果你的手牌为空，<DRW-M>. || 当此牌位于手牌中，每攻击一名敌人，此牌在打出前 获得 !S! 点额外伤害.",
+		"DESCRIPTION": "当此牌位于手牌中， ** 每攻击一名敌人， ** 此牌在打出前 ** 获得 !S! 点额外伤害.",
 		"NAME": "嘉依卡·布芙丹"
 	},
 	"animator:ChaikaTrabant":
 	{
-		"DESCRIPTION": "下一回合，并给予 !S! 个随机 负面效果. || 被丢弃: 对所有敌人 造成 !M! 点伤害.",
+		"DESCRIPTION": "下一回合开始时打出， ** <APP> 虚弱和易伤. || 被丢弃: 对所有敌人 ** 造成 !M! 点伤害.",
 		"NAME": "嘉依卡·托勒庞特"
 	},
 	"animator:ChlammyZell":
 	{
-		"DESCRIPTION": "抽 2 张牌. 下一回合，<DRW-M>. || 当你交替打出不同类型的牌时，循环 1 张牌并对所有敌人 造成 !S! 点伤害.",
+		"DESCRIPTION": "抽 2 张牌. ** 下一回合， ** <DRW-M>. || <LIM>. 如果这场战斗中 ** 你抵达过3[I]:  ** 获得 1 个{克拉米计划}.",
 		"NAME": "克拉米·杰尔"
+	},
+	"animator:ChlammyZellScheme":
+	{
+		"DESCRIPTION": "本回合当你交替打出 ** 不同类型的牌时， ** 循环 1 张牌 ** 并对所有敌人 ** 造成 !M! 点伤害.",
+		"NAME": "克拉米计划"
 	},
 	"animator:Chomusuke":
 	{
-		"DESCRIPTION": "抽 1 张牌. || <SLM>. 被 消耗 时： 将这张牌返回手牌同时获得 [E] [E].",
-		"NAME": "豆之助",
-		"UPGRADE_DESCRIPTION": "抽 1 张牌."
+		"DESCRIPTION": "<DRW>. || <SLM>. 被 消耗 时： ** 将这张牌返回手牌 ** 同时获得 [E] [E].",
+		"NAME": "豆之助"
 	},
 	"animator:Chris":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害. 偷窃 !M! 个 金币. || 被丢弃： 抽 1 张 0 耗能的牌.",
-		"EXTENDED_DESCRIPTION": ["偷窃", "最多偷boss 50 金币，精英 25 金币，非爪牙 10 金币."],
+		"DESCRIPTION": "{偷窃} !M! 个 {金币}. || 被丢弃： ** 抽 1 张 {0耗能}的牌.",
 		"NAME": "克里斯"
 	},
 	"animator:Chung":
 	{
-		"DESCRIPTION": "本场战斗中降低这张牌 的 格挡 !M! 点. || 被 消耗: 生成 1 个 冰霜 充能球.",
+		"DESCRIPTION": "本场战斗中降低 ** 这张牌 的 格挡 !M! 点. || 被 消耗: 生成 ** 1 个 冰霜 充能球.",
 		"NAME": "澄"
+	},
+	"animator:Ciel":
+	{
+		"DESCRIPTION": "下次攻击时， ** 敌人受到 !M! 点伤害 || 同调: 你的每个 {Lu} ** 增加 !S! 点伤害.",
+		"NAME": "Ciel"
 	},
 	"animator:Cirno":
 	{
-		"DESCRIPTION": "生成 !M! 个 冰霜 充能球. 对所有敌人 || 被 消耗: 生成 !M! 个 冰霜 充能球.",
+		"DESCRIPTION": "生成 1 个 ** 冰霜 充能球. || 被 消耗: 生成 ** 1 个 冰霜 充能球.",
 		"NAME": "琪露诺"
 	},
 	"animator:Cocytus":
@@ -316,8 +327,8 @@
 	{
 		"DESCRIPTION": "<GET-M> 机敏 和 武力. || 抽到或 被丢弃: 这场战斗中，增加 !S! 点伤害.",
 		"EXTENDED_DESCRIPTION":
-		["Spend your remaining [E]: ** Gain that much [F] and [A]. || When Drawn or Discarded: ** Increase this card's damage ** by !M! until played.", 
-		 "Apply 1 Burning ** for every {Debuff} ** on the enemy. || <slm>. Synergy or ** Discard: <DRW>.", 
+		["Spend your remaining [E]: ** Gain that much [F] and [A]. || When Drawn or Discarded: ** Increase this card's damage ** by !M! until played.",
+		 "Apply 1 Burning ** for every {Debuff} ** on the enemy. || <slm>. Synergy or ** Discard: <DRW>.",
 		 "Apply 1 Vulnerable. || At the start of each ** combat: Lose !M! HP."
 		],
 		"NAME": "爱利西斯"
