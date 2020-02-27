@@ -90,12 +90,12 @@
 	},
 	"animator:Berserker":
 	{
-		"DESCRIPTION": "<GET-M> <FOR>. || 如果敌人死亡 ** 或者失去格挡， ** 获得 !S! 点 格挡.",
+		"DESCRIPTION": "获得 !M! <F>. || 如果敌人死亡 ** 或者失去格挡， ** 获得 !S! 点 格挡.",
 		"NAME": "Berserker"
 	},
 	"animator:Biyorigo":
 	{
-		"DESCRIPTION": "<GET> 人工制品. ** <GET-M> 荆棘. || 每回合结束时, ** 消耗 1 点剩余能量 ** 来获得 2 [F] [A].",
+		"DESCRIPTION": "<GET> 人工制品. ** <GET-M> 荆棘. || 每回合结束时，** 消耗 1 点剩余能量 ** 来获得 2 [F] [A].",
 		"NAME": "微刀钗"
 	},
 	"animator:BlackLotus":
@@ -170,45 +170,45 @@
 	},
 	"animator:Cocytus":
 	{
-		"DESCRIPTION": "造成 !D! 点 伤害. <GET> 武力. 力量 在这张牌中发挥 !M! 倍效果. || 随机<GET> 多层护甲 或者 1 层 荆棘.",
+		"DESCRIPTION": "如果你有不超过 ** !M! [F]: 提高 [F]. || <slm>. 同调:  ** 获得 !S! 层{多层护甲}.",
 		"NAME": "科赛特斯"
 	},
 	"animator:CowGirl":
 	{
-		"DESCRIPTION": "从抽牌堆 取出 一张 0 耗能 的牌. || <LIM>: 被丢弃 激励 1.",
+		"DESCRIPTION": "从抽牌堆 取出 ** 一张 {0耗能} 的牌. || <LIM>. ** 被丢弃时: 激励 1.",
 		"NAME": "奶牛妹",
-		"UPGRADE_DESCRIPTION": "从抽牌堆和弃牌堆 取出一张 0耗能 的牌. || <LIM>: 被丢弃 激励 1."
+		"UPGRADE_DESCRIPTION": "从抽牌堆和弃牌堆 ** 取出一张 {0耗能} 的牌. || <LIM>. ** 被丢弃时: 激励 1."
 	},
 	"animator:CrowleyEusford":
 	{
-		"DESCRIPTION": "回复 !M! 点生命. 对一名随机敌人 || 本回合，你每 消耗 一张牌，这张牌的耗能 就减少 1.",
+		"DESCRIPTION": "提高 [F] [A]. || 本回合， ** 如果你消耗过一张牌， ** 激励 1.",
 		"NAME": "克劳利·尤斯福德"
 	},
 	"animator:Crystallize":
 	{
-		"DESCRIPTION": "失去 !S! 生命 两次. <GET-M> 金属化.",
+		"DESCRIPTION": "失去 !S! 生命 两次. ** <GET-M> 金属化.",
 		"NAME": "晶体化"
 	},
 	"animator:Curse_Greed":
 	{
-		"DESCRIPTION": "不能被打出. 被抽到： 本回合提高 随机一张手牌的 耗能 1 点.",
+		"DESCRIPTION": "不能被打出. ** 被抽到： 本回合提高 ** 随机一张手牌的 ** 耗能 1 点.",
 		"NAME": "贪婪"
 	},
 	"animator:Curse_Nutcracker":
 	{
-		"DESCRIPTION": "不能被打出. 回合结束时，所有敌人回复 !M! 生命.",
+		"DESCRIPTION": "不能被打出. ** 回合结束时， ** 所有敌人回复 !M! 生命.",
 		"NAME": "胡桃夹子"
 	},
 	"animator:Darkness":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡 和 !M! 层 多层护甲. || 下次受伤时，在抽牌堆中加入 1张 肾上腺素.",
+		"DESCRIPTION": "获得 !M! 层 {多层护甲}. || 下次受伤时， ** 在抽牌堆中加入 ** 1张 {肾上腺素}.",
 		"NAME": "达克妮丝"
 	},
 	"animator:DarknessAdrenaline":
 	{
 		"DESCRIPTION": "获得 [E]. <DRW-M>.",
 		"NAME": "肾上腺素",
-		"UPGRADE_DESCRIPTION": "获得 [E] [E]. <DRW-M>."
+		"UPGRADE_DESCRIPTION": "获得 [E] [E]. ** <DRW-M>."
 	},
 	"animator:Defend":
 	{
@@ -217,22 +217,22 @@
 	},
 	"animator:Defend_AccelWorld":
 	{
-		"DESCRIPTION": "被丢弃: <GET-M> 格挡.",
+		"DESCRIPTION": "被丢弃: ** <GET-M> 格挡.",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_Elsword":
 	{
-		"DESCRIPTION": "下一回合，<GET-M> 格挡.",
+		"DESCRIPTION": "下一回合， ** <GET-M> 格挡.",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_Fate":
 	{
-		"DESCRIPTION": "每个敌人使你额外<GET-M> 格挡.",
+		"DESCRIPTION": "每个敌人使你 ** 额外<GET-M> 格挡.",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_FullmetalAlchemist":
 	{
-		"DESCRIPTION": "冷却 !S!: 生成 1 个 冰霜 充能球.",
+		"DESCRIPTION": "冷却 !S!: 生成 ** 1 个 冰霜 充能球.",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_GATE":
@@ -242,7 +242,7 @@
 	},
 	"animator:Defend_GoblinSlayer":
 	{
-		"DESCRIPTION": "消耗.",
+		"DESCRIPTION": "",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_HitsugiNoChaika":
@@ -252,121 +252,120 @@
 	},
 	"animator:Defend_Kancolle":
 	{
-		"DESCRIPTION": "<LIM>: 获得 !M! 金币.",
+		"DESCRIPTION": "<LIM>. ** 获得 !M! 金币.",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_Katanagatari":
 	{
-		"DESCRIPTION": "<GET-M> 临时荆棘.",
+		"DESCRIPTION": "<GET-M> {临时}荆棘.",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_Konosuba":
 	{
-		"DESCRIPTION": "<LIM>: 回复 !M! 临时生命.",
+		"DESCRIPTION": "",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_NoGameNoLife":
 	{
-		"DESCRIPTION": "保留 最左侧的 可打出的牌.",
+		"DESCRIPTION": "保留 最左侧的 ** 可打出的牌.",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_OnePunchMan":
 	{
-		"DESCRIPTION": "<LIM>: 下一回合，获得 [E].",
+		"DESCRIPTION": "<LIM>. 下一回合， ** 获得 [E].",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_Overlord":
 	{
-		"DESCRIPTION": "本场战斗中，这张牌的格挡 提高 !M! 点.",
+		"DESCRIPTION": "本场战斗中， ** 这张牌的格挡 ** 提高 !M! 点.",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_OwariNoSeraph":
 	{
-		"DESCRIPTION": "被 消耗: 给予所有敌人 !M! 层 虚弱.",
+		"DESCRIPTION": "被 消耗: ** 给予所有敌人 ** !M! 层 虚弱.",
 		"NAME": "改良防御"
 	},
 	"animator:Defend_TenSura":
 	{
-		"DESCRIPTION": "获得 !B! 点 格挡两次.",
+		"DESCRIPTION": "",
 		"NAME": "改良防御"
 	},
 	"animator:Demiurge":
 	{
-		"DESCRIPTION": "获得 [E]. 在本回合结束时，受到 !M! 点伤害. || <LIM>. 被 消耗: 循环 1 张牌并 <GET> 能量.",
+		"DESCRIPTION": "获得 [E].  ** 在本回合结束时， ** 受到 !M! 点伤害. || 同调: 下个回合保留你的 [E].",
 		"NAME": "迪米乌哥斯",
-		"UPGRADE_DESCRIPTION": "获得 [E].丢弃 1 张牌或 在本回合结束时，受到 !M! 点伤害. || <LIM>. 被 消耗: 循环 1 张牌并 <GET> 能量."
+		"UPGRADE_DESCRIPTION": "获得 [E]. ** 丢弃 1 张牌或 ** 在本回合结束时， ** 受到 !M! 点伤害. || 同调: 下个回合保留你的 [E]."
 	},
 	"animator:DolaCouronne":
 	{
-		"DESCRIPTION": "丢弃 1 张牌. || <LIM>. 被 消耗: <GET-M> 格挡 和 1 层 人工制品.",
+		"DESCRIPTION": "丢弃 1 张牌. || <LIM>. 被 消耗: ** <GET-M> 格挡 和 ** 1 层 人工制品.",
 		"NAME": "克洛妮"
 	},
 	"animator:DolaRiku":
 	{
-		"DESCRIPTION": "消耗 一张手牌 从 !M! 张牌中选择 并获得相同 稀有度的 1 张牌，它的耗能减少 1 点. || <SLM>. 同调: 抽 1 张 0耗能 牌.",
+		"DESCRIPTION": "消耗 一张手牌 **从 !M! 张牌中选择 **并获得相同 **稀有度的 1 张牌， **它的耗能减少 1 点. || <SLM>. 同调: **抽 1 张 {0耗能} 牌.",
 		"NAME": "里克"
 	},
 	"animator:DolaSchwi":
 	{
-		"DESCRIPTION": "<APP-M> 跟踪锁定. 冷却 !S!: || 同调: 生成 1 个闪电 充能球.",
+		"DESCRIPTION": "<APP-M> 跟踪锁定. ** 生成 1 个 闪电 充能球. || 冷却 !S! : ** 造成 !D! 点{远程}伤害.",
 		"NAME": "休比"
 	},
 	"animator:DolaStephanie":
 	{
-		"DESCRIPTION": "选择一张手牌，取出 1 张 同系列的牌.",
+		"DESCRIPTION": "选择一张手牌， ** 从抽牌堆取出1 张 ** 可以与它同调的牌.",
 		"EXTENDED_DESCRIPTION": ["抽取同系列的牌."],
-		"NAME": "史蒂芬妮·多拉",
-		"UPGRADE_DESCRIPTION": "选择一张手牌，取出 1 张 同系列的牌."
+		"NAME": "史蒂芬妮·多拉"
 	},
 	"animator:DwarfShaman":
 	{
-		"DESCRIPTION": "生成 1 个 大地 充能球. || 同调: 抽 1 张牌 并 升级.",
+		"DESCRIPTION": "生成 1 个 大地 充能球. || 同调: 抽 1 张牌 ** 并 升级.",
 		"NAME": "矮人萨满"
 	},
 	"animator:Elesis":
 	{
-		"DESCRIPTION": "<GET-M> 机敏 和 武力. || 抽到或 被丢弃: 这场战斗中，增加 !S! 点伤害.",
+		"DESCRIPTION": "战斗开始时， ** 从 3 种{形态}选择 ** 1 种并永久将 ** 这张牌变成它.",
 		"EXTENDED_DESCRIPTION":
-		["Spend your remaining [E]: ** Gain that much [F] and [A]. || When Drawn or Discarded: ** Increase this card's damage ** by !M! until played.",
-		 "Apply 1 Burning ** for every {Debuff} ** on the enemy. || <slm>. Synergy or ** Discard: <DRW>.",
-		 "Apply 1 Vulnerable. || At the start of each ** combat: Lose !M! HP."
+		["花掉你剩余的 [E]: ** 获得等量的 [F] [A]. || 被抽到或丢弃时， ** 直到被打出前增加 ** 这张牌的伤害 !M! 点.",
+		 "对每种敌人的 {负面效果} ** 施加 1 层燃烧. || <slm>. ** 同调或被丢弃时， ** <DRW>.",
+		 "施加 1 层易伤. || 每场战斗开始时: ** 失去 !M! 生命."
 		],
-		"NAME": "爱利西斯"
+		"NAME": "爱利西斯",
+		"UPGRADE_DESCRIPTION": "战斗开始时， ** 从 3 种升级过的 ** {形态} 选择 1 种并永久将 ** 这张牌变成它."
 	},
 	"animator:ElricAlphonse":
 	{
-		"DESCRIPTION": "如果你有不超过 !M! 点 集中，<GET> 集中. || 消耗: 增加 阿尔冯斯护甲 到弃牌堆.",
+		"DESCRIPTION": "如果你有不超过 ** !M! 点 [I]，提高 [I]. || 消耗: 增加 ** {阿尔冯斯护甲} ** 到弃牌堆.",
 		"NAME": "阿尔冯斯"
 	},
 	"animator:ElricAlphonseAlt":
 	{
-		"DESCRIPTION": "生成 1 个 闪电 充能球.<GET-M> 多层护甲. || 同调: 获得 1 个 充能球字段.",
+		"DESCRIPTION": "生成 !S! 个 闪电 充能球. ** <GET-M> 多层护甲. || 同调: 获得 ** 1 个 充能槽.",
 		"NAME": "阿尔冯斯护甲"
 	},
 	"animator:ElricEdward":
 	{
-		"DESCRIPTION": "循环 1 张牌. 每 循环 1 张牌，生成 该牌对应种类的 1 个额外充能球.",
-		"EXTENDED_DESCRIPTION": ["额外效果", "攻击： 生成 1 个 闪电 充能球 技能: 生成 1 个 冰霜 充能球. 能力: 生成 1 个 大地 充能球."],
+		"DESCRIPTION": "循环 1 张牌.  ** 生成 该牌对应种类 ** 的 1 个额外充能球. || {攻击} -> 闪电. ** {能力} -> 大地. ** {技能} -> 冰霜.",
 		"NAME": "爱德华·艾尔利克"
 	},
 	"animator:Elsword":
 	{
-		"DESCRIPTION": "给予 !S! 层 点燃. 循环 !M! 张牌. || 被丢弃： 生成 1 个 火焰 充能球.",
+		"DESCRIPTION": "给予 !S! 层 点燃. ** 循环 !M! 张牌. || 被丢弃： ** 生成 1 个 火焰 充能球.",
 		"NAME": "艾索德"
 	},
 	"animator:Emilia":
 	{
-		"DESCRIPTION": "生成 !M! 个 冰霜 充能球. || 下一回合，每有一个 冰霜 充能球，生成 1 个 闪电 充能球.",
+		"DESCRIPTION": "生成 !M! 个 冰霜 充能球. || 下一回合， ** 每有一个 冰霜 充能球， ** 生成 1 个 闪电 充能球.",
 		"NAME": "爱蜜莉雅"
 	},
 	"animator:EmiyaShirou":
 	{
-		"DESCRIPTION": "随机 升级 1 张 手牌 !M! 次. || 如果每张手牌 都已 升级，抽 2 张牌.",
+		"DESCRIPTION": "随机 升级 1 张 ** 手牌 !M! 次. || 如果每张手牌都已 ** 升级，抽 2 张牌.",
 		"NAME": "卫宫士郎"
 	},
 	"animator:Emonzaemon":
 	{
-		"DESCRIPTION": "造成 !D! 点 穿刺 伤害 2 次. || <LIM>: 如果这是连续的 第三张攻击牌，将 炎刀·铳 加入抽牌堆.",
+		"DESCRIPTION": "<LIM>: 如果这是连续的 第三张攻击牌，将 {炎刀·铳} 加入抽牌堆.",
 		"NAME": "左右田右卫门左卫门"
 	},
 	"animator:Entoma":
