@@ -27,7 +27,7 @@
 	},
 	"animator:Ainz":
 	{
-		"DESCRIPTION": "At the start of your turn, choose and execute 1 of 4 random {Effects}. || When Drawn: Decrease ** this card's cost by 1, then ** randomly gain [I], [F] or [A].",
+		"DESCRIPTION": "At the start of turn: ** choose and execute 1 ** of 4 random {Effects}. || When Drawn: Decrease ** this card's cost by 1, then ** randomly gain [I], [F] or [A].",
 		"NAME": "Ainz Ooal Gown"
 	},
 	"animator:Aisha":
@@ -37,7 +37,7 @@
 	},
 	"animator:Albedo":
 	{
-		"DESCRIPTION": "Gain {Ench. Armor} equal ** to the damage dealt. || Synergy: Gain 1 ** {Temp}. Artifact.",
+		"DESCRIPTION": "Gain {Ench. Armor} equal ** to the damage dealt. || On Synergy: Gain 1 ** {Temp}. Artifact.",
 		"NAME": "Albedo"
 	},
 	"animator:Alexander":
@@ -60,7 +60,7 @@
 	},
 	"animator:Archer":
 	{
-		"DESCRIPTION": "At the end of turn: Deal !M! damage to every enemy for each {Debuff} they have. || On Synergy: Apply 1 Vulnerable to ALL enemies.",
+		"DESCRIPTION": "At the end of turn: Deal !M! ** damage to every enemy for ** each {Debuff} they have. || On Synergy: Apply 1 ** Vulnerable to ALL enemies.",
 		"NAME": "Archer"
 	},
 	"animator:Arpeggio":
@@ -105,7 +105,7 @@
 	},
 	"animator:Boros":
 	{
-		"DESCRIPTION": "Every {Power} is ** played twice. || <LIM>. When Exhausted: ** Gain !M! Regeneration.",
+		"DESCRIPTION": "Every {Power} is ** played twice. || <LIM>. When ** Exhausted: Gain !M! ** Regeneration.",
 		"NAME": "Boros"
 	},
 	"animator:Bozes":
@@ -120,7 +120,7 @@
 	},
 	"animator:Caster":
 	{
-		"DESCRIPTION": "Steal 1 Force. ** {Channel} 1 Dark. || On Synergy: Evoke ** your next Orb.",
+		"DESCRIPTION": "Apply !M! {Shackles}, ** then gain [F] [I]. || <SLM>. ** {~Synergy} or Exhaust: ** Channel 1 {~Dark}.",
 		"NAME": "Caster"
 	},
 	"animator:ChaikaBohdan":
@@ -412,7 +412,7 @@
 	},
 	"animator:FielNirvalen":
 	{
-		"DESCRIPTION": "Choose !M! : Boost [A], ** Boost [I] or Boost [F]. || Once per turn, when ** you shuffle your ** draw pile: Scry !S!.",
+		"DESCRIPTION": "Choose !S! : Boost [A], ** Boost [I] or Boost [F]. || Once per turn, when ** you shuffle your ** draw pile: Scry 2.",
 		"EXTENDED_DESCRIPTION": ["Once per turn, when you shuffle your draw pile: #yScry #b{0}.", "Boost [A].", "Boost [I].", "Boost [F]."],
 		"NAME": "Fiel Nirvalen"
 	},
@@ -486,7 +486,7 @@
 	},
 	"animator:Greed":
 	{
-		"DESCRIPTION": "Gain !M! {Plated Armor}, ** {Metallicize} and {Malleable}. || <LIM>. For every 150 {Gold} ** you have: Gain [E] next turn.",
+		"DESCRIPTION": "Gain !S! {Malleable}. ** Gain !M! {Metallicize}. || <LIM>. For every ** 150 {Gold} you have: ** Gain [E] next turn.",
 		"NAME": "Greed"
 	},
 	"animator:GuildGirl":
@@ -549,7 +549,7 @@
 	},
 	"animator:HiiragiShinya":
 	{
-		"DESCRIPTION": "Fetch a card from your ** discard pile and Retain it, ** it costs 1 more this turn. || Synergy: Gain !M! ** {Support Damage}.",
+		"DESCRIPTION": "Fetch a card from your ** discard pile and Retain it, ** it costs 1 more this turn. || On Synergy: Gain !M! ** {Support Damage}.",
 		"NAME": "Shinya Hiiragi"
 	},
 	"animator:HiiragiTenri":
@@ -692,6 +692,16 @@
 	{
 		"DESCRIPTION": "Channel 1 Frost. ** Channel 1 Dark. || When Exhausted: ** Evoke ALL Orbs.",
 		"NAME": "Lu"
+	},
+	"animator:Magilou":
+	{
+		"DESCRIPTION": "Trigger your first Orb ** !M! time(s), then Evoke it. || <LIM>. When Drawn: ** Discard this and add ** {Bienfu} to your hand.",
+		"NAME": "Magilou"
+	},
+	"animator:Bienfu":
+	{
+		"DESCRIPTION": "Unplayable. || When Drawn: Boost [I]. || When Discarded: Return ** this to your draw pile.",
+		"NAME": "Bienfu"
 	},
 	"animator:MaesHughes":
 	{
@@ -888,12 +898,12 @@
 	},
 	"animator:Rimuru":
 	{
-		"DESCRIPTION": "Whenever you play a ** card, turn this card ** into a copy of it.",
+		"DESCRIPTION": "Whenever you play a ** card: Turn this card ** into a copy of it.",
 		"NAME": "Rimuru"
 	},
 	"animator:RinTohsaka":
 	{
-		"DESCRIPTION": "Gain 1 {Temp}. Artifact. || Limited. On Synergy: ** {Channel} a copy of ** your first Orb.",
+		"DESCRIPTION": "Gain !S! {Temp}. Artifact. || <slm>. Synergy: ** {Channel} a copy of ** your first Orb.",
 		"NAME": "Rin Tohsaka"
 	},
 	"animator:RoryMercury":
@@ -935,9 +945,9 @@
 	},
 	"animator:SeriousSaitama":
 	{
-		"DESCRIPTION": "Stun ALL enemies. ** Gain X Strength. ** Gain X [F].",
+		"DESCRIPTION": "Stun ALL enemies. ** Apply X Vulnerable ** to ALL enemies. ** Gain X [F].",
 		"NAME": "Serious Saitama",
-		"UPGRADE_DESCRIPTION": "Stun ALL enemies. ** Gain X+!M! Strength. ** Gain X+!M! [F]."
+		"UPGRADE_DESCRIPTION": "Stun ALL enemies. ** Apply X+!M! Vulnerable ** to ALL enemies. ** Gain X+!M! [F]."
 	},
 	"animator:Shalltear":
 	{
