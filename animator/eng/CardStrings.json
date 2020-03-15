@@ -160,7 +160,7 @@
 	},
 	"animator:Ciel":
 	{
-		"DESCRIPTION": "The enemy takes !M! more ** damage on the next attack. || Synergy: Increase the ** damage of every copy of ** {Lu} in your deck by !S!.",
+		"DESCRIPTION": "The enemy takes !M! more ** damage on the next attack. || Synergy: Increase the ** damage of every copy of ** {Lu} by !S! this combat.",
 		"NAME": "Ciel"
 	},
 	"animator:Cirno":
@@ -191,12 +191,17 @@
 	},
 	"animator:Curse_Greed":
 	{
-		"DESCRIPTION": "Unplayable. When drawn, raise the cost of a random card in your hand by 1 this turn.",
+		"DESCRIPTION": "Unplayable. ** When drawn: Raise ** the cost of a random ** card in your hand ** by 1 this turn.",
 		"NAME": "Greed"
+	},
+	"animator:Curse_Dizziness":
+	{
+		"DESCRIPTION": "Unplayable. ** When drawn: Add ** a Dazed to your ** draw pile.",
+		"NAME": "Dizziness"
 	},
 	"animator:Curse_Nutcracker":
 	{
-		"DESCRIPTION": "Unplayable. At the end of your turn, ALL enemies heal !M! HP.",
+		"DESCRIPTION": "Unplayable. ** At the end of turn: ** ALL enemies heal !M! HP.",
 		"NAME": "Nutcracker"
 	},
 	"animator:Darkness":
@@ -533,7 +538,7 @@
 	},
 	"animator:Hibiki":
 	{
-		"DESCRIPTION": "Increase this card's ** hit count by !S! ** this combat.",
+		"DESCRIPTION": "Increase this card's ** number of hits by ** !S! this combat.",
 		"NAME": "Hibiki"
 	},
 	"animator:HigakiRinne":
@@ -544,7 +549,7 @@
 	},
 	"animator:HighElfArcher":
 	{
-		"DESCRIPTION": "If you have !M! or ** less [A]: Gain [A]. || <slm>. Synergy: ** <DRW>.",
+		"DESCRIPTION": "If you have !M! or ** less [A]: Gain [A]. || On Synergy: This ** card gains {~Haste}.",
 		"NAME": "High Elf Archer"
 	},
 	"animator:HiiragiShinya":
@@ -556,6 +561,17 @@
 	{
 		"DESCRIPTION": "Play and Exhaust ALL cards ** in your discard pile. || <LIM>. When Exhausted: ** Shuffle your Exhaust pile ** into your draw pile.",
 		"NAME": "Tenri Hiiragi"
+	},
+	"animator:HinaKagiyama":
+	{
+		"DESCRIPTION": "Once per turn, when you ** draw a Curse: Draw !M! card(s). || At the start of turn: You may ** Purge a Hindrance in Exhaust ** pile to obtain a {Miracle}.",
+		"NAME": "Hina Kagiyama",
+		"EXTENDED_DESCRIPTION": ["The next #b{0} time(s) you draw a curse this turn, draw #b{1} cards.", "Choose up to {0} card(s) to Purge."]
+	},
+	"animator:HinaKagiyama_Miracle":
+	{
+		"DESCRIPTION": "Gain {+[E] }[E].",
+		"NAME": "Miracle"
 	},
 	"animator:Hitei":
 	{
@@ -762,9 +778,8 @@
 	},
 	"animator:MisaKurobane":
 	{
-		"DESCRIPTION": "<DRW-M>. ** Channel 1 Fire. ** Add {Yusarin} to ** your discard pile.",
-		"NAME": "Misa Kurobane",
-		"UPGRADE_DESCRIPTION": "<DRW-M>. ** Channel 1 Fire. ** Add {Yusarin} to ** your draw pile."
+		"DESCRIPTION": "<DRW-M>. ** Channel 1 Fire. || Add {Yusarin} to ** your discard pile.",
+		"NAME": "Misa Kurobane"
 	},
 	"animator:MisakiNakahara":
 	{
@@ -851,12 +866,12 @@
 	},
 	"animator:PandorasActor":
 	{
-		"DESCRIPTION": "At the start of each ** combat, automatically ** play this card.",
+		"DESCRIPTION": "At the start of combat: ** Play this card, then ** refund its [E] cost.",
 		"NAME": "Pandora's Actor"
 	},
 	"animator:Patchouli":
 	{
-		"DESCRIPTION": "Attack 1 additional time for each unique Orb Channeled this combat. || <LIM>. At the start of combat, add a random {Orb Core} to your discard pile.",
+		"DESCRIPTION": "Attack 1 additional time ** for each unique Orb ** Channeled this combat. || <LIM>. At the start of ** combat, add a random {Orb} ** {Core} to your discard pile.",
 		"NAME": "Patchouli"
 	},
 	"animator:PinaCoLada":
@@ -986,7 +1001,7 @@
 	},
 	"animator:Shion":
 	{
-		"DESCRIPTION": "Discard 1 card. Next ** turn: <DRW>. || Limited. On Synergy: ** Apply !M! Vulnerable.",
+		"DESCRIPTION": "Discard 1 card. Next ** turn: <DRW>. || <LIM>. On Synergy: ** Apply !M! Vulnerable.",
 		"NAME": "Shion"
 	},
 	"animator:Shiro":
@@ -1021,7 +1036,7 @@
 	},
 	"animator:Sonic":
 	{
-		"DESCRIPTION": "Gain !M! Blur. ** Gain !S! <AGI>. || Synergy: Obtain 1 ** {Throwing-Knife}.",
+		"DESCRIPTION": "Gain !S! [A]. ** Gain !M! Blur. || Synergy: Obtain 1 ** {Throwing-Knife}.",
 		"NAME": "Sonic"
 	},
 	"animator:Sora":
@@ -1263,7 +1278,7 @@
 	},
 	"animator:Yusarin":
 	{
-		"DESCRIPTION": "Motivate !S!. ** <DRW-M>.",
+		"DESCRIPTION": "Motivate !M!.",
 		"NAME": "Yusarin"
 	},
 	"animator:Yuuichirou":
