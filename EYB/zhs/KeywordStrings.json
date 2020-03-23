@@ -194,7 +194,7 @@
 	},
 	"~Ethereal":
 	{
-		"DESCRIPTION": "如果这张牌在回合结束时仍然在你的手中，它将被 #y消耗 。",
+		"DESCRIPTION": "如果这张牌在回合结束时仍然在 NL 你的手中，它将被 #y消耗 。",
 		"NAMES": ["~虚无"],
 		"PROPER_NAME": "虚无"
 	},

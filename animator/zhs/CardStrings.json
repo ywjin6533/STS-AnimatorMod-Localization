@@ -400,12 +400,12 @@
 		},
 		"animator:Archer":
 		{
-			"DESCRIPTION": "在你的回合结束时， ** 敌人每有一种 {负面效果} ** 就对每个敌人 ** 造成 !M! 点伤害. || 同调时，对所有敌人 ** 施加 1 层易伤.",
+			"DESCRIPTION": "在你的回合结束时， ** 敌人每有一种 {负面效果} ** 就对每个敌人 ** 造成 !M! 点伤害. || 同调时，对所有敌人 ** <APP> 易伤.",
 			"NAME": "Archer"
 		},
 		"animator:Berserker":
 		{
-			"DESCRIPTION": "获得 !M! <F>. || 如果敌人死亡 ** 或者失去格挡， ** 获得 !S! 点 格挡.",
+			"DESCRIPTION": "获得 !M! [F]. || 如果敌人死亡 ** 或者失去格挡， ** 获得 !S! 点 格挡.",
 			"NAME": "Berserker"
 		},
 		"animator:Caster":
