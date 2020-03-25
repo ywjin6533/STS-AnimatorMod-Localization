@@ -203,7 +203,7 @@
 		},
 		"animator:Kyubey":
 		{
-			"DESCRIPTION": "获得 [E] [E] 。 **抽 !M! 张牌。 ** 战斗开始时， ** 随机添加 1 张 ** 诅咒 牌到弃牌堆。",
+			"DESCRIPTION": "获得 [E] [E] 。 ** 抽 !M! 张牌。 ** 战斗开始时， ** 随机添加 1 张 ** 诅咒 牌到弃牌堆。",
 			"NAME": "QB"
 		},
 		"animator:Lelouch":
@@ -801,8 +801,8 @@
 		},
 		"animator:Hans":
 		{
-			"DESCRIPTION": "每当你给予 中毒 时， ** 获得 !S! 点 {临时生命} 。 ** 回合开始时: 对所有敌人 ** 给予 !M! 层 中毒 ** 并获得 1 张 {黏液} 到手牌。",
-			"EXTENDED_DESCRIPTION": ["每当你给予 #y中毒 时， 获得 #b{0} 点 #y临时生命 。"],
+			"DESCRIPTION": "回合开始时: 对所有敌人 ** 给予 !M! 层 中毒， ** 获得 !S! 点 {临时生命} ** 对于每个中毒的敌人。",
+			"EXTENDED_DESCRIPTION": ["回合开始时: 对所有敌人 给予 #b{0} 层 中毒， 获得 #b{1} 点 临时生命 对于每个中毒的敌人。"],
 			"NAME": "Hans"
 		},
 		"animator:Kazuma":
@@ -1374,14 +1374,14 @@
 		},
 		"animator:Rose":
 		{
-			"DESCRIPTION": "<DRW-M>。 ** 重装填 : 多攻击 1 次。** 若目标死亡， ** 对所有敌人 ** 造成 !S! 点伤害。",
+			"DESCRIPTION": "<DRW-M>。 ** 重装填 : 多攻击 1 次。 ** 若目标死亡， ** 对所有敌人 ** 造成 !S! 点伤害。",
 			"NAME": "萝丝"
 		},
 		"animator:SeriousSaitama":
 		{
 			"DESCRIPTION": "击晕 所有敌人。 ** 给予所有敌人 X 层 易伤 。 ** 获得 X [F] 。",
 			"NAME": "认真的埼玉",
-			"UPGRADE_DESCRIPTION": "击晕 所有敌人。 ** 给予所有敌人 X+ !M! 层 易伤 。 ** 获得 X+ !M! [F] 。"
+			"UPGRADE_DESCRIPTION": "击晕 所有敌人。 ** 给予所有敌人 X+ !M! 层 易伤 。 ** 获得 X+!M! [F] 。"
 		},
 		"animator:ShikizakiKiki":
 		{

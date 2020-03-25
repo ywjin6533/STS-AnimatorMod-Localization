@@ -203,7 +203,7 @@
 		},
 		"animator:Kyubey":
 		{
-			"DESCRIPTION": "獲得 [E] [E] 。 **抽 !M! 張牌。 ** 戰鬥開始時， ** 隨機添加 1 張 ** 詛咒 牌到棄牌堆。",
+			"DESCRIPTION": "獲得 [E] [E] 。 ** 抽 !M! 張牌。 ** 戰鬥開始時， ** 隨機添加 1 張 ** 詛咒 牌到棄牌堆。",
 			"NAME": "QB"
 		},
 		"animator:Lelouch":
@@ -801,8 +801,8 @@
 		},
 		"animator:Hans":
 		{
-			"DESCRIPTION": "每當你給予 中毒 時， ** 獲得 !S! 點 {臨時生命} 。 ** 回合開始時: 對所有敵人 ** 給予 !M! 層 中毒 ** 並獲得 1 張 {黏液} 到手牌。",
-			"EXTENDED_DESCRIPTION": ["每當你給予 #y中毒 時， 獲得 #b{0} 點 #y臨時生命 。"],
+			"DESCRIPTION": "回合開始時: 對所有敵人 ** 給予 !M! 層 中毒， ** 獲得 !S! 點 {臨時生命} ** 對於每個中毒的敵人",
+			"EXTENDED_DESCRIPTION": ["回合開始時: 對所有敵人 給予 #b{0} 層 中毒， 獲得 #b{1} 點 {臨時生命} 對於每個中毒的敵人"],
 			"NAME": "Hans"
 		},
 		"animator:Kazuma":
@@ -1374,14 +1374,14 @@
 		},
 		"animator:Rose":
 		{
-			"DESCRIPTION": "<DRW-M>。 ** 重裝填 : 多攻擊 1 次。** 若目標死亡， ** 對所有敵人 ** 造成 !S! 點傷害。",
+			"DESCRIPTION": "<DRW-M>。 ** 重裝填 : 多攻擊 1 次。 ** 若目標死亡， ** 對所有敵人 ** 造成 !S! 點傷害。",
 			"NAME": "蘿絲"
 		},
 		"animator:SeriousSaitama":
 		{
 			"DESCRIPTION": "擊暈 所有敵人。 ** 給予所有敵人 X 層 易傷 。 ** 獲得 X [F] 。",
 			"NAME": "認真的埼玉",
-			"UPGRADE_DESCRIPTION": "擊暈 所有敵人。 ** 給予所有敵人 X+ !M! 層 易傷 。 ** 獲得 X+ !M! [F] 。"
+			"UPGRADE_DESCRIPTION": "擊暈 所有敵人。 ** 給予所有敵人 X+ !M! 層 易傷 。 ** 獲得 X+!M! [F] 。"
 		},
 		"animator:ShikizakiKiki":
 		{
