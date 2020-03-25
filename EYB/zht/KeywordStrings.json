@@ -8,7 +8,7 @@
 	},
 	"Agility":
 	{
-		"DESCRIPTION": "獲得或失去 #y機敏 時， 獲得或失去等量的 #y敏捷 。 每回合開始時失去 #b1 點 #y機敏 。",
+		"DESCRIPTION": "回合開始時， 失去 #b1 點 #y機敏。如果您達到 #b3, #b5, #b7, #b9 點 #y機敏， 則獲得 #b1 點 #y敏捷 。",
 		"NAMES": ["機敏"],
 		"PROPER_NAME": "機敏"
 	},
@@ -92,7 +92,7 @@
 	},
 	"Force":
 	{
-		"DESCRIPTION": "獲得或失去 #y武力 時， 獲得或失去等量的 #y力量 。 每回合開始時失去 #b1 點 #y武力 。",
+		"DESCRIPTION": "回合開始時， 失去 #b1 點 #y武力。如果您達到 #b3, #b5, #b7, #b9 點 #y武力， 則獲得 #b1 點 #y力量 。",
 		"NAMES": ["武力"],
 		"PROPER_NAME": "武力"
 	},
@@ -104,7 +104,7 @@
 	},
 	"Intellect":
 	{
-		"DESCRIPTION": "獲得或失去 #y智力 時， 獲得或失去等量的 #y集中 。 每回合開始時失去 #b1 點 #y智力 。",
+		"DESCRIPTION": "回合開始時， 失去 #b1 點 #y智力。如果您達到 #b3, #b5, #b7, #b9 點 #y智力， 則獲得 #b1 點 #y集中 。",
 		"NAMES": ["智力"],
 		"PROPER_NAME": "智力"
 	},
@@ -188,13 +188,13 @@
 	},	
 	"~Elemental":
 	{
-		"DESCRIPTION": "無視 #y格擋 和 #y荊棘 。",
+		"DESCRIPTION": "無視 #y格擋 。 Deal 30% more damage if the enemy has #yBlock.",
 		"NAMES": ["~魔法"],
 		"PROPER_NAME": "魔法傷害"
 	},
 	"~Ethereal":
 	{
-		"DESCRIPTION": "如果這張牌在回合結束時仍然在你的手中，它將被 #y消耗 。",
+		"DESCRIPTION": "如果這張牌在回合結束時仍然在 NL 你的手中，它將被 #y消耗 。",
 		"NAMES": ["~虛無"],
 		"PROPER_NAME": "虛無"
 	},

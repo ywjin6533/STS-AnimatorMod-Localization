@@ -12,17 +12,17 @@
 	},
 	"EYB:ForcePower":
 	{
-		"DESCRIPTIONS": ["回合開始時， 失去 #b1 點 #y武力 和 #y力量。"],
+		"DESCRIPTIONS": ["回合開始時， 失去 #b1 點 #y武力。 ", "如果您達到 #b{0} 點 #y武力， 則獲得 #b{1} 點 #y力量。"],
 		"NAME": "武力"
 	},
 	"EYB:AgilityPower":
 	{
-		"DESCRIPTIONS": ["回合開始時， 失去 #b1 點 #y機敏 和 #y敏捷。"],
+		"DESCRIPTIONS": ["回合開始時， 失去 #b1 點 #y機敏。", "如果您達到 #b{0} 點 #y機敏， 則獲得 #b{1} 點 #y敏捷。"],
 		"NAME": "機敏"
 	},
 	"EYB:IntellectPower":
 	{
-		"DESCRIPTIONS": ["回合開始時， 失去 #b1 點 #y智力 和 #y集中。"],
+		"DESCRIPTIONS": ["回合開始時， 失去 #b1 點 #y智力。", "如果您達到 #b{0} 點 #y智力， 則獲得 #b{1} 點 #y集中。"],
 		"NAME": "智力"
 	}
 }

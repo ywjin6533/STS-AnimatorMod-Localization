@@ -8,7 +8,7 @@
 	},
 	"Agility":
 	{
-		"DESCRIPTION": "获得或失去 #y机敏 时， 获得或失去等量的 #y敏捷 。 每回合开始时失去 #b1 点 #y机敏 。",
+		"DESCRIPTION": "回合开始时， 失去 #b1 点 #y机敏。 如果您达到 #b3, #b5, #b7, #b9 点 #y机敏， 则获得 #b1 点 #y机敏。",
 		"NAMES": ["机敏"],
 		"PROPER_NAME": "机敏"
 	},
@@ -92,7 +92,7 @@
 	},
 	"Force":
 	{
-		"DESCRIPTION": "获得或失去 #y武力 时， 获得或失去等量的 #y力量 。 每回合开始时失去 #b1 点 #y武力 。",
+		"DESCRIPTION": "回合开始时， 失去 #b1 点 #y武力。 如果您达到 #b3, #b5, #b7, #b9 点 #y武力， 则获得 #b1 点 #y力量。",
 		"NAMES": ["武力"],
 		"PROPER_NAME": "武力"
 	},
@@ -104,7 +104,7 @@
 	},
 	"Intellect":
 	{
-		"DESCRIPTION": "获得或失去 #y智力 时， 获得或失去等量的 #y集中 。 每回合开始时失去 #b1 点 #y智力 。",
+		"DESCRIPTION": "回合开始时， 失去 #b1 点 #y智力。 如果您达到 #b3, #b5, #b7, #b9 点 #y智力， 则获得 #b1 点 #y集中。",
 		"NAMES": ["智力"],
 		"PROPER_NAME": "智力"
 	},
@@ -122,7 +122,7 @@
 	},
 	"Malleable":
 	{
-		"DESCRIPTION": "受到伤害时得到 #y格挡 。每次触发会得到更多 #y格挡 。回合开始时重置。",
+		"DESCRIPTION": "受到伤害时得到 #y格挡 。每次触发会得到更多 #y格挡 。 回合开始时重置。",
 		"NAMES": ["柔韧"],
 		"PROPER_NAME": "柔韧"
 	},
@@ -188,13 +188,13 @@
 	},	
 	"~Elemental":
 	{
-		"DESCRIPTION": "无视 #y格挡 和 #y荆棘 。",
+		"DESCRIPTION": "无视 #y格挡 。 Deal 30% more damage if the enemy has #yBlock.",
 		"NAMES": ["~魔法"],
 		"PROPER_NAME": "魔法伤害"
 	},
 	"~Ethereal":
 	{
-		"DESCRIPTION": "如果这张牌在回合结束时仍然在你的手中，它将被 #y消耗 。",
+		"DESCRIPTION": "如果这张牌在回合结束时仍然在 NL 你的手中，它将被 #y消耗 。",
 		"NAMES": ["~虚无"],
 		"PROPER_NAME": "虚无"
 	},
