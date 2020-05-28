@@ -8,9 +8,15 @@
 	},
 	"Agility":
 	{
-		"DESCRIPTION": "Reduced by #b1 each turn. Upon reaching NL #b3, #b5, #b7, and #b9 #yAgility, gain #yDexterity.",
+		"DESCRIPTION": "Reduced by #b1 each turn. Upon reaching NL #b2, #b4, #b6, and #b8 #yAgility, gain #yDexterity.",
 		"NAMES": ["agility"],
 		"PROPER_NAME": "Agility"
+	},
+	"Agility Stance":
+	{
+		"DESCRIPTION": "#g+2 #gDexterity, #r-1 #rStrength, #r-1 #rFocus. NL On Enter: #yBoost #yAgility. NL On Exit: Draw 1 card next turn.",
+		"NAMES": ["[a] stance", "agility stance"],
+		"PROPER_NAME": "Agility Stance"
 	},
 	"Blur":
 	{
@@ -92,9 +98,15 @@
 	},
 	"Force":
 	{
-		"DESCRIPTION": "Reduced by #b1 each turn. Upon reaching NL #b3, #b5, #b7, and #b9 #yForce, gain #yStrength.",
+		"DESCRIPTION": "Reduced by #b1 each turn. Upon reaching NL #b2, #b4, #b6, and #b8 #yForce, gain #yStrength.",
 		"NAMES": ["force"],
 		"PROPER_NAME": "Force"
+	},
+	"Force Stance":
+	{
+		"DESCRIPTION": "#g+2 #gStrength, #r-1 #rFocus, #r-1 #rDexterity. NL On Enter: #yBoost #yForce. NL On Exit: Gain 3 #yTemp. #yHP.",
+		"NAMES": ["[f] stance", "force stance"],
+		"PROPER_NAME": "Force Stance"
 	},
 	"Hindrance":
 	{
@@ -104,9 +116,15 @@
 	},
 	"Intellect":
 	{
-		"DESCRIPTION": "Reduced by #b1 each turn. Upon reaching NL #b3, #b5, #b7, and #b9 #yIntellect, gain #yFocus.",
+		"DESCRIPTION": "Reduced by #b1 each turn. Upon reaching NL #b2, #b4, #b6, and #b8 #yIntellect, gain #yFocus.",
 		"NAMES": ["intellect"],
 		"PROPER_NAME": "Intellect"
+	},
+	"Intellect Stance":
+	{
+		"DESCRIPTION": "#g+2 #gFocus, #r-1 #rStrength, #r-1 #rDexterity. NL On Enter: #yBoost #yIntellect. NL On Exit: Randomly gain [I], [F] or [A].",
+		"NAMES": ["[i] stance", "intellect stance"],
+		"PROPER_NAME": "Intellect Stance"
 	},
 	"Juggernaut":
 	{
@@ -131,6 +149,12 @@
 		"DESCRIPTION": "Gain #yBlock at the start of your turn.",
 		"NAMES": ["metallicize"],
 		"PROPER_NAME": "Metallicize"
+	},
+	"Starter":
+	{
+		"DESCRIPTION": "Activates if played at the start of turn.",
+		"NAMES": ["starter"],
+		"PROPER_NAME": "Starter"
 	},
 	"Plated Armor":
 	{
@@ -188,7 +212,7 @@
 	},
 	"~Elemental":
 	{
-		"DESCRIPTION": "Ignores #yThorns. Deal 30% more damage if the enemy has #yBlock.",
+		"DESCRIPTION": "Ignores #yThorns. Deal #b30% additional damage if the enemy has #yBlock.",
 		"NAMES": ["~elemental"],
 		"PROPER_NAME": "Elemental Damage"
 	},
@@ -218,7 +242,7 @@
 	},
 	"~Ranged":
 	{
-		"DESCRIPTION": "Ignores #yThorns.",
+		"DESCRIPTION": "Ignores #yThorns and #yFlight.",
 		"NAMES": ["~ranged"],
 		"PROPER_NAME": "Ranged Damage"
 	},

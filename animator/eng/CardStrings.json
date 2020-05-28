@@ -1,3 +1,4 @@
+
 {
 	"BASIC":
 	{
@@ -162,7 +163,7 @@
 			"NAME": "Improved Strike"
 		}
 	},
-	
+
 	"BETA":
 	{
 		"animator:ManiwaHouou":
@@ -171,7 +172,7 @@
 			"NAME": "Maniwa Houou"
 		}
 	},
-	
+
 	"COLORLESS:RARE":
 	{
 		"animator:Emilia":
@@ -200,6 +201,11 @@
 			"EXTENDED_DESCRIPTION": ["The enemy will die in !M! turn(s)."],
 			"NAME": "Light Yagami"
 		},
+		"animator:KotoriKanbe":
+		{
+			"DESCRIPTION": "Fully heal the enemy. Apply ** 1 Weak and Vulnerable for every !M! HP healed. || <LIM>. If you healed {0} ** or more HP: The enemy ** also loses !S! Strength.",
+			"NAME": "Kotori Kanbe"
+		},
 		"animator:Kyubey":
 		{
 			"DESCRIPTION": "Gain [E] [E]. ** <DRW-M>. || At the start of combat: ** Add 1 random Curse ** to your discard pile.",
@@ -226,7 +232,7 @@
 			"NAME": "Tanya Degurechaff"
 		}
 	},
-	
+
 	"COLORLESS:UNCOMMON":
 	{
 		"animator:Canti":
@@ -241,9 +247,15 @@
 		},
 		"animator:IchigoKurosaki":
 		{
-			"DESCRIPTION": "Boost [F] [A]. || When Exhausted: If you ** reached 5 [F] this combat, ** add {Ichigo Bankai} to ** your draw pile.",
+			"DESCRIPTION": "Boost [F] [A]. || When Exhausted: If you ** reached !S! [F] this combat, ** add {Ichigo Bankai} to ** your draw pile.",
 			"NAME": "Ichigo Kurosaki",
-			"UPGRADE_DESCRIPTION": "Boost [F] [A]. <DRW>. || When Exhausted: If you ** reached 5 [F] this combat, ** add {Ichigo Bankai} to ** your draw pile."
+			"UPGRADE_DESCRIPTION": "Boost [F] [A]. <DRW>. || When Exhausted: If you ** reached !S! [F] this combat, ** add {Ichigo Bankai} to ** your draw pile."
+		},
+		"animator:Kagari":
+		{
+			"DESCRIPTION": "Apply !M! {Shackles} ** to ALL enemies. || The next time ** you take damage: ** Channel !S! Earth.",
+			"EXTENDED_DESCRIPTION": ["The next #b{0} time(s) you take damage: Channel #b{1} Earth."],
+			"NAME": "Kagari"
 		},
 		"animator:Kuroyukihime":
 		{
@@ -304,7 +316,7 @@
 			"NAME": "Zero"
 		}
 	},
-	
+
 	"CURSE":
 	{
 		"animator:Curse_Dizziness":
@@ -323,7 +335,7 @@
 			"NAME": "Nutcracker"
 		}
 	},
-	
+
 	"SERIES:ELSWORD":
 	{
 		"animator:Add":
@@ -338,7 +350,7 @@
 		},
 		"animator:Aisha":
 		{
-			"DESCRIPTION": "Attack 1 additional time ** for each Orb you have. || <SLM>. If you ** reached 3 [I] this combat: Gain 1 Orb Slot.",
+			"DESCRIPTION": "Attack 1 additional time ** for each Orb you have. || <SLM>. If you ** reached !S! [I] this combat: Gain 1 Orb Slot.",
 			"NAME": "Aisha"
 		},
 		"animator:Ara":
@@ -397,7 +409,7 @@
 			"NAME": "Rena"
 		}
 	},
-	
+
 	"SERIES:FATE":
 	{
 		"animator:Alexander":
@@ -448,7 +460,7 @@
 		},
 		"animator:Rider":
 		{
-			"DESCRIPTION": "Apply !M! {Shackles}. || This card {Synergizes} ** with {Martial Artists} ** and {Spellcasters}",
+			"DESCRIPTION": "Apply !M! {Shackles}. || This card {Synergizes} ** with {Martial Artists} ** and {Spellcasters}.",
 			"NAME": "Rider"
 		},
 		"animator:RinTohsaka":
@@ -468,11 +480,11 @@
 		},
 		"animator:ShinjiMatou":
 		{
-			"DESCRIPTION": "Apply !M! Poison, and ** !S! additional Poison for ** each card type in hand. || <slm>. On Synergy: ** Add a {Command Spell} to ** your hand and Retain it.",
+			"DESCRIPTION": "Apply !M! Poison to ** a random enemy. || <slm>. On Synergy: ** Add a {Command Spell} to ** your hand and Retain it.",
 			"NAME": "Shinji Matou"
 		}
 	},
-	
+
 	"SERIES:FULLMETALALCHEMIST":
 	{
 		"animator:ElricAlphonse":
@@ -523,7 +535,7 @@
 		},
 		"animator:Scar":
 		{
-			"DESCRIPTION": "Exhaust a random ** card in hand. || The enemy loses !M! ** Strength this turn.",
+			"DESCRIPTION": "Exhaust a random card ** to Channel 1 Earth. || Synergy: Purge, then ** draw a random card ** from your Exhaust pile.",
 			"NAME": "Scar"
 		},
 		"animator:Sloth":
@@ -538,7 +550,7 @@
 			"NAME": "Winry Rockbell"
 		}
 	},
-	
+
 	"SERIES:GATE":
 	{
 		"animator:Arpeggio":
@@ -584,17 +596,17 @@
 		},
 		"animator:Tyuule":
 		{
-			"DESCRIPTION": "Apply !M! Poison to ** ALL enemies and ** increase each of their ** {Common Debuffs} by 1.",
-			"EXTENDED_DESCRIPTION": ["Common Debuffs", "#yPoison, #yWeak, #yVulnerable, #yBurning."],
+			"DESCRIPTION": "Apply !M! Poison to ** ALL enemies, then ** increase each of their ** {Common Debuffs} by 1.",
+			"EXTENDED_DESCRIPTION": ["Common Debuffs", "#yPoison, #yWeak, #yVulnerable, #yBurning, #yShackles."],
 			"NAME": "Tyuule"
 		},
 		"animator:YaoHaDucy":
 		{
-			"DESCRIPTION": "The enemy loses ** !M! Strength this turn. || On Synergy: If you have ** any {Support Damage}, ** increase it by !S!.",
+			"DESCRIPTION": "Apply !M! Shackles. || Synergy: If you have ** any {Support Damage}, ** increase it by !S!.",
 			"NAME": "Yao Ha Ducy"
 		}
 	},
-	
+
 	"SERIES:GOBLINSLAYER":
 	{
 		"animator:CowGirl":
@@ -630,9 +642,9 @@
 		},
 		"animator:Priestess":
 		{
-			"DESCRIPTION": "Apply !S! Weak. || Synergy: Exhaust a ** random Hindrance.",
+			"DESCRIPTION": "Apply !S! Weak. || Synergy: Exhaust a ** random Hindrance ** from anywhere.",
 			"NAME": "Priestess",
-			"UPGRADE_DESCRIPTION": "Apply !S! Weak ** to ALL enemies. || Synergy: Exhaust a ** random Hindrance."
+			"UPGRADE_DESCRIPTION": "Apply !S! Weak ** to ALL enemies. || Synergy: Exhaust a ** random Hindrance ** from anywhere."
 		},
 		"animator:Spearman":
 		{
@@ -650,7 +662,7 @@
 			"NAME": "Witch"
 		}
 	},
-	
+
 	"SERIES:HITSUGINOCHAIKA":
 	{
 		"animator:AcuraAkari":
@@ -705,7 +717,7 @@
 			"NAME": "Viivi"
 		}
 	},
-	
+
 	"SERIES:KATANAGATARI":
 	{
 		"animator:Azekura":
@@ -736,7 +748,7 @@
 		},
 		"animator:Konayuki":
 		{
-			"DESCRIPTION": "Gain !M! [F], then increase this ** number by !S! this combat. || <LIM>. If you have 10 or ** more [F], deal 40 damage ** to a random enemy.",
+			"DESCRIPTION": "Gain !M! [F]. || <LIM>. If you ** have 10 or more [F]: ** Deal 40 damage to ** a random enemy.",
 			"NAME": "Konayuki"
 		},
 		"animator:Nanami":
@@ -747,7 +759,7 @@
 		},
 		"animator:Shichika":
 		{
-			"DESCRIPTION": "Gain/Boost [F] [A]. ** Add {Kyotouryuu} ** to your hand.",
+			"DESCRIPTION": "Gain/Boost [F] [A]. || Add {Kyotouryuu} ** to your hand.",
 			"NAME": "Shichika"
 		},
 		"animator:Togame":
@@ -772,7 +784,7 @@
 			"NAME": "Zanki Kiguchi"
 		}
 	},
-	
+
 	"SERIES:KONOSUBA":
 	{
 		"animator:Aqua":
@@ -839,12 +851,12 @@
 			"NAME": "YunYun"
 		}
 	},
-	
+
 	"SERIES:NOGAMENOLIFE":
 	{
 		"animator:ChlammyZell":
 		{
-			"DESCRIPTION": "Draw 2 cards. Next turn, ** draw !M! additional card(s). || <LIM>. If you reached ** 3 [I] this combat: Add a ** {Scheme} to your hand.",
+			"DESCRIPTION": "Draw 2 cards. Next turn, ** draw !M! additional card(s). || <LIM>. If you reached ** !S! [I] this combat: Add a ** {Scheme} to your hand.",
 			"NAME": "Kurami"
 		},
 		"animator:DolaCouronne":
@@ -898,11 +910,11 @@
 		},
 		"animator:Tet":
 		{
-			"DESCRIPTION": "Discard 1 card from your ** hand or draw pile. Move 1 ** card from your discard pile ** to the third spot from the ** top of your draw pile.",
+			"DESCRIPTION": "Discard 1 card from ** your hand or draw pile. || Move 1 card from your ** discard pile to the top half ** of your draw pile.",
 			"NAME": "Tet"
 		}
 	},
-	
+
 	"SERIES:ONEPUNCHMAN":
 	{
 		"animator:Boros":
@@ -961,7 +973,7 @@
 			"NAME": "Tatsumaki"
 		}
 	},
-	
+
 	"SERIES:OVERLORD":
 	{
 		"animator:Ainz":
@@ -1017,7 +1029,7 @@
 			"NAME": "Shalltear"
 		}
 	},
-	
+
 	"SERIES:OWARINOSERAPH":
 	{
 		"animator:CrowleyEusford":
@@ -1027,7 +1039,7 @@
 		},
 		"animator:FeridBathory":
 		{
-			"DESCRIPTION": "Whenever a card is Exhausted, ** steal !M! HP from a random ** enemy as {Temp. HP}. || <LIM>. At the start of turn, if ** you have 20 or more cards in ** Exhaust pile, gain !S! <FOR>.",
+			"DESCRIPTION": "Whenever a card is Exhausted: ** Steal !M! HP from a random ** enemy as {Temp. HP}. || <LIM>. At the start of turn, ** if you have 20 or more cards ** in Exhaust pile: Gain !S! [F].",
 			"NAME": "Ferid Bathory"
 		},
 		"animator:Guren":
@@ -1076,7 +1088,7 @@
 			"NAME": "Yuuichirou"
 		}
 	},
-	
+
 	"SERIES:TENSEISLIME":
 	{
 		"animator:Benimaru":
@@ -1086,7 +1098,7 @@
 		},
 		"animator:GazelDwargon":
 		{
-			"DESCRIPTION": "Gain X {Plat. Armor}. At ** the start of each turn, ** maintain up to !M! Block, multiplied by X.",
+			"DESCRIPTION": "Gain X {Plat. Armor}. At ** the start of each turn: ** Maintain up to !M! Block, multiplied by X.",
 			"NAME": "Gazel Dwargon"
 		},
 		"animator:Hakurou":
@@ -1116,7 +1128,7 @@
 		},
 		"animator:Shizu":
 		{
-			"DESCRIPTION": "Whenever an {Attack} deals ** unblocked damage this ** combat, apply 1 Burning. || Add a Burn to your ** discard pile.",
+			"DESCRIPTION": "Whenever an {Attack} deals ** unblocked damage this ** combat: Apply 1 Burning. || Add a Burn to your ** discard pile.",
 			"NAME": "Shizu"
 		},
 		"animator:Shuna":
@@ -1126,7 +1138,7 @@
 		},
 		"animator:Souei":
 		{
-			"DESCRIPTION": "Apply !M! Poison. Trigger the ** Poison of ALL enemies. || If this card kills 1 or more ** enemies, gain 1 Intangible.",
+			"DESCRIPTION": "Apply !M! Poison. || <slm>. Trigger the ** Poison of ALL enemies. ** If this kills an enemy: ** Gain 1 Intangible.",
 			"NAME": "Souei"
 		},
 		"animator:Vesta":
@@ -1135,7 +1147,7 @@
 			"NAME": "Vesta"
 		}
 	},
-	
+
 	"SPECIAL":
 	{
 		"animator:Asuramaru":
@@ -1289,7 +1301,7 @@
 			"NAME": "Yusarin"
 		}
 	},
-	
+
 	"STATUS":
 	{
 		"animator:Crystallize":
@@ -1334,7 +1346,7 @@
 			"NAME": "The Haunt"
 		}
 	},
-	
+
 	"ULTRARARE":
 	{
 		"animator:Azriel":
@@ -1364,7 +1376,7 @@
 		},
 		"animator:JeanneDArc":
 		{
-			"DESCRIPTION": "Exhaust a random ** Hindrance. || At the start of combat: ** Gain !M! {Temporary HP} ** and 1 Artifact.",
+			"DESCRIPTION": "Exhaust a random ** Hindrance from anywhere. || At the start of combat: ** Gain !M! {Temporary HP} ** and 1 Artifact.",
 			"NAME": "Jeanne D'Arc"
 		},
 		"animator:NivaLada":
