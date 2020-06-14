@@ -1,0 +1,28 @@
+
+{
+	"animator:Doomed":
+	{
+		"NAME": "파멸",
+		"DESCRIPTION": ["#b{0}번째 턴 종료 시 죽습니다. 이 효과는 막을 수 없습니다."]
+	},
+	"animator:Haunted":
+	{
+		"NAME": "홀림",
+		"DESCRIPTION": ["좋지 않은 선택이었습니다."]
+	},
+	"animator:UltimateCrystal":
+	{
+		"NAME": "궁극의 크리스탈",
+		"DESCRIPTION": ["전투의 시작에, 손패에 있는 카드 #b{0} 개를 뽑을 카드 더미에 섞습니다."]
+	},
+	"animator:UltimateCube":
+	{
+		"NAME": "궁극의 큐브",
+		"DESCRIPTION": ["첫 번째 턴 종료시, #b{0} 피해를 받습니다."]
+	},
+	"animator:UltimateWisp":
+	{
+		"NAME": "궁극의 조각",
+		"DESCRIPTION": ["덱을 섞을 때마다, #b{0} #y공허 를 뽑을 카드 더미에 섞습니다."]
+	}
+}

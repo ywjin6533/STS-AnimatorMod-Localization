@@ -1,0 +1,57 @@
+
+{
+	"Cooldown":
+	{
+		"DESCRIPTION": "이 카드를 사용하거나 버렸을 때, #y쿨다운 을 #b1 감소시킵니다. #y쿨다운 이 #b0 일 때 효과를 발휘합니다. Whenever you play or discard this card, reduce its #yCooldown by #b1. If it is at #b0, activate this effect instead.",
+		"NAMES": ["쿨다운"],
+		"PROPER_NAME": "쿨다운"
+	},
+	"Martial Artist":
+	{
+		"DESCRIPTION": "다른 #y무술가 와 #y시너지 됩니다. #ySynergizes with other #yMartial #yArtists.",
+		"NAMES": ["무술가"],
+		"PROPER_NAME": "무술가"
+	},
+	"Motivate":
+	{
+		"DESCRIPTION": "손에 있는 무작위 카드의 비용을 사용할 때까지 1 감소시킵니다. N번 반복합니다. Reduce the cost of a random card in hand by 1 until played. Repeated N times.",
+		"NAMES": ["동기"],
+		"PROPER_NAME": "동기"
+	},
+	"Reload":
+	{
+		"DESCRIPTION": "원하는 만큼 카드를 버립니다. 버린 카드 개수만큼 효과를 발동시킵니다. Discard any number of cards, activate this effect that many times.",
+		"NAMES": ["재장전"],
+		"PROPER_NAME": "재장전"
+	},
+	"Shapeshifter":
+	{
+		"DESCRIPTION": "모든 카드와 #y시너지 됩니다. #ySynergizes with any card.",
+		"NAMES": ["형상변환사", "형상변환"],
+		"PROPER_NAME": "형상변환사"
+	},
+	"Spellcaster":
+	{
+		"DESCRIPTION": "다른 #y마법사 와 #y시너지 됩니다. #ySynergizes with other #ySpellcasters.",
+		"NAMES": ["마법사"],
+		"PROPER_NAME": "마법사"
+	},
+	"Support Damage":
+	{
+		"DESCRIPTION": "매 턴 가장 적은 체력을 가진 적에게 피해를 줍니다. 데미지에 영향을 주는 효과들을 받습니다. Deal damage to the enemy with the lowest HP at the end of each turn. Affected by damage modifiers.",
+		"NAMES": ["support damage", "supp. damage"],
+		"PROPER_NAME": "서포트 데미지"
+	},
+	"Synergy":
+	{
+		"DESCRIPTION": "이전에 사용했던 카드가 같은 시리즈의 카드일 때 카드는 #y시너지 됩니다. A card #ySynergizes if the previous card played this turn was of the same series.",
+		"NAMES": ["시너지", "synergies", "synergize", "synergizes", "synergized"],
+		"PROPER_NAME": "시너지"
+	},
+	"~Orb Core":
+	{
+		"DESCRIPTION": "구체를 1번 영창합니다. 매 턴 두 번째 시너지마다 추가 효과를 얻습니다. Channel 1 orb. NL  NL Gain a bonus effect on your second Synergy each turn.",
+		"NAMES": ["~orb core", "~orb cores"],
+		"PROPER_NAME": "Orb Core"
+	}
+}
